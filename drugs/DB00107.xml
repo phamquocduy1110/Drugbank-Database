@@ -1,0 +1,4325 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00107</drugbank-id>
+  <drugbank-id>BTD00016</drugbank-id>
+  <drugbank-id>BIOD00016</drugbank-id>
+  <name>Oxytocin</name>
+  <description>Synthetic 9 residue cyclic peptide. The hormone is prepared synthetically to avoid possible contamination with vasopressin (ADH) and other small polypeptides with biologic activity.</description>
+  <cas-number>50-56-6</cas-number>
+  <unii>1JQS135EYN</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A158</ref-id>
+        <pubmed-id>15931222</pubmed-id>
+        <citation>Kosfeld M, Heinrichs M, Zak PJ, Fischbacher U, Fehr E: Oxytocin increases trust in humans. Nature. 2005 Jun 2;435(7042):673-6.</citation>
+      </article>
+      <article>
+        <ref-id>A159</ref-id>
+        <pubmed-id>16249339</pubmed-id>
+        <citation>Takayanagi Y, Yoshida M, Bielsky IF, Ross HE, Kawamata M, Onaka T, Yanagisawa T, Kimura T, Matzuk MM, Young LJ, Nishimori K: Pervasive social deficits, but normal parturition, in oxytocin receptor-deficient mice. Proc Natl Acad Sci U S A. 2005 Nov 1;102(44):16096-101. Epub 2005 Oct 25.</citation>
+      </article>
+      <article>
+        <ref-id>A160</ref-id>
+        <pubmed-id>3782434</pubmed-id>
+        <citation>Carmichael MS, Humbert R, Dixen J, Palmisano G, Greenleaf W, Davidson JM: Plasma oxytocin increases in the human sexual response. J Clin Endocrinol Metab. 1987 Jan;64(1):27-31.</citation>
+      </article>
+      <article>
+        <ref-id>A7265</ref-id>
+        <pubmed-id>12093924</pubmed-id>
+        <citation>Paquin J, Danalache BA, Jankowski M, McCann SM, Gutkowska J: Oxytocin induces differentiation of P19 embryonic stem cells to cardiomyocytes. Proc Natl Acad Sci U S A. 2002 Jul 9;99(14):9550-5. Epub 2002 Jul 1.</citation>
+      </article>
+      <article>
+        <ref-id>A162</ref-id>
+        <pubmed-id>15316117</pubmed-id>
+        <citation>Jankowski M, Danalache B, Wang D, Bhat P, Hajjar F, Marcinkiewicz M, Paquin J, McCann SM, Gutkowska J: Oxytocin in cardiac ontogeny. Proc Natl Acad Sci U S A. 2004 Aug 31;101(35):13074-9. Epub 2004 Aug 17.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Kerstin Uvnas-Moberg, Thomas Lundeberg, "Use of substances having oxytocin activity for preparation of medicaments for wound healing." U.S. Patent US6262021, issued August, 1988.</synthesis-reference>
+  <indication>Used for labor induction, augmentation of labor, postpartum abbreviation of third stage of labor, postpartum control of uterine bleeding, termination of pregnancy and for the evaluation of fetal respiratory capability. Oxytocin cannot be used for elective induction of labor, there must be a clear medical requirement. </indication>
+  <pharmacodynamics>Indirectly stimulates contraction of uterine smooth muscle by increasing the sodium permeability of uterine myofibrils. Increases contraction amplitude and frequency, which tends to decrease cervical activity, produce dilation and effacement of the cervix, and transiently impede uterine blood flow; contractions produced by oxytocin at term are similar to those occurring during spontaneous labor. High estrogen concentrations lower the threshold for uterine response to oxytocin. Uterine response increases with the duration of pregnancy and is greater in labor than when not in labor; only very large doses elicit contractions in early pregnancy. Contracts myoepithelial cells surrounding the alveoli of the breasts, forcing milk from the alveoli into the larger ducts and facilitating milk ejection. Minimal antidiuretic activity relative to vasopressin; water intoxication possible at high doses and/or excessive electrolyte-free fluid. </pharmacodynamics>
+  <mechanism-of-action>Uterine motility depends on the formation of the contractile protein actomyosin under the influence of the Ca2+-dependent phosphorylating enzyme myosin light-chain kinase. Oxytocin promotes contractions by increasing the intracellular Ca2+, which in turn activates myosin's light chain kinase.. Oxytocin has specific receptors in the muscle lining of the uterus and the receptor concentration increases greatly during pregnancy, reaching a maximum in early labor at term.</mechanism-of-action>
+  <toxicity>Oxytocin can produce a severe water intoxication due to its antidiuretic effect. Prolonged IV infusions of more 40milliunits/min are usually the cause. Severe water intoxication with convulsions, coma, and death can occur. Some neonatal seizures have also been reported. Consider potential for water intoxication, particularly when administered by IV infusion and patient is receiving oral fluids.&#13;
+Uterine effects: High doses or hypersensitivity to oxytocin may cause uterine hypertonicity, spasm, tetanic contraction, or rupture of the uterus. There have also been reported allergic and anaphylactic reactions to oxytocin but they were rarely fatal. </toxicity>
+  <metabolism>Oxytocin is rapidly metabolized in the liver and also in the plasma by oxytocinases. It is also metabolized to a smaller degree by the mammary glands. </metabolism>
+  <absorption>Uterine response after IV administration is immediate and subsides after 1 hour. Uterine contractions occur 3-5mins after IM administration and decreases within 2-3 hours. When 100-200milliunits is administered IV, contractions of the myoepithelial tissue surrounding the alveoli of the breasts occur within minutes and last for about 20 mins. </absorption>
+  <half-life>1-6 min, this is decreased in late pregnancy and during lactation.</half-life>
+  <protein-binding>30%</protein-binding>
+  <route-of-elimination>Biliary and renal  (excreted unchanged in the urine)</route-of-elimination>
+  <volume-of-distribution>Distributes throughout the extracellular fluid and crosses the placenta. It is probable that it also distributes into milk in small amounts. </volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="spanish" coder="">Oxitocina</synonym>
+    <synonym language="english" coder="inn">Oxytocin</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Bakumokon 5% Minoxidil</name>
+      <labeller>DS LABORATORIES, INC.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58798-001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-02-09</started-marketing-on>
+      <ended-marketing-on>2017-10-19</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bakumokon 7% Minoxidil Sulfate</name>
+      <labeller>DS LABORATORIES, INC.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58798-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-02-09</started-marketing-on>
+      <ended-marketing-on>2017-10-11</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-6271</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-01-24</started-marketing-on>
+      <ended-marketing-on>2011-04-30</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA077453</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-6275</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-01-24</started-marketing-on>
+      <ended-marketing-on>2011-02-28</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>100 [USP'U]/10mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA077453</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-168</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on>2012-11-12</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-167</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on>2012-11-09</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Hikma Farmaceutica</labeller>
+      <ndc-id/>
+      <ndc-product-code>62778-118</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-08-01</started-marketing-on>
+      <ended-marketing-on>2014-10-01</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>ANDA200219</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Hikma Farmaceutica</labeller>
+      <ndc-id/>
+      <ndc-product-code>62778-119</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-08-01</started-marketing-on>
+      <ended-marketing-on>2014-10-01</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>100 [USP'U]/10mL</strength>
+      <route>Intramuscular; Intravascular</route>
+      <fda-application-number>ANDA200219</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-048</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-07-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-105</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-11-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 [USP'U]/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-056</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-055</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-054</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>10019-291</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1990-09-30</started-marketing-on>
+      <ended-marketing-on>2013-02-27</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018243</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-170</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-169</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on>2015-01-14</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-234</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-03-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 [USP'U]/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-233</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-03-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/500mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-140</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-06-01</started-marketing-on>
+      <ended-marketing-on>2015-07-13</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-141</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-06-01</started-marketing-on>
+      <ended-marketing-on>2015-04-30</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-050</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on>2017-12-06</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Sagent Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>25021-456</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-04-01</started-marketing-on>
+      <ended-marketing-on>2018-07-19</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>ANDA091676</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cantrell Drug Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>52533-051</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 [USP'U]/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>West-Ward Pharmaceuticals Corp</labeller>
+      <ndc-id/>
+      <ndc-product-code>0143-9743</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-02-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>ANDA200219</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>West-Ward Pharmaceuticals Corp</labeller>
+      <ndc-id/>
+      <ndc-product-code>0143-9742</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-02-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>ANDA200219</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-9356</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-08-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018248</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Hikma Pharmaceuticals USA Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0641-6114</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-04-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018243</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Hikma Pharmaceuticals USA Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0641-6115</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-04-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018243</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-012</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-08-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018248</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-9577</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-08-10</started-marketing-on>
+      <ended-marketing-on>2020-12-31</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018248</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-9584</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-08-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018248</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oxytocin Inj 10unit/ml USP</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944916</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Oxytocin Injection USP</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00497398</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1981-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Oxytocin Injection, USP</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139561</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>Watson Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>0591-3553</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-01-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>King Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>60793-265</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-11-19</started-marketing-on>
+      <ended-marketing-on>2007-10-01</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>King Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>60793-267</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-11-19</started-marketing-on>
+      <ended-marketing-on>2007-10-01</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [USP'U]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-130</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-05-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>Monarch Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61570-416</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-03-30</started-marketing-on>
+      <ended-marketing-on>2007-03-30</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>10</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitocin</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-116</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>10 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA018261</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Syntocinon</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0078-0060</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-03-31</started-marketing-on>
+      <ended-marketing-on>2009-04-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 [iU]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA018245</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Syntocinon</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bakumokon 5% Minoxidil</name>
+      <ingredients>Dutasteride + Minoxidil + Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bakumokon 7% Minoxidil Sulfate</name>
+      <ingredients>Dutasteride + Minoxidil + Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin Inj 10unit/ml USP</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin Injection, USP</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oxytocin Injection USP</name>
+      <ingredients>Oxytocin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>APP Pharmaceuticals</name>
+      <url>http://www.apppharma.com</url>
+    </packager>
+    <packager>
+      <name>BAM Biotech</name>
+      <url>http://www.bambio.com</url>
+    </packager>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>Bimeda Inc.</name>
+      <url>http://www.bimeda.com</url>
+    </packager>
+    <packager>
+      <name>Cardinal Health</name>
+      <url>http://www.cardinal.com</url>
+    </packager>
+    <packager>
+      <name>Central Admixture Pharmacy Services</name>
+      <url>http://www.capspharmacy.com</url>
+    </packager>
+    <packager>
+      <name>Gallipot</name>
+      <url>http://www.gallipot.com</url>
+    </packager>
+    <packager>
+      <name>Gland Pharma Ltd.</name>
+      <url>http://www.glandpharma.com</url>
+    </packager>
+    <packager>
+      <name>Hikma Pharmaceuticals</name>
+      <url>http://www.hikma.com</url>
+    </packager>
+    <packager>
+      <name>JHP Pharmaceuticals LLC</name>
+      <url>http://www.jhppharma.com</url>
+    </packager>
+    <packager>
+      <name>Monarch Pharmacy</name>
+      <url>http://www.monarch-pharmacy.co.uk</url>
+    </packager>
+    <packager>
+      <name>MWI Veterinary Supply Co.</name>
+      <url>http://www.mwivet.com</url>
+    </packager>
+    <packager>
+      <name>Osburn Drug Co.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>PD-Rx Pharmaceuticals Inc.</name>
+      <url>http://www.pdrx.com</url>
+    </packager>
+    <packager>
+      <name>Pharmakon</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Pharmedium</name>
+      <url>http://www.pharmedium.com</url>
+    </packager>
+    <packager>
+      <name>Teva Pharmaceutical Industries Ltd.</name>
+      <url>http://www.tevapharm.com</url>
+    </packager>
+    <packager>
+      <name>Vedco Inc.</name>
+      <url>http://www.vedco.com</url>
+    </packager>
+    <packager>
+      <name>Watson Pharmaceuticals</name>
+      <url>http://www.watson.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="true" url="">App pharmaceuticals llc</manufacturer>
+    <manufacturer generic="true" url="">Baxter healthcare corp anesthesia critical care</manufacturer>
+    <manufacturer generic="true" url="">Teva parenteral medicines inc</manufacturer>
+    <manufacturer generic="false" url="">Abbott laboratories pharmaceutical products div</manufacturer>
+    <manufacturer generic="false" url="">Jhp pharmaceuticals llc</manufacturer>
+    <manufacturer generic="false" url="">Novartis pharmaceuticals corp</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Pitocin 10 unit/ml vial</description>
+      <cost currency="USD">1.6</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin 10 unit/ml vial</description>
+      <cost currency="USD">9.84</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Oxytocin powder</description>
+      <cost currency="USD">1762.25</cost>
+      <unit>g</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5-1/2ns 10 unit/1000</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5-1/2ns 20 unit/1000</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5-1/2ns 30 unit/1000</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5-ns 20 unit/1000 ml</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-ns 10 unit/1000 ml</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-ns 20 unit/1000 ml</description>
+      <cost currency="USD">0.01</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w 10 unit/1000 ml</description>
+      <cost currency="USD">0.02</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-lr 5 unit/500 ml</description>
+      <cost currency="USD">0.02</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-ns 40 unit/1000 ml</description>
+      <cost currency="USD">0.02</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w 20 unit/1000 ml</description>
+      <cost currency="USD">0.03</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w 30 unit/1000 ml</description>
+      <cost currency="USD">0.03</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-lr 30 unit/500 ml</description>
+      <cost currency="USD">0.03</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-ns 30 unit/1000 ml</description>
+      <cost currency="USD">0.03</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5-1/4ns 15 unit/250</description>
+      <cost currency="USD">0.04</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w 40 unit/1000 ml</description>
+      <cost currency="USD">0.04</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w-lr 10 unit/500 ml</description>
+      <cost currency="USD">0.04</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w-lr 15 unit/500 ml</description>
+      <cost currency="USD">0.05</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w-lr 20 unit/500 ml</description>
+      <cost currency="USD">0.05</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-lr 10 unit/500 ml</description>
+      <cost currency="USD">0.05</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5lr 30 unit/500 ml</description>
+      <cost currency="USD">0.06</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-lr 20 unit/500 ml</description>
+      <cost currency="USD">0.06</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-d5w-lr 40 unit/500 ml</description>
+      <cost currency="USD">0.07</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Oxytocin-lr 40 unit/500 ml</description>
+      <cost currency="USD">0.09</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Increased Uterine Smooth Muscle Contraction or Tone</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Oxytocin and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Oxytocin, analogs &amp; derivatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Oxytocin, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary and Hypothalamic Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pituitary Hormones</category>
+      <mesh-id>D010907</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary Hormones, Posterior</category>
+      <mesh-id>D010909</mesh-id>
+    </category>
+    <category>
+      <category>Posterior Pituitary Lobe Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Potential QTc-Prolonging Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>QTc Prolonging Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Reproductive Control Agents</category>
+      <mesh-id>D012102</mesh-id>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Uterotonic agents</category>
+      <mesh-id>D010120</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Liquid</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>10 iu/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>5 iu/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>5 UI/1ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>5 UI/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>5 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>10 IU/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular; Intravascular</route>
+      <strength>100 [USP'U]/10mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>10 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>10 IUML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>10 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>100 [USP'U]/10mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>10 [USP'U]/500mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>10 [USP'U]/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2 [USP'U]/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 [USP'U]/500mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 [USP'U]/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>30 [USP'U]/500mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>30 [USP'U]/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 IU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>10</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>5 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>5 i.u./ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 IU/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>5 U.I./ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>2 IU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>5 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>50 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>10 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>5 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>500 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>10 IU/ml</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="G02AC01">
+      <level code="G02AC">Ergot alkaloids and oxytocin incl. analogues, in combination</level>
+      <level code="G02A">UTEROTONICS</level>
+      <level code="G02">OTHER GYNECOLOGICALS</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+    <atc-code code="H01BB02">
+      <level code="H01BB">Oxytocin and analogues</level>
+      <level code="H01B">POSTERIOR PITUITARY LOBE HORMONES</level>
+      <level code="H01">PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>76:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00429</drugbank-id>
+      <name>Carboprost tromethamine</name>
+      <description>Carboprost tromethamine may increase the uterotonic activities of Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00917</drugbank-id>
+      <name>Dinoprostone</name>
+      <description>The risk or severity of adverse effects can be increased when Dinoprostone is combined with Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00929</drugbank-id>
+      <name>Misoprostol</name>
+      <description>The risk or severity of adverse effects can be increased when Misoprostol is combined with Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00007</drugbank-id>
+      <name>Leuprolide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Leuprolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00014</drugbank-id>
+      <name>Goserelin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Goserelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Betaxolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00199</drugbank-id>
+      <name>Erythromycin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Erythromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00207</drugbank-id>
+      <name>Azithromycin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Azithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00218</drugbank-id>
+      <name>Moxifloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Moxifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00243</drugbank-id>
+      <name>Ranolazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ranolazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00263</drugbank-id>
+      <name>Sulfisoxazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sulfisoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00333</drugbank-id>
+      <name>Methadone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Methadone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00343</drugbank-id>
+      <name>Diltiazem</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Diltiazem.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Clozapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00391</drugbank-id>
+      <name>Sulpiride</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sulpiride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00393</drugbank-id>
+      <name>Nimodipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nimodipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Promazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00433</drugbank-id>
+      <name>Prochlorperazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Prochlorperazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00450</drugbank-id>
+      <name>Droperidol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Droperidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Chlorpromazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00537</drugbank-id>
+      <name>Ciprofloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00556</drugbank-id>
+      <name>Perflutren</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Perflutren.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00568</drugbank-id>
+      <name>Cinnarizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cinnarizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Propranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00572</drugbank-id>
+      <name>Atropine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Atropine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Chloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Efavirenz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00640</drugbank-id>
+      <name>Adenosine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Adenosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00738</drugbank-id>
+      <name>Pentamidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pentamidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00743</drugbank-id>
+      <name>Gadobenic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Gadobenic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00748</drugbank-id>
+      <name>Carbinoxamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Carbinoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00757</drugbank-id>
+      <name>Dolasetron</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dolasetron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00778</drugbank-id>
+      <name>Roxithromycin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Roxithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00779</drugbank-id>
+      <name>Nalidixic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nalidixic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00827</drugbank-id>
+      <name>Cinoxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cinoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00836</drugbank-id>
+      <name>Loperamide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Loperamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00889</drugbank-id>
+      <name>Granisetron</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Granisetron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00904</drugbank-id>
+      <name>Ondansetron</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ondansetron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00922</drugbank-id>
+      <name>Levosimendan</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levosimendan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00933</drugbank-id>
+      <name>Mesoridazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mesoridazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00967</drugbank-id>
+      <name>Desloratadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Desloratadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00976</drugbank-id>
+      <name>Telithromycin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Telithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lomefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00985</drugbank-id>
+      <name>Dimenhydrinate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dimenhydrinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01087</drugbank-id>
+      <name>Primaquine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Primaquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01113</drugbank-id>
+      <name>Papaverine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Papaverine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01114</drugbank-id>
+      <name>Chlorpheniramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Chlorpheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nifedipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01137</drugbank-id>
+      <name>Levofloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01155</drugbank-id>
+      <name>Gemifloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Gemifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01165</drugbank-id>
+      <name>Ofloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Propafenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Acebutolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01195</drugbank-id>
+      <name>Flecainide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Flecainide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01211</drugbank-id>
+      <name>Clarithromycin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Clarithromycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01227</drugbank-id>
+      <name>Levacetylmethadol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levacetylmethadol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Saquinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01388</drugbank-id>
+      <name>Mibefradil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mibefradil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Oxprenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01599</drugbank-id>
+      <name>Probucol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Probucol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01615</drugbank-id>
+      <name>Aceprometazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Aceprometazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02638</drugbank-id>
+      <name>Terlipressin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Terlipressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04825</drugbank-id>
+      <name>Prenylamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Prenylamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04842</drugbank-id>
+      <name>Fluspirilene</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fluspirilene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04948</drugbank-id>
+      <name>Lofexidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lofexidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04957</drugbank-id>
+      <name>Azimilide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Azimilide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05223</drugbank-id>
+      <name>Pracinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pracinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05488</drugbank-id>
+      <name>Technetium Tc-99m ciprofloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Technetium Tc-99m ciprofloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06160</drugbank-id>
+      <name>Garenoxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Garenoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06200</drugbank-id>
+      <name>Tedisamil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tedisamil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06334</drugbank-id>
+      <name>Tucidinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tucidinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06402</drugbank-id>
+      <name>Telavancin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Telavancin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06600</drugbank-id>
+      <name>Nemonoxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nemonoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Panobinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06712</drugbank-id>
+      <name>Nilvadipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nilvadipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08799</drugbank-id>
+      <name>Antazoline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Antazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Crizotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08903</drugbank-id>
+      <name>Bedaquiline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bedaquiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08952</drugbank-id>
+      <name>Indenolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Indenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08980</drugbank-id>
+      <name>Fendiline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fendiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08992</drugbank-id>
+      <name>Eperisone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Eperisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09016</drugbank-id>
+      <name>Butriptyline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Butriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ceritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09078</drugbank-id>
+      <name>Lenvatinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lenvatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09224</drugbank-id>
+      <name>Melperone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Melperone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09231</drugbank-id>
+      <name>Benidipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Benidipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09555</drugbank-id>
+      <name>Dexchlorpheniramine maleate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dexchlorpheniramine maleate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11640</drugbank-id>
+      <name>Amifampridine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amifampridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11830</drugbank-id>
+      <name>Mocetinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mocetinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11841</drugbank-id>
+      <name>Entinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Entinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12141</drugbank-id>
+      <name>Gilteritinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Gilteritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12174</drugbank-id>
+      <name>CUDC-101</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with CUDC-101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12286</drugbank-id>
+      <name>Simendan</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Simendan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12376</drugbank-id>
+      <name>Ricolinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ricolinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12523</drugbank-id>
+      <name>Mizolastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mizolastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12565</drugbank-id>
+      <name>Abexinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Abexinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12877</drugbank-id>
+      <name>Oxatomide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Oxatomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13261</drugbank-id>
+      <name>Sitafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sitafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13273</drugbank-id>
+      <name>Sultopride</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sultopride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13500</drugbank-id>
+      <name>Otilonium</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Otilonium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13546</drugbank-id>
+      <name>Nizofenone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nizofenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13652</drugbank-id>
+      <name>Bunaftine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bunaftine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13653</drugbank-id>
+      <name>Lorcainide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lorcainide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13679</drugbank-id>
+      <name>Dexchlorpheniramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dexchlorpheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13791</drugbank-id>
+      <name>Penfluridol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Penfluridol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14063</drugbank-id>
+      <name>Dexverapamil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dexverapamil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14568</drugbank-id>
+      <name>Ivosidenib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ivosidenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Quetiapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11718</drugbank-id>
+      <name>Encorafenib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Encorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01084</drugbank-id>
+      <name>Emedastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Emedastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15982</drugbank-id>
+      <name>Berotralstat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Berotralstat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00204</drugbank-id>
+      <name>Dofetilide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dofetilide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Anagrelide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00280</drugbank-id>
+      <name>Disopyramide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Disopyramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00283</drugbank-id>
+      <name>Clemastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Clemastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00308</drugbank-id>
+      <name>Ibutilide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ibutilide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00313</drugbank-id>
+      <name>Valproic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Valproic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00342</drugbank-id>
+      <name>Terfenadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Terfenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Grepafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Quinine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sotalol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Erlotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00539</drugbank-id>
+      <name>Toremifene</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Toremifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00604</drugbank-id>
+      <name>Cisapride</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cisapride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00637</drugbank-id>
+      <name>Astemizole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Astemizole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00679</drugbank-id>
+      <name>Thioridazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Thioridazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00685</drugbank-id>
+      <name>Trovafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Trovafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00875</drugbank-id>
+      <name>Flupentixol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Flupentixol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00907</drugbank-id>
+      <name>Cocaine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cocaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Quinidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01035</drugbank-id>
+      <name>Procainamide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Procainamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pimozide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Escitalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01184</drugbank-id>
+      <name>Domperidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Domperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01208</drugbank-id>
+      <name>Sparfloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sparfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01218</drugbank-id>
+      <name>Halofantrine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Halofantrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01244</drugbank-id>
+      <name>Bepridil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bepridil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01267</drugbank-id>
+      <name>Paliperidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Paliperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01356</drugbank-id>
+      <name>Lithium cation</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lithium cation.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Temafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01624</drugbank-id>
+      <name>Zuclopenthixol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Zuclopenthixol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04844</drugbank-id>
+      <name>Tetrabenazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tetrabenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04855</drugbank-id>
+      <name>Dronedarone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dronedarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04946</drugbank-id>
+      <name>Iloperidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Iloperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05294</drugbank-id>
+      <name>Vandetanib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vandetanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06176</drugbank-id>
+      <name>Romidepsin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Romidepsin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06216</drugbank-id>
+      <name>Asenapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Asenapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06697</drugbank-id>
+      <name>Artemether</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Artemether.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06708</drugbank-id>
+      <name>Lumefantrine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lumefantrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09039</drugbank-id>
+      <name>Eliglustat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Eliglustat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09083</drugbank-id>
+      <name>Ivabradine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ivabradine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11730</drugbank-id>
+      <name>Ribociclib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ribociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11978</drugbank-id>
+      <name>Glasdegib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Glasdegib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12161</drugbank-id>
+      <name>Deutetrabenazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Deutetrabenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13074</drugbank-id>
+      <name>Macimorelin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Macimorelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13725</drugbank-id>
+      <name>Terodiline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Terodiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08881</drugbank-id>
+      <name>Vemurafenib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vemurafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11637</drugbank-id>
+      <name>Delamanid</name>
+      <description>Oxytocin may increase the QTc-prolonging activities of Delamanid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00104</drugbank-id>
+      <name>Octreotide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Octreotide is combined with Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Esmolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00196</drugbank-id>
+      <name>Fluconazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fluconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nelfinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00230</drugbank-id>
+      <name>Pregabalin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pregabalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00245</drugbank-id>
+      <name>Benzatropine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Benzatropine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00270</drugbank-id>
+      <name>Isradipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Isradipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Venlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00289</drugbank-id>
+      <name>Atomoxetine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Atomoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Olanzapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00341</drugbank-id>
+      <name>Cetirizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00346</drugbank-id>
+      <name>Alfuzosin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Alfuzosin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00347</drugbank-id>
+      <name>Trimethadione</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Trimethadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00354</drugbank-id>
+      <name>Buclizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Buclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00358</drugbank-id>
+      <name>Mefloquine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mefloquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00366</drugbank-id>
+      <name>Doxylamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Doxylamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Timolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00374</drugbank-id>
+      <name>Treprostinil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Treprostinil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Digoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00405</drugbank-id>
+      <name>Dexbrompheniramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dexbrompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00424</drugbank-id>
+      <name>Hyoscyamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Hyoscyamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00427</drugbank-id>
+      <name>Triprolidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Triprolidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00434</drugbank-id>
+      <name>Cyproheptadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cyproheptadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00467</drugbank-id>
+      <name>Enoxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Enoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00487</drugbank-id>
+      <name>Pefloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pefloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00503</drugbank-id>
+      <name>Ritonavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ritonavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00529</drugbank-id>
+      <name>Foscarnet</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Foscarnet.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nortriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amoxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lamotrigine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00582</drugbank-id>
+      <name>Voriconazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Voriconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00593</drugbank-id>
+      <name>Ethosuximide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ethosuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00613</drugbank-id>
+      <name>Amodiaquine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amodiaquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nicardipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00674</drugbank-id>
+      <name>Galantamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Galantamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00675</drugbank-id>
+      <name>Tamoxifen</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tamoxifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00678</drugbank-id>
+      <name>Losartan</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Losartan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00680</drugbank-id>
+      <name>Moricizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Moricizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00691</drugbank-id>
+      <name>Moexipril</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Moexipril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00697</drugbank-id>
+      <name>Tizanidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tizanidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00710</drugbank-id>
+      <name>Ibandronate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ibandronate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00714</drugbank-id>
+      <name>Apomorphine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Apomorphine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00719</drugbank-id>
+      <name>Azatadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Azatadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Risperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00753</drugbank-id>
+      <name>Isoflurane</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Isoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Indapamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00817</drugbank-id>
+      <name>Rosoxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Rosoxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00818</drugbank-id>
+      <name>Propofol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Propofol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00822</drugbank-id>
+      <name>Disulfiram</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Disulfiram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00825</drugbank-id>
+      <name>Levomenthol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levomenthol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00835</drugbank-id>
+      <name>Brompheniramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Brompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00862</drugbank-id>
+      <name>Vardenafil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vardenafil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tacrolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00871</drugbank-id>
+      <name>Terbutaline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Terbutaline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00909</drugbank-id>
+      <name>Zonisamide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Zonisamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00915</drugbank-id>
+      <name>Amantadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amantadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00916</drugbank-id>
+      <name>Metronidazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Metronidazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00920</drugbank-id>
+      <name>Ketotifen</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ketotifen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00927</drugbank-id>
+      <name>Famotidine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Famotidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00938</drugbank-id>
+      <name>Salmeterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Salmeterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00949</drugbank-id>
+      <name>Felbamate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Felbamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00983</drugbank-id>
+      <name>Formoterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Formoterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Hydrochlorothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01001</drugbank-id>
+      <name>Salbutamol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Salbutamol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sulfamethoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01023</drugbank-id>
+      <name>Felodipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Felodipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01026</drugbank-id>
+      <name>Ketoconazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ketoconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01036</drugbank-id>
+      <name>Tolterodine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tolterodine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01044</drugbank-id>
+      <name>Gatifloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Gatifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01054</drugbank-id>
+      <name>Nitrendipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Nitrendipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01059</drugbank-id>
+      <name>Norfloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Norfloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01071</drugbank-id>
+      <name>Mequitazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mequitazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01072</drugbank-id>
+      <name>Atazanavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Atazanavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01074</drugbank-id>
+      <name>Perhexiline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Perhexiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01075</drugbank-id>
+      <name>Diphenhydramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Diphenhydramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01106</drugbank-id>
+      <name>Levocabastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levocabastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01158</drugbank-id>
+      <name>Bretylium</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bretylium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cilostazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01167</drugbank-id>
+      <name>Itraconazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Itraconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01173</drugbank-id>
+      <name>Orphenadrine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Orphenadrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01176</drugbank-id>
+      <name>Cyclizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cyclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01189</drugbank-id>
+      <name>Desflurane</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Desflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01228</drugbank-id>
+      <name>Encainide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Encainide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01233</drugbank-id>
+      <name>Metoclopramide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Metoclopramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sevoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Aripiprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01239</drugbank-id>
+      <name>Chlorprothixene</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Chlorprothixene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01246</drugbank-id>
+      <name>Alimemazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Alimemazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01259</drugbank-id>
+      <name>Lapatinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lapatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01263</drugbank-id>
+      <name>Posaconazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Posaconazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01274</drugbank-id>
+      <name>Arformoterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Arformoterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Digitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Methotrimeprazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01426</drugbank-id>
+      <name>Ajmaline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ajmaline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01591</drugbank-id>
+      <name>Solifenacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Solifenacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01611</drugbank-id>
+      <name>Hydroxychloroquine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Hydroxychloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01620</drugbank-id>
+      <name>Pheniramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01623</drugbank-id>
+      <name>Thiothixene</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Thiothixene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04576</drugbank-id>
+      <name>Fleroxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fleroxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04695</drugbank-id>
+      <name>Farnesyl thiopyrophosphate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Farnesyl thiopyrophosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Celiprolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04953</drugbank-id>
+      <name>Ezogabine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ezogabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05039</drugbank-id>
+      <name>Indacaterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Indacaterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05246</drugbank-id>
+      <name>Methsuximide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Methsuximide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05465</drugbank-id>
+      <name>Tandutinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tandutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06217</drugbank-id>
+      <name>Vernakalant</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vernakalant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06282</drugbank-id>
+      <name>Levocetirizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Levocetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06288</drugbank-id>
+      <name>Amisulpride</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Amisulpride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06468</drugbank-id>
+      <name>Cariporide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cariporide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06663</drugbank-id>
+      <name>Pasireotide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pasireotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06691</drugbank-id>
+      <name>Mepyramine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mepyramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06699</drugbank-id>
+      <name>Degarelix</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Degarelix.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06719</drugbank-id>
+      <name>Buserelin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Buserelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06788</drugbank-id>
+      <name>Histrelin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Histrelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06825</drugbank-id>
+      <name>Triptorelin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Triptorelin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07780</drugbank-id>
+      <name>Farnesyl diphosphate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Farnesyl diphosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07841</drugbank-id>
+      <name>Geranylgeranyl diphosphate</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Geranylgeranyl diphosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bupranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08815</drugbank-id>
+      <name>Lurasidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lurasidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08864</drugbank-id>
+      <name>Rilpivirine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Rilpivirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08893</drugbank-id>
+      <name>Mirabegron</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Mirabegron.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08912</drugbank-id>
+      <name>Dabrafenib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dabrafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08936</drugbank-id>
+      <name>Chlorcyclizine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Chlorcyclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08972</drugbank-id>
+      <name>Flumequine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Flumequine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09080</drugbank-id>
+      <name>Olodaterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Olodaterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09082</drugbank-id>
+      <name>Vilanterol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Vilanterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09089</drugbank-id>
+      <name>Trimebutine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Trimebutine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09090</drugbank-id>
+      <name>Pinaverium</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pinaverium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09167</drugbank-id>
+      <name>Dosulepin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dosulepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09229</drugbank-id>
+      <name>Aranidipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Aranidipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09235</drugbank-id>
+      <name>Efonidipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Efonidipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09236</drugbank-id>
+      <name>Lacidipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lacidipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09239</drugbank-id>
+      <name>Niguldipine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Niguldipine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09488</drugbank-id>
+      <name>Acrivastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Acrivastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11390</drugbank-id>
+      <name>Coumaphos</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Coumaphos.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11397</drugbank-id>
+      <name>Dichlorvos</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Dichlorvos.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11408</drugbank-id>
+      <name>Famphur</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Famphur.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11412</drugbank-id>
+      <name>Fenthion</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fenthion.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11443</drugbank-id>
+      <name>Orbifloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Orbifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11448</drugbank-id>
+      <name>Phosmet</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Phosmet.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11491</drugbank-id>
+      <name>Sarafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Sarafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11511</drugbank-id>
+      <name>Difloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Difloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11591</drugbank-id>
+      <name>Bilastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bilastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11614</drugbank-id>
+      <name>Rupatadine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Rupatadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11742</drugbank-id>
+      <name>Ebastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ebastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11770</drugbank-id>
+      <name>Talinolol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Talinolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11774</drugbank-id>
+      <name>Pazufloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pazufloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Anisodamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11891</drugbank-id>
+      <name>CUDC-907</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with CUDC-907.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11892</drugbank-id>
+      <name>Prulifloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Prulifloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11943</drugbank-id>
+      <name>Delafloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Delafloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12093</drugbank-id>
+      <name>Tetrahydropalmatine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Tetrahydropalmatine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12231</drugbank-id>
+      <name>Temefos</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Temefos.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12245</drugbank-id>
+      <name>Triclabendazole</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Triclabendazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12645</drugbank-id>
+      <name>Givinostat</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Givinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12712</drugbank-id>
+      <name>Pilsicainide</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pilsicainide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12766</drugbank-id>
+      <name>Cicletanine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cicletanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12923</drugbank-id>
+      <name>Gallopamil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Gallopamil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13358</drugbank-id>
+      <name>Cibenzoline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Cibenzoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13488</drugbank-id>
+      <name>Bencyclane</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Bencyclane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13555</drugbank-id>
+      <name>Prajmaline</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Prajmaline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13627</drugbank-id>
+      <name>Oxolinic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Oxolinic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13651</drugbank-id>
+      <name>Lorajmine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lorajmine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13691</drugbank-id>
+      <name>Acetyldigoxin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Acetyldigoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13744</drugbank-id>
+      <name>Piromidic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Piromidic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13766</drugbank-id>
+      <name>Lidoflazine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lidoflazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13772</drugbank-id>
+      <name>Rufloxacin</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Rufloxacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13823</drugbank-id>
+      <name>Pipemidic acid</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Pipemidic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14185</drugbank-id>
+      <name>Aripiprazole lauroxil</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Aripiprazole lauroxil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14713</drugbank-id>
+      <name>Inotersen</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Inotersen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00845</drugbank-id>
+      <name>Clofazimine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Clofazimine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11796</drugbank-id>
+      <name>Fostemsavir</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Fostemsavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Epinastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11853</drugbank-id>
+      <name>Relugolix</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Relugolix.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Trazodone is combined with Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11986</drugbank-id>
+      <name>Entrectinib</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Entrectinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11642</drugbank-id>
+      <name>Pitolisant</name>
+      <description>Oxytocin may increase the QTc-prolonging activities of Pitolisant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12825</drugbank-id>
+      <name>Lefamulin</name>
+      <description>Lefamulin may increase the QTc-prolonging activities of Oxytocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00388</drugbank-id>
+      <name>Phenylephrine</name>
+      <description>The risk or severity of hypertension can be increased when Oxytocin is combined with Phenylephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00557</drugbank-id>
+      <name>Hydroxyzine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Hydroxyzine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Ziprasidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The risk or severity of QTc prolongation can be increased when Oxytocin is combined with Haloperidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01364</drugbank-id>
+      <name>Ephedrine</name>
+      <description>The risk or severity of hypertension can be increased when Oxytocin is combined with Ephedrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The risk or severity of QTc prolongation can be increased when Fluoxetine is combined with Oxytocin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00107 sequence
+CYIQNCPLG</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-2.7</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.51</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>1007.187</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C43H66N12O12S2</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7375</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506775</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00746</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00089</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA450760</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001156</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>IUPHAR</resource>
+      <identifier>2174</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Guide to Pharmacology</resource>
+      <identifier>2174</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Oxytocin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL395429</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>7824</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/oxytocin.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/oxytocin.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000844</id>
+      <name>Oxytocin receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17259</ref-id>
+            <pubmed-id>20108008</pubmed-id>
+            <citation>Spyranti Z, Fragiadaki M, Magafa V, Borovickova L, Spyroulias GA, Cordopatis P, Slaninova J: In position 7 L- and D-Tic-substituted oxytocin and deamino oxytocin: NMR study and conformational insights. Amino Acids. 2010 Jul;39(2):539-48. doi: 10.1007/s00726-009-0470-1. Epub 2010 Jan 27.</citation>
+          </article>
+          <article>
+            <ref-id>A17260</ref-id>
+            <pubmed-id>20104850</pubmed-id>
+            <citation>Frantz MC, Rodrigo J, Boudier L, Durroux T, Mouillac B, Hibert M: Subtlety of the structure-affinity and structure-efficacy relationships around a nonpeptide oxytocin receptor agonist. J Med Chem. 2010 Feb 25;53(4):1546-62. doi: 10.1021/jm901084f.</citation>
+          </article>
+          <article>
+            <ref-id>A17261</ref-id>
+            <pubmed-id>18655883</pubmed-id>
+            <citation>Gimpl G, Reitz J, Brauer S, Trossen C: Oxytocin receptors: ligand binding, signalling and cholesterol dependence. Prog Brain Res. 2008;170:193-204. doi: 10.1016/S0079-6123(08)00417-2.</citation>
+          </article>
+          <article>
+            <ref-id>A17262</ref-id>
+            <pubmed-id>15646817</pubmed-id>
+            <citation>Ahn TG, Han SJ, Cho YS, An TH, Pak SC, Flouret G: In vivo activity of the potent oxytocin antagonist on uterine activity in the rat. In Vivo. 2004 Nov-Dec;18(6):763-6.</citation>
+          </article>
+          <article>
+            <ref-id>A17263</ref-id>
+            <pubmed-id>21208749</pubmed-id>
+            <citation>Furman DJ, Chen MC, Gotlib IH: Variant in oxytocin receptor gene is associated with amygdala volume. Psychoneuroendocrinology. 2011 Jul;36(6):891-7. doi: 10.1016/j.psyneuen.2010.12.004. Epub 2011 Jan 3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P30559" source="Swiss-Prot">
+        <name>Oxytocin receptor</name>
+        <general-function>Vasopressin receptor activity</general-function>
+        <specific-function>Receptor for oxytocin. The activity of this receptor is mediated by G proteins which activate a phosphatidylinositol-calcium second messenger system.</specific-function>
+        <gene-name>OXTR</gene-name>
+        <locus>3p25</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>39-63
+75-97
+114-135
+155-175
+203-225
+276-294
+310-332</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.88</theoretical-pi>
+        <molecular-weight>42770.99</molecular-weight>
+        <chromosome-location>3</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:8529</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>OXTR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X64878</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>34765</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>369</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>369</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P30559</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>OXYR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>OT-R</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010596|Oxytocin receptor
+MEGALAANWSAEAANASAAPPGAEGNRTAGPPRRNEALARVEVAVLCLILLLALSGNACV
+LLALRTTRQKHSRLFFFMKHLSIADLVVAVFQVLPQLLWDITFRFYGPDLLCRLVKYLQV
+VGMFASTYLLLLMSLDRCLAICQPLRSLRRRTDRLAVLATWLGCLVASAPQVHIFSLREV
+ADGVFDCWAVFIQPWGPKAYITWITLAVYIVPVIVLAACYGLISFKIWQNLRLKTAAAAA
+AEAPEGAAAGDGGRVALARVSSVKLISKAKIRTVKMTFIIVLAFIVCWTPFFFVQMWSVW
+DANAPKEASAFIIVMLLASLNSCCNPWIYMLFTGHLFHELVQRFLCCSASYLKGRRLGET
+SASKKSNSSSFVLSHRSSSQRSCSQPSTA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010597|Oxytocin receptor (OXTR)
+ATGGAGGGCGCGCTCGCAGCCAACTGGAGCGCCGAGGCAGCCAACGCCAGCGCCGCGCCG
+CCGGGGGCCGAGGGCAACCGCACCGCCGGACCCCCGCGGCGCAACGAGGCCCTGGCGCGC
+GTGGAGGTGGCGGTGCTGTGTCTCATCCTGCTCCTGGCGCTGAGCGGGAACGCGTGTGTG
+CTGCTGGCGCTGCGCACCACACGCCAGAAGCACTCGCGCCTCTTCTTCTTCATGAAGCAC
+CTAAGCATCGCCGACCTGGTGGTGGCAGTGTTTCAGGTGCTGCCGCAGTTGCTGTGGGAC
+ATCACCTTCCGCTTCTACGGGCCCGACCTGCTGTGCCGCCTGGTCAAGTACTTGCAGGTG
+GTGGGCATGTTCGCCTCCACCTACCTGCTGCTGCTCATGTCCCTGGACCGCTGCCTGGCC
+ATCTGCCAGCCGCTGCGCTCGCTGCGCCGCCGCACCGACCGCCTGGCAGTGCTCGCCACG
+TGGCTCGGCTGCCTGGTGGCCAGCGCGCCGCAGGTGCACATCTTCTCTCTGCGCGAGGTG
+GCTGACGGCGTCTTCGACTGCTGGGCCGTCTTCATCCAGCCCTGGGGACCCAAGGCCTAC
+ATCACATGGATCACGCTAGCTGTCTACATCGTGCCGGTCATCGTGCTCGCTGCCTGCTAC
+GGCCTTATCAGCTTCAAGATCTGGCAGAACTTGCGGCTCAAGACCGCTGCAGCGGCGGCG
+GCCGAGGCGCCAGAGGGCGCGGCGGCTGGCGATGGGGGGCGCGTGGCCCTGGCGCGTGTC
+AGCAGCGTCAAGCTCATCTCCAAGGCCAAGATCCGCACGGTCAAGATGACTTTCATCATC
+GTGCTGGCCTTCATCGTGTGCTGGACGCCTTTCTTCTTCGTGCAGATGTGGAGCGTCTGG
+GATGCCAACGCGCCCAAGGAAGCCTCGGCCTTCATCATCGTCATGCTCCTGGCCAGCCTC
+AACAGCTGCTGCAACCCCTGGATCTACATGCTGTTCACGGGCCACCTCTTCCACGAACTC
+GTGCAGCGCTTCCTGTGCTGCTCCGCCAGCTACCTGAAGGGCAGACGCCTGGGAGAGACG
+AGTGCCAGCAAAAAGAGCAACTCGTCCTCCTTTGTCCTGAGCCATCGCAGCTCCAGCCAG
+AGGAGCTGCTCCCAGCCATCCACGGCGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell-cell adherens junction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>microvillus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxytocin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vasopressin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hormone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>digestive tract development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>eating behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>estrous cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female pregnancy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lactation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal process involved in parturition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>memory</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of gastric acid secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of norepinephrine secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of penile erection</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of synapse assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of synaptic transmission, GABAergic</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of synaptic transmission, glutamatergic</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of uterine smooth muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasoconstriction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of systemic arterial blood pressure by vasopressin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to amphetamine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to anoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cocaine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cytokine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to progesterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sleep</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>social behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sperm ejaculation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>suckling behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>telencephalon development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000751</id>
+      <name>Oxytocin-neurophysin 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A2142</ref-id>
+            <pubmed-id>6687626</pubmed-id>
+            <citation>Land H, Grez M, Ruppert S, Schmale H, Rehbein M, Richter D, Schutz G: Deduced amino acid sequence from the bovine oxytocin-neurophysin I precursor cDNA. Nature. 1983 Mar 24-30;302(5906):342-4.</citation>
+          </article>
+          <article>
+            <ref-id>A2145</ref-id>
+            <pubmed-id>1486803</pubmed-id>
+            <citation>Rao VV, Loffler C, Battey J, Hansmann I: The human gene for oxytocin-neurophysin I (OXT) is physically mapped to chromosome 20p13 by in situ hybridization. Cytogenet Cell Genet. 1992;61(4):271-3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P01178" source="Swiss-Prot">
+        <name>Oxytocin-neurophysin 1</name>
+        <general-function/>
+        <specific-function>Neurophysin 1 specifically binds oxytocin.Oxytocin causes contraction of the smooth muscle of the uterus and of the mammary gland.</specific-function>
+        <gene-name>OXT</gene-name>
+        <locus>20p13</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-19</signal-regions>
+        <theoretical-pi>5.78</theoretical-pi>
+        <molecular-weight>12721.51</molecular-weight>
+        <chromosome-location>20</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:8528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>OXT</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M25650</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>189411</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P01178</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NEU1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>OT</synonym>
+          <synonym>OT-NPI</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010529|Oxytocin-neurophysin 1
+MAGPSLACCLLGLLALTSACYIQNCPLGGKRAAPDLDVRKCLPCGPGGKGRCFGPNICCA
+EELGCFVGTAEALRCQEENYLPSPCQSGQKACGSGGRCAVLGLCCSPDGCHADPACDAEA
+TFSQR</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010530|Oxytocin-neurophysin 1 (OXT)
+ATGGCCGGCCCCAGCCTCGCTTGCTGTCTGCTCGGCCTCCTGGCGCTGACCTCCGCCTGC
+TACATCCAGAACTGCCCCCTGGGAGGCAAGAGGGCCGCGCCGGACCTCGACGTGCGCAAG
+TGCCTCCCCTGCGGCCCCGGGGGCAAAGGCCGCTGCTTCGGGCCCAATATCTGCTGCGCG
+GAAGAGCTGGGCTGCTTCGTGGGCACCGCCGAAGCGCTGCGCTGCCAGGAGGAGAACTAC
+CTGCCGTCGCCCTGCCAGTCCGGCCAGAAGGCGTGCGGGAGCGGGGGCCGCTGCGCGGTC
+TTGGGCCTCTGCTGCAGCCCGGACGGCTGCCACGCCGACCCTGCCTGCGACGCGGAAGCC
+ACCTTCTCCCAGCGCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00220</identifier>
+            <name>Hormone_4</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00184</identifier>
+            <name>Hormone_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>terminal bouton</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drinking behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>eating behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female pregnancy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>grooming behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hyperosmotic salinity response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male mating behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal aggressive behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>memory</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of gastric acid secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of urine volume</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of female receptivity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of hindgut contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of norepinephrine secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of penile erection</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of prostaglandin secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of renal sodium excretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of synapse assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of synaptic transmission</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of uterine smooth muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of heart rate</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of sensory perception of pain</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to amphetamine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cAMP</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cocaine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to electrical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to ether</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to glucocorticoid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to progesterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to prostaglandin E</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to retinoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to sucrose</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sleep</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>social behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sperm ejaculation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="3">
+      <id>BE0002148</id>
+      <name>Prolyl endopeptidase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17534</ref-id>
+            <pubmed-id>11495689</pubmed-id>
+            <citation>Irazusta J, Silveira PF, Gil J, Varona A, Casis L: Effects of hydrosaline treatments on prolyl endopeptidase activity in rat tissues. Regul Pept. 2001 Sep 15;101(1-3):141-7.</citation>
+          </article>
+          <article>
+            <ref-id>A17535</ref-id>
+            <pubmed-id>3544718</pubmed-id>
+            <citation>Bausback HH, Ward PE: Vascular, post proline cleaving enzyme: metabolism of vasoactive peptides. Adv Exp Med Biol. 1986;198 Pt A:397-404.</citation>
+          </article>
+          <article>
+            <ref-id>A17536</ref-id>
+            <pubmed-id>6361010</pubmed-id>
+            <citation>Yoshimoto T, Nishimura T, Kita T, Tsuru D: Post-proline cleaving enzyme (prolyl endopeptidase) from bovine brain. J Biochem. 1983 Oct;94(4):1179-90.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P48147" source="Swiss-Prot">
+        <name>Prolyl endopeptidase</name>
+        <general-function>Serine-type peptidase activity</general-function>
+        <specific-function>Cleaves peptide bonds on the C-terminal side of prolyl residues within peptides that are up to approximately 30 amino acids long.</specific-function>
+        <gene-name>PREP</gene-name>
+        <locus>6q22</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.58</theoretical-pi>
+        <molecular-weight>80698.945</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9358</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PREP</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X74496</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>558596</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2395</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P48147</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PPCE_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.26</synonym>
+          <synonym>PE</synonym>
+          <synonym>PEP</synonym>
+          <synonym>Post-proline cleaving enzyme</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011558|Prolyl endopeptidase
+MLSLQYPDVYRDETAVQDYHGHKICDPYAWLEDPDSEQTKAFVEAQNKITVPFLEQCPIR
+GLYKERMTELYDYPKYSCHFKKGKRYFYFYNTGLQNQRVLYVQDSLEGEARVFLDPNILS
+DDGTVALRGYAFSEDGEYFAYGLSASGSDWVTIKFMKVDGAKELPDVLERVKFSCMAWTH
+DGKGMFYNSYPQQDGKSDGTETSTNLHQKLYYHVLGTDQSEDILCAEFPDEPKWMGGAEL
+SDDGRYVLLSIREGCDPVNRLWYCDLQQESSGIAGILKWVKLIDNFEGEYDYVTNEGTVF
+TFKTNRQSPNYRVINIDFRDPEESKWKVLVPEHEKDVLEWIACVRSNFLVLCYLHDVKNI
+LQLHDLTTGALLKTFPLDVGSIVGYSGQKKDTEIFYQFTSFLSPGIIYHCDLTKEELEPR
+VFREVTVKGIDASDYQTVQIFYPSKDGTKIPMFIVHKKGIKLDGSHPAFLYGYGGFNISI
+TPNYSVSRLIFVRHMGGILAVANIRGGGEYGETWHKGGILANKQNCFDDFQCAAEYLIKE
+GYTSPKRLTINGGSNGGLLVAACANQRPDLFGCVIAQVGVMDMLKFHKYTIGHAWTTDYG
+CSDSKQHFEWLVKYSPLHNVKLPEADDIQYPSMLLLTADHDDRVVPLHSLKFIATLQYIV
+GRSRKQSNPLLIHVDTKAGHGAGKPTAKVIEEVSDMFAFIARCLNVDWIP</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011559|Prolyl endopeptidase (PREP)
+ATGCTGTCCCTTCAGTACCCCGACGTGTACCGCGACGAGACCGCCGTACAGGATTATCAT
+GGTCATAAAATTTGTGACCCTTACGCCTGGCTTGAAGACCCCGACAGTGAACAGACTAAG
+GCCTTTGTGGAGGCCCAGAATAAGATTACTGTGCCATTTCTTGAGCAGTGTCCCATCAGA
+GGTTTATACAAAGAGAGAATGACTGAACTATATGATTATCCCAAGTATAGTTGCCACTTC
+AAGAAAGGAAAACGGTATTTTTATTTTTACAATACAGGTTTGCAGAACCAGCGAGTATTA
+TATGTACAGGATTCCTTAGAGGGTGAGGCCAGAGTGTTCCTGGACCCCAACATACTGTCT
+GACGATGGCACAGTGGCACTCCGAGGTTATGCGTTCAGCGAAGATGGTGAATATTTTGCC
+TATGGTCTGAGTGCCAGTGGCTCAGACTGGGTGACAATCAAGTTCATGAAAGTTGATGGT
+GCCAAAGAGCTTCCAGATGTGCTTGAAAGAGTCAAGTTCAGCTGTATGGCCTGGACCCAT
+GATGGGAAGGGAATGTTCTACAACTCATACCCTCAACAGGATGGAAAAAGTGATGGCACA
+GAGACATCTACCAATCTCCACCAAAAGCTCTACTACCATGTCTTGGGAACCGATCAGTCA
+GAAGATATTTTGTGTGCTGAGTTTCCTGATGAACCTAAATGGATGGGTGGAGCTGAGTTA
+TCTGATGATGGCCGCTATGTCTTGTTATCAATAAGGGAAGGATGTGATCCAGTAAACCGA
+CTCTGGTACTGTGACCTACAGCAGGAATCCAGTGGCATCGCGGGAATCCTGAAGTGGGTA
+AAACTGATTGACAACTTTGAAGGGGAATATGACTACGTGACCAATGAGGGGACGGTGTTC
+ACATTCAAGACGAATCGCCAGTCTCCCAACTATCGCGTGATCAACATTGACTTCAGGGAT
+CCTGAAGAGTCTAAGTGGAAAGTACTTGTTCCTGAGCATGAGAAAGATGTCTTAGAATGG
+ATAGCTTGTGTCAGGTCCAACTTCTTGGTCTTATGCTACCTCCATGACGTCAAGAACATT
+CTGCAGCTCCATGACCTGACTACTGGTGCTCTCCTTAAGACCTTCCCGCTCGATGTCGGC
+AGCATTGTAGGGTACAGCGGTCAGAAGAAGGACACTGAAATCTTCTATCAGTTTACTTCC
+TTTTTATCTCCAGGTATCATTTATCACTGTGATCTTACCAAAGAGGAGCTGGAGCCAAGA
+GTTTTCCGAGAGGTGACCGTAAAAGGAATTGATGCTTCTGATTACCAGACAGTCCAGATT
+TTCTACCCTAGCAAGGATGGTACGAAGATTCCAATGTTCATTGTGCATAAAAAAGGCATA
+AAATTGGATGGCTCTCATCCAGCTTTCTTATATGGCTATGGCGGCTTCAACATATCCATC
+ACACCCAACTACAGTGTTTCCAGGCTTATTTTTGTGAGACACATGGGTGGTATCCTGGCA
+GTGGCCAACATCAGAGGAGGTGGCGAATATGGAGAGACGTGGCATAAAGGTGGTATCTTG
+GCCAACAAACAAAACTGCTTTGATGACTTTCAGTGTGCTGCTGAGTATCTGATCAAGGAA
+GGTTACACATCTCCCAAGAGGCTGACTATTAATGGAGGTTCAAATGGAGGCCTCTTAGTG
+GCTGCTTGTGCAAATCAGAGACCTGACCTCTTTGGTTGTGTTATTGCCCAAGTTGGAGTA
+ATGGACATGCTGAAGTTTCATAAATATACCATCGGCCATGCTTGGACCACTGATTATGGG
+TGCTCGGACAGCAAACAACACTTTGAATGGCTTGTCAAATACTCTCCATTGCATAATGTG
+AAGTTACCAGAAGCAGATGACATCCAGTACCCGTCCATGCTGCTCCTCACTGCTGACCAT
+GATGACCGCGTGGTCCCGCTTCACTCCCTGAAGTTCATTGCCACCCTTCAGTACATCGTG
+GGCCGCAGCAGGAAGCAAAGCAACCCCCTGCTTATCCACGTGGACACCAAGGCGGGCCAC
+GGGGCGGGGAAGCCCACAGCCAAAGTGATAGAGGAAGTCTCAGACATGTTTGCGTTCATC
+GCGCGGTGCCTGAACGTCGACTGGATTCCATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00326</identifier>
+            <name>Peptidase_S9</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02897</identifier>
+            <name>Peptidase_S9_N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type exopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,3583 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00110</drugbank-id>
+  <drugbank-id>BTD00097</drugbank-id>
+  <drugbank-id>BIOD00097</drugbank-id>
+  <name>Palivizumab</name>
+  <description>Humanized monoclonal antibody (IgG1k) produced by recombinant DNA technology, directed to an epitope in the A antigenic site of the F protein of respiratory syncytial virus (RSV). Synagis is a composite of human (95%) and murine (5%) antibody sequences. The human heavy chain sequence was derived from the constant domains of human IgG1 and the variable framework regions of the VH genes Cor (1) and Cess (2). The human lightchain sequence was derived from the constant domain of Ck and the variable framework regions of the VL gene K104 withJk-4. Palivizumab is expressed from a stable murine (mouse) myeloma cell line (NS0). Palivizumab is composed of to heavy chains (50.6 kDa each) and two light chains (27.6 kDa each), contains 1-2% carbohydrate by weight and has a molecular weight of 147.7 kDa +/- 1 kDa (MALDI-TOF)</description>
+  <cas-number>188039-54-5</cas-number>
+  <unii>DQ448MW7KS</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For prophylaxis of respiratory diseases casued by respiratory syncytial virus.</indication>
+  <pharmacodynamics>Synagis exhibits neutralizing and fusion-inhibitory activity against Respiratory syncytial virus (RSV). These activities inhibit RSV replication or spread. Synagis is given to prevent the development of lower respiratory tract disease in pediatric patients.</pharmacodynamics>
+  <mechanism-of-action>Palivizumab binds to the fusion glycoprotein of RSV. This prevents its binding and uptake by host cellular receptors.</mechanism-of-action>
+  <toxicity/>
+  <metabolism>Most likely removed by opsonization via the reticuloendothelial system.</metabolism>
+  <absorption/>
+  <half-life>18-20 days (in adults)</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="inn/ban/usan">Palivizumab</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abb Vie Deutschland Gmb H &amp; Co. Kg</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000257</ema-product-code>
+      <ema-ma-number>EU/1/99/117/001</ema-ma-number>
+      <started-marketing-on>1999-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>50 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abb Vie Deutschland Gmb H &amp; Co. Kg</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000257</ema-product-code>
+      <ema-ma-number>EU/1/99/117/002</ema-ma-number>
+      <started-marketing-on>1999-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abb Vie Deutschland Gmb H &amp; Co. Kg</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000257</ema-product-code>
+      <ema-ma-number>EU/1/99/117/003</ema-ma-number>
+      <started-marketing-on>1999-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 mg/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abb Vie Deutschland Gmb H &amp; Co. Kg</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000257</ema-product-code>
+      <ema-ma-number>EU/1/99/117/004</ema-ma-number>
+      <started-marketing-on>1999-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 mg/mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>MedImmune, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>60574-4113</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-06-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 mg/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103770</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>MedImmune, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>60574-4114</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-12-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/0.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103770</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>SWEDISH ORPHAN BIOVITRUM AB (PUBL)</labeller>
+      <ndc-id/>
+      <ndc-product-code>66658-231</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-06-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>100 mg/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103770</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>SWEDISH ORPHAN BIOVITRUM AB (PUBL)</labeller>
+      <ndc-id/>
+      <ndc-product-code>66658-230</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-12-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>50 mg/0.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103770</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abbvie</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02438364</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-11-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abbvie</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02438372</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-11-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>50 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abbvie</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245889</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-09-26</started-marketing-on>
+      <ended-marketing-on>2018-01-31</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>50 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Synagis</name>
+      <labeller>Abbvie</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02245890</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-09-26</started-marketing-on>
+      <ended-marketing-on>2018-01-31</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>100 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Synagis</name>
+      <ingredients>Palivizumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Abbott Laboratories Ltd.</name>
+      <url>http://www.abbott.com</url>
+    </packager>
+    <packager>
+      <name>Medimmune Inc.</name>
+      <url>http://www.medimmune.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents</category>
+      <mesh-id>D000890</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal</category>
+      <mesh-id>D000911</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal, Humanized</category>
+      <mesh-id>D061067</mesh-id>
+    </category>
+    <category>
+      <category>Antiinfectives for Systemic Use</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antiviral Agents</category>
+      <mesh-id>D000998</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Fusion Protein Inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immune Sera and Immunoglobulins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Respiratory Syncytial Virus Anti-F Protein Monoclonal Antibody</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+    <category>
+      <category>Specific Immunoglobulins</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Parenteral</route>
+      <strength>100 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>100 ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular</route>
+      <strength>50 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>100 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="J06BB16">
+      <level code="J06BB">Specific immunoglobulins</level>
+      <level code="J06B">IMMUNOGLOBULINS</level>
+      <level code="J06">IMMUNE SERA AND IMMUNOGLOBULINS</level>
+      <level code="J">ANTIINFECTIVES FOR SYSTEMIC USE</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>08:18.24</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00110.pdf?1265922814</fda-label>
+  <patents>
+    <patent>
+      <number>2197684</number>
+      <country>Canada</country>
+      <approved>2000-10-31</approved>
+      <expires>2015-08-09</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>Conjugated estrogens may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>Ethinylestradiol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>Estrone sulfate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>Esterified estrogens may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>Equol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>Epimestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>Moxestrol may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>Estradiol acetate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>Estradiol benzoate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>Estradiol cypionate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>Estradiol valerate may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>Biochanin A may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>Formononetin may increase the thrombogenic activities of Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00002</drugbank-id>
+      <name>Cetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00028</drugbank-id>
+      <name>Human immunoglobulin G</name>
+      <description>The risk or severity of adverse effects can be increased when Human immunoglobulin G is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00043</drugbank-id>
+      <name>Omalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Abciximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Gemtuzumab ozogamicin is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00057</drugbank-id>
+      <name>Indium In-111 satumomab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Indium In-111 satumomab pendetide is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Infliximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Trastuzumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Rituximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Basiliximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Muromonab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00076</drugbank-id>
+      <name>Digoxin Immune Fab (Ovine)</name>
+      <description>The risk or severity of adverse effects can be increased when Digoxin Immune Fab (Ovine) is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Ibritumomab tiuxetan is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Tositumomab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alemtuzumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00089</drugbank-id>
+      <name>Capromab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Antithymocyte immunoglobulin (rabbit) is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Natalizumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00113</drugbank-id>
+      <name>Technetium Tc-99m arcitumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Technetium Tc-99m arcitumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04901</drugbank-id>
+      <name>Galiximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Galiximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04949</drugbank-id>
+      <name>Pexelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pexelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04958</drugbank-id>
+      <name>Epratuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Epratuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04962</drugbank-id>
+      <name>Bectumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bectumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04964</drugbank-id>
+      <name>Oregovomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Oregovomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04988</drugbank-id>
+      <name>IGN311</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with IGN311.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05006</drugbank-id>
+      <name>Adecatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Adecatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05097</drugbank-id>
+      <name>Labetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Labetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05101</drugbank-id>
+      <name>Matuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Matuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05111</drugbank-id>
+      <name>Fontolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fontolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05136</drugbank-id>
+      <name>Bavituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bavituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05139</drugbank-id>
+      <name>CR002</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with CR002.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05209</drugbank-id>
+      <name>Rozrolimupab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Rozrolimupab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05304</drugbank-id>
+      <name>Girentuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Girentuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05336</drugbank-id>
+      <name>Obiltoxaximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Obiltoxaximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05405</drugbank-id>
+      <name>XTL-001</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with XTL-001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05437</drugbank-id>
+      <name>NAV 1800</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with NAV 1800.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05496</drugbank-id>
+      <name>Otelixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Otelixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05545</drugbank-id>
+      <name>AMG 108</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with AMG 108.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05550</drugbank-id>
+      <name>Iratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Iratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05555</drugbank-id>
+      <name>Enokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Enokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05595</drugbank-id>
+      <name>Farletuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Farletuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05656</drugbank-id>
+      <name>Veltuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Veltuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05679</drugbank-id>
+      <name>Ustekinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ustekinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05793</drugbank-id>
+      <name>PRO-542</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with PRO-542.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05797</drugbank-id>
+      <name>TNX-901</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with TNX-901.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05889</drugbank-id>
+      <name>Inotuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Inotuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05892</drugbank-id>
+      <name>RI 624</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with RI 624.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05915</drugbank-id>
+      <name>MYO-029</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with MYO-029.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05916</drugbank-id>
+      <name>CT-011</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with CT-011.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05941</drugbank-id>
+      <name>Leronlimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Leronlimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05996</drugbank-id>
+      <name>Glembatumumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Glembatumumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06043</drugbank-id>
+      <name>Olaratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Olaratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06049</drugbank-id>
+      <name>IPH 2101</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with IPH 2101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06050</drugbank-id>
+      <name>TB-402</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with TB-402.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06101</drugbank-id>
+      <name>IMC-1C11</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with IMC-1C11.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06116</drugbank-id>
+      <name>Eldelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Eldelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06162</drugbank-id>
+      <name>Lumiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lumiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06192</drugbank-id>
+      <name>Nimotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Nimotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06241</drugbank-id>
+      <name>Clenoliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Clenoliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06304</drugbank-id>
+      <name>BIIB015</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with BIIB015.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06305</drugbank-id>
+      <name>Sonepcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sonepcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06310</drugbank-id>
+      <name>Motavizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Motavizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06317</drugbank-id>
+      <name>Elotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Elotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06318</drugbank-id>
+      <name>AVE9633</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with AVE9633.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06322</drugbank-id>
+      <name>Carotuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Carotuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06324</drugbank-id>
+      <name>XmAb 2513</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with XmAb 2513.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06342</drugbank-id>
+      <name>Coltuximab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Coltuximab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06343</drugbank-id>
+      <name>Teprotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Teprotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06360</drugbank-id>
+      <name>Lucatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lucatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06371</drugbank-id>
+      <name>Siplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Siplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06467</drugbank-id>
+      <name>Apolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Apolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06474</drugbank-id>
+      <name>Sibrotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sibrotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06550</drugbank-id>
+      <name>Bivatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bivatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06557</drugbank-id>
+      <name>Lerdelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lerdelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06599</drugbank-id>
+      <name>Lexatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lexatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06602</drugbank-id>
+      <name>Reslizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Reslizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06606</drugbank-id>
+      <name>Teplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Teplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Denosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06647</drugbank-id>
+      <name>Volociximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Volociximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08902</drugbank-id>
+      <name>Raxibacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Raxibacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Anthrax immune globulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09105</drugbank-id>
+      <name>Asfotase alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Asfotase alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09264</drugbank-id>
+      <name>Idarucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Idarucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09302</drugbank-id>
+      <name>Alirocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Alirocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09303</drugbank-id>
+      <name>Evolocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Evolocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11595</drugbank-id>
+      <name>Atezolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11604</drugbank-id>
+      <name>Tetanus Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tetanus Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11621</drugbank-id>
+      <name>Human Varicella-Zoster Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11646</drugbank-id>
+      <name>Conatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Conatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11657</drugbank-id>
+      <name>Tabalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tabalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11680</drugbank-id>
+      <name>Ficlatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ficlatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11685</drugbank-id>
+      <name>Figitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Figitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11714</drugbank-id>
+      <name>Durvalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Durvalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11715</drugbank-id>
+      <name>Bapineuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bapineuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11731</drugbank-id>
+      <name>Depatuxizumab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Depatuxizumab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11746</drugbank-id>
+      <name>Onartuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Onartuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11756</drugbank-id>
+      <name>Solanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Solanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11771</drugbank-id>
+      <name>Tremelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tremelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11826</drugbank-id>
+      <name>Lampalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lampalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11840</drugbank-id>
+      <name>Dalotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dalotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11849</drugbank-id>
+      <name>Emibetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Emibetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11850</drugbank-id>
+      <name>Ublituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ublituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11856</drugbank-id>
+      <name>Ligelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ligelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11857</drugbank-id>
+      <name>Seribantumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Seribantumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11862</drugbank-id>
+      <name>Landogrozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Landogrozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11866</drugbank-id>
+      <name>Romosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Romosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11884</drugbank-id>
+      <name>Vadastuximab Talirine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Vadastuximab Talirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11914</drugbank-id>
+      <name>Lebrikizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lebrikizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11930</drugbank-id>
+      <name>Varlilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Varlilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11945</drugbank-id>
+      <name>Avelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Avelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11959</drugbank-id>
+      <name>Crenezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Crenezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11972</drugbank-id>
+      <name>Rilotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Rilotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11976</drugbank-id>
+      <name>Anifrolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Anifrolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12023</drugbank-id>
+      <name>Benralizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Benralizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12034</drugbank-id>
+      <name>Gantenerumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Gantenerumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12053</drugbank-id>
+      <name>Visilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Visilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12077</drugbank-id>
+      <name>Urelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Urelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12089</drugbank-id>
+      <name>Lorvotuzumab mertansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lorvotuzumab mertansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12090</drugbank-id>
+      <name>Patritumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Patritumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12102</drugbank-id>
+      <name>Fulranumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fulranumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12104</drugbank-id>
+      <name>Tarextumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tarextumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12118</drugbank-id>
+      <name>Sotatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sotatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12119</drugbank-id>
+      <name>Gevokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Gevokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12142</drugbank-id>
+      <name>Duligotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Duligotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12152</drugbank-id>
+      <name>Simtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Simtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12157</drugbank-id>
+      <name>Fasinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fasinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12159</drugbank-id>
+      <name>Dupilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dupilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12169</drugbank-id>
+      <name>Tralokinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tralokinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12189</drugbank-id>
+      <name>Etrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Etrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12202</drugbank-id>
+      <name>Zalutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Zalutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12205</drugbank-id>
+      <name>Ganitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ganitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12213</drugbank-id>
+      <name>Etaracizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Etaracizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12240</drugbank-id>
+      <name>Polatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Polatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12246</drugbank-id>
+      <name>Inclacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Inclacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12250</drugbank-id>
+      <name>Cixutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Cixutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12261</drugbank-id>
+      <name>Ascrinvacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ascrinvacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12274</drugbank-id>
+      <name>Aducanumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Aducanumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12281</drugbank-id>
+      <name>Luspatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Luspatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12296</drugbank-id>
+      <name>GS-5745</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with GS-5745.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12317</drugbank-id>
+      <name>Vanucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Vanucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12331</drugbank-id>
+      <name>Labetuzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Labetuzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12335</drugbank-id>
+      <name>Tanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12342</drugbank-id>
+      <name>Ensituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ensituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12344</drugbank-id>
+      <name>Fezakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fezakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12363</drugbank-id>
+      <name>Dusigitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dusigitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12396</drugbank-id>
+      <name>Fresolimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fresolimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12413</drugbank-id>
+      <name>Indusatumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Indusatumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12456</drugbank-id>
+      <name>Bococizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bococizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12489</drugbank-id>
+      <name>Mirvetuximab Soravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Mirvetuximab Soravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12498</drugbank-id>
+      <name>Mogamulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Mogamulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12520</drugbank-id>
+      <name>Plozalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Plozalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Inebilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12534</drugbank-id>
+      <name>Mavrilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Mavrilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12560</drugbank-id>
+      <name>Blosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Blosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12584</drugbank-id>
+      <name>Bimagrumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bimagrumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12589</drugbank-id>
+      <name>Dacetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dacetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12609</drugbank-id>
+      <name>Tovetumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tovetumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12683</drugbank-id>
+      <name>Lumretuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lumretuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12698</drugbank-id>
+      <name>Ibalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ibalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12701</drugbank-id>
+      <name>Intetumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Intetumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12718</drugbank-id>
+      <name>Carlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Carlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12734</drugbank-id>
+      <name>Demcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Demcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12773</drugbank-id>
+      <name>Sifalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sifalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12775</drugbank-id>
+      <name>Abituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Abituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12797</drugbank-id>
+      <name>Ecromeximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ecromeximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12807</drugbank-id>
+      <name>Naptumomab Estafenatox</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Naptumomab Estafenatox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12815</drugbank-id>
+      <name>Crotedumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Crotedumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12820</drugbank-id>
+      <name>Concizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Concizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12826</drugbank-id>
+      <name>Depatuxizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Depatuxizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12844</drugbank-id>
+      <name>Rontalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Rontalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12845</drugbank-id>
+      <name>Amatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Amatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12849</drugbank-id>
+      <name>Clazakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Clazakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12891</drugbank-id>
+      <name>Ozanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ozanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12893</drugbank-id>
+      <name>Sacituzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sacituzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12917</drugbank-id>
+      <name>Bimekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bimekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12943</drugbank-id>
+      <name>Milatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Milatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12976</drugbank-id>
+      <name>Robatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Robatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13017</drugbank-id>
+      <name>Rovalpituzumab Tesirine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Rovalpituzumab Tesirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13037</drugbank-id>
+      <name>Namilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Namilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13045</drugbank-id>
+      <name>Racotumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Racotumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13073</drugbank-id>
+      <name>Tregalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tregalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13127</drugbank-id>
+      <name>Olokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Olokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13140</drugbank-id>
+      <name>Bezlotoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bezlotoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13375</drugbank-id>
+      <name>Edrecolomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Edrecolomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13535</drugbank-id>
+      <name>Nebacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Nebacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13886</drugbank-id>
+      <name>Human cytomegalovirus immune globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Human cytomegalovirus immune globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13976</drugbank-id>
+      <name>Sulesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sulesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13979</drugbank-id>
+      <name>Besilesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Besilesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14004</drugbank-id>
+      <name>Tildrakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tildrakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14012</drugbank-id>
+      <name>Burosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Burosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14039</drugbank-id>
+      <name>Erenumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Erenumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14040</drugbank-id>
+      <name>Eptinezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Eptinezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14041</drugbank-id>
+      <name>Fremanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fremanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14042</drugbank-id>
+      <name>Galcanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Galcanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14211</drugbank-id>
+      <name>Fanolesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Fanolesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14580</drugbank-id>
+      <name>Lecanemab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lecanemab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14597</drugbank-id>
+      <name>Lanadelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lanadelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14707</drugbank-id>
+      <name>Cemiplimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Cemiplimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14776</drugbank-id>
+      <name>Camrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Camrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14778</drugbank-id>
+      <name>Setrusumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Setrusumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14784</drugbank-id>
+      <name>Gancotamab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Gancotamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14809</drugbank-id>
+      <name>Anetumab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Anetumab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14811</drugbank-id>
+      <name>Isatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Isatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14824</drugbank-id>
+      <name>Icrucumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Icrucumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14843</drugbank-id>
+      <name>Codrituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Codrituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14864</drugbank-id>
+      <name>Brolucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Brolucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14871</drugbank-id>
+      <name>Xentuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Xentuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14877</drugbank-id>
+      <name>Lintuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lintuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14891</drugbank-id>
+      <name>Vobarilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Vobarilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14897</drugbank-id>
+      <name>Parsatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Parsatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14905</drugbank-id>
+      <name>Emactuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Emactuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14907</drugbank-id>
+      <name>Bevacizumab zirconium Zr-89</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bevacizumab zirconium Zr-89.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14908</drugbank-id>
+      <name>Refanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Refanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14947</drugbank-id>
+      <name>Bermekimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bermekimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14952</drugbank-id>
+      <name>Pamrevlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pamrevlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14959</drugbank-id>
+      <name>Opicinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Opicinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14962</drugbank-id>
+      <name>Trastuzumab deruxtecan</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Trastuzumab deruxtecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14967</drugbank-id>
+      <name>Margetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Margetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14988</drugbank-id>
+      <name>Dalantercept</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Dalantercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14997</drugbank-id>
+      <name>Pateclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pateclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15014</drugbank-id>
+      <name>Gremubamab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Gremubamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15022</drugbank-id>
+      <name>Apomab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Apomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15044</drugbank-id>
+      <name>Tafasitamab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tafasitamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15045</drugbank-id>
+      <name>Ipafricept</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ipafricept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15076</drugbank-id>
+      <name>Abrilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Abrilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15089</drugbank-id>
+      <name>Frovocimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Frovocimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15090</drugbank-id>
+      <name>Tezepelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tezepelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15101</drugbank-id>
+      <name>Tigatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tigatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15104</drugbank-id>
+      <name>Telisotuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Telisotuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15113</drugbank-id>
+      <name>Utomilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Utomilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15118</drugbank-id>
+      <name>Zolbetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Zolbetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15135</drugbank-id>
+      <name>Ponezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ponezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15160</drugbank-id>
+      <name>Asunercept</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Asunercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15172</drugbank-id>
+      <name>Suvratoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Suvratoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15225</drugbank-id>
+      <name>Mitazalimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Mitazalimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15252</drugbank-id>
+      <name>Nemolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Nemolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15277</drugbank-id>
+      <name>Gedivumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Gedivumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15336</drugbank-id>
+      <name>Valanafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Valanafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15349</drugbank-id>
+      <name>Sofituzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Sofituzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15354</drugbank-id>
+      <name>Evinacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Evinacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15363</drugbank-id>
+      <name>Istiratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Istiratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15383</drugbank-id>
+      <name>Pidilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pidilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15397</drugbank-id>
+      <name>GMA-161</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with GMA-161.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15409</drugbank-id>
+      <name>Ladiratuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Ladiratuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15415</drugbank-id>
+      <name>Tomaralimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Tomaralimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15428</drugbank-id>
+      <name>Vesencumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Vesencumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15432</drugbank-id>
+      <name>Pinatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Pinatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15441</drugbank-id>
+      <name>Lulizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lulizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15443</drugbank-id>
+      <name>Lorukafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Lorukafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15453</drugbank-id>
+      <name>Naratuximab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Naratuximab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15559</drugbank-id>
+      <name>Zenocutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Zenocutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15898</drugbank-id>
+      <name>Atoltivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Atoltivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15899</drugbank-id>
+      <name>Maftivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Maftivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15900</drugbank-id>
+      <name>Odesivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Odesivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15719</drugbank-id>
+      <name>Belantamab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Palivizumab is combined with Belantamab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10317</drugbank-id>
+      <name>Rubella virus vaccine</name>
+      <description>The therapeutic efficacy of Rubella virus vaccine can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10343</drugbank-id>
+      <name>Bacillus calmette-guerin substrain tice live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain tice live antigen can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10804</drugbank-id>
+      <name>Bacillus calmette-guerin substrain connaught live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain connaught live antigen can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10805</drugbank-id>
+      <name>Yellow Fever Vaccine</name>
+      <description>The therapeutic efficacy of Yellow Fever Vaccine can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11003</drugbank-id>
+      <name>Anthrax vaccine</name>
+      <description>The therapeutic efficacy of Anthrax vaccine can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11050</drugbank-id>
+      <name>Typhoid Vaccine Live</name>
+      <description>The therapeutic efficacy of Typhoid Vaccine Live can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12386</drugbank-id>
+      <name>Bacillus calmette-guerin substrain danish 1331 live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain danish 1331 live antigen can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The therapeutic efficacy of BCG vaccine can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14409</drugbank-id>
+      <name>Human adenovirus e serotype 4 strain cl-68578 antigen</name>
+      <description>The therapeutic efficacy of Human adenovirus e serotype 4 strain cl-68578 antigen can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The therapeutic efficacy of Vibrio cholerae CVD 103-HgR strain live antigen can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14685</drugbank-id>
+      <name>Adenovirus type 7 vaccine live</name>
+      <description>The therapeutic efficacy of Adenovirus type 7 vaccine live can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10318</drugbank-id>
+      <name>Varicella Zoster Vaccine (Live/attenuated)</name>
+      <description>The therapeutic efficacy of Varicella Zoster Vaccine (Live/attenuated) can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15258</drugbank-id>
+      <name>Imlifidase</name>
+      <description>The therapeutic efficacy of Palivizumab can be decreased when used in combination with Imlifidase.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;VH region MEDI-493
+QVTLRESGPALVKPTQTLTLTCTFSGFSLSTSGMSVGWIRQPPGKALEWLADIWWDDKKD
+YNPSLKSRLTISKDTSKNQVVLKVTNMDPADTATYYCARSMITNWYFDVWGAGTTVTVSS
+</sequence>
+    <sequence format="FASTA">&gt;VH Region
+QVTLRESGPALVKPTQTLTLTCTFSGFSLSTSGMSVGWIRQPPGKALEWLADIWWDDKKD
+YNPSLKSRLTISKDTSKNQVVLKVTNMDPADTATYYCARSMITNWYFDVWGAGTTVTVSS
+</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>61 °C (FAB fragment), 71 °C (whole mAb)</value>
+      <source>Vermeer, A.W.P. &amp; Norde, W., Biophys. J. 78:394-404 (2000)</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12770</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506637</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748781</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000386</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Palivizumab</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201586</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>194279</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/palivizumab.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/palivizumab.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000686</id>
+      <name>Fusion glycoprotein F0</name>
+      <organism>Human respiratory syncytial virus B (strain 18537)</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2159</ref-id>
+            <pubmed-id>20519399</pubmed-id>
+            <citation>Huang K, Incognito L, Cheng X, Ulbrandt ND, Wu H: Respiratory syncytial virus-neutralizing monoclonal antibodies motavizumab and palivizumab inhibit fusion. J Virol. 2010 Aug;84(16):8132-40. doi: 10.1128/JVI.02699-09. Epub 2010 Jun 2.</citation>
+          </article>
+          <article>
+            <ref-id>A2160</ref-id>
+            <pubmed-id>17990791</pubmed-id>
+            <citation>Wu H, Pfarr DS, Losonsky GA, Kiener PA: Immunoprophylaxis of RSV infection: advancing from RSV-IGIV to palivizumab and motavizumab. Curr Top Microbiol Immunol. 2008;317:103-23.</citation>
+          </article>
+          <article>
+            <ref-id>A2162</ref-id>
+            <pubmed-id>20166098</pubmed-id>
+            <citation>Robinson KA, Odelola OA, Saldanha I, McKoy N: Palivizumab for prophylaxis against respiratory syncytial virus infection in children with cystic fibrosis. Cochrane Database Syst Rev. 2010 Feb 17;(2):CD007743. doi: 10.1002/14651858.CD007743.pub2.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P13843" source="Swiss-Prot">
+        <name>Fusion glycoprotein F0</name>
+        <general-function/>
+        <specific-function>During virus entry, induces fusion of viral and cellular membranes leading to delivery of the nucleocapsid into the cytoplasm. The fusogenic activity is inactive untill entry into host cell endosome, where a furin-like protease cleaves off a small peptide between F1 and F2. Interacts directly with heparan sulfate and may participates in virus attachment. Furthermore, the F2 subunit was identifed as the major determinant of RSV host cell specificity. Later in infection, proteins F expressed at the plasma membrane of infected cells can mediate fusion with adjacent cells to form syncytia, a cytopathic effect that could lead to tissue necrosis. The fusion protein is also able to trigger p53-dependent apoptosis.</specific-function>
+        <gene-name>F</gene-name>
+        <locus/>
+        <cellular-location>Virion membrane</cellular-location>
+        <transmembrane-regions>530-550</transmembrane-regions>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>9.14</theoretical-pi>
+        <molecular-weight>63687.815</molecular-weight>
+        <chromosome-location/>
+        <organism ncbi-taxonomy-id="11251">Human respiratory syncytial virus B (strain 18537)</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D00334</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>222565</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P13843</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FUS_HRSV1</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Fusion glycoprotein F0 precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010478|Fusion glycoprotein F0
+MELLIHRSSAIFLTLAVNALYLTSSQNITEEFYQSTCSAVSRGYFSALRTGWYTSVITIE
+LSNIKETKCNGTDTKVKLIKQELDKYKNAVTELQLLMQNTPAANNRARREAPQYMNYTIN
+TTKNLNVSISKKRKRRFLGFLLGVGSAIASGIAVSKVLHLEGEVNKIKNALLSTNKAVVS
+LSNGVSVLTSKVLDLKNYINNRLLPIVNQQSCRISNIETVIEFQQMNSRLLEITREFSVN
+AGVTTPLSTYMLTNSELLSLINDMPITNDQKKLMSSNVQIVRQQSYSIMSIIKEEVLAYV
+VQLPIYGVIDTPCWKLHTSPLCTTNIKEGSNICLTRTDRGWYCDNAGSVSFFPQADTCKV
+QSNRVFCDTMNSLTLPSEVSLCNTDIFNSKYDCKIMTSKTDISSSVITSLGAIVSCYGKT
+KCTASNKNRGIIKTFSNGCDYVSNKGVDTVSVGNTLYYVNKLEGKNLYVKGEPIINYYDP
+LVFPSDEFDASISQVNEKINQSLAFIRRSDELLHNVNTGKSTTNIMITTIIIVIIVVLLS
+LIAIGLLLYCKAKNTPVTLSKDQLSGINNIAFSK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0001367|1725 bp
+ATGGAGTTGCTGATCCACAGGTCAAGTGCAATCTTCCTAACTCTTGCTGTTAATGCATTG
+TACCTCACCTCAAGTCAGAACATAACTGAGGAGTTTTACCAATCGACATGTAGTGCAGTT
+AGCAGAGGTTATTTTAGTGCTTTAAGAACAGGTTGGTATACCAGTGTCATAACAATAGAA
+TTAAGTAATATAAAAGAAACCAAATGCAATGGAACTGACACTAAAGTAAAACTTATAAAA
+CAAGAATTAGATAAGTATAAGAATGCAGTAACAGAATTACAGCTACTTATGCAAAACACG
+CCAGCTGCCAACAACCGGGCCAGAAGAGAAGCACCACAGTACATGAACTACACAATCAAT
+ACCACAAAAAACCTAAATGTATCAATAAGCAAGAAAAGGAAACGAAGATTTCTGGGCTTC
+TTGTTAGGTGTAGGATCTGCAATAGCAAGTGGTATAGCTGTATCCAAAGTTTTACACCTT
+GAAGGAGAAGTGAACAAAATCAAAAATGCTTTGTTGTCTACAAACAAAGCTGTAGTCAGT
+CTATCAAATGGGGTCAGTGTTTTAACCAGCAAAGTGTTAGATCTCAAGAATTACATAAAT
+AACCGATTATTACCCATAGTAAATCAACAGAGCTGTCGCATCTCCAACATTGAAACAGTT
+ATAGAATTCCAGCAGATGAATAGCAGATTGTTGGAAATCACCAGAGAATTTAGTGTTAAT
+GCAGGTGTAACAACACCTTTAAGCACTTACATGTTAACAAACAGTGAGTTACTATCATTG
+ATCAATGATATGCCTATAACAAATGACCAGAAAAAATTAATGTCAAGCAATGTTCAGATA
+GTAAGGCAACAAAGTTATTCTATCATGTCTATAATAAAGGAAGAAGTCCTTGCATATGTT
+GTACAGCTACCTATCTATGGTGTAATAGATACACCTTGCTGGAAATTACACACATCACCT
+CTATGCACCACCAACATCAAAGAAGGATCAAATATTTGTTTAACAAGGACTGATAGAGGA
+TGGTATTGTGATAATGCAGGATCAGTATCCTTCTTCCCACAGGCTGATACTTGCAAAGTA
+CAGTCCAATCGAGTATTTTGTGACACTATGAACAGTTTAACATTACCAAGTGAAGTCAGC
+CTTTGTAACACTGACATATTCAATTCCAAGTATGACTGCAAAATTATGACATCAAAAACA
+GACATAAGCAGCTCAGTAATTACTTCTCTTGGAGCTATAGTGTCATGCTATGGAAAAACT
+AAATGCACTGCATCCAATAAAAATCGTGGGATTATAAAGACATTTTCTAATGGTTGTGAC
+TATGTGTCAAACAAAGGAGTAGATACTGTGTCAGTGGGCAACACTTTATACTATGTAAAC
+AAGCTGGAAGGCAAAAACCTTTATGTAAAAGGGGAACCTATAATAAATTACTATGATCCT
+CTAGTGTTTCCTTCTGATGAGTTTGATGCATCAATATCTCAAGTCAATGAAAAAATCAAT
+CAAAGTTTAGCTTTTATTCGTAGATCTGATGAATTACTACATAATGTAAATACTGGCAAA
+TCTACTACAAATATTATGATAACTACAATTATTATAGTAATCATTGTAGTATTGTTATCA
+TTAATAGCTATTGGTTTACTGTTGTATTGCAAAGCCAAAAACACACCAGTTACACTAAGC
+AAAGACCAACTAAGTGGAATCAATAATATTGCATTCAGCAAATAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00523</identifier>
+            <name>Fusion_gly</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>host cell plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>viral envelope</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>virion membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fusion of virus membrane with host plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of syncytium formation by virus</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000901</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O75015" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of immunoglobulins gamma. Low affinity receptor. Binds complexed or aggregated IgG and also monomeric IgG. Contrary to III-A, is not capable to mediate antibody-dependent cytotoxicity and phagocytosis. May serve as a trap for immune complexes in the peripheral circulation which does not activate neutrophils.</specific-function>
+        <gene-name>FCGR3B</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>6.71</theoretical-pi>
+        <molecular-weight>26215.64</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3620</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3B</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X16863</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31322</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O75015</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3B_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16B</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-beta</synonym>
+          <synonym>Fc-gamma RIIIb</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIb</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010635|Low affinity immunoglobulin gamma Fc region receptor III-B
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYSVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVNDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKDRKYFHHNSDFHIPKATLKDSGSYFCRGLVGSKN
+VSSETVNITITQGLAVSTISSFSPPGYQVSFCLVMVLLFAVDTGLYFSVKTNI</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010636|Low affinity immunoglobulin gamma Fc region receptor III-B (FCGR3B)
+ATGTGGCAGCTGCTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACT
+GAAGATCTCCCAAAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGCGTGCTTGAGAAG
+GACAGTGTGACTCTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGG
+TTTCACAATGAGAACCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACA
+GTCAACGACAGTGGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTG
+CAGCTAGAAGTCCATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAG
+GAAGACCCTATTCACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACA
+TATTTACAGAATGGCAAAGACAGGAAGTATTTTCATCATAATTCTGACTTCCACATTCCA
+AAAGCCACACTCAAAGATAGCGGCTCCTACTTCTGCAGGGGGCTTGTTGGGAGTAAAAAT
+GTGTCTTCAGAGACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCA
+TCATTCTCTCCACCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCA
+GTGGACACAGGACTATATTTCTCTGTGAAGACAAACATTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>anchored component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitophagy in response to mitochondrial depolarization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of defense response to virus by host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenophagy</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002093</id>
+      <name>Complement C1r subcomponent</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P00736" source="Swiss-Prot">
+        <name>Complement C1r subcomponent</name>
+        <general-function>Serine-type peptidase activity</general-function>
+        <specific-function>C1r B chain is a serine protease that combines with C1q and C1s to form C1, the first component of the classical pathway of the complement system.</specific-function>
+        <gene-name>C1R</gene-name>
+        <locus>12p13</locus>
+        <cellular-location>Cytoplasmic</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-17</signal-regions>
+        <theoretical-pi>6.24</theoretical-pi>
+        <molecular-weight>80118.04</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1246</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1R</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X04701</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29539</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2334</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00736</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.41</synonym>
+          <synonym>Complement component 1 subcomponent r</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011518|Complement C1r subcomponent
+MWLLYLLVPALFCRAGGSIPIPQKLFGEVTSPLFPKPYPNNFETTTVITVPTGYRVKLVF
+QQFDLEPSEGCFYDYVKISADKKSLGRFCGQLGSPLGNPPGKKEFMSQGNKMLLTFHTDF
+SNEENGTIMFYKGFLAYYQAVDLDECASRSKSGEEDPQPQCQHLCHNYVGGYFCSCRPGY
+ELQEDTHSCQAECSSELYTEASGYISSLEYPRSYPPDLRCNYSIRVERGLTLHLKFLEPF
+DIDDHQQVHCPYDQLQIYANGKNIGEFCGKQRPPDLDTSSNAVDLLFFTDESGDSRGWKL
+RYTTEIIKCPQPKTLDEFTIIQNLQPQYQFRDYFIATCKQGYQLIEGNQVLHSFTAVCQD
+DGTWHRAMPRCKIKDCGQPRNLPNGDFRYTTTMGVNTYKARIQYYCHEPYYKMQTRAGSR
+ESEQGVYTCTAQGIWKNEQKGEKIPRCLPVCGKPVNPVEQRQRIIGGQKAKMGNFPWQVF
+TNIHGRGGGALLGDRWILTAAHTLYPKEHEAQSNASLDVFLGHTNVEELMKLGNHPIRRV
+SVHPDYRQDESYNFEGDIALLELENSVTLGPNLLPICLPDNDTFYDLGLMGYVSGFGVME
+EKIAHDLRFVRLPVANPQACENWLRGKNRMDVFSQNMFCAGHPSLKQDACQGDSGGVFAV
+RDPNTDRWVATGIVSWGIGCSRGYGFYTKVLNYVDWIKKEMEEED</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011519|Complement C1r subcomponent (C1R)
+ATGTGGCTCTTGTACCTCCTGGTGCCGGCCCTGTTCTGCAGGGCAGGAGGCTCCATTCCC
+ATCCCTCAGAAGTTATTTGGGGAGGTGACTTCCCCTCTGTTCCCCAAGCCTTACCCCAAC
+AACTTTGAAACAACCACTGTGATCACAGTCCCCACGGGATACAGGGTGAAGCTCGTCTTC
+CAGCAGTTTGACCTGGAGCCTTCTGAAGGCTGCTTCTATGATTATGTCAAGATCTCTGCT
+GATAAGAAAAGCCTGGGGAGGTTCTGTGGGCAACTGGGTTCTCCACTGGGCAACCCCCCG
+GGAAAGAAGGAATTTATGTCCCAAGGGAACAAGATGCTGCTGACCTTCCACACAGACTTC
+TCCAACGAGGAGAATGGGACCATCATGTTCTACAAGGGCTTCCTGGCCTACTACCAAGCT
+GTGGACCTTGATGAATGTGCTTCCCGGAGCAAATTAGGGGAGGAGGATCCCCAGCCCCAG
+TGCCAGCACCTGTGTCACAACTACGTTGGAGGCTACTTCTGTTCCTGCCGTCCAGGCTAT
+GAGCTTCAGGAAGACAGGCATTCCTGCCAGGCTGAGTGCAGCAGCGAGCTGTACACGGAG
+GCATCAGGCTACATCTCCAGCCTGGAGTACCCTCGGTCCTACCCCCCTGACCTGCGCTGC
+AACTACAGCATCCGGGTGGAGCGGGGCCTCACCCTGCACCTCAAGTTCCTGGAGCCTTTT
+GATATTGATGACCACCAGCAAGTACACTGCCCCTATGACCAGCTACAGATCTATGCCAAC
+GGGAAGAACATTGGCGAGTTCTGTGGGAAGCAAAGGCCCCCCGACCTCGACACCAGCAGC
+AATGCTGTGGATCTGCTGTTCTTCACAGATGAGTCGGGGGACAGCCGGGGCTGGAAGCTG
+CGCTACACCACCGAGATCATCAAGTGCCCCCAGCCCAAGACCCTAGACGAGTTCACCATC
+ATCCAGAACCTGCAGCCTCAGTACCAGTTCCGTGACTACTTCATTGCTACCTGCAAGCAA
+GGCTACCAGCTCATAGAGGGGAACCAGGTGCTGCATTCCTTCACAGCTGTCTGCCAGGAT
+GATGGCACGTGGCATCGTGCCATGCCCAGATGCAAGATCAAGGACTGTGGGCAGCCCCGA
+AACCTGCCTAATGGTGACTTCCGTTACACCACCACAATGGGAGTGAACACCTACAAGGCC
+CGTATCCAGTACTACTGCCATGAGCCATATTACAAGATGCAGACCAGAGCTGGCAGCAGG
+GAGTCTGAGCAAGGGGTGTACACCTGCACAGCACAGGGCATTTGGAAGAATGAACAGAAG
+GGAGAGAAGATTCCTCGGTGCTTGCCAGTGTGTGGGAAGCCCGTGAACCCCGTGGAACAG
+AGGCAGCGCATCATCGGAGGGCAAAAAGCCAAGATGGGCAACTTCCCCTGGCAGGTGTTC
+ACCAACATCCACGGGCGCGGGGGCGGGGCCCTGCTGGGCGACCGCTGGATCCTCACAGCT
+GCCCACACCCTGTATCCCAAGGAACACGAAGCGCAAAGCAACGCCTCTTTGGATGTGTTC
+CTGGGCCACACAAATGTGGAAGAGCTCATGAAGCTAGGAAATCACCCCATCCGCAGGGTC
+AGCGTCCACCCGGACTACCGTCAGGATGAGTCCTACAATTTTGAGGGGGACATCGCCCTG
+CTGGAGCTGGAAAATAGTGTCACCCTGGGTCCCAACCTCCTCCCCATCTGCCTCCCTGAC
+AACGATACCTTCTACGACCTGGGCTTGATGGGCTATGTCAGTGGCTTCGGGGTCATGGAG
+GAGAAGATTGCTCATGACCTCAGGTTTGTCCGTCTGCCCGTAGCTAATCCACAGGCCTGT
+GAGAACTGGCTCCGGGGAAAGAATAGGATGGATGTGTTCTCTCAAAACATGTTCTGTGCT
+GGACACCCATCTCTAAAGCAGGACGCCTGCCAGGGGGATAGTGGGGGCGTTTTTGCAGTA
+AGGGACCCGAACACTGATCGCTGGGTGGCCACGGGCATCGTGTCCTGGGGCATCGGGTGC
+AGCAGGGGCTATGGCTTCTACACCAAAGTGCTCAACTACGTGGACTGGATCAAGAAAGAG
+ATGGAGGAGGAGGACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00084</identifier>
+            <name>Sushi</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00431</identifier>
+            <name>CUB</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002094</id>
+      <name>Complement C1q subcomponent subunit A</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02745" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit A</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QA</gene-name>
+        <locus>1p36.12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>9.45</theoretical-pi>
+        <molecular-weight>26016.47</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1241</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF135157</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4894854</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02745</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Complement C1q subcomponent subunit A precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016678|Complement C1q subcomponent subunit A
+MEGPRGWLVLCVLAISLASMVTEDLCRAPDGKKGEAGRPGRRGRPGLKGEQGEPGAPGIR
+TGIQGLKGDQGEPGPSGNPGKVGYPGPSGPLGARGIPGIKGTKGSPGNIKDQPRPAFSAI
+RRNPPMGGNVVIFDTVITNQEEPYQNHSGRFVCTVPGYYYFTFQVLSQWEICLSIVSSSR
+GQVRRSLGFCDTTNKGLFQVVSGGMVLQLQQGDQVWVEKDPKKGHIYQGSEADSVFSGFL
+IFPSA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016679|Complement C1q subcomponent subunit A (C1QA)
+ATGGAGGGTCCCCGGGGATGGCTGGTGCTCTGTGTGCTGGCCATATCGCTGGCCTCTATG
+GTGACCGAGGACTTGTGCCGAGCACCAGACGGGAAGAAAGGGGAGGCAGGAAGACCTGGC
+AGACGGGGGCGGCCAGGCCTCAAGGGGGAGCAAGGGGAGCCGGGGGCCCCTGGCATCCGG
+ACAGGCATCCAAGGCCTTAAAGGAGACCAGGGGGAACCTGGGCCCTCTGGAAACCCCGGC
+AAGGTGGGCTACCCAGGGCCCAGCGGCCCCCTCGGAGCCCGTGGCATCCCGGGAATTAAA
+GGCACCAAGGGCAGCCCAGGAAACATCAAGGACCAGCCGAGGCCAGCCTTCTCCGCCATT
+CGGCGGAACCCCCCAATGGGGGGCAACGTGGTCATCTTCGACACGGTCATCACCAACCAG
+GAAGAACCGTACCAGAACCACTCCGGCCGATTCGTCTGCACTGTACCCGGCTACTACTAC
+TTCACCTTCCAGGTGCTGTCCCAGTGGGAAATCTGCCTGTCCATCGTCTCCTCCTCAAGG
+GGCCAGGTCCGACGCTCCCTGGGCTTCTGTGACACCACCAACAAGGGGCTCTTCCAGGTG
+GTGTCAGGGGGCATGGTGCTTCAGCTGCAGCAGGGTGACCAGGTCTGGGTTGAAAAAGAC
+CCCAAAAAGGGTCACATTTACCAGGGCTCTGAGGCCGACAGCGTCTTCAGCGGCTTCCTC
+ATCTTCCCATCTGCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>complement component C1 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002095</id>
+      <name>Complement C1q subcomponent subunit B</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02746" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit B</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QB</gene-name>
+        <locus>1p36.12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>8.87</theoretical-pi>
+        <molecular-weight>26721.62</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1242</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QB</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X03084</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>573114</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QB_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Complement C1q subcomponent subunit B precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016676|Complement C1q subcomponent subunit B
+MMMKIPWGSIPVLMLLLLLGLIDISQAQLSCTGPPAIPGIPGIPGTPGPDGQPGTPGIKG
+EKGLPGLAGDHGEFGEKGDPGIPGNPGKVGPKGPMGPKGGPGAPGAPGPKGESGDYKATQ
+KIAFSATRTINVPLRRDQTIRFDHVITNMNNNYEPRSGKFTCKVPGLYYFTYHASSRGNL
+CVNLMRGRERAQKVVTFCDYAYNTFQVTTGGMVLKLEQGENVFLQATDKNSLLGMEGANS
+IFSGFLLFPDMEA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016677|Complement C1q subcomponent subunit B (C1QB)
+ATGATGATGAAGATCCCATGGGGCAGCATCCCAGTACTGATGTTGCTCCTGCTCCTGGGC
+CTAATCGATATCTCCCAGGCCCAGCTCAGCTGCACCGGGCCCCCAGCCATCCCTGGCATC
+CCGGGTATCCCTGGGACACCTGGCCCCGATGGCCAACCTGGGACCCCAGGGATAAAAGGA
+GAGAAAGGGCTTCCAGGGCTGGCTGGAGACCATGGTGAGTTCGGAGAGAAGGGAGACCCA
+GGGATTCCTGGGAATCCAGGAAAAGTCGGCCCCAAGGGCCCCATGGGCCCTAAAGGTGGC
+CCAGGGGCCCCTGGAGCCCCAGGCCCCAAAGGTGAATCGGGAGACTACAAGGCCACCCAG
+AAAATCGCCTTCTCTGCCACAAGAACCATCAACGTCCCCCTGCGCCGGGACCAGACCATC
+CGCTTCGACCACGTGATCACCAACATGAACAACAATTATGAGCCCCGCAGTGGCAAGTTC
+ACCTGCAAGGTGCCCGGTCTCTACTACTTCACCTACCACGCCAGCTCTCGAGGGAACCTG
+TGCGTGAACCTCATGCGTGGCCGGGAGCGTGCACAGAAGGTGGTCACCTTCTGTGACTAT
+GCCTACAACACCTTCCAGGTCACCACCGGTGGCATGGTCCTCAAGCTGGAGCAGGGGGAG
+AACGTCTTCCTGCAGGCCACCGACAAGAACTCACTACTGGGCATGGAGGGTGCCAACAGC
+ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>complement component C1 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002096</id>
+      <name>Complement C1q subcomponent subunit C</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02747" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit C</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QC</gene-name>
+        <locus>1p36.11</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-28</signal-regions>
+        <theoretical-pi>8.58</theoretical-pi>
+        <molecular-weight>25773.56</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1245</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QC</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF087892</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>33150626</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02747</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QC_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>C1QG</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011520|Complement C1q subcomponent subunit C
+MDVGPSSLPHLGLKLLLLLLLLPLRGQANTGCYGIPGMPGLPGAPGKDGYDGLPGPKGEP
+GIPAIPGIRGPKGQKGEPGLPGHPGKNGPMGPPGMPGVPGPMGIPGEPGEEGRYKQKFQS
+VFTVTRQTHQPPAPNSLIRFNAVLTNPQGDYDTSTGKFTCKVPGLYYFVYHASHTANLCV
+LLYRSGVKVVTFCGHTSKTNQVNSGGVLLRLQVGEEVWLAVNDYYDMVGIQGSDSVFSGF
+LLFPD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011521|Complement C1q subcomponent subunit C (C1QC)
+ATGGACGTGGGGCCCAGCTCCCTGCCCCACCTTGGGCTGAAGCTGCTGCTGCTCCTGCTG
+CTGCTGCCCCTCAGGGGCCAAGCCAACACAGGCTGCTACGGGATCCCAGGGATGCCCGGC
+CTGCCCGGGGCACCAGGGAAGGATGGGTACGACGGACTGCCGGGGCCCAAGGGGGAGCCA
+GGAATCCCAGCCATTCCCGGGATCCGAGGACCCAAAGGGCAGAAGGGAGAACCCGGCTTA
+CCCGGCCATCCTGGGAAAAATGGCCCCATGGGACCCCCTGGGATGCCAGGGGTGCCCGGC
+CCCATGGGCATCCCTGGAGAGCCAGGTGAGGAGGGCAGATACAAGCAGAAATTCCAGTCA
+GTGTTCACGGTCACTCGGCAGACCCACCAGCCCCCTGCACCCAACAGCCTGATCAGATTC
+AACGCGGTCCTCACCAACCCGCAGGGAGATTATGACACGAGCACTGGCAAGTTCACCTGC
+AAAGTCCCCGGCCTCTACTACTTTGTCTACCACGCGTCGCATACAGCCAACCTGTGCGTG
+CTGCTGTACCGCAGCGGCGTCAAAGTGGTCACCTTCTGTGGCCACACGTCCAAAACCAAT
+CAGGTCAACTCGGGCGGTGTGCTGCTGAGGTTGCAGGTGGGCGAGGAGGTGTGGCTGGCT
+GTCAATGACTACTACGACATGGTGGGCATCCAGGGCTCTGACAGCGTCTTCTCCGGCTTC
+CTGCTCTTCCCCGACTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of granulocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage differentiation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002097</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08637" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of IgG. Binds complexed or aggregated IgG and also monomeric IgG. Mediates antibody-dependent cellular cytotoxicity (ADCC) and other antibody-dependent responses, such as phagocytosis.</specific-function>
+        <gene-name>FCGR3A</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>209-229</transmembrane-regions>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>8.21</theoretical-pi>
+        <molecular-weight>29088.895</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3619</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52645</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31324</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08637</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3A_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16A</synonym>
+          <synonym>CD16a antigen</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-alpha</synonym>
+          <synonym>Fc-gamma RIIIa</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIa</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004112|Low affinity immunoglobulin gamma Fc region receptor III-A
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYRVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVDDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKGRKYFHHNSDFYIPKATLKDSGSYFCRGLFGSKN
+VSSETVNITITQGLAVSTISSFFPPGYQVSFCLVMVLLFAVDTGLYFSVKTNIRSSTRDW
+KDHKFKWRKDPQDK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011522|Low affinity immunoglobulin gamma Fc region receptor III-A (FCGR3A)
+ATGGGTGGAGGGGCTGGGGAAAGGCTGTTTACTTCCTCCTGTCTAGTCGGTTTGGTCCCT
+TTAGGGCTCCGGATATCTTTGGTGACTTGTCCACTCCAGTGTGGCATCATGTGGCAGCTG
+CTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACTGAAGATCTCCCA
+AAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGGGTGCTCGAGAAGGACAGTGTGACT
+CTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGGTTTCACAATGAG
+AGCCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACAGTCGACGACAGT
+GGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTGCAGCTAGAAGTC
+CATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAGGAAGACCCTATT
+CACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACATATTTACAGAAT
+GGCAAAGGCAGGAAGTATTTTCATCATAATTCTGACTTCTACATTCCAAAAGCCACACTC
+AAAGACAGCGGCTCCTACTTCTGCAGGGGGCTTTTTGGGAGTAAAAATGTGTCTTCAGAG
+ACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCATCATTCTTTCCA
+CCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCAGTGGACACAGGA
+CTATATTTCTCTGTGAAGACAAACATTCGAAGCTCAACAAGAGACTGGAAGGACCATAAA
+TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000710</id>
+      <name>High affinity immunoglobulin gamma Fc receptor I</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P12314" source="Swiss-Prot">
+        <name>High affinity immunoglobulin gamma Fc receptor I</name>
+        <general-function>Receptor signaling protein activity</general-function>
+        <specific-function>High affinity receptor for the Fc region of immunoglobulins gamma. Functions in both innate and adaptive immune responses.</specific-function>
+        <gene-name>FCGR1A</gene-name>
+        <locus>1q21.2-q21.3</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>293-313</transmembrane-regions>
+        <signal-regions>1-15</signal-regions>
+        <theoretical-pi>8.08</theoretical-pi>
+        <molecular-weight>42631.525</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3613</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR1A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X14356</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31332</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P12314</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCGR1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Fc-gamma RI</synonym>
+          <synonym>Fc-gamma RIA</synonym>
+          <synonym>FCG1</synonym>
+          <synonym>FcgammaRIa</synonym>
+          <synonym>FCGR1</synonym>
+          <synonym>FcRI</synonym>
+          <synonym>IGFR1</synonym>
+          <synonym>IgG Fc receptor I</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001416|High affinity immunoglobulin gamma Fc receptor I
+MWFLTTLLLWVPVDGQVDTTKAVITLQPPWVSVFQEETVTLHCEVLHLPGSSSTQWFLNG
+TATQTSTPSYRITSASVNDSGEYRCQRGLSGRSDPIQLEIHRGWLLLQVSSRVFTEGEPL
+ALRCHAWKDKLVYNVLYYRNGKAFKFFHWNSNLTILKTNISHNGTYHCSGMGKHRYTSAG
+ISVTVKELFPAPVLNASVTSPLLEGNLVTLSCETKLLLQRPGLQLYFSFYMGSKTLRGRN
+TSSEYQILTARREDSGLYWCEAATEDGNVLKRSPELELQVLGLQLPTPVWFHVLFYLAVG
+IMFLVNTVLWVTIRKELKRKKKWDLEISLDSGHEKKVISSLQEDRHLEEELKCQEQKEEQ
+LQEGVHRKEPQGAT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016183|High affinity immunoglobulin gamma Fc receptor I (FCGR1A)
+ATGTGGTTCTTGACAACTCTGCTCCTTTGGGTTCCAGTTGATGGGCAAGTGGACACCACA
+AAGGCAGTGATCACTTTGCAGCCTCCATGGGTCAGCGTGTTCCAAGAGGAAACCGTAACC
+TTGCACTGTGAGGTGCTCCATCTGCCTGGGAGCAGCTCTACACAGTGGTTTCTCAATGGC
+ACAGCCACTCAGACCTCGACCCCCAGCTACAGAATCACCTCTGCCAGTGTCAATGACAGT
+GGTGAATACAGGTGCCAGAGAGGTCTCTCAGGGCGAAGTGACCCCATACAGCTGGAAATC
+CACAGAGGCTGGCTACTACTGCAGGTCTCCAGCAGAGTCTTCACGGAAGGAGAACCTCTG
+GCCTTGAGGTGTCATGCGTGGAAGGATAAGCTGGTGTACAATGTGCTTTACTATCGAAAT
+GGCAAAGCCTTTAAGTTTTTCCACTGGAATTCTAACCTCACCATTCTGAAAACCAACATA
+AGTCACAATGGCACCTACCATTGCTCAGGCATGGGAAAGCATCGCTACACATCAGCAGGA
+ATATCTGTCACTGTGAAAGAGCTATTTCCAGCTCCAGTGCTGAATGCATCTGTGACATCC
+CCACTCCTGGAGGGGAATCTGGTCACCCTGAGCTGTGAAACAAAGTTGCTCTTGCAGAGG
+CCTGGTTTGCAGCTTTACTTCTCCTTCTACATGGGCAGCAAGACCCTGCGAGGCAGGAAC
+ACATCCTCTGAATACCAAATACTAACTGCTAGAAGAGAAGACTCTGGGTTATACTGGTGC
+GAGGCTGCCACAGAGGATGGAAATGTCCTTAAGCGCAGCCCTGAGTTGGAGCTTCAAGTG
+CTTGGCCTCCAGTTACCAACTCCTGTCTGGTTTCATGTCCTTTTCTATCTGGCAGTGGGA
+ATAATGTTTTTAGTGAACACTGTTCTCTGGGTGACAATACGTAAAGAACTGAAAAGAAAG
+AAAAAGTGGGATTTAGAAATCTCTTTGGATTCTGGTCATGAGAAGAAGGTAATTTCCAGC
+CTTCAAGAAGACAGACATTTAGAAGAAGAGCTGAAATGTCAGGAACAAAAAGAAGAACAG
+CTGCAGGAAGGGGTGCACCGGAAGGAGCCCCAGGGGGCCACGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00047</identifier>
+            <name>ig</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>clathrin-coated endocytic vesicle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>early endosome membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor signaling protein activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of peptide antigen via MHC class I</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interferon-gamma-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phagocytosis, engulfment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002099</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor II-b</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A201875</ref-id>
+            <pubmed-id>24711420</pubmed-id>
+            <citation>Hiatt A, Bohorova N, Bohorov O, Goodman C, Kim D, Pauly MH, Velasco J, Whaley KJ, Piedra PA, Gilbert BE, Zeitlin L: Glycan variants of a respiratory syncytial virus antibody with enhanced effector function and in vivo efficacy. Proc Natl Acad Sci U S A. 2014 Apr 22;111(16):5992-7. doi: 10.1073/pnas.1402458111. Epub 2014 Apr 7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P31994" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor II-b</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of complexed or aggregated immunoglobulins gamma. Low affinity receptor. Involved in a variety of effector and regulatory functions such as phagocytosis of immune complexes and modulation of antibody production by B-cells. Binding to this receptor results in down-modulation of previous state of cell activation triggered via antigen receptors on B-cells (BCR), T-cells (TCR) or via another Fc receptor. Isoform IIB1 fails to mediate endocytosis or phagocytosis. Isoform IIB2 does not trigger phagocytosis.</specific-function>
+        <gene-name>FCGR2B</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>218-240</transmembrane-regions>
+        <signal-regions>1-42</signal-regions>
+        <theoretical-pi>6.12</theoretical-pi>
+        <molecular-weight>34043.355</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3618</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR2B</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U87560</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4099445</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P31994</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG2B_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD32</synonym>
+          <synonym>CDw32</synonym>
+          <synonym>Fc-gamma RII-b</synonym>
+          <synonym>Fc-gamma-RIIb</synonym>
+          <synonym>FCG2</synonym>
+          <synonym>FcRII-b</synonym>
+          <synonym>IGFR2</synonym>
+          <synonym>IgG Fc receptor II-b</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004116|Low affinity immunoglobulin gamma Fc region receptor II-b
+MGILSFLPVLATESDWADCKSPQPWGHMLLWTAVLFLAPVAGTPAAPPKAVLKLEPQWIN
+VLQEDSVTLTCRGTHSPESDSIQWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSL
+SDPVHLTVLSEWLVLQTPHLEFQEGETIVLRCHSWKDKPLVKVTFFQNGKSKKFSRSDPN
+FSIPQANHSHSGDYHCTGNIGYTLYSSKPVTITVQAPSSSPMGIIVAVVTGIAVAAIVAA
+VVALIYCRKKRISALPGYPECREMGETLPEKPANPTNPDEADKVGAENTITYSLLMHPDA
+LEEPDDQNRI</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019237|Low affinity immunoglobulin gamma Fc region receptor II-b (FCGR2B)
+ATGGGAATCCTGTCATTCTTACCTGTCCTTGCCACTGAGAGTGACTGGGCTGACTGCAAG
+TCCCCCCAGCCTTGGGGTCATATGCTTCTGTGGACAGCTGTGCTATTCCTGGCTCCTGTT
+GCTGGGACACCTGCTCCCCCAAAGGCTGTGCTGAAACTCGAGCCCCAGTGGATCAACGTG
+CTCCAGGAGGACTCTGTGACTCTGACATGCCGGGGGACTCACAGCCCTGAGAGCGACTCC
+ATTCAGTGGTTCCACAATGGGAATCTCATTCCCACCCACACGCAGCCCAGCTACAGGTTC
+AAGGCCAACAACAATGACAGCGGGGAGTACACGTGCCAGACTGGCCAGACCAGCCTCAGC
+GACCCTGTGCATCTGACTGTGCTTTCTGAGTGGCTGGTGCTCCAGACCCCTCACCTGGAG
+TTCCAGGAGGGAGAAACCATCGTGCTGAGGTGCCACAGCTGGAAGGACAAGCCTCTGGTC
+AAGGTCACATTCTTCCAGAATGGAAAATCCAAGAAATTTTCCCGTTCGGATCCCAACTTC
+TCCATCCCACAAGCAAACCACAGTCACAGTGGTGATTACCACTGCACAGGAAACATAGGC
+TACACGCTGTACTCATCCAAGCCTGTGACCATCACTGTCCAAGCTCCCAGCTCTTCACCG
+ATGGGGATCATTGTGGCTGTGGTCACTGGGATTGCTGTAGCGGCCATTGTTGCTGCTGTA
+GTGGCCTTGATCTACTGCAGGAAAAAGCGGATTTCAGCCAATCCCACTAATCCTGATGAG
+GCTGACAAAGTTGGGGCTGAGAACACAATCACCTATTCACTTCTCATGCACCCGGATGCT
+CTGGAAGAGCCTGATGACCAGAACCGTATTTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>viral process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

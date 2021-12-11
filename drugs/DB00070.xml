@@ -1,0 +1,2484 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00070</drugbank-id>
+  <drugbank-id>BTD00022</drugbank-id>
+  <drugbank-id>BIOD00022</drugbank-id>
+  <name>Hyaluronidase (ovine)</name>
+  <description>Highly purified sheep hyaluronidase for administration by injection into the vitreous of the eye.</description>
+  <cas-number>488712-31-8</cas-number>
+  <unii>64R4OHP8T0</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A117</ref-id>
+        <pubmed-id>10493834</pubmed-id>
+        <citation>Csoka AB, Scherer SW, Stern R: Expression analysis of six paralogous human hyaluronidase genes clustered on chromosomes 3p21 and 7q31. Genomics. 1999 Sep 15;60(3):356-61.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Yasuhiro Mima, Masaaki Yamada, "Preparation of human placental hyaluronidase." U.S. Patent US3945889, issued October, 1957.</synthesis-reference>
+  <indication>For increase of absorption and distribution of other injected drugs and for rehydration.</indication>
+  <pharmacodynamics>Hyaluronidase hydrolyzes hyaluronic acid and increase diffusion of injected drugs, thus facilitating their absorption. Hyaluronidase is used for enhancing absorption and distribution of other injected drugs.</pharmacodynamics>
+  <mechanism-of-action>Hyaluronidase is a spreading or diffusing substance. It increase the permeability of connective tissue through the hydrolysis of hyaluronic acid. Hyaluronidase hydrolyzes hyaluronic acid by splitting the glucosaminidic bond between C1 of the glucosamine moiety and C4 of glucuronic acid. This temporarily decreases the viscosity of the cellular cement and increases diffusion of injected fluids or of localized transudates or exudates, thus facilitating their absorption.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Hyaluronidase (glycoprotein, sheep testis isoenzyme)</synonym>
+    <synonym language="english" coder="inn/ban/jan/usan/usp">Hyaluronidase (ovine)</synonym>
+    <synonym language="english" coder="">Hyaluronidase (sheep testis isoenzyme)</synonym>
+    <synonym language="english" coder="">Hyaluronidase, ovine</synonym>
+    <synonym language="english" coder="">Ovine hyaluronidase</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Vitrase</name>
+      <labeller>ISTA PHARMACUTICALS, INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67425-001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-07-01</started-marketing-on>
+      <ended-marketing-on>2009-09-30</ended-marketing-on>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>6200 [USP'U]/5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA021640</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vitrase</name>
+      <labeller>Bausch &amp; Lomb Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code>24208-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 [USP'U]/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA021640</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vitrase</name>
+      <labeller>ISTA Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67425-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-02-01</started-marketing-on>
+      <ended-marketing-on>2018-06-07</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 [USP'U]/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA021640</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Diffusin</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Enzodase</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Hyazyme</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Wydase</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Vitrase</name>
+      <ingredients>Hyaluronidase (ovine)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitrase</name>
+      <ingredients>Hyaluronidase (ovine)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vitrase</name>
+      <ingredients>Hyaluronidase (ovine)</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Akorn Inc.</name>
+      <url>http://www.akorn.com</url>
+    </packager>
+    <packager>
+      <name>Amphastar Pharmaceuticals</name>
+      <url>http://www.amphastar.com</url>
+    </packager>
+    <packager>
+      <name>Bausch &amp; Lomb Inc.</name>
+      <url>http://www.bausch.com</url>
+    </packager>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>Cardinal Health</name>
+      <url>http://www.cardinal.com</url>
+    </packager>
+    <packager>
+      <name>Halozyme Therapeutics Inc.</name>
+      <url>http://www.halozyme.com</url>
+    </packager>
+    <packager>
+      <name>ISTA Pharmaceuticals</name>
+      <url>http://www.istavision.com</url>
+    </packager>
+    <packager>
+      <name>Oso Biopharmaceuticals Manufacturing LLC</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Primapharm Inc.</name>
+      <url>http://www.primapharm.net</url>
+    </packager>
+    <packager>
+      <name>Professional Co.</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Amphastar pharmaceutical inc</manufacturer>
+    <manufacturer generic="false" url="">Primapharm inc</manufacturer>
+    <manufacturer generic="false" url="">Ista pharmaceuticals</manufacturer>
+    <manufacturer generic="false" url="">Baxter healthcare corp anesthesia and critical care</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Hylenex 150 unit/ml vial</description>
+      <cost currency="USD">108.0</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Hyaluronidase powder</description>
+      <cost currency="USD">900.0</cost>
+      <unit>g</unit>
+    </price>
+    <price>
+      <description>Vitrase 6200 unit vial</description>
+      <cost currency="USD">967.2</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Vitrasert 4.5 mg implant</description>
+      <cost currency="USD">19200.0</cost>
+      <unit>implant</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Glycoside Hydrolases</category>
+      <mesh-id>D006026</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>6200 [USP'U]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>200 [USP'U]/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00070.pdf?1265922799</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00070.pdf?1265922739</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00988</drugbank-id>
+      <name>Dopamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Dopamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone acetonide</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluocinolone acetonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Hydrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01285</drugbank-id>
+      <name>Corticotropin</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Corticotropin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Melengestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13223</drugbank-id>
+      <name>Fluocortin</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluocortin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13491</drugbank-id>
+      <name>Fluperolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluperolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13856</drugbank-id>
+      <name>Fluclorolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluclorolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14545</drugbank-id>
+      <name>Hydrocortisone succinate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Hydrocortisone succinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14633</drugbank-id>
+      <name>Prednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14644</drugbank-id>
+      <name>Methylprednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methylprednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14646</drugbank-id>
+      <name>Prednisone acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14652</drugbank-id>
+      <name>Clocortolone acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Clocortolone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14659</drugbank-id>
+      <name>Melengestrol acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Melengestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14669</drugbank-id>
+      <name>Betamethasone phosphate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Betamethasone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15566</drugbank-id>
+      <name>Prednisolone acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednisolone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Fluorometholone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14631</drugbank-id>
+      <name>Prednisolone phosphate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Prednisolone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Salicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>Dersalazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dersalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06807</drugbank-id>
+      <name>Phenyl aminosalicylate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Phenyl aminosalicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Nitroaspirin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13509</drugbank-id>
+      <name>Aloxiprin</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Aloxiprin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13538</drugbank-id>
+      <name>Guacetisal</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Guacetisal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14026</drugbank-id>
+      <name>Thiosalicylic acid</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Thiosalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Acetylsalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Lidocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00297</drugbank-id>
+      <name>Bupivacaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Bupivacaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00527</drugbank-id>
+      <name>Cinchocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Cinchocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00645</drugbank-id>
+      <name>Dyclonine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Dyclonine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00750</drugbank-id>
+      <name>Prilocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Prilocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00807</drugbank-id>
+      <name>Proparacaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Proparacaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00892</drugbank-id>
+      <name>Oxybuprocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Oxybuprocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00961</drugbank-id>
+      <name>Mepivacaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Mepivacaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01086</drugbank-id>
+      <name>Benzocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Benzocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05232</drugbank-id>
+      <name>Tetrodotoxin</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Tetrodotoxin resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06770</drugbank-id>
+      <name>Benzyl alcohol</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Benzyl alcohol resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08987</drugbank-id>
+      <name>Etidocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Etidocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09009</drugbank-id>
+      <name>Articaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Articaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09085</drugbank-id>
+      <name>Tetracaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Tetracaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11148</drugbank-id>
+      <name>Butamben</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Butamben resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11502</drugbank-id>
+      <name>Butacaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Butacaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13328</drugbank-id>
+      <name>Butanilicaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Butanilicaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13578</drugbank-id>
+      <name>Metabutethamine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Metabutethamine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13683</drugbank-id>
+      <name>Quinisocaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Quinisocaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09342</drugbank-id>
+      <name>Propoxycaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Propoxycaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00721</drugbank-id>
+      <name>Procaine</name>
+      <description>Hyaluronidase (ovine) can cause an increase in the absorption of Procaine resulting in an increased serum concentration and potentially a worsening of adverse effects.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00245</drugbank-id>
+      <name>Benzatropine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Benzatropine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Ziprasidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00341</drugbank-id>
+      <name>Cetirizine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Cetirizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Promazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Chlorpromazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00501</drugbank-id>
+      <name>Cimetidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Cimetidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00557</drugbank-id>
+      <name>Hydroxyzine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Hydroxyzine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00734</drugbank-id>
+      <name>Risperidone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Risperidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00767</drugbank-id>
+      <name>Benzquinamide</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Benzquinamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00777</drugbank-id>
+      <name>Propiomazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Propiomazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00835</drugbank-id>
+      <name>Brompheniramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Brompheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00863</drugbank-id>
+      <name>Ranitidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Ranitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00902</drugbank-id>
+      <name>Methdilazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methdilazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00927</drugbank-id>
+      <name>Famotidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Famotidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00940</drugbank-id>
+      <name>Methantheline</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methantheline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Azelastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00985</drugbank-id>
+      <name>Dimenhydrinate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dimenhydrinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Promethazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01071</drugbank-id>
+      <name>Mequitazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Mequitazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01075</drugbank-id>
+      <name>Diphenhydramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Diphenhydramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01114</drugbank-id>
+      <name>Chlorpheniramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Chlorpheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01173</drugbank-id>
+      <name>Orphenadrine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Orphenadrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01176</drugbank-id>
+      <name>Cyclizine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Cyclizine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Aripiprazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methotrimeprazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01615</drugbank-id>
+      <name>Aceprometazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Aceprometazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01619</drugbank-id>
+      <name>Phenindamine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Phenindamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01624</drugbank-id>
+      <name>Zuclopenthixol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Zuclopenthixol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03255</drugbank-id>
+      <name>Phenol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Phenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04819</drugbank-id>
+      <name>Methapyrilene</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methapyrilene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06678</drugbank-id>
+      <name>Esmirtazapine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Esmirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08800</drugbank-id>
+      <name>Chloropyramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Chloropyramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08805</drugbank-id>
+      <name>Metiamide</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Metiamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08806</drugbank-id>
+      <name>Roxatidine acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Roxatidine acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08967</drugbank-id>
+      <name>Dimetotiazine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dimetotiazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09016</drugbank-id>
+      <name>Butriptyline</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Butriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12770</drugbank-id>
+      <name>Lafutidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Lafutidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12806</drugbank-id>
+      <name>GSK-1004723</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with GSK-1004723.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12884</drugbank-id>
+      <name>Lavoltidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Lavoltidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13466</drugbank-id>
+      <name>Deptropine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Deptropine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13711</drugbank-id>
+      <name>Tritoqualine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Tritoqualine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13713</drugbank-id>
+      <name>Quifenadine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Quifenadine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13760</drugbank-id>
+      <name>Niperotidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Niperotidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14185</drugbank-id>
+      <name>Aripiprazole lauroxil</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Aripiprazole lauroxil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15120</drugbank-id>
+      <name>GSK-239512</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with GSK-239512.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15192</drugbank-id>
+      <name>ABT-288</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with ABT-288.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Olanzapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00283</drugbank-id>
+      <name>Clemastine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Clemastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Mirtazapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00585</drugbank-id>
+      <name>Nizatidine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Nizatidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00751</drugbank-id>
+      <name>Epinastine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Epinastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01620</drugbank-id>
+      <name>Pheniramine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Pheniramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Maprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01084</drugbank-id>
+      <name>Emedastine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Emedastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08801</drugbank-id>
+      <name>Dimetindene</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Dimetindene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09007</drugbank-id>
+      <name>Chlorphenoxamine</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Chlorphenoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Trazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00217</drugbank-id>
+      <name>Bethanidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Bethanidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00292</drugbank-id>
+      <name>Etomidate</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Etomidate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00368</drugbank-id>
+      <name>Norepinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Norepinephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00388</drugbank-id>
+      <name>Phenylephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Phenylephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Clonidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00610</drugbank-id>
+      <name>Metaraminol</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Metaraminol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00633</drugbank-id>
+      <name>Dexmedetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Dexmedetomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00668</drugbank-id>
+      <name>Epinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Epinephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00723</drugbank-id>
+      <name>Methoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Methoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00841</drugbank-id>
+      <name>Dobutamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Dobutamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00968</drugbank-id>
+      <name>Methyldopa</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Methyldopa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01253</drugbank-id>
+      <name>Ergometrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Ergometrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01364</drugbank-id>
+      <name>Ephedrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Ephedrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01365</drugbank-id>
+      <name>Mephentermine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Mephentermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01472</drugbank-id>
+      <name>4-Methoxyamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with 4-Methoxyamphetamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01537</drugbank-id>
+      <name>4-Bromo-2,5-dimethoxyphenethylamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with 4-Bromo-2,5-dimethoxyphenethylamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06764</drugbank-id>
+      <name>Tetryzoline</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Tetryzoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08925</drugbank-id>
+      <name>Adrafinil</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Adrafinil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09202</drugbank-id>
+      <name>Cirazoline</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Cirazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09203</drugbank-id>
+      <name>Synephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Synephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11373</drugbank-id>
+      <name>Amitraz</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Amitraz.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11428</drugbank-id>
+      <name>Medetomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Medetomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11477</drugbank-id>
+      <name>Xylazine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Xylazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11543</drugbank-id>
+      <name>Romifidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Romifidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11556</drugbank-id>
+      <name>Detomidine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Detomidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13251</drugbank-id>
+      <name>Octopamine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Octopamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13378</drugbank-id>
+      <name>Norfenefrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Norfenefrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00935</drugbank-id>
+      <name>Oxymetazoline</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Oxymetazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08985</drugbank-id>
+      <name>Etilefrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Etilefrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11124</drugbank-id>
+      <name>Racepinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Hyaluronidase (ovine) is combined with Racepinephrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Diethylstilbestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Chlorotrianisene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Conjugated estrogens.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Ethinylestradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Mestranol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estrone sulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Quinestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Hexestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Tibolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Synthetic Conjugated Estrogens, A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Synthetic Conjugated Estrogens, B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Polyestradiol phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Esterified estrogens.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Zeranol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Equol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Epimestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Moxestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estradiol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estradiol benzoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estradiol cypionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estradiol valerate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Biochanin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Formononetin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>The therapeutic efficacy of Hyaluronidase (ovine) can be decreased when used in combination with Estriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00186</drugbank-id>
+      <name>Lorazepam</name>
+      <description>The therapeutic efficacy of Lorazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00683</drugbank-id>
+      <name>Midazolam</name>
+      <description>The therapeutic efficacy of Midazolam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00801</drugbank-id>
+      <name>Halazepam</name>
+      <description>The therapeutic efficacy of Halazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The therapeutic efficacy of Diazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01489</drugbank-id>
+      <name>Camazepam</name>
+      <description>The therapeutic efficacy of Camazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01545</drugbank-id>
+      <name>Ethyl loflazepate</name>
+      <description>The therapeutic efficacy of Ethyl loflazepate can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01567</drugbank-id>
+      <name>Fludiazepam</name>
+      <description>The therapeutic efficacy of Fludiazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09166</drugbank-id>
+      <name>Etizolam</name>
+      <description>The therapeutic efficacy of Etizolam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12537</drugbank-id>
+      <name>Benzodiazepine</name>
+      <description>The therapeutic efficacy of Benzodiazepine can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13335</drugbank-id>
+      <name>Pinazepam</name>
+      <description>The therapeutic efficacy of Pinazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13643</drugbank-id>
+      <name>Loprazolam</name>
+      <description>The therapeutic efficacy of Loprazolam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13837</drugbank-id>
+      <name>Doxefazepam</name>
+      <description>The therapeutic efficacy of Doxefazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14028</drugbank-id>
+      <name>Nordazepam</name>
+      <description>The therapeutic efficacy of Nordazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14672</drugbank-id>
+      <name>Oxazepam acetate</name>
+      <description>The therapeutic efficacy of Oxazepam acetate can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14715</drugbank-id>
+      <name>Cinazepam</name>
+      <description>The therapeutic efficacy of Cinazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14719</drugbank-id>
+      <name>Bentazepam</name>
+      <description>The therapeutic efficacy of Bentazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12404</drugbank-id>
+      <name>Remimazolam</name>
+      <description>The therapeutic efficacy of Remimazolam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01068</drugbank-id>
+      <name>Clonazepam</name>
+      <description>The therapeutic efficacy of Clonazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00546</drugbank-id>
+      <name>Adinazolam</name>
+      <description>The therapeutic efficacy of Adinazolam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01511</drugbank-id>
+      <name>Delorazepam</name>
+      <description>The therapeutic efficacy of Delorazepam can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>The therapeutic efficacy of Furosemide can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The therapeutic efficacy of Phenytoin can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The therapeutic efficacy of Fosphenytoin can be decreased when used in combination with Hyaluronidase (ovine).</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt; Hyaluronidase Sequence
+MWTGLGPAVTLALVLVVAWATELKPTAPPIFTGRPFVVAWDVPTQDCGPRHKMPLDPKDM
+KAFDVQASPNEGFVNQNITIFYRDRLGMYPHFNSVGGSVHGGVPQNGSLWVHLEMLKGHV
+EHYIRTQEPAGLAVIDWEDWRPVWVRNWQDKDVYRRLSRQLVASHHPDWPPERIVKEAQY
+EFEFAARQFMLETLRFVKAFRPRHLWGFYLFPDCYNHDYVQNWETYTGRCPDVEVSRNDQ
+LSWLWAESTALFPSVYLEETLASSTHGRNFVSFRVQEALRVADVHHANHALPVYVFTRPT
+YSRGLTGLSEMDLISTIGESAALGAAGVILWGDAGFTTSNETCRRLKDYLTRSLVPYVVN
+VSWAAQYCSWAQCHGHGRCVRRDPNAHTFLHLSASSFRLVPSHAPDEPRLRPEGELSWAD
+RNHLQTHFRCQCYLGWGGEQCQWDRRRAAGGASGAWAGFHLTGLLAVAVLAFTWTS</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.117</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.73</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>53870.9</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2455H3775N617O704S21</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>6039</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505087</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>L13781</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164745713</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P38567</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Hyaluronidase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201636</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>486164</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/hylenex.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/hyaluronidase.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0004821</id>
+      <name>Hyaluronan</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+    <target position="2">
+      <id>BE0000984</id>
+      <name>Transforming growth factor beta-1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11623</ref-id>
+            <pubmed-id>11327694</pubmed-id>
+            <citation>Chang NS: Hyaluronidase activation of c-Jun N-terminal kinase is necessary for protection of L929 fibrosarcoma cells from staurosporine-mediated cell death. Biochem Biophys Res Commun. 2001 May 4;283(2):278-86.</citation>
+          </article>
+          <article>
+            <ref-id>A11624</ref-id>
+            <pubmed-id>7648625</pubmed-id>
+            <citation>Locci P, Marinucci L, Lilli C, Martinese D, Becchetti E: Transforming growth factor beta 1-hyaluronic acid interaction. Cell Tissue Res. 1995 Aug;281(2):317-24.</citation>
+          </article>
+          <article>
+            <ref-id>A11625</ref-id>
+            <pubmed-id>9435505</pubmed-id>
+            <citation>Chang NS: Hyaluronidase enhancement of TNF-mediated cell death is reversed by TGF-beta 1. Am J Physiol. 1997 Dec;273(6 Pt 1):C1987-94.</citation>
+          </article>
+          <article>
+            <ref-id>A11626</ref-id>
+            <pubmed-id>9850732</pubmed-id>
+            <citation>Chang NS: Transforming growth factor-beta protection of cancer cells against tumor necrosis factor cytotoxicity is counteracted by hyaluronidase (review). Int J Mol Med. 1998 Dec;2(6):653-9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P01137" source="Swiss-Prot">
+        <name>Transforming growth factor beta-1</name>
+        <general-function>Type iii transforming growth factor beta receptor binding</general-function>
+        <specific-function>Multifunctional protein that controls proliferation, differentiation and other functions in many cell types. Many cells synthesize TGFB1 and have specific receptors for it. It positively and negatively regulates many other growth factors. It plays an important role in bone remodeling as it is a potent stimulator of osteoblastic bone formation, causing chemotaxis, proliferation and differentiation in committed osteoblasts. Can promote either T-helper 17 cells (Th17) or regulatory T-cells (Treg) lineage differentiation in a concentration-dependent manner. At high concentrations, leads to FOXP3-mediated suppression of RORC and down-regulation of IL-17 expression, favoring Treg cell development. At low concentrations in concert with IL-6 and IL-21, leads to expression of the IL-17 and IL-23 receptors, favoring differentiation to Th17 cells.</specific-function>
+        <gene-name>TGFB1</gene-name>
+        <locus>19q13.2|19q13.1</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-29</signal-regions>
+        <theoretical-pi>8.63</theoretical-pi>
+        <molecular-weight>44340.685</molecular-weight>
+        <chromosome-location>19</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11766</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>TGFB1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X05839</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1212989</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P01137</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TGFB1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>TGF-beta-1</synonym>
+          <synonym>TGFB</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0021834|Transforming growth factor beta-1
+MPPSGLRLLLLLLPLLWLLVLTPGRPAAGLSTCKTIDMELVKRKRIEAIRGQILSKLRLA
+SPPSQGEVPPGPLPEAVLALYNSTRDRVAGESAEPEPEPEADYYAKEVTRVLMVETHNEI
+YDKFKQSTHSIYMFFNTSELREAVPEPVLLSRAELRLLRLKLKVEQHVELYQKYSNNSWR
+YLSNRLLAPSDSPEWLSFDVTGVVRQWLSRGGEIEGFRLSAHCSCDSRDNTLQVDINGFT
+TGRRGDLATIHGMNRPFLLLMATPLERAQHLQSSRHRRALDTNYCFSSTEKNCCVRQLYI
+DFRKDLGWKWIHEPKGYHANFCLGPCPYIWSLDTQYSKVLALYNQHNPGASAAPCCVPQA
+LEPLPIVYYVGRKPKVEQLSNMIVRSCKCS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021835|Transforming growth factor beta-1 (TGFB1)
+ATGCCGCCCTCCGGGCTGCGGCTGCTGCCGCTGCTGCTACCGCTGCTGTGGCTACTGGTG
+CTGACGCCTGGCCGGCCGGCCGCGGGACTATCCACCTGCAAGACTATCGACATGGAGCTG
+GTGAAGCGGAAGCGCATCGAGGCCATCCGCGGCCAGATCCTGTCCAAGCTGCGGCTCGCC
+AGCCCCCCGAGCCAGGGGGAGGTGCCGCCCGGCCCGCTGCCCGAGGCCGTGCTCGCCCTG
+TACAACAGCACCCGCGACCGGGTGGCCGGGGAGAGTGCAGAACCGGAGCCCGAGCCTGAG
+GCCGACTACTACGCCAAGGAGGTCACCCGCGTGCTAATGGTGGAAACCCACAACGAAATC
+TATGACAAGTTCAAGCAGAGTACACACAGCATATATATGTTCTTCAACACATCAGAGCTC
+CGAGAAGCGGTACCTGAACCCGTGTTGCTCTCCCGGGCAGAGCTGCGTCTGCTGAGGCTC
+AAGTTAAAAGTGGAGCAGCACGTGGAGCTGTACCAGAAATACAGCAACAATTCCTGGCGA
+TACCTCAGCAACCGGCTGCTGGCACCCAGCGACTCGCCAGAGTGGTTATCTTTTGATGTC
+ACCGGAGTTGTGCGGCAGTGGTTGAGCCGTGGAGGGGAAATTGAGGGCTTTCGCCTTAGC
+GCCCACTGCTCCTGTGACAGCAGGGATAACACACTGCAAGTGGACATCAACGGGTTCACT
+ACCGGCCGCCGAGGTGACCTGGCCACCATTCATGGCATGAACCGGCCTTTCCTGCTTCTC
+ATGGCCACCCCGCTGGAGAGGGCCCAGCATCTGCAAAGCTCCCGGCACCGCCGAGCCCTG
+GACACCAACTATTGCTTCAGCTCCACGGAGAAGAACTGCTGCGTGCGGCAGCTGTACATT
+GACTTCCGCAAGGACCTCGGCTGGAAGTGGATCCACGAGCCCAAGGGCTACCATGCCAAC
+TTCTGCCTCGGGCCCTGCCCCTACATTTGGAGCCTGGACACGCAGTACAGCAAGGTCCTG
+GCCCTGTACAACCAGCATAACCCGGGCGCCTCGGCGGCGCCGTGCTGCGTGCCGCAGGCG
+CTGGAGCCGCTGCCCATCGTGTACTACGTGGGCCGCAAGCCCAAGGTGGAGCAGCTGTCC
+AACATGATCGTGCGCTCCTGCAAGTGCAGCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00019</identifier>
+            <name>TGF_beta</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00688</identifier>
+            <name>TGFb_propeptide</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>axon</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>platelet alpha granule lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>proteinaceous extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>antigen binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glycoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type I transforming growth factor beta receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type II transforming growth factor beta receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type III transforming growth factor beta receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>active induction of host immune response by virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adaptive immune response based on somatic recombination of immune receptors built from immunoglobulin superfamily domains</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ATP biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branch elongation involved in mammary gland duct branching</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell cycle arrest</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell junction organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to dexamethasone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to organic cyclic compound</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to transforming growth factor beta stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>common-partner SMAD protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>connective tissue replacement involved in inflammatory response wound healing</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to fungus, incompatible interaction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>digestive tract development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endoderm development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial to mesenchymal transition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>evasion or tolerance of host defenses by virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extrinsic apoptotic signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>face morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female pregnancy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>frontal suture morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>germ cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hematopoietic progenitor cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hyaluronan catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lens fiber cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipopolysaccharide-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lymph node development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>macrophage derived foam cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mammary gland branching involved in thelarche</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitotic cell cycle checkpoint</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>modulation by virus of host morphology or physiology</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mononuclear cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>myelination</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>myeloid dendritic cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of blood vessel endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of DNA replication</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of gene silencing by miRNA</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of hyaluronan biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-17 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage cytokine production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of mitotic cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of myoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of neuroblast proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein localization to plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of release of sequestered calcium ion into cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of skeletal muscle tissue development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of T cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transforming growth factor beta receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Notch signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oligodendrocyte development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ossification involved in bone remodeling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>pathway-restricted SMAD protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphate-containing compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood vessel endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of branching involved in ureteric bud morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell cycle arrest</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of collagen biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial to mesenchymal transition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of exit from mitosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of extracellular matrix assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fibroblast migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fibroblast proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of histone acetylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of histone deacetylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-17 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of isotype switching to IgA isotypes</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of NAD+ ADP-ribosyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of NF-kappaB transcription factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of odontogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of pathway-restricted SMAD protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of peptidyl-serine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of peptidyl-threonine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphatidylinositol 3-kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein complex assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein dephosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of SMAD protein import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of superoxide anion generation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription regulatory region DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vascular endothelial growth factor production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vascular permeability</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein export from nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein import into nucleus, translocation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of actin cytoskeleton reorganization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of blood vessel remodeling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of branching involved in mammary gland duct morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cartilage development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of interleukin-23 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of protein import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of sodium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of striated muscle tissue development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of transforming growth factor beta receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulatory T cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cholesterol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to glucose</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to hypoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to laminar fluid shear stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to progesterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to radiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin D</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to wounding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>SMAD protein complex assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>SMAD protein import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>SMAD protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>T cell homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tolerance induction to self antigen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transforming growth factor beta receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ureteric bud development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>viral life cycle</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers>
+    <carrier position="5">
+      <id>BE0000530</id>
+      <name>Serum albumin</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11627</ref-id>
+            <pubmed-id>10036158</pubmed-id>
+            <citation>Maingonnat C, Victor R, Bertrand P, Courel MN, Maunoury R, Delpech B: Activation and inhibition of human cancer cell hyaluronidase by proteins. Anal Biochem. 1999 Mar 1;268(1):30-4.</citation>
+          </article>
+          <article>
+            <ref-id>A11628</ref-id>
+            <pubmed-id>10466114</pubmed-id>
+            <citation>Parameswaran S, Brown LV, Ibbott GS, Lai-Fook SJ: Effect of concentration and hyaluronidase on albumin diffusion across rabbit mesentery. Microcirculation. 1999 Jun;6(2):117-26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02768" source="Swiss-Prot">
+        <name>Serum albumin</name>
+        <general-function>Toxic substance binding</general-function>
+        <specific-function>Serum albumin, the main protein of plasma, has a good binding capacity for water, Ca(2+), Na(+), K(+), fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloidal osmotic pressure of blood. Major zinc transporter in plasma, typically binds about 80% of all plasma zinc.</specific-function>
+        <gene-name>ALB</gene-name>
+        <locus>4q11-q13</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>6.21</theoretical-pi>
+        <molecular-weight>69365.94</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:399</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ALB</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>V00494</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>28590</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02768</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ALBU_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Serum albumin precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001058|Serum albumin
+MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPF
+EDHVKLVNEVTEFAKTCVADESAENCDKSLHTLFGDKLCTVATLRETYGEMADCCAKQEP
+ERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPELLF
+FAKRYKAAFTECCQAADKAACLLPKLDELRDEGKASSAKQRLKCASLQKFGERAFKAWAV
+ARLSQRFPKAEFAEVSKLVTDLTKVHTECCHGDLLECADDRADLAKYICENQDSISSKLK
+ECCEKPLLEKSHCIAEVENDEMPADLPSLAADFVESKDVCKNYAEAKDVFLGMFLYEYAR
+RHPDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEEPQNLIKQNCELFE
+QLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHPEAKRMPCAEDYLSVV
+LNQLCVLHEKTPVSDRVTKCCTESLVNRRPCFSALEVDETYVPKEFNAETFTFHADICTL
+SEKERQIKKQTALVELVKHKPKATKEQLKAVMDDFAAFVEKCCKADDKETCFAEEGKKLV
+AASQAALGL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010372|Serum albumin (ALB)
+ATGAAGTGGGTAACCTTTATTTCCCTTCTTTTTCTCTTTAGCTCGGCTTATTCCAGGGGT
+GTGTTTCGTCGAGATGCACACAAGAGTGAGGTTGCTCATCGGTTTAAAGATTTGGGAGAA
+GAAAATTTCAAAGCCTTGGTGTTGATTGCCTTTGCTCAGTATCTTCAGCAGTGTCCATTT
+GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAATTTGCAAAAACATGTGTTGCTGAT
+GAGTCAGCTGAAAATTGTGACAAATCACTTCATACCCTTTTTGGAGACAAATTATGCACA
+GTTGCAACTCTTCGTGAAACCTATGGTGAAATGGCTGACTGCTGTGCAAAACAAGAACCT
+GAGAGAAATGAATGCTTCTTGCAACACAAAGATGACAACCCAAACCTCCCCCGATTGGTG
+AGACCAGAGGTTGATGTGATGTGCACTGCTTTTCATGACAATGAAGAGACATTTTTGAAA
+AAATACTTATATGAAATTGCCAGAAGACATCCTTACTTTTATGCCCCGGAACTCCTTTTC
+TTTGCTAAAAGGTATAAAGCTGCTTTTACAGAATGTTGCCAAGCTGCTGATAAAGCTGCC
+TGCCTGTTGCCAAAGCTCGATGAACTTCGGGATGAAGGGAAGGCTTCGTCTGCCAAACAG
+AGACTCAAGTGTGCCAGTCTCCAAAAATTTGGAGAAAGAGCTTTCAAAGCATGGGCAGTA
+GCTCGCCTGAGCCAGAGATTTCCCAAAGCTGAGTTTGCAGAAGTTTCCAAGTTAGTGACA
+GATCTTACCAAAGTCCACACGGAATGCTGCCATGGAGATCTGCTTGAATGTGCTGATGAC
+AGGGCGGACCTTGCCAAGTATATCTGTGAAAATCAAGATTCGATCTCCAGTAAACTGAAG
+GAATGCTGTGAAAAACCTCTGTTGGAAAAATCCCACTGCATTGCCGAAGTGGAAAATGAT
+GAGATGCCTGCTGACTTGCCTTCATTAGCTGCTGATTTTGTTGAAAGTAAGGATGTTTGC
+AAAAACTATGCTGAGGCAAAGGATGTCTTCCTGGGCATGTTTTTGTATGAATATGCAAGA
+AGGCATCCTGATTACTCTGTCGTGCTGCTGCTGAGACTTGCCAAGACATATGAAACCACT
+CTAGAGAAGTGCTGTGCCGCTGCAGATCCTCATGAATGCTATGCCAAAGTGTTCGATGAA
+TTTAAACCTCTTGTGGAAGAGCCTCAGAATTTAATCAAACAAAATTGTGAGCTTTTTGAG
+CAGCTTGGAGAGTACAAATTCCAGAATGCGCTATTAGTTCGTTACACCAAGAAAGTACCC
+CAAGTGTCAACTCCAACTCTTGTAGAGGTCTCAAGAAACCTAGGAAAAGTGGGCAGCAAA
+TGTTGTAAACATCCTGAAGCAAAAAGAATGCCCTGTGCAGAAGACTATCTATCCGTGGTC
+CTGAACCAGTTATGTGTGTTGCATGAGAAAACGCCAGTAAGTGACAGAGTCACCAAATGC
+TGCACAGAATCCTTGGTGAACAGGCGACCATGCTTTTCAGCTCTGGAAGTCGATGAAACA
+TACGTTCCCAAAGAGTTTAATGCTGAAACATTCACCTTCCATGCAGATATATGCACACTT
+TCTGAGAAGGAGAGACAAATCAAGAAACAAACTGCACTTGTTGAGCTCGTGAAACACAAG
+CCCAAGGCAACAAAAGAGCAACTGAAAGCTGTTATGGATGATTTCGCAGCTTTTGTAGAG
+AAGTGCTGCAAGGCTGACGATAAGGAGACCTGCTTTGCCGAGGAGGGTAAAAAACTTGTT
+GCTGCAAGTCAAGCTGCCTTAGGCTTATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00273</identifier>
+            <name>Serum_albumin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>myelin sheath</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>platelet alpha granule lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>protein complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>antioxidant activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chaperone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>copper ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fatty acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>pyridoxal phosphate binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>toxic substance binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid and bile salt transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to starvation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hemolysis by symbiont of host erythrocytes</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maintenance of mitochondrion location</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of programmed cell death</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retina homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium-independent organic anion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </carrier>
+  </carriers>
+  <transporters/>
+</drug>

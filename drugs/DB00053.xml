@@ -1,0 +1,486 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00053</drugbank-id>
+  <drugbank-id>BTD00026</drugbank-id>
+  <drugbank-id>BIOD00026</drugbank-id>
+  <name>Imiglucerase</name>
+  <description>Human Beta-glucocerebrosidase or Beta-D-glucosyl-N-acylsphingosine glucohydrolase E.C. 3.2.1.45. 497 residue protein with N-linked carbohydrates, MW=59.3 kD. Alglucerase is prepared by modification of the oligosaccharide chains of human Beta-glucocerebrosidase. The modification alters the sugar residues at the non-reducing ends of the oligosaccharide chains of the glycoprotein so that they are predominantly terminated with mannose residues.</description>
+  <cas-number>154248-97-2</cas-number>
+  <unii>Q6U6J48BWY</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A95</ref-id>
+        <pubmed-id>20301446</pubmed-id>
+        <citation>Pastores GM, Hughes DA: Gaucher Disease .</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of Gaucher's disease (deficiency in glucocerebrosidase)</indication>
+  <pharmacodynamics>Gaucher disease is characterized by a functional deficiency in Beta-glucocerebrosidase enzymatic activity and the resultant accumulation of lipid glucocerebroside in tissue macrophages which become engorged and are termed Gaucher cells. Gaucher cells are typically found in liver, spleen and bone marrow. This can lead to an enlarged spleen and liver (hepatosplenomegaly). Secondary hematologic sequelae include severe anemia and thrombocytopenia. Injections of imiglucerase into Gaucher disease patients leads to elevated serum levels of the enzyme and reduction in the accumulation of glucocerebroside leading to reduced anemia and thrombocytopenia, reduced spleen and liver size, and decreased cachexia</pharmacodynamics>
+  <mechanism-of-action>Imiglucerase catalyzes the hydrolysis of the glycolipid, glucocerebroside, to glucose and ceramide as part of the normal degradation pathway for membrane lipids.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>3.6-10.4 min</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>* 0.09 to 0.15 L/kg</volume-of-distribution>
+  <clearance>* 14.5 +/- 4.0 mL/min/kg</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="spanish" coder="">Imiglucerasa</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-1983</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-05-23</started-marketing-on>
+      <ended-marketing-on>2012-05-31</ended-marketing-on>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>40 U/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA020367</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-4663</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-05-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>40 U/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA020367</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000157</ema-product-code>
+      <ema-ma-number>EU/1/97/053/003</ema-ma-number>
+      <started-marketing-on>1997-11-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000157</ema-product-code>
+      <ema-ma-number>EU/1/97/053/004</ema-ma-number>
+      <started-marketing-on>1997-11-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000157</ema-product-code>
+      <ema-ma-number>EU/1/97/053/005</ema-ma-number>
+      <started-marketing-on>1997-11-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02241751</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-06-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>400 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cerezyme</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230694</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-05-01</started-marketing-on>
+      <ended-marketing-on>2016-08-04</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>200 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cerezyme</name>
+      <ingredients>Imiglucerase</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Genzyme Inc.</name>
+      <url>http://www.genzyme.ca</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Genzyme corp</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Ceredase 80 unit/ml vial</description>
+      <cost currency="USD">380.64</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Cerezyme 200 unit vial</description>
+      <cost currency="USD">951.6</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Cerezyme 400 unit vial</description>
+      <cost currency="USD">1903.2</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzyme Replacement Therapy</category>
+      <mesh-id>D056947</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Gaucher Disease</category>
+      <mesh-id>D005776</mesh-id>
+    </category>
+    <category>
+      <category>Glucosidases</category>
+      <mesh-id>D005959</mesh-id>
+    </category>
+    <category>
+      <category>Glycoside Hydrolases</category>
+      <mesh-id>D006026</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolytic Lysosomal Glucocerebroside-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Recombinant Proteins</category>
+      <mesh-id>D011994</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>200 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>400 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>200 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>40 U/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Intravenous</route>
+      <strength>200 U</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>200 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>400 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>400 U</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 U</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>400 U</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A16AB02">
+      <level code="A16AB">Enzymes</level>
+      <level code="A16A">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A16">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00053.pdf?1265922798</fda-label>
+  <patents>
+    <patent>
+      <number>5549892</number>
+      <country>United States</country>
+      <approved>1996-08-27</approved>
+      <expires>2013-08-27</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00053 sequence
+ARPCIPKSFGYSSVVCVCNATYCDSFDPPTFPALGTFSRYESTRSGRRMELSMGPIQANH
+TGTGLLLTLQPEQKFQKVKGFGGAMTDAAALNILALSPPAQNLLLKSYFSEEGIGYNIIR
+VPMASCDFSIRTYTYADTPDDFQLHNFSLPEEDTKLKIPLIHRALQLAQRPVSLLASPWT
+SPTWLKTNGAVNGKGSLKGQPGDIYHQTWARYFVKFLDAYAEHKLQFWAVTAENEPSAGL
+LSGYPFQCLGFTPEHQRDFIARDLGPTLANSTHHNVRLLMLDDQRLLLPHWAKVVLTDPE
+AAKYVHGIAVHWYLDFLAPAKATLGETHRLFPNTMLFASEACVGSKFWEQSVRLGSWDRG
+MQYSHSIITNLLYHVVGWTDWNLALNPEGGPNWVRNFVDSPIIVDITKDTFYKQPMFYHL
+GHFSKFIPEGSQRVGLVASQKNDLDAVALMHPDGSAVVVVLNRSSKDVPLTIKDPAVGFL
+ETISPGYSIHTYLWRRQ</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.168</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>7.41</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>55597.4</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2532H3854N672O711S16</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11365</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46508744</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D02810</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M16328</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164742934</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P04062</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Imiglucerase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201632</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>84959</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/imiglucerase.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/imiglucerase.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0004806</id>
+      <name>Glucocerebroside</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A95</ref-id>
+            <pubmed-id>20301446</pubmed-id>
+            <citation>Pastores GM, Hughes DA: Gaucher Disease .</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

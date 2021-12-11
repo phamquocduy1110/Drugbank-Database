@@ -1,0 +1,3746 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00002</drugbank-id>
+  <drugbank-id>BTD00071</drugbank-id>
+  <drugbank-id>BIOD00071</drugbank-id>
+  <name>Cetuximab</name>
+  <description>Cetuximab is an epidermal growth factor receptor binding FAB. Cetuximab is composed of the Fv (variable; antigen-binding) regions of the 225 murine EGFr monoclonal antibody specific for the N-terminal portion of human EGFr with human IgG1 heavy and kappa light chain constant (framework) regions. Cetuximab is marketed under the brand Erbitux® by Eli Lilly and Company. In the United States, a regimen of cetuximab costs approximately $30,790 for an eight-week course.</description>
+  <cas-number>205923-56-4</cas-number>
+  <unii>PQX0D8J21J</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A4</ref-id>
+        <pubmed-id>10480573</pubmed-id>
+        <citation>Hosokawa N, Yamamoto S, Uehara Y, Hori M, Tsuchiya KS: Effect of thiazinotrienomycin B, an ansamycin antibiotic, on the function of epidermal growth factor receptor in human stomach tumor cells. J Antibiot (Tokyo). 1999 May;52(5):485-90.</citation>
+      </article>
+      <article>
+        <ref-id>A5</ref-id>
+        <pubmed-id>10601294</pubmed-id>
+        <citation>Wakita H, Takigawa M: Activation of epidermal growth factor receptor promotes late terminal differentiation of cell-matrix interaction-disrupted keratinocytes. J Biol Chem. 1999 Dec 24;274(52):37285-91.</citation>
+      </article>
+      <article>
+        <ref-id>A6</ref-id>
+        <pubmed-id>10628369</pubmed-id>
+        <citation>Suwa T, Ueda M, Jinno H, Ozawa S, Kitagawa Y, Ando N, Kitajima M: Epidermal growth factor receptor-dependent cytotoxic effect of anti-EGFR antibody-ribonuclease conjugate on human cancer cells. Anticancer Res. 1999 Sep-Oct;19(5B):4161-5.</citation>
+      </article>
+      <article>
+        <ref-id>A7</ref-id>
+        <pubmed-id>11408594</pubmed-id>
+        <citation>Burke P, Schooler K, Wiley HS: Regulation of epidermal growth factor receptor signaling by endocytosis and intracellular trafficking. Mol Biol Cell. 2001 Jun;12(6):1897-910.</citation>
+      </article>
+      <article>
+        <ref-id>A8</ref-id>
+        <pubmed-id>11431346</pubmed-id>
+        <citation>Viloria-Petit A, Crombet T, Jothy S, Hicklin D, Bohlen P, Schlaeppi JM, Rak J, Kerbel RS: Acquired resistance to the antitumor effect of epidermal growth factor receptor-blocking antibodies in vivo: a role for altered tumor angiogenesis. Cancer Res. 2001 Jul 1;61(13):5090-101.</citation>
+      </article>
+      <article>
+        <ref-id>A9</ref-id>
+        <pubmed-id>11752352</pubmed-id>
+        <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+      </article>
+      <article>
+        <ref-id>A10</ref-id>
+        <pubmed-id>15269308</pubmed-id>
+        <citation>Schrag D: The price tag on progress--chemotherapy for colorectal cancer. N Engl J Med. 2004 Jul 22;351(4):317-9.</citation>
+      </article>
+      <article>
+        <ref-id>A11</ref-id>
+        <pubmed-id>16336752</pubmed-id>
+        <citation>Snyder LC, Astsaturov I, Weiner LM: Overview of monoclonal antibodies and small molecules targeting the epidermal growth factor receptor pathway in colorectal cancer. Clin Colorectal Cancer. 2005 Nov;5 Suppl 2:S71-80.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Cetuximab, used in combination with irinotecan, is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are refractory to irinotecan-based chemotherapy. Cetuximab administered as a single agent is indicated for the treatment of EGFR-expressing, metastatic colorectal carcinoma in patients who are intolerant to irinotecan-based chemotherapy.</indication>
+  <pharmacodynamics>Used in the treatment of colorectal cancer, cetuximab binds specifically to the epidermal growth factor receptor (EGFr, HER1, c-ErbB-1) on both normal and tumor cells. EGFr is over-expressed in many colorectal cancers. Cetuximab competitively inhibits the binding of epidermal growth factor (EGF) and other ligands, such as transforming growth factor–alpha. Binding of cetuximab to the EGFr blocks phosphorylation and activation of receptor-associated kinases, resulting in inhibition of cell growth, induction of apoptosis, decreased matrix metalloproteinase secretion and reduced vascular endothelial growth factor production.</pharmacodynamics>
+  <mechanism-of-action>Cetuximab binds to the epidermal growth factor receptor (EGFr) on both normal and tumor cells. EGFr is over-expressed in many colorectal cancers. Cetuximab competitively inhibits the binding of epidermal growth factor (EGF) and TGF alpha, thereby reducing their effects on cell growth and metastatic spread.</mechanism-of-action>
+  <toxicity>Pulmonary Toxicity&#13;
+&#13;
+Interstitial lung disease (ILD) was reported in 3 of 633 (&lt;0.5%) patients with advanced colorectal cancer receiving cetuximab. Interstitial pneumonitis with non-cardiogenic pulmonary edema resulting in death was reported in one case. Two patients had pre-existing fibrotic lung disease and experienced an acute exacerbation of their disease while receiving cetuximab in combination with irinotecan. In the clinical investigational program, an additional case of interstitial pneumonitis was reported in a patient with head and neck cancer treated with cetuximab and cisplatin. The onset of symptoms occurred between the fourth and eleventh doses of treatment in all reported cases.</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life>The mean half-life for Cetuximab is 114 hours (range 75-188 hours).</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>appeared to be independent of dose and approximated the vascular space of 2-3 L/m2.</volume-of-distribution>
+  <clearance>Female patients had 25% lower intrinsic clearance than male patients.</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english/spanish/german" coder="inn/usan">Cetuximab</synonym>
+    <synonym language="french" coder="inn">Cétuximab</synonym>
+    <synonym language="latin" coder="inn">Cetuximabum</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Erbitux</name>
+      <labeller>Merck K Ga A</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000558</ema-product-code>
+      <ema-ma-number>EU/1/04/281/003</ema-ma-number>
+      <started-marketing-on>2004-06-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Erbitux</name>
+      <labeller>Merck K Ga A</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000558</ema-product-code>
+      <ema-ma-number>EU/1/04/281/005</ema-ma-number>
+      <started-marketing-on>2004-06-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>5 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Erbitux</name>
+      <labeller>ImClone LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>66733-948</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125084</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Erbitux</name>
+      <labeller>ImClone LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>66733-958</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-10-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125084</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Erbitux</name>
+      <labeller>ImClone LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02271249</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-10-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Erbitux</name>
+      <ingredients>Cetuximab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Erbitux</name>
+      <ingredients>Cetuximab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Erbitux</name>
+      <ingredients>Cetuximab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Erbitux</name>
+      <ingredients>Cetuximab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Erbitux</name>
+      <ingredients>Cetuximab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Cardinal Health</name>
+      <url>http://www.cardinal.com</url>
+    </packager>
+    <packager>
+      <name>Catalent Pharma Solutions</name>
+      <url>http://www.catalent.com</url>
+    </packager>
+    <packager>
+      <name>ImClone Systems Inc.</name>
+      <url>http://www.imclone.com</url>
+    </packager>
+    <packager>
+      <name>Oso Biopharmaceuticals Manufacturing LLC</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal</category>
+      <mesh-id>D000911</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal, Humanized</category>
+      <mesh-id>D061067</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic Agents</category>
+      <mesh-id>D000970</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic Agents, Immunological</category>
+      <mesh-id>D000074322</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Epidermal Growth Factor Receptor Antagonist</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>HER1 Antagonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Narrow Therapeutic Index Drugs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>5 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>5 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>100 mg/20ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>500 mg/100ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>5 MG/ML</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L01XC06">
+      <level code="L01XC">Monoclonal antibodies</level>
+      <level code="L01X">OTHER ANTINEOPLASTIC AGENTS</level>
+      <level code="L01">ANTINEOPLASTIC AGENTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>10:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00002.pdf?1265922813</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00002.pdf?1458412933</msds>
+  <patents>
+    <patent>
+      <number>1340417</number>
+      <country>Canada</country>
+      <approved>1999-03-02</approved>
+      <expires>2016-03-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00012</drugbank-id>
+      <name>Darbepoetin alfa</name>
+      <description>The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00016</drugbank-id>
+      <name>Erythropoietin</name>
+      <description>The risk or severity of Thrombosis can be increased when Erythropoietin is combined with Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08894</drugbank-id>
+      <name>Peginesatide</name>
+      <description>The risk or severity of Thrombosis can be increased when Peginesatide is combined with Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09107</drugbank-id>
+      <name>Methoxy polyethylene glycol-epoetin beta</name>
+      <description>The risk or severity of Thrombosis can be increased when Methoxy polyethylene glycol-epoetin beta is combined with Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>Conjugated estrogens may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>Ethinylestradiol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>Estrone sulfate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>Esterified estrogens may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>Equol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>Epimestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>Moxestrol may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>Estradiol acetate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>Estradiol benzoate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>Estradiol cypionate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>Estradiol valerate may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>Biochanin A may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>Formononetin may increase the thrombogenic activities of Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00028</drugbank-id>
+      <name>Human immunoglobulin G</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Human immunoglobulin G.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00043</drugbank-id>
+      <name>Omalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Adalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gemtuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00057</drugbank-id>
+      <name>Indium In-111 satumomab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Indium In-111 satumomab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Infliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Basiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Muromonab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00076</drugbank-id>
+      <name>Digoxin Immune Fab (Ovine)</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Digoxin Immune Fab (Ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00089</drugbank-id>
+      <name>Capromab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00110</drugbank-id>
+      <name>Palivizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00113</drugbank-id>
+      <name>Technetium Tc-99m arcitumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Technetium Tc-99m arcitumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04901</drugbank-id>
+      <name>Galiximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Galiximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04949</drugbank-id>
+      <name>Pexelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pexelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04958</drugbank-id>
+      <name>Epratuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Epratuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04962</drugbank-id>
+      <name>Bectumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bectumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04964</drugbank-id>
+      <name>Oregovomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Oregovomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04988</drugbank-id>
+      <name>IGN311</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with IGN311.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05006</drugbank-id>
+      <name>Adecatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Adecatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05097</drugbank-id>
+      <name>Labetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Labetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05101</drugbank-id>
+      <name>Matuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Matuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05111</drugbank-id>
+      <name>Fontolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fontolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05136</drugbank-id>
+      <name>Bavituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bavituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05139</drugbank-id>
+      <name>CR002</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with CR002.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05209</drugbank-id>
+      <name>Rozrolimupab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rozrolimupab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05304</drugbank-id>
+      <name>Girentuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Girentuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05336</drugbank-id>
+      <name>Obiltoxaximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Obiltoxaximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05405</drugbank-id>
+      <name>XTL-001</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with XTL-001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05437</drugbank-id>
+      <name>NAV 1800</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with NAV 1800.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05496</drugbank-id>
+      <name>Otelixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Otelixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05545</drugbank-id>
+      <name>AMG 108</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with AMG 108.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05550</drugbank-id>
+      <name>Iratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Iratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05555</drugbank-id>
+      <name>Enokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Enokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05595</drugbank-id>
+      <name>Farletuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Farletuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05656</drugbank-id>
+      <name>Veltuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Veltuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05679</drugbank-id>
+      <name>Ustekinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ustekinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05793</drugbank-id>
+      <name>PRO-542</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with PRO-542.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05797</drugbank-id>
+      <name>TNX-901</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with TNX-901.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05889</drugbank-id>
+      <name>Inotuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Inotuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05892</drugbank-id>
+      <name>RI 624</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with RI 624.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05915</drugbank-id>
+      <name>MYO-029</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with MYO-029.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05916</drugbank-id>
+      <name>CT-011</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with CT-011.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05941</drugbank-id>
+      <name>Leronlimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Leronlimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05996</drugbank-id>
+      <name>Glembatumumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Glembatumumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06043</drugbank-id>
+      <name>Olaratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Olaratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06049</drugbank-id>
+      <name>IPH 2101</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with IPH 2101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06050</drugbank-id>
+      <name>TB-402</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with TB-402.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06101</drugbank-id>
+      <name>IMC-1C11</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with IMC-1C11.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06116</drugbank-id>
+      <name>Eldelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Eldelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06162</drugbank-id>
+      <name>Lumiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lumiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06192</drugbank-id>
+      <name>Nimotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Nimotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06241</drugbank-id>
+      <name>Clenoliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Clenoliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06304</drugbank-id>
+      <name>BIIB015</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with BIIB015.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06305</drugbank-id>
+      <name>Sonepcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sonepcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06310</drugbank-id>
+      <name>Motavizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Motavizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06317</drugbank-id>
+      <name>Elotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Elotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06318</drugbank-id>
+      <name>AVE9633</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with AVE9633.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06322</drugbank-id>
+      <name>Carotuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Carotuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06324</drugbank-id>
+      <name>XmAb 2513</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with XmAb 2513.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06342</drugbank-id>
+      <name>Coltuximab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Coltuximab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06343</drugbank-id>
+      <name>Teprotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Teprotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06360</drugbank-id>
+      <name>Lucatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lucatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06371</drugbank-id>
+      <name>Siplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Siplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06467</drugbank-id>
+      <name>Apolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Apolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06474</drugbank-id>
+      <name>Sibrotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sibrotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06550</drugbank-id>
+      <name>Bivatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bivatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06557</drugbank-id>
+      <name>Lerdelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lerdelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06599</drugbank-id>
+      <name>Lexatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lexatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06602</drugbank-id>
+      <name>Reslizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Reslizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06606</drugbank-id>
+      <name>Teplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Teplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Denosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06647</drugbank-id>
+      <name>Volociximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Volociximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08902</drugbank-id>
+      <name>Raxibacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Raxibacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Anthrax immune globulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09105</drugbank-id>
+      <name>Asfotase alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Asfotase alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09264</drugbank-id>
+      <name>Idarucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Idarucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09302</drugbank-id>
+      <name>Alirocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Alirocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09303</drugbank-id>
+      <name>Evolocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Evolocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11595</drugbank-id>
+      <name>Atezolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11604</drugbank-id>
+      <name>Tetanus Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tetanus Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11621</drugbank-id>
+      <name>Human Varicella-Zoster Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11646</drugbank-id>
+      <name>Conatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Conatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11657</drugbank-id>
+      <name>Tabalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tabalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11680</drugbank-id>
+      <name>Ficlatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ficlatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11685</drugbank-id>
+      <name>Figitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Figitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11714</drugbank-id>
+      <name>Durvalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Durvalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11715</drugbank-id>
+      <name>Bapineuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bapineuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11731</drugbank-id>
+      <name>Depatuxizumab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Depatuxizumab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11746</drugbank-id>
+      <name>Onartuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Onartuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11756</drugbank-id>
+      <name>Solanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Solanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11771</drugbank-id>
+      <name>Tremelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tremelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11826</drugbank-id>
+      <name>Lampalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lampalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11840</drugbank-id>
+      <name>Dalotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dalotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11849</drugbank-id>
+      <name>Emibetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Emibetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11850</drugbank-id>
+      <name>Ublituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ublituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11856</drugbank-id>
+      <name>Ligelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ligelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11857</drugbank-id>
+      <name>Seribantumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Seribantumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11862</drugbank-id>
+      <name>Landogrozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Landogrozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11866</drugbank-id>
+      <name>Romosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Romosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11884</drugbank-id>
+      <name>Vadastuximab Talirine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Vadastuximab Talirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11914</drugbank-id>
+      <name>Lebrikizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lebrikizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11930</drugbank-id>
+      <name>Varlilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Varlilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11945</drugbank-id>
+      <name>Avelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Avelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11959</drugbank-id>
+      <name>Crenezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Crenezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11972</drugbank-id>
+      <name>Rilotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rilotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11976</drugbank-id>
+      <name>Anifrolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Anifrolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12023</drugbank-id>
+      <name>Benralizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Benralizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12034</drugbank-id>
+      <name>Gantenerumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gantenerumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12053</drugbank-id>
+      <name>Visilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Visilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12077</drugbank-id>
+      <name>Urelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Urelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12089</drugbank-id>
+      <name>Lorvotuzumab mertansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lorvotuzumab mertansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12090</drugbank-id>
+      <name>Patritumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Patritumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12102</drugbank-id>
+      <name>Fulranumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fulranumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12104</drugbank-id>
+      <name>Tarextumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tarextumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12118</drugbank-id>
+      <name>Sotatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sotatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12119</drugbank-id>
+      <name>Gevokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gevokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12142</drugbank-id>
+      <name>Duligotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Duligotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12152</drugbank-id>
+      <name>Simtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Simtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12157</drugbank-id>
+      <name>Fasinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fasinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12159</drugbank-id>
+      <name>Dupilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dupilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12169</drugbank-id>
+      <name>Tralokinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tralokinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12189</drugbank-id>
+      <name>Etrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Etrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12202</drugbank-id>
+      <name>Zalutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Zalutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12205</drugbank-id>
+      <name>Ganitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ganitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12213</drugbank-id>
+      <name>Etaracizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Etaracizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12240</drugbank-id>
+      <name>Polatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Polatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12246</drugbank-id>
+      <name>Inclacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Inclacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12250</drugbank-id>
+      <name>Cixutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Cixutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12261</drugbank-id>
+      <name>Ascrinvacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ascrinvacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12274</drugbank-id>
+      <name>Aducanumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Aducanumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12281</drugbank-id>
+      <name>Luspatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Luspatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12296</drugbank-id>
+      <name>GS-5745</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with GS-5745.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12317</drugbank-id>
+      <name>Vanucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Vanucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12331</drugbank-id>
+      <name>Labetuzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Labetuzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12335</drugbank-id>
+      <name>Tanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12342</drugbank-id>
+      <name>Ensituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ensituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12344</drugbank-id>
+      <name>Fezakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fezakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12363</drugbank-id>
+      <name>Dusigitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dusigitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12396</drugbank-id>
+      <name>Fresolimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fresolimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12413</drugbank-id>
+      <name>Indusatumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Indusatumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12456</drugbank-id>
+      <name>Bococizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bococizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12489</drugbank-id>
+      <name>Mirvetuximab Soravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Mirvetuximab Soravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12498</drugbank-id>
+      <name>Mogamulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Mogamulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12520</drugbank-id>
+      <name>Plozalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Plozalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Inebilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12534</drugbank-id>
+      <name>Mavrilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Mavrilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12560</drugbank-id>
+      <name>Blosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Blosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12584</drugbank-id>
+      <name>Bimagrumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bimagrumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12589</drugbank-id>
+      <name>Dacetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dacetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12609</drugbank-id>
+      <name>Tovetumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tovetumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12683</drugbank-id>
+      <name>Lumretuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lumretuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12698</drugbank-id>
+      <name>Ibalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ibalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12701</drugbank-id>
+      <name>Intetumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Intetumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12718</drugbank-id>
+      <name>Carlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Carlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12734</drugbank-id>
+      <name>Demcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Demcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12773</drugbank-id>
+      <name>Sifalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sifalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12775</drugbank-id>
+      <name>Abituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Abituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12797</drugbank-id>
+      <name>Ecromeximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ecromeximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12807</drugbank-id>
+      <name>Naptumomab Estafenatox</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Naptumomab Estafenatox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12815</drugbank-id>
+      <name>Crotedumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Crotedumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12820</drugbank-id>
+      <name>Concizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Concizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12826</drugbank-id>
+      <name>Depatuxizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Depatuxizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12844</drugbank-id>
+      <name>Rontalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rontalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12845</drugbank-id>
+      <name>Amatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Amatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12849</drugbank-id>
+      <name>Clazakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Clazakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12891</drugbank-id>
+      <name>Ozanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ozanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12893</drugbank-id>
+      <name>Sacituzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sacituzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12917</drugbank-id>
+      <name>Bimekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bimekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12943</drugbank-id>
+      <name>Milatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Milatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12976</drugbank-id>
+      <name>Robatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Robatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13017</drugbank-id>
+      <name>Rovalpituzumab Tesirine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rovalpituzumab Tesirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13037</drugbank-id>
+      <name>Namilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Namilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13045</drugbank-id>
+      <name>Racotumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Racotumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13073</drugbank-id>
+      <name>Tregalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tregalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13127</drugbank-id>
+      <name>Olokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Olokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13140</drugbank-id>
+      <name>Bezlotoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bezlotoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13375</drugbank-id>
+      <name>Edrecolomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Edrecolomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13535</drugbank-id>
+      <name>Nebacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Nebacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13886</drugbank-id>
+      <name>Human cytomegalovirus immune globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Human cytomegalovirus immune globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13976</drugbank-id>
+      <name>Sulesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sulesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13979</drugbank-id>
+      <name>Besilesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Besilesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14004</drugbank-id>
+      <name>Tildrakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tildrakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14012</drugbank-id>
+      <name>Burosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Burosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14039</drugbank-id>
+      <name>Erenumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Erenumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14040</drugbank-id>
+      <name>Eptinezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Eptinezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14041</drugbank-id>
+      <name>Fremanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fremanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14042</drugbank-id>
+      <name>Galcanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Galcanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14211</drugbank-id>
+      <name>Fanolesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Fanolesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14580</drugbank-id>
+      <name>Lecanemab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lecanemab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14597</drugbank-id>
+      <name>Lanadelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lanadelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14707</drugbank-id>
+      <name>Cemiplimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Cemiplimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14776</drugbank-id>
+      <name>Camrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Camrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14778</drugbank-id>
+      <name>Setrusumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Setrusumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14784</drugbank-id>
+      <name>Gancotamab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gancotamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14809</drugbank-id>
+      <name>Anetumab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Anetumab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14811</drugbank-id>
+      <name>Isatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Isatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14824</drugbank-id>
+      <name>Icrucumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Icrucumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14843</drugbank-id>
+      <name>Codrituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Codrituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14864</drugbank-id>
+      <name>Brolucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Brolucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14871</drugbank-id>
+      <name>Xentuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Xentuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14877</drugbank-id>
+      <name>Lintuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lintuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14891</drugbank-id>
+      <name>Vobarilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Vobarilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14897</drugbank-id>
+      <name>Parsatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Parsatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14905</drugbank-id>
+      <name>Emactuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Emactuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14907</drugbank-id>
+      <name>Bevacizumab zirconium Zr-89</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bevacizumab zirconium Zr-89.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14908</drugbank-id>
+      <name>Refanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Refanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14947</drugbank-id>
+      <name>Bermekimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bermekimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14952</drugbank-id>
+      <name>Pamrevlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pamrevlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14959</drugbank-id>
+      <name>Opicinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Opicinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14962</drugbank-id>
+      <name>Trastuzumab deruxtecan</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Trastuzumab deruxtecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14967</drugbank-id>
+      <name>Margetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Margetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14988</drugbank-id>
+      <name>Dalantercept</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Dalantercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14997</drugbank-id>
+      <name>Pateclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pateclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15014</drugbank-id>
+      <name>Gremubamab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gremubamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15022</drugbank-id>
+      <name>Apomab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Apomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15044</drugbank-id>
+      <name>Tafasitamab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tafasitamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15045</drugbank-id>
+      <name>Ipafricept</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ipafricept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15076</drugbank-id>
+      <name>Abrilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Abrilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15089</drugbank-id>
+      <name>Frovocimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Frovocimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15090</drugbank-id>
+      <name>Tezepelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tezepelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15101</drugbank-id>
+      <name>Tigatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tigatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15104</drugbank-id>
+      <name>Telisotuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Telisotuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15113</drugbank-id>
+      <name>Utomilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Utomilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15118</drugbank-id>
+      <name>Zolbetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Zolbetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15135</drugbank-id>
+      <name>Ponezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ponezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15160</drugbank-id>
+      <name>Asunercept</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Asunercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15172</drugbank-id>
+      <name>Suvratoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Suvratoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15225</drugbank-id>
+      <name>Mitazalimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Mitazalimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15252</drugbank-id>
+      <name>Nemolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Nemolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15277</drugbank-id>
+      <name>Gedivumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Gedivumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15336</drugbank-id>
+      <name>Valanafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Valanafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15349</drugbank-id>
+      <name>Sofituzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Sofituzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15354</drugbank-id>
+      <name>Evinacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Evinacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15363</drugbank-id>
+      <name>Istiratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Istiratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15383</drugbank-id>
+      <name>Pidilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pidilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15397</drugbank-id>
+      <name>GMA-161</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with GMA-161.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15409</drugbank-id>
+      <name>Ladiratuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Ladiratuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15415</drugbank-id>
+      <name>Tomaralimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Tomaralimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15428</drugbank-id>
+      <name>Vesencumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Vesencumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15432</drugbank-id>
+      <name>Pinatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Pinatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15441</drugbank-id>
+      <name>Lulizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lulizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15443</drugbank-id>
+      <name>Lorukafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Lorukafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15453</drugbank-id>
+      <name>Naratuximab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Naratuximab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15559</drugbank-id>
+      <name>Zenocutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Zenocutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15898</drugbank-id>
+      <name>Atoltivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Atoltivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15899</drugbank-id>
+      <name>Maftivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Maftivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15900</drugbank-id>
+      <name>Odesivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Odesivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15719</drugbank-id>
+      <name>Belantamab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Belantamab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Cetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15258</drugbank-id>
+      <name>Imlifidase</name>
+      <description>The therapeutic efficacy of Cetuximab can be decreased when used in combination with Imlifidase.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Cetuximab heavy chain
+QVQLKQSGPGLVQPSQSLSITCTVSGFSLTNYGVHWVRQSPGKGLEWLGVIWSGGNTDYN
+TPFTSRLSINKDNSKSQVFFKMNSLQSNDTAIYYCARALTYYDYEFAYWGQGTLVTVSAA
+STKGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSG
+LYSLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKVEPKSCDKTHTCPPCPAPELLGGP
+SVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNS
+TYRVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDEL
+TKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQ
+QGNVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
+    <sequence format="FASTA">&gt;Cetuximab light chain
+DILLTQSPVILSVSPGERVSFSCRASQSIGTNIHWYQQRTNGSPRLLIKYASESISGIPS
+RFSGSGSGTDFTLSINSVESEDIADYYCQQNNNWPTTFGAGTKLELKRTVAAPSVFIFPP
+SDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLSSTLT
+LSKADYEKHKVYACEVTHQGLSSPVTKSFNRGEC</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>61 °C (FAB fragment), 71 °C (whole mAb)</value>
+      <source>Vermeer, A.W.P. &amp; Norde, W., Biophys. J. 78:394-404 (2000)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.413</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>8.48</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>145781.6</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C6484H10042N1732O2023S36</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13175</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507042</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03455</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>J00228</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA10040</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DNC000788</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Cetuximab</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201577</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>318341</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/erbitux.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/cetuximab.html</url>
+    </external-link>
+  </external-links>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000474</smpdb-id>
+      <name>Cetuximab Action Pathway</name>
+      <category>drug_action</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00002</drugbank-id>
+          <name>Cetuximab</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P00533</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects>
+    <effect>
+      <protein-name>Low affinity immunoglobulin gamma Fc region receptor II-a</protein-name>
+      <gene-symbol>FCGR2A</gene-symbol>
+      <uniprot-id>P12318</uniprot-id>
+      <rs-id>rs1801274</rs-id>
+      <allele/>
+      <defining-change>H allelle</defining-change>
+      <description>Patients with this genotype may have increased progression-free survival time when using cetuximab to treat colorectal cancer.</description>
+      <pubmed-id>17704420</pubmed-id>
+    </effect>
+    <effect>
+      <protein-name>Low affinity immunoglobulin gamma Fc region receptor III-A</protein-name>
+      <gene-symbol>FCGR3A</gene-symbol>
+      <uniprot-id>P08637</uniprot-id>
+      <rs-id>rs396991</rs-id>
+      <allele/>
+      <defining-change>G &gt; T</defining-change>
+      <description>Patients with this genotype have increased progression-free survival time when using cetuximab to treat colorectal cancer.</description>
+      <pubmed-id>17704420</pubmed-id>
+    </effect>
+  </snp-effects>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000767</id>
+      <name>Epidermal growth factor receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A4</ref-id>
+            <pubmed-id>10480573</pubmed-id>
+            <citation>Hosokawa N, Yamamoto S, Uehara Y, Hori M, Tsuchiya KS: Effect of thiazinotrienomycin B, an ansamycin antibiotic, on the function of epidermal growth factor receptor in human stomach tumor cells. J Antibiot (Tokyo). 1999 May;52(5):485-90.</citation>
+          </article>
+          <article>
+            <ref-id>A5</ref-id>
+            <pubmed-id>10601294</pubmed-id>
+            <citation>Wakita H, Takigawa M: Activation of epidermal growth factor receptor promotes late terminal differentiation of cell-matrix interaction-disrupted keratinocytes. J Biol Chem. 1999 Dec 24;274(52):37285-91.</citation>
+          </article>
+          <article>
+            <ref-id>A6</ref-id>
+            <pubmed-id>10628369</pubmed-id>
+            <citation>Suwa T, Ueda M, Jinno H, Ozawa S, Kitagawa Y, Ando N, Kitajima M: Epidermal growth factor receptor-dependent cytotoxic effect of anti-EGFR antibody-ribonuclease conjugate on human cancer cells. Anticancer Res. 1999 Sep-Oct;19(5B):4161-5.</citation>
+          </article>
+          <article>
+            <ref-id>A7</ref-id>
+            <pubmed-id>11408594</pubmed-id>
+            <citation>Burke P, Schooler K, Wiley HS: Regulation of epidermal growth factor receptor signaling by endocytosis and intracellular trafficking. Mol Biol Cell. 2001 Jun;12(6):1897-910.</citation>
+          </article>
+          <article>
+            <ref-id>A8</ref-id>
+            <pubmed-id>11431346</pubmed-id>
+            <citation>Viloria-Petit A, Crombet T, Jothy S, Hicklin D, Bohlen P, Schlaeppi JM, Rak J, Kerbel RS: Acquired resistance to the antitumor effect of epidermal growth factor receptor-blocking antibodies in vivo: a role for altered tumor angiogenesis. Cancer Res. 2001 Jul 1;61(13):5090-101.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P00533" source="Swiss-Prot">
+        <name>Epidermal growth factor receptor</name>
+        <general-function>Ubiquitin protein ligase binding</general-function>
+        <specific-function>Receptor tyrosine kinase binding ligands of the EGF family and activating several signaling cascades to convert extracellular cues into appropriate cellular responses. Known ligands include EGF, TGFA/TGF-alpha, amphiregulin, epigen/EPGN, BTC/betacellulin, epiregulin/EREG and HBEGF/heparin-binding EGF. Ligand binding triggers receptor homo- and/or heterodimerization and autophosphorylation on key cytoplasmic residues. The phosphorylated receptor recruits adapter proteins like GRB2 which in turn activates complex downstream signaling cascades. Activates at least 4 major downstream signaling cascades including the RAS-RAF-MEK-ERK, PI3 kinase-AKT, PLCgamma-PKC and STATs modules. May also activate the NF-kappa-B signaling cascade. Also directly phosphorylates other proteins like RGS16, activating its GTPase activity and probably coupling the EGF receptor signaling to the G protein-coupled receptor signaling. Also phosphorylates MUC1 and increases its interaction with SRC and CTNNB1/beta-catenin.Isoform 2 may act as an antagonist of EGF action.</specific-function>
+        <gene-name>EGFR</gene-name>
+        <locus>7p12</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>646-668</transmembrane-regions>
+        <signal-regions>1-24</signal-regions>
+        <theoretical-pi>6.67</theoretical-pi>
+        <molecular-weight>134276.185</molecular-weight>
+        <chromosome-location>7</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3236</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>EGFR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X00588</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>757924</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1797</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00533</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>EGFR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.10.1</synonym>
+          <synonym>ERBB</synonym>
+          <synonym>ERBB1</synonym>
+          <synonym>HER1</synonym>
+          <synonym>Proto-oncogene c-ErbB-1</synonym>
+          <synonym>Receptor tyrosine-protein kinase erbB-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001530|Epidermal growth factor receptor
+MRPSGTAGAALLALLAALCPASRALEEKKVCQGTSNKLTQLGTFEDHFLSLQRMFNNCEV
+VLGNLEITYVQRNYDLSFLKTIQEVAGYVLIALNTVERIPLENLQIIRGNMYYENSYALA
+VLSNYDANKTGLKELPMRNLQEILHGAVRFSNNPALCNVESIQWRDIVSSDFLSNMSMDF
+QNHLGSCQKCDPSCPNGSCWGAGEENCQKLTKIICAQQCSGRCRGKSPSDCCHNQCAAGC
+TGPRESDCLVCRKFRDEATCKDTCPPLMLYNPTTYQMDVNPEGKYSFGATCVKKCPRNYV
+VTDHGSCVRACGADSYEMEEDGVRKCKKCEGPCRKVCNGIGIGEFKDSLSINATNIKHFK
+NCTSISGDLHILPVAFRGDSFTHTPPLDPQELDILKTVKEITGFLLIQAWPENRTDLHAF
+ENLEIIRGRTKQHGQFSLAVVSLNITSLGLRSLKEISDGDVIISGNKNLCYANTINWKKL
+FGTSGQKTKIISNRGENSCKATGQVCHALCSPEGCWGPEPRDCVSCRNVSRGRECVDKCN
+LLEGEPREFVENSECIQCHPECLPQAMNITCTGRGPDNCIQCAHYIDGPHCVKTCPAGVM
+GENNTLVWKYADAGHVCHLCHPNCTYGCTGPGLEGCPTNGPKIPSIATGMVGALLLLLVV
+ALGIGLFMRRRHIVRKRTLRRLLQERELVEPLTPSGEAPNQALLRILKETEFKKIKVLGS
+GAFGTVYKGLWIPEGEKVKIPVAIKELREATSPKANKEILDEAYVMASVDNPHVCRLLGI
+CLTSTVQLITQLMPFGCLLDYVREHKDNIGSQYLLNWCVQIAKGMNYLEDRRLVHRDLAA
+RNVLVKTPQHVKITDFGLAKLLGAEEKEYHAEGGKVPIKWMALESILHRIYTHQSDVWSY
+GVTVWELMTFGSKPYDGIPASEISSILEKGERLPQPPICTIDVYMIMVKCWMIDADSRPK
+FRELIIEFSKMARDPQRYLVIQGDERMHLPSPTDSNFYRALMDEEDMDDVVDADEYLIPQ
+QGFFSSPSTSRTPLLSSLSATSNNSTVACIDRNGLQSCPIKEDSFLQRYSSDPTGALTED
+SIDDTFLPVPEYINQSVPKRPAGSVQNPVYHNQPLNPAPSRDPHYQDPHSTAVGNPEYLN
+TVQPTCVNSTFDSPAHWAQKGSHQISLDNPDYQQDFFPKEAKPNGIFKGSTAENAEYLRV
+APQSSEFIGA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019007|Epidermal growth factor receptor (EGFR)
+ATGCGACCCTCCGGGACGGCCGGGGCAGCGCTCCTGGCGCTGCTGGCTGCGCTCTGCCCG
+GCGAGTCGGGCTCTGGAGGAAAAGAAAGTTTGCCAAGGCACGAGTAACAAGCTCACGCAG
+TTGGGCACTTTTGAAGATCATTTTCTCAGCCTCCAGAGGATGTTCAATAACTGTGAGGTG
+GTCCTTGGGAATTTGGAAATTACCTATGTGCAGAGGAATTATGATCTTTCCTTCTTAAAG
+ACCATCCAGGAGGTGGCTGGTTATGTCCTCATTGCCCTCAACACAGTGGAGCGAATTCCT
+TTGGAAAACCTGCAGATCATCAGAGGAAATATGTACTACGAAAATTCCTATGCCTTAGCA
+GTCTTATCTAACTATGATGCAAATAAAACCGGACTGAAGGAGCTGCCCATGAGAAATTTA
+CAGGAAATCCTGCATGGCGCCGTGCGGTTCAGCAACAACCCTGCCCTGTGCAACGTGGAG
+AGCATCCAGTGGCGGGACATAGTCAGCAGTGACTTTCTCAGCAACATGTCGATGGACTTC
+CAGAACCACCTGGGCAGCTGCCAAAAGTGTGATCCAAGCTGTCCCAATGGGAGCTGCTGG
+GGTGCAGGAGAGGAGAACTGCCAGAAACTGACCAAAATCATCTGTGCCCAGCAGTGCTCC
+GGGCGCTGCCGTGGCAAGTCCCCCAGTGACTGCTGCCACAACCAGTGTGCTGCAGGCTGC
+ACAGGCCCCCGGGAGAGCGACTGCCTGGTCTGCCGCAAATTCCGAGACGAAGCCACGTGC
+AAGGACACCTGCCCCCCACTCATGCTCTACAACCCCACCACGTACCAGATGGATGTGAAC
+CCCGAGGGCAAATACAGCTTTGGTGCCACCTGCGTGAAGAAGTGTCCCCGTAATTATGTG
+GTGACAGATCACGGCTCGTGCGTCCGAGCCTGTGGGGCCGACAGCTATGAGATGGAGGAA
+GACGGCGTCCGCAAGTGTAAGAAGTGCGAAGGGCCTTGCCGCAAAGTGTGTAACGGAATA
+GGTATTGGTGAATTTAAAGACTCACTCTCCATAAATGCTACGAATATTAAACACTTCAAA
+AACTGCACCTCCATCAGTGGCGATCTCCACATCCTGCCGGTGGCATTTAGGGGTGACTCC
+TTCACACATACTCCTCCTCTGGATCCACAGGAACTGGATATTCTGAAAACCGTAAAGGAA
+ATCACAGGGTTTTTGCTGATTCAGGCTTGGCCTGAAAACAGGACGGACCTCCATGCCTTT
+GAGAACCTAGAAATCATACGCGGCAGGACCAAGCAACATGGTCAGTTTTCTCTTGCAGTC
+GTCAGCCTGAACATAACATCCTTGGGATTACGCTCCCTCAAGGAGATAAGTGATGGAGAT
+GTGATAATTTCAGGAAACAAAAATTTGTGCTATGCAAATACAATAAACTGGAAAAAACTG
+TTTGGGACCTCCGGTCAGAAAACCAAAATTATAAGCAACAGAGGTGAAAACAGCTGCAAG
+GCCACAGGCCAGGTCTGCCATGCCTTGTGCTCCCCCGAGGGCTGCTGGGGCCCGGAGCCC
+AGGGACTGCGTCTCTTGCCGGAATGTCAGCCGAGGCAGGGAATGCGTGGACAAGTGCAAC
+CTTCTGGAGGGTGAGCCAAGGGAGTTTGTGGAGAACTCTGAGTGCATACAGTGCCACCCA
+GAGTGCCTGCCTCAGGCCATGAACATCACCTGCACAGGACGGGGACCAGACAACTGTATC
+CAGTGTGCCCACTACATTGACGGCCCCCACTGCGTCAAGACCTGCCCGGCAGGAGTCATG
+GGAGAAAACAACACCCTGGTCTGGAAGTACGCAGACGCCGGCCATGTGTGCCACCTGTGC
+CATCCAAACTGCACCTACGGATGCACTGGGCCAGGTCTTGAAGGCTGTCCAACGAATGGG
+CCTAAGATCCCGTCCATCGCCACTGGGATGGTGGGGGCCCTCCTCTTGCTGCTGGTGGTG
+GCCCTGGGGATCGGCCTCTTCATGCGAAGGCGCCACATCGTTCGGAAGCGCACGCTGCGG
+AGGCTGCTGCAGGAGAGGGAGCTTGTGGAGCCTCTTACACCCAGTGGAGAAGCTCCCAAC
+CAAGCTCTCTTGAGGATCTTGAAGGAAACTGAATTCAAAAAGATCAAAGTGCTGGGCTCC
+GGTGCGTTCGGCACGGTGTATAAGGGACTCTGGATCCCAGAAGGTGAGAAAGTTAAAATT
+CCCGTCGCTATCAAGGAATTAAGAGAAGCAACATCTCCGAAAGCCAACAAGGAAATCCTC
+GATGAAGCCTACGTGATGGCCAGCGTGGACAACCCCCACGTGTGCCGCCTGCTGGGCATC
+TGCCTCACCTCCACCGTGCAGCTCATCACGCAGCTCATGCCCTTCGGCTGCCTCCTGGAC
+TATGTCCGGGAACACAAAGACAATATTGGCTCCCAGTACCTGCTCAACTGGTGTGTGCAG
+ATCGCAAAGGGCATGAACTACTTGGAGGACCGTCGCTTGGTGCACCGCGACCTGGCAGCC
+AGGAACGTACTGGTGAAAACACCGCAGCATGTCAAGATCACAGATTTTGGGCTGGCCAAA
+CTGCTGGGTGCGGAAGAGAAAGAATACCATGCAGAAGGAGGCAAAGTGCCTATCAAGTGG
+ATGGCATTGGAATCAATTTTACACAGAATCTATACCCACCAGAGTGATGTCTGGAGCTAC
+GGGGTGACCGTTTGGGAGTTGATGACCTTTGGATCCAAGCCATATGACGGAATCCCTGCC
+AGCGAGATCTCCTCCATCCTGGAGAAAGGAGAACGCCTCCCTCAGCCACCCATATGTACC
+ATCGATGTCTACATGATCATGGTCAAGTGCTGGATGATAGACGCAGATAGTCGCCCAAAG
+TTCCGTGAGTTGATCATCGAATTCTCCAAAATGGCCCGAGACCCCCAGCGCTACCTTGTC
+ATTCAGGGGGATGAAAGAATGCATTTGCCAAGTCCTACAGACTCCAACTTCTACCGTGCC
+CTGATGGATGAAGAAGACATGGACGACGTGGTGGATGCCGACGAGTACCTCATCCCACAG
+CAGGGCTTCTTCAGCAGCCCCTCCACGTCACGGACTCCCCTCCTGAGCTCTCTGAGTGCA
+ACCAGCAACAATTCCACCGTGGCTTGCATTGATAGAAATGGGCTGCAAAGCTGTCCCATC
+AAGGAAGACAGCTTCTTGCAGCGATACAGCTCAGACCCCACAGGCGCCTTGACTGAGGAC
+AGCATAGACGACACCTTCCTCCCAGTGCCTGAATACATAAACCAGTCCGTTCCCAAAAGG
+CCCGCTGGCTCTGTGCAGAATCCTGTCTATCACAATCAGCCTCTGAACCCCGCGCCCAGC
+AGAGACCCACACTACCAGGACCCCCACAGCACTGCAGTGGGCAACCCCGAGTATCTCAAC
+ACTGTCCAGCCCACCTGTGTCAACAGCACATTCGACAGCCCTGCCCACTGGGCCCAGAAA
+GGCAGCCACCAAATTAGCCTGGACAACCCTGACTACCAGCAGGACTTCTTTCCCAAGGAA
+GCCAAGCCAAATGGCATCTTTAAGGGCTCCACAGCTGAAAATGCAGAATACCTAAGGGTC
+GCGCCACAAAGCAGTGAATTTATTGGAGCATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07714</identifier>
+            <name>Pkinase_Tyr</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00757</identifier>
+            <name>Furin-like</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01030</identifier>
+            <name>Recep_L_domain</name>
+          </pfam>
+          <pfam>
+            <identifier>PF14843</identifier>
+            <name>GF_recep_IV</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basolateral plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>early endosome membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endocytic vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>focal adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane raft</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>multivesicular body, internal vesicle lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>perinuclear region of cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Shc-EGFR complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>actin filament binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chromatin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>double-stranded DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>epidermal growth factor-activated receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>identical protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>MAP kinase kinase kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein phosphatase binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor signaling protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane receptor protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ubiquitin protein ligase binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase A2 activity by calcium-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to amino acid stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to epidermal growth factor stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to estradiol stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cerebral cortex cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>digestive tract morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic placenta development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hair follicle development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>learning or memory</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>morphogenesis of an epithelial fold</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylinositol-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of catenin import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cyclin-dependent protein serine/threonine kinase activity involved in G1/S transition of mitotic cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of DNA repair</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of DNA replication</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fibroblast proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of nitric oxide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein autophosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein insertion into membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of nitric-oxide synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to UV-A</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>single organismal cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000901</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11</ref-id>
+            <pubmed-id>16336752</pubmed-id>
+            <citation>Snyder LC, Astsaturov I, Weiner LM: Overview of monoclonal antibodies and small molecules targeting the epidermal growth factor receptor pathway in colorectal cancer. Clin Colorectal Cancer. 2005 Nov;5 Suppl 2:S71-80.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O75015" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of immunoglobulins gamma. Low affinity receptor. Binds complexed or aggregated IgG and also monomeric IgG. Contrary to III-A, is not capable to mediate antibody-dependent cytotoxicity and phagocytosis. May serve as a trap for immune complexes in the peripheral circulation which does not activate neutrophils.</specific-function>
+        <gene-name>FCGR3B</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>6.71</theoretical-pi>
+        <molecular-weight>26215.64</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3620</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3B</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X16863</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31322</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O75015</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3B_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16B</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-beta</synonym>
+          <synonym>Fc-gamma RIIIb</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIb</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010635|Low affinity immunoglobulin gamma Fc region receptor III-B
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYSVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVNDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKDRKYFHHNSDFHIPKATLKDSGSYFCRGLVGSKN
+VSSETVNITITQGLAVSTISSFSPPGYQVSFCLVMVLLFAVDTGLYFSVKTNI</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010636|Low affinity immunoglobulin gamma Fc region receptor III-B (FCGR3B)
+ATGTGGCAGCTGCTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACT
+GAAGATCTCCCAAAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGCGTGCTTGAGAAG
+GACAGTGTGACTCTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGG
+TTTCACAATGAGAACCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACA
+GTCAACGACAGTGGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTG
+CAGCTAGAAGTCCATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAG
+GAAGACCCTATTCACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACA
+TATTTACAGAATGGCAAAGACAGGAAGTATTTTCATCATAATTCTGACTTCCACATTCCA
+AAAGCCACACTCAAAGATAGCGGCTCCTACTTCTGCAGGGGGCTTGTTGGGAGTAAAAAT
+GTGTCTTCAGAGACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCA
+TCATTCTCTCCACCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCA
+GTGGACACAGGACTATATTTCTCTGTGAAGACAAACATTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>anchored component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitophagy in response to mitochondrial depolarization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of defense response to virus by host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenophagy</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0002094</id>
+      <name>Complement C1q subcomponent subunit A</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202103</ref-id>
+            <pubmed-id>32117299</pubmed-id>
+            <citation>Deveuve Q, Lajoie L, Barrault B, Thibault G: The Proteolytic Cleavage of Therapeutic Monoclonal Antibody Hinge Region: More Than a Matter of Subclass. Front Immunol. 2020 Feb 11;11:168. doi: 10.3389/fimmu.2020.00168. eCollection 2020.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02745" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit A</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QA</gene-name>
+        <locus>1p36.12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>9.45</theoretical-pi>
+        <molecular-weight>26016.47</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1241</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF135157</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4894854</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02745</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Complement C1q subcomponent subunit A precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016678|Complement C1q subcomponent subunit A
+MEGPRGWLVLCVLAISLASMVTEDLCRAPDGKKGEAGRPGRRGRPGLKGEQGEPGAPGIR
+TGIQGLKGDQGEPGPSGNPGKVGYPGPSGPLGARGIPGIKGTKGSPGNIKDQPRPAFSAI
+RRNPPMGGNVVIFDTVITNQEEPYQNHSGRFVCTVPGYYYFTFQVLSQWEICLSIVSSSR
+GQVRRSLGFCDTTNKGLFQVVSGGMVLQLQQGDQVWVEKDPKKGHIYQGSEADSVFSGFL
+IFPSA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016679|Complement C1q subcomponent subunit A (C1QA)
+ATGGAGGGTCCCCGGGGATGGCTGGTGCTCTGTGTGCTGGCCATATCGCTGGCCTCTATG
+GTGACCGAGGACTTGTGCCGAGCACCAGACGGGAAGAAAGGGGAGGCAGGAAGACCTGGC
+AGACGGGGGCGGCCAGGCCTCAAGGGGGAGCAAGGGGAGCCGGGGGCCCCTGGCATCCGG
+ACAGGCATCCAAGGCCTTAAAGGAGACCAGGGGGAACCTGGGCCCTCTGGAAACCCCGGC
+AAGGTGGGCTACCCAGGGCCCAGCGGCCCCCTCGGAGCCCGTGGCATCCCGGGAATTAAA
+GGCACCAAGGGCAGCCCAGGAAACATCAAGGACCAGCCGAGGCCAGCCTTCTCCGCCATT
+CGGCGGAACCCCCCAATGGGGGGCAACGTGGTCATCTTCGACACGGTCATCACCAACCAG
+GAAGAACCGTACCAGAACCACTCCGGCCGATTCGTCTGCACTGTACCCGGCTACTACTAC
+TTCACCTTCCAGGTGCTGTCCCAGTGGGAAATCTGCCTGTCCATCGTCTCCTCCTCAAGG
+GGCCAGGTCCGACGCTCCCTGGGCTTCTGTGACACCACCAACAAGGGGCTCTTCCAGGTG
+GTGTCAGGGGGCATGGTGCTTCAGCTGCAGCAGGGTGACCAGGTCTGGGTTGAAAAAGAC
+CCCAAAAAGGGTCACATTTACCAGGGCTCTGAGGCCGACAGCGTCTTCAGCGGCTTCCTC
+ATCTTCCCATCTGCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>complement component C1 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0002095</id>
+      <name>Complement C1q subcomponent subunit B</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202103</ref-id>
+            <pubmed-id>32117299</pubmed-id>
+            <citation>Deveuve Q, Lajoie L, Barrault B, Thibault G: The Proteolytic Cleavage of Therapeutic Monoclonal Antibody Hinge Region: More Than a Matter of Subclass. Front Immunol. 2020 Feb 11;11:168. doi: 10.3389/fimmu.2020.00168. eCollection 2020.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02746" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit B</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QB</gene-name>
+        <locus>1p36.12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>8.87</theoretical-pi>
+        <molecular-weight>26721.62</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1242</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QB</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X03084</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>573114</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QB_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Complement C1q subcomponent subunit B precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016676|Complement C1q subcomponent subunit B
+MMMKIPWGSIPVLMLLLLLGLIDISQAQLSCTGPPAIPGIPGIPGTPGPDGQPGTPGIKG
+EKGLPGLAGDHGEFGEKGDPGIPGNPGKVGPKGPMGPKGGPGAPGAPGPKGESGDYKATQ
+KIAFSATRTINVPLRRDQTIRFDHVITNMNNNYEPRSGKFTCKVPGLYYFTYHASSRGNL
+CVNLMRGRERAQKVVTFCDYAYNTFQVTTGGMVLKLEQGENVFLQATDKNSLLGMEGANS
+IFSGFLLFPDMEA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016677|Complement C1q subcomponent subunit B (C1QB)
+ATGATGATGAAGATCCCATGGGGCAGCATCCCAGTACTGATGTTGCTCCTGCTCCTGGGC
+CTAATCGATATCTCCCAGGCCCAGCTCAGCTGCACCGGGCCCCCAGCCATCCCTGGCATC
+CCGGGTATCCCTGGGACACCTGGCCCCGATGGCCAACCTGGGACCCCAGGGATAAAAGGA
+GAGAAAGGGCTTCCAGGGCTGGCTGGAGACCATGGTGAGTTCGGAGAGAAGGGAGACCCA
+GGGATTCCTGGGAATCCAGGAAAAGTCGGCCCCAAGGGCCCCATGGGCCCTAAAGGTGGC
+CCAGGGGCCCCTGGAGCCCCAGGCCCCAAAGGTGAATCGGGAGACTACAAGGCCACCCAG
+AAAATCGCCTTCTCTGCCACAAGAACCATCAACGTCCCCCTGCGCCGGGACCAGACCATC
+CGCTTCGACCACGTGATCACCAACATGAACAACAATTATGAGCCCCGCAGTGGCAAGTTC
+ACCTGCAAGGTGCCCGGTCTCTACTACTTCACCTACCACGCCAGCTCTCGAGGGAACCTG
+TGCGTGAACCTCATGCGTGGCCGGGAGCGTGCACAGAAGGTGGTCACCTTCTGTGACTAT
+GCCTACAACACCTTCCAGGTCACCACCGGTGGCATGGTCCTCAAGCTGGAGCAGGGGGAG
+AACGTCTTCCTGCAGGCCACCGACAAGAACTCACTACTGGGCATGGAGGGTGCCAACAGC
+ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>complement component C1 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="5">
+      <id>BE0002096</id>
+      <name>Complement C1q subcomponent subunit C</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202103</ref-id>
+            <pubmed-id>32117299</pubmed-id>
+            <citation>Deveuve Q, Lajoie L, Barrault B, Thibault G: The Proteolytic Cleavage of Therapeutic Monoclonal Antibody Hinge Region: More Than a Matter of Subclass. Front Immunol. 2020 Feb 11;11:168. doi: 10.3389/fimmu.2020.00168. eCollection 2020.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02747" source="Swiss-Prot">
+        <name>Complement C1q subcomponent subunit C</name>
+        <general-function/>
+        <specific-function>C1q associates with the proenzymes C1r and C1s to yield C1, the first component of the serum complement system. The collagen-like regions of C1q interact with the Ca(2+)-dependent C1r(2)C1s(2) proenzyme complex, and efficient activation of C1 takes place on interaction of the globular heads of C1q with the Fc regions of IgG or IgM antibody present in immune complexes.</specific-function>
+        <gene-name>C1QC</gene-name>
+        <locus>1p36.11</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-28</signal-regions>
+        <theoretical-pi>8.58</theoretical-pi>
+        <molecular-weight>25773.56</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1245</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>C1QC</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF087892</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>33150626</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02747</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>C1QC_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>C1QG</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011520|Complement C1q subcomponent subunit C
+MDVGPSSLPHLGLKLLLLLLLLPLRGQANTGCYGIPGMPGLPGAPGKDGYDGLPGPKGEP
+GIPAIPGIRGPKGQKGEPGLPGHPGKNGPMGPPGMPGVPGPMGIPGEPGEEGRYKQKFQS
+VFTVTRQTHQPPAPNSLIRFNAVLTNPQGDYDTSTGKFTCKVPGLYYFVYHASHTANLCV
+LLYRSGVKVVTFCGHTSKTNQVNSGGVLLRLQVGEEVWLAVNDYYDMVGIQGSDSVFSGF
+LLFPD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011521|Complement C1q subcomponent subunit C (C1QC)
+ATGGACGTGGGGCCCAGCTCCCTGCCCCACCTTGGGCTGAAGCTGCTGCTGCTCCTGCTG
+CTGCTGCCCCTCAGGGGCCAAGCCAACACAGGCTGCTACGGGATCCCAGGGATGCCCGGC
+CTGCCCGGGGCACCAGGGAAGGATGGGTACGACGGACTGCCGGGGCCCAAGGGGGAGCCA
+GGAATCCCAGCCATTCCCGGGATCCGAGGACCCAAAGGGCAGAAGGGAGAACCCGGCTTA
+CCCGGCCATCCTGGGAAAAATGGCCCCATGGGACCCCCTGGGATGCCAGGGGTGCCCGGC
+CCCATGGGCATCCCTGGAGAGCCAGGTGAGGAGGGCAGATACAAGCAGAAATTCCAGTCA
+GTGTTCACGGTCACTCGGCAGACCCACCAGCCCCCTGCACCCAACAGCCTGATCAGATTC
+AACGCGGTCCTCACCAACCCGCAGGGAGATTATGACACGAGCACTGGCAAGTTCACCTGC
+AAAGTCCCCGGCCTCTACTACTTTGTCTACCACGCGTCGCATACAGCCAACCTGTGCGTG
+CTGCTGTACCGCAGCGGCGTCAAAGTGGTCACCTTCTGTGGCCACACGTCCAAAACCAAT
+CAGGTCAACTCGGGCGGTGTGCTGCTGAGGTTGCAGGTGGGCGAGGAGGTGTGGCTGGCT
+GTCAATGACTACTACGACATGGTGGGCATCCAGGGCTCTGACAGCGTCTTCTCCGGCTTC
+CTGCTCTTCCCCGACTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00386</identifier>
+            <name>C1q</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>complement activation, classical pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of granulocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage differentiation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="6">
+      <id>BE0002097</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13078</ref-id>
+            <pubmed-id>17704420</pubmed-id>
+            <citation>Zhang W, Gordon M, Schultheis AM, Yang DY, Nagashima F, Azuma M, Chang HM, Borucka E, Lurje G, Sherrod AE, Iqbal S, Groshen S, Lenz HJ: FCGR2A and FCGR3A polymorphisms associated with clinical outcome of epidermal growth factor receptor expressing metastatic colorectal cancer patients treated with single-agent cetuximab. J Clin Oncol. 2007 Aug 20;25(24):3712-8.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08637" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of IgG. Binds complexed or aggregated IgG and also monomeric IgG. Mediates antibody-dependent cellular cytotoxicity (ADCC) and other antibody-dependent responses, such as phagocytosis.</specific-function>
+        <gene-name>FCGR3A</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>209-229</transmembrane-regions>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>8.21</theoretical-pi>
+        <molecular-weight>29088.895</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3619</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52645</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31324</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08637</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3A_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16A</synonym>
+          <synonym>CD16a antigen</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-alpha</synonym>
+          <synonym>Fc-gamma RIIIa</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIa</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004112|Low affinity immunoglobulin gamma Fc region receptor III-A
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYRVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVDDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKGRKYFHHNSDFYIPKATLKDSGSYFCRGLFGSKN
+VSSETVNITITQGLAVSTISSFFPPGYQVSFCLVMVLLFAVDTGLYFSVKTNIRSSTRDW
+KDHKFKWRKDPQDK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011522|Low affinity immunoglobulin gamma Fc region receptor III-A (FCGR3A)
+ATGGGTGGAGGGGCTGGGGAAAGGCTGTTTACTTCCTCCTGTCTAGTCGGTTTGGTCCCT
+TTAGGGCTCCGGATATCTTTGGTGACTTGTCCACTCCAGTGTGGCATCATGTGGCAGCTG
+CTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACTGAAGATCTCCCA
+AAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGGGTGCTCGAGAAGGACAGTGTGACT
+CTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGGTTTCACAATGAG
+AGCCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACAGTCGACGACAGT
+GGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTGCAGCTAGAAGTC
+CATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAGGAAGACCCTATT
+CACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACATATTTACAGAAT
+GGCAAAGGCAGGAAGTATTTTCATCATAATTCTGACTTCTACATTCCAAAAGCCACACTC
+AAAGACAGCGGCTCCTACTTCTGCAGGGGGCTTTTTGGGAGTAAAAATGTGTCTTCAGAG
+ACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCATCATTCTTTCCA
+CCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCAGTGGACACAGGA
+CTATATTTCTCTGTGAAGACAAACATTCGAAGCTCAACAAGAGACTGGAAGGACCATAAA
+TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="7">
+      <id>BE0000710</id>
+      <name>High affinity immunoglobulin gamma Fc receptor I</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13079</ref-id>
+            <pubmed-id>7547242</pubmed-id>
+            <citation>Negri DR, Tosi E, Valota O, Ferrini S, Cambiaggi A, Sforzini S, Silvani A, Ruffini PA, Colnaghi MI, Canevari S: In vitro and in vivo stability and anti-tumour efficacy of an anti-EGFR/anti-CD3 F(ab')2 bispecific monoclonal antibody. Br J Cancer. 1995 Oct;72(4):928-33.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P12314" source="Swiss-Prot">
+        <name>High affinity immunoglobulin gamma Fc receptor I</name>
+        <general-function>Receptor signaling protein activity</general-function>
+        <specific-function>High affinity receptor for the Fc region of immunoglobulins gamma. Functions in both innate and adaptive immune responses.</specific-function>
+        <gene-name>FCGR1A</gene-name>
+        <locus>1q21.2-q21.3</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>293-313</transmembrane-regions>
+        <signal-regions>1-15</signal-regions>
+        <theoretical-pi>8.08</theoretical-pi>
+        <molecular-weight>42631.525</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3613</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR1A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X14356</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31332</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P12314</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCGR1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Fc-gamma RI</synonym>
+          <synonym>Fc-gamma RIA</synonym>
+          <synonym>FCG1</synonym>
+          <synonym>FcgammaRIa</synonym>
+          <synonym>FCGR1</synonym>
+          <synonym>FcRI</synonym>
+          <synonym>IGFR1</synonym>
+          <synonym>IgG Fc receptor I</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001416|High affinity immunoglobulin gamma Fc receptor I
+MWFLTTLLLWVPVDGQVDTTKAVITLQPPWVSVFQEETVTLHCEVLHLPGSSSTQWFLNG
+TATQTSTPSYRITSASVNDSGEYRCQRGLSGRSDPIQLEIHRGWLLLQVSSRVFTEGEPL
+ALRCHAWKDKLVYNVLYYRNGKAFKFFHWNSNLTILKTNISHNGTYHCSGMGKHRYTSAG
+ISVTVKELFPAPVLNASVTSPLLEGNLVTLSCETKLLLQRPGLQLYFSFYMGSKTLRGRN
+TSSEYQILTARREDSGLYWCEAATEDGNVLKRSPELELQVLGLQLPTPVWFHVLFYLAVG
+IMFLVNTVLWVTIRKELKRKKKWDLEISLDSGHEKKVISSLQEDRHLEEELKCQEQKEEQ
+LQEGVHRKEPQGAT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016183|High affinity immunoglobulin gamma Fc receptor I (FCGR1A)
+ATGTGGTTCTTGACAACTCTGCTCCTTTGGGTTCCAGTTGATGGGCAAGTGGACACCACA
+AAGGCAGTGATCACTTTGCAGCCTCCATGGGTCAGCGTGTTCCAAGAGGAAACCGTAACC
+TTGCACTGTGAGGTGCTCCATCTGCCTGGGAGCAGCTCTACACAGTGGTTTCTCAATGGC
+ACAGCCACTCAGACCTCGACCCCCAGCTACAGAATCACCTCTGCCAGTGTCAATGACAGT
+GGTGAATACAGGTGCCAGAGAGGTCTCTCAGGGCGAAGTGACCCCATACAGCTGGAAATC
+CACAGAGGCTGGCTACTACTGCAGGTCTCCAGCAGAGTCTTCACGGAAGGAGAACCTCTG
+GCCTTGAGGTGTCATGCGTGGAAGGATAAGCTGGTGTACAATGTGCTTTACTATCGAAAT
+GGCAAAGCCTTTAAGTTTTTCCACTGGAATTCTAACCTCACCATTCTGAAAACCAACATA
+AGTCACAATGGCACCTACCATTGCTCAGGCATGGGAAAGCATCGCTACACATCAGCAGGA
+ATATCTGTCACTGTGAAAGAGCTATTTCCAGCTCCAGTGCTGAATGCATCTGTGACATCC
+CCACTCCTGGAGGGGAATCTGGTCACCCTGAGCTGTGAAACAAAGTTGCTCTTGCAGAGG
+CCTGGTTTGCAGCTTTACTTCTCCTTCTACATGGGCAGCAAGACCCTGCGAGGCAGGAAC
+ACATCCTCTGAATACCAAATACTAACTGCTAGAAGAGAAGACTCTGGGTTATACTGGTGC
+GAGGCTGCCACAGAGGATGGAAATGTCCTTAAGCGCAGCCCTGAGTTGGAGCTTCAAGTG
+CTTGGCCTCCAGTTACCAACTCCTGTCTGGTTTCATGTCCTTTTCTATCTGGCAGTGGGA
+ATAATGTTTTTAGTGAACACTGTTCTCTGGGTGACAATACGTAAAGAACTGAAAAGAAAG
+AAAAAGTGGGATTTAGAAATCTCTTTGGATTCTGGTCATGAGAAGAAGGTAATTTCCAGC
+CTTCAAGAAGACAGACATTTAGAAGAAGAGCTGAAATGTCAGGAACAAAAAGAAGAACAG
+CTGCAGGAAGGGGTGCACCGGAAGGAGCCCCAGGGGGCCACGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00047</identifier>
+            <name>ig</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>clathrin-coated endocytic vesicle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>early endosome membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor signaling protein activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>antigen processing and presentation of peptide antigen via MHC class I</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interferon-gamma-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phagocytosis, engulfment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="8">
+      <id>BE0002098</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor II-a</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13078</ref-id>
+            <pubmed-id>17704420</pubmed-id>
+            <citation>Zhang W, Gordon M, Schultheis AM, Yang DY, Nagashima F, Azuma M, Chang HM, Borucka E, Lurje G, Sherrod AE, Iqbal S, Groshen S, Lenz HJ: FCGR2A and FCGR3A polymorphisms associated with clinical outcome of epidermal growth factor receptor expressing metastatic colorectal cancer patients treated with single-agent cetuximab. J Clin Oncol. 2007 Aug 20;25(24):3712-8.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P12318" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor II-a</name>
+        <general-function/>
+        <specific-function>Binds to the Fc region of immunoglobulins gamma. Low affinity receptor. By binding to IgG it initiates cellular responses against pathogens and soluble antigens. Promotes phagocytosis of opsonized antigens.</specific-function>
+        <gene-name>FCGR2A</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>218-240</transmembrane-regions>
+        <signal-regions>1-33</signal-regions>
+        <theoretical-pi>6.78</theoretical-pi>
+        <molecular-weight>35000.42</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3616</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR2A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M31932</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182474</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P12318</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG2A_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD32</synonym>
+          <synonym>CDw32</synonym>
+          <synonym>Fc-gamma RII-a</synonym>
+          <synonym>Fc-gamma-RIIa</synonym>
+          <synonym>FCG2</synonym>
+          <synonym>FCGR2A1</synonym>
+          <synonym>FcRII-a</synonym>
+          <synonym>IGFR2</synonym>
+          <synonym>IgG Fc receptor II-a</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037156|Low affinity immunoglobulin gamma Fc region receptor II-a
+MTMETQMSQNVCPRNLWLLQPLTVLLLLASADSQAAAPPKAVLKLEPPWINVLQEDSVTL
+TCQGARSPESDSIQWFHNGNLIPTHTQPSYRFKANNNDSGEYTCQTGQTSLSDPVHLTVL
+SEWLVLQTPHLEFQEGETIMLRCHSWKDKPLVKVTFFQNGKSQKFSHLDPTFSIPQANHS
+HSGDYHCTGNIGYTLFSSKPVTITVQVPSMGSSSPMGIIVAVVIATAVAAIVAAVVALIY
+CRKKRISANSTDPVKAAQFEPPGRQMIAIRKRQLEETNNDYETADGGYMTLNPRAPTDDD
+KNIYLTLPPNDHVNSNN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019233|Low affinity immunoglobulin gamma Fc region receptor II-a (FCGR2A)
+ATGACTATGGAGACCCAAATGTCTCAGAATGTATGTCCCAGAAACCTGTGGCTGCTTCAA
+CCATTGACAGTTTTGCTGCTGCTGGCTTCTGCAGACAGTCAAGCTGCAGCTCCCCCAAAG
+GCTGTGCTGAAACTTGAGCCCCCGTGGATCAACGTGCTCCAGGAGGACTCTGTGACTCTG
+ACATGCCAGGGGGCTCGCAGCCCTGAGAGCGACTCCATTCAGTGGTTCCACAATGGGAAT
+CTCATTCCCACCCACACGCAGCCCAGCTACAGGTTCAAGGCCAACAACAATGACAGCGGG
+GAGTACACGTGCCAGACTGGCCAGACCAGCCTCAGCGACCCTGTGCATCTGACTGTGCTT
+TCCGAATGGCTGGTGCTCCAGACCCCTCACCTGGAGTTCCAGGAGGGAGAAACCATCATG
+CTGAGGTGCCACAGCTGGAAGGACAAGCCTCTGGTCAAGGTCACATTCTTCCAGAATGGA
+AAATCCCAGAAATTCTCCCATTTGGATCCCACCTTCTCCATCCCACAAGCAAACCACAGT
+CACAGTGGTGATTACCACTGCACAGGAAACATAGGCTACACGCTGTTCTCATCCAAGCCT
+GTGACCATCACTGTCCAAGTGCCCAGCATGGGCAGCTCTTCACCAATGGGGATCATTGTG
+GCTGTGGTCATTGCGACTGCTGTAGCAGCCATTGTTGCTGCTGTAGTGGCCTTGATCTAC
+TGCAGGAAAAAGCGGATTTCAGCCAATTCCACTGATCCTGTGAAGGCTGCCCAATTTGAG
+CCACCTGGACGTCAAATGATTGCCATCAGAAAGAGACAACTTGAAGAAACCAACAATGAC
+TATGAAACAGCTGACGGCGGCTACATGACTCTGAACCCCAGGGCACCTACTGACGATGAT
+AAAAACATCTACCTGACTCTTCCTCCCAACGACCATGTCAACAGTAATAACTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

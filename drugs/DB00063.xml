@@ -1,0 +1,4153 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00063</drugbank-id>
+  <drugbank-id>BTD00063</drugbank-id>
+  <drugbank-id>BIOD00063</drugbank-id>
+  <name>Eptifibatide</name>
+  <description>Synthetic cyclic hexapeptide that binds to platelet receptor glycoprotein and inhibits platelet aggregation. Derived from venom of the Southeastern pygmy rattlesnake (Sistrurus miliarus barbouri), eptifibatide is a cyclic heptapeptide that belongs to the class of arginin-glycin-aspartat-mimetics.</description>
+  <cas-number>188627-80-7</cas-number>
+  <unii>NA8320J834</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A14570</ref-id>
+        <pubmed-id>14728062</pubmed-id>
+        <citation>Nguyen CM, Harrington RA: Glycoprotein IIb/IIIa receptor antagonists: a comparative review of their use in percutaneous coronary intervention. Am J Cardiovasc Drugs. 2003;3(6):423-36.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Guojie Ho, Antoinette Paone, Luciano Forni, Catherine De Tollenaere, Brice Bonnet, Christine Devijver, "Processes for preparing eptifibatide." U.S. Patent US20060036071, issued February 16, 2006.</synthesis-reference>
+  <indication>For treatment of myocardial infarction and acute coronary syndrome.</indication>
+  <pharmacodynamics>Eptifibatide is an anti-coagulant that selectively and reversibly blocks the platelet glycoprotein IIb/IIIa receptor. </pharmacodynamics>
+  <mechanism-of-action>Eptifibatide inhibits platelet aggregation by reversibly binding to the platelet receptor glycoprotein (GP) IIb/IIIa of human platelets, thus preventing the binding of fibrinogen, von Willebrand factor, and other adhesive ligands. Inhibition of platelet aggregation occurs in a dose- and concentration-dependent manner.</mechanism-of-action>
+  <toxicity>Eptifibatide was not lethal to rats, rabbits, or monkeys when administered by continuous intravenous infusion for 90 minutes at a total dose of 45 mg/kg (about 2 to 5 times the recommended maximum daily human dose on a body surface area basis)</toxicity>
+  <metabolism>No major metabolites have been detected in human plasma. Deamidated eptifibatide and other, more polar metabolites have been detected in urine.</metabolism>
+  <absorption/>
+  <half-life>Approximately 2.5 hours</half-life>
+  <protein-binding>Approximately 25%</protein-binding>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>* 55 mL/kg/h [patients with coronary artery disease]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="spanish" coder="">Eptifibatida</synonym>
+    <synonym language="english" coder="inn/ban">Eptifibatide</synonym>
+    <synonym language="english" coder="">Integrelin</synonym>
+    <synonym language="english" coder="">Intrifiban</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Aurobindo Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>59651-012</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>75 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Aurobindo Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>59651-013</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 mg/10mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Aurobindo Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>59651-014</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>200 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Auro Medics Pharma Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>55150-218</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>75 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Auro Medics Pharma Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>55150-219</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 mg/10mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Auro Medics Pharma Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>55150-220</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>200 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA206127</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>16729-260</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205557</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>16729-259</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-04-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205557</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Sagent Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>25021-408</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-07-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204693</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Sagent Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>25021-409</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-07-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204693</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-1179</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-14</started-marketing-on>
+      <ended-marketing-on>2018-10-11</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA091555</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67457-629</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67457-631</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-12-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67457-630</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-10-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Teva Parenteral Medicines, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0703-1165</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-07-06</started-marketing-on>
+      <ended-marketing-on>2019-05-31</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA090854</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Baxter Healthcare Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-9558</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>75 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA208554</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Baxter Healthcare Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>0338-9559</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>200 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA208554</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Hainan Poly Pharm. Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>14335-070</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Hainan Poly Pharm. Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>14335-071</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Slate Run Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70436-026</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Slate Run Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70436-027</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Amneal Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>70121-1002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205581</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Amneal Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>70121-1003</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-12-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA205581</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>USV Private Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>62147-0600</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204362</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>USV Private Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>62147-0601</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204362</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>USV Private Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code>62147-0602</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-01-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204362</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Akorn, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17478-903</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-04-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204589</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Akorn, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>17478-902</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-04-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA204589</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>McKesson Corporation dba SKY Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>63739-970</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>75 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA207864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>McKesson Corporation dba SKY Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>63739-923</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>200 mg/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA207864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>McKesson Corporation dba SKY Packaging</labeller>
+      <ndc-id/>
+      <ndc-product-code>63739-911</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-03-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 mg/10mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA207864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>72078-025</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-07-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>72078-026</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>72078-027</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-07-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA203258</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Slate Run Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70436-162</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide</name>
+      <labeller>Slate Run Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70436-163</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>ANDA209864</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Eptifibatide Accord</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004104</ema-product-code>
+      <ema-ma-number>EU/1/15/1065/001</ema-ma-number>
+      <started-marketing-on>2016-01-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Eptifibatide Accord</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004104</ema-product-code>
+      <ema-ma-number>EU/1/15/1065/002</ema-ma-number>
+      <started-marketing-on>2016-01-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02410109</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02410125</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Strides Pharma Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422840</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Strides Pharma Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02422859</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Accord Healthcare Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02454483</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Accord Healthcare Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02454491</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02460378</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02460386</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>TEVA Canada Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02367858</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-04-29</started-marketing-on>
+      <ended-marketing-on>2018-04-30</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Eptifibatide Injection</name>
+      <labeller>TEVA Canada Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02405083</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-04-29</started-marketing-on>
+      <ended-marketing-on>2018-04-30</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Merck Sharp &amp; Dohme Corp.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0085-1177</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-05-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>2 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020718</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Merck Sharp &amp; Dohme Corp.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0085-1136</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-05-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.75 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA020718</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Glaxo Smith Kline (Ireland) Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000230</ema-product-code>
+      <ema-ma-number>EU/1/99/109/001</ema-ma-number>
+      <started-marketing-on>1999-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Glaxo Smith Kline (Ireland) Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000230</ema-product-code>
+      <ema-ma-number>EU/1/99/109/002</ema-ma-number>
+      <started-marketing-on>1999-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240351</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-06-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.75 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Integrilin</name>
+      <labeller>Merck Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240352</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-06-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Eptifibatide Accord</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Accord</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Integrilin</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Eptifibatide Injection</name>
+      <ingredients>Eptifibatide</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Assia Chemical Industries Ltd.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Patheon Inc.</name>
+      <url>http://www.patheon.com</url>
+    </packager>
+    <packager>
+      <name>Schering Corp.</name>
+      <url>http://www.schering.de</url>
+    </packager>
+    <packager>
+      <name>Schering-Plough Inc.</name>
+      <url>http://www.schering-plough.ca</url>
+    </packager>
+    <packager>
+      <name>Teva Pharmaceutical Industries Ltd.</name>
+      <url>http://www.tevapharm.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Schering corp</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Integrilin 75 mg/100 ml vial</description>
+      <cost currency="USD">3.88</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Integrilin 200 mg/100 ml vial</description>
+      <cost currency="USD">10.74</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Integrilin 20 mg/10 ml vial</description>
+      <cost currency="USD">12.41</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antiplatelet agents</category>
+      <mesh-id>D010975</mesh-id>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased Platelet Aggregation</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hematologic Agents</category>
+      <mesh-id>D006401</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Peptides, Cyclic</category>
+      <mesh-id>D010456</mesh-id>
+    </category>
+    <category>
+      <category>Platelet Aggregation Inhibitors Excl. Heparin</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>0.75 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>2 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 mg/10mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>75 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.75 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 mg/10mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>200 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>75 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.75 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>0.75 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>2 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>0.75 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>2 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>0.75 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>2 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.75 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B01AC16">
+      <level code="B01AC">Platelet aggregation inhibitors excl. heparin</level>
+      <level code="B01A">ANTITHROMBOTIC AGENTS</level>
+      <level code="B01">ANTITHROMBOTIC AGENTS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>20:12.18</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00063.pdf?1265922812</fda-label>
+  <patents>
+    <patent>
+      <number>5686570</number>
+      <country>United States</country>
+      <approved>1997-11-11</approved>
+      <expires>2014-11-11</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>2133205</number>
+      <country>Canada</country>
+      <approved>2007-04-17</approved>
+      <expires>2013-04-27</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>5807825</number>
+      <country>United States</country>
+      <approved>1998-09-15</approved>
+      <expires>2015-09-15</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>Dasatinib may increase the anticoagulant activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01586</drugbank-id>
+      <name>Ursodeoxycholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Ursodeoxycholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02123</drugbank-id>
+      <name>Glycochenodeoxycholic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Glycochenodeoxycholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02659</drugbank-id>
+      <name>Cholic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Cholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02691</drugbank-id>
+      <name>Glycocholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Glycocholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03619</drugbank-id>
+      <name>Deoxycholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Deoxycholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04348</drugbank-id>
+      <name>Taurocholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Taurocholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05990</drugbank-id>
+      <name>Obeticholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Obeticholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06777</drugbank-id>
+      <name>Chenodeoxycholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Chenodeoxycholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08833</drugbank-id>
+      <name>Taurochenodeoxycholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Taurochenodeoxycholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08834</drugbank-id>
+      <name>Tauroursodeoxycholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Tauroursodeoxycholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08857</drugbank-id>
+      <name>Bamet-UD2</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Bamet-UD2.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11622</drugbank-id>
+      <name>Dehydrocholic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Dehydrocholic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11789</drugbank-id>
+      <name>Hyodeoxycholic Acid</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Hyodeoxycholic Acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01296</drugbank-id>
+      <name>Glucosamine</name>
+      <description>Glucosamine may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Ibrutinib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Pentoxifylline may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>Eptifibatide may increase the anticoagulant activities of Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00932</drugbank-id>
+      <name>Tipranavir</name>
+      <description>Tipranavir may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>Eptifibatide may increase the anticoagulant activities of Urokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00163</drugbank-id>
+      <name>Vitamin E</name>
+      <description>Vitamin E may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan polysulfate</name>
+      <description>The risk or severity of adverse effects can be increased when Pentosan polysulfate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09211</drugbank-id>
+      <name>Limaprost</name>
+      <description>Limaprost may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11133</drugbank-id>
+      <name>Omega-3 fatty acids</name>
+      <description>Omega-3 fatty acids may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Eptifibatide is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Alteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Reteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Anistreplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tenecteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Drotrecogin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Streptokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dipyridamole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Iloprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Epoprostenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with 4-hydroxycoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Coumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Desmoteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Defibrotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ancrod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Beraprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Fibrinolysin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Prasugrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Semuloparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>Idraparinux</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cangrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Astaxanthin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06679</drugbank-id>
+      <name>Amediplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Amediplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tinzaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07767</drugbank-id>
+      <name>Ferulic acid</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ferulic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with (R)-warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Triflusal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ticagrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ditazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Vorapaxar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09125</drugbank-id>
+      <name>Potassium citrate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Potassium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09154</drugbank-id>
+      <name>Sodium citrate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Sodium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bemiparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Parnaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11154</drugbank-id>
+      <name>Zinc citrate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Zinc citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11166</drugbank-id>
+      <name>Antithrombin Alfa</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Antithrombin Alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11984</drugbank-id>
+      <name>Letaxaban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Letaxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>Darexaban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Darexaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12364</drugbank-id>
+      <name>Betrixaban</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Betrixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12726</drugbank-id>
+      <name>Monteplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Monteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13199</drugbank-id>
+      <name>Brinase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Brinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Clorindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Diphenadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tioclomarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13616</drugbank-id>
+      <name>Melagatran</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Melagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13646</drugbank-id>
+      <name>Saruplase</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Saruplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with (S)-Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14094</drugbank-id>
+      <name>Tocopherylquinone</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tocopherylquinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14598</drugbank-id>
+      <name>Edetate calcium disodium anhydrous</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Edetate calcium disodium anhydrous.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14726</drugbank-id>
+      <name>Dabigatran</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dabigatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13124</drugbank-id>
+      <name>Troxerutin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Troxerutin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic acid</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Edetic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Reviparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00374</drugbank-id>
+      <name>Treprostinil</name>
+      <description>Treprostinil may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00208</drugbank-id>
+      <name>Ticlopidine</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ticlopidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Clopidogrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00775</drugbank-id>
+      <name>Tirofiban</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Tirofiban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01138</drugbank-id>
+      <name>Sulfinpyrazone</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Sulfinpyrazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Cilostazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01207</drugbank-id>
+      <name>Ridogrel</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ridogrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01236</drugbank-id>
+      <name>Sevoflurane</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Sevoflurane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Resveratrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04905</drugbank-id>
+      <name>Tesmilifene</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Tesmilifene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05266</drugbank-id>
+      <name>Ibudilast</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ibudilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05767</drugbank-id>
+      <name>Andrographolide</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Andrographolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07615</drugbank-id>
+      <name>Tranilast</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Tranilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08887</drugbank-id>
+      <name>Icosapent ethyl</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Icosapent ethyl.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09283</drugbank-id>
+      <name>Trapidil</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Trapidil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12092</drugbank-id>
+      <name>Naftopidil</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Naftopidil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12163</drugbank-id>
+      <name>Sarpogrelate</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Sarpogrelate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12321</drugbank-id>
+      <name>Ifetroban</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ifetroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12465</drugbank-id>
+      <name>Ketanserin</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ketanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12749</drugbank-id>
+      <name>Butylphthalide</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Butylphthalide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12771</drugbank-id>
+      <name>Hydroxytyrosol</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Hydroxytyrosol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13036</drugbank-id>
+      <name>Ramatroban</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Ramatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13327</drugbank-id>
+      <name>Picotamide</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Picotamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13367</drugbank-id>
+      <name>Cloricromen</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Cloricromen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13400</drugbank-id>
+      <name>Linsidomine</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Linsidomine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13510</drugbank-id>
+      <name>Buflomedil</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Buflomedil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13929</drugbank-id>
+      <name>Relcovaptan</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Relcovaptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>Eptifibatide may increase the antiplatelet activities of Anagrelide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00233</drugbank-id>
+      <name>Aminosalicylic acid</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Aminosalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01294</drugbank-id>
+      <name>Bismuth subsalicylate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bismuth subsalicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>Dersalazine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dersalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06807</drugbank-id>
+      <name>Phenyl aminosalicylate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Phenyl aminosalicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09543</drugbank-id>
+      <name>Methyl salicylate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Methyl salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13509</drugbank-id>
+      <name>Aloxiprin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Aloxiprin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14006</drugbank-id>
+      <name>Choline salicylate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Choline salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14026</drugbank-id>
+      <name>Thiosalicylic acid</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Thiosalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>Eptifibatide may increase the anticoagulant activities of Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Peginterferon alfa-2a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfa-n1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfa-n3.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Peginterferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon gamma-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon alfa-2a, Recombinant</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfa-2a, Recombinant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Aldesleukin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Gemtuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon beta-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfacon-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon alfa-2b</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00120</drugbank-id>
+      <name>Phenylalanine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Phenylalanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00446</drugbank-id>
+      <name>Chloramphenicol</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Chloramphenicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Zidovudine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Penicillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tacrolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01099</drugbank-id>
+      <name>Flucytosine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Flucytosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05472</drugbank-id>
+      <name>Human interferon omega-1</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Human interferon omega-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09042</drugbank-id>
+      <name>Tedizolid phosphate</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Tedizolid phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The risk or severity of bleeding can be increased when Eptifibatide is combined with Cepeginterferon alfa-2B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The risk or severity of hemorrhage can be increased when Fluvoxamine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The risk or severity of hemorrhage can be increased when Citalopram is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The risk or severity of hemorrhage can be increased when Fluoxetine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>The risk or severity of hemorrhage can be increased when Paroxetine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The risk or severity of hemorrhage can be increased when Nefazodone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04832</drugbank-id>
+      <name>Zimelidine</name>
+      <description>The risk or severity of hemorrhage can be increased when Zimelidine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04884</drugbank-id>
+      <name>Dapoxetine</name>
+      <description>The risk or severity of hemorrhage can be increased when Dapoxetine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06731</drugbank-id>
+      <name>Seproxetine</name>
+      <description>The risk or severity of hemorrhage can be increased when Seproxetine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08953</drugbank-id>
+      <name>Indalpine</name>
+      <description>The risk or severity of hemorrhage can be increased when Indalpine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12693</drugbank-id>
+      <name>Ritanserin</name>
+      <description>The risk or severity of hemorrhage can be increased when Ritanserin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13233</drugbank-id>
+      <name>Alaproclate</name>
+      <description>The risk or severity of hemorrhage can be increased when Alaproclate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00285</drugbank-id>
+      <name>Venlafaxine</name>
+      <description>Venlafaxine may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>Duloxetine may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01105</drugbank-id>
+      <name>Sibutramine</name>
+      <description>Sibutramine may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04896</drugbank-id>
+      <name>Milnacipran</name>
+      <description>Milnacipran may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06700</drugbank-id>
+      <name>Desvenlafaxine</name>
+      <description>Desvenlafaxine may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>Levomilnacipran may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00182</drugbank-id>
+      <name>Amphetamine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Amphetamine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Linezolid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00614</drugbank-id>
+      <name>Furazolidone</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Furazolidone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00721</drugbank-id>
+      <name>Procaine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Procaine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00752</drugbank-id>
+      <name>Tranylcypromine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Tranylcypromine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00780</drugbank-id>
+      <name>Phenelzine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Phenelzine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00805</drugbank-id>
+      <name>Minaprine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Minaprine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Selegiline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Procarbazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01171</drugbank-id>
+      <name>Moclobemide</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Moclobemide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01247</drugbank-id>
+      <name>Isocarboxazid</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Isocarboxazid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01367</drugbank-id>
+      <name>Rasagiline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Rasagiline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01626</drugbank-id>
+      <name>Pargyline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Pargyline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04017</drugbank-id>
+      <name>Clorgiline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Clorgiline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04818</drugbank-id>
+      <name>Iproniazid</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Iproniazid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04820</drugbank-id>
+      <name>Nialamide</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Nialamide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06654</drugbank-id>
+      <name>Safinamide</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Safinamide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08550</drugbank-id>
+      <name>7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when 7,8-Dichloro-1,2,3,4-tetrahydroisoquinoline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09241</drugbank-id>
+      <name>Methylene blue</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Methylene blue is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09243</drugbank-id>
+      <name>Hydracarbazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Hydracarbazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09244</drugbank-id>
+      <name>Pirlindole</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Pirlindole is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09245</drugbank-id>
+      <name>Toloxatone</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Toloxatone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09246</drugbank-id>
+      <name>Benmoxin</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Benmoxin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09248</drugbank-id>
+      <name>Mebanazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Mebanazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09249</drugbank-id>
+      <name>Octamoxin</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Octamoxin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09250</drugbank-id>
+      <name>Pheniprazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Pheniprazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09251</drugbank-id>
+      <name>Phenoxypropazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Phenoxypropazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09252</drugbank-id>
+      <name>Pivhydrazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Pivhydrazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09253</drugbank-id>
+      <name>Safrazine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Safrazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09254</drugbank-id>
+      <name>Caroxazone</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Caroxazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13875</drugbank-id>
+      <name>Harmaline</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Harmaline is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13876</drugbank-id>
+      <name>Brofaromine</name>
+      <description>The risk or severity of bleeding and hemorrhage can be increased when Brofaromine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09539</drugbank-id>
+      <name>Omega-3-acid ethyl esters</name>
+      <description>The risk or severity of bleeding can be increased when Omega-3-acid ethyl esters is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>Acetylsalicylic acid may increase the antiplatelet activities of Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00159</drugbank-id>
+      <name>Icosapent</name>
+      <description>The risk or severity of bleeding can be increased when Icosapent is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>The risk or severity of bleeding can be increased when Mesalazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The risk or severity of bleeding can be increased when Indomethacin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>The risk or severity of bleeding can be increased when Nabumetone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00465</drugbank-id>
+      <name>Ketorolac</name>
+      <description>The risk or severity of bleeding can be increased when Ketorolac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00469</drugbank-id>
+      <name>Tenoxicam</name>
+      <description>The risk or severity of bleeding can be increased when Tenoxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00482</drugbank-id>
+      <name>Celecoxib</name>
+      <description>The risk or severity of bleeding can be increased when Celecoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00500</drugbank-id>
+      <name>Tolmetin</name>
+      <description>The risk or severity of bleeding can be increased when Tolmetin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>The risk or severity of bleeding can be increased when Rofecoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00554</drugbank-id>
+      <name>Piroxicam</name>
+      <description>The risk or severity of bleeding can be increased when Piroxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00573</drugbank-id>
+      <name>Fenoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Fenoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00580</drugbank-id>
+      <name>Valdecoxib</name>
+      <description>The risk or severity of bleeding can be increased when Valdecoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>The risk or severity of bleeding can be increased when Diclofenac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00605</drugbank-id>
+      <name>Sulindac</name>
+      <description>The risk or severity of bleeding can be increased when Sulindac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00712</drugbank-id>
+      <name>Flurbiprofen</name>
+      <description>The risk or severity of bleeding can be increased when Flurbiprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00749</drugbank-id>
+      <name>Etodolac</name>
+      <description>The risk or severity of bleeding can be increased when Etodolac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00784</drugbank-id>
+      <name>Mefenamic acid</name>
+      <description>The risk or severity of bleeding can be increased when Mefenamic acid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>The risk or severity of bleeding can be increased when Naproxen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The risk or severity of bleeding can be increased when Sulfasalazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00812</drugbank-id>
+      <name>Phenylbutazone</name>
+      <description>The risk or severity of bleeding can be increased when Phenylbutazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00814</drugbank-id>
+      <name>Meloxicam</name>
+      <description>The risk or severity of bleeding can be increased when Meloxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00821</drugbank-id>
+      <name>Carprofen</name>
+      <description>The risk or severity of bleeding can be increased when Carprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>The risk or severity of bleeding can be increased when Diflunisal is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>The risk or severity of bleeding can be increased when Salicylic acid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>The risk or severity of bleeding can be increased when Meclofenamic acid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00991</drugbank-id>
+      <name>Oxaprozin</name>
+      <description>The risk or severity of bleeding can be increased when Oxaprozin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01009</drugbank-id>
+      <name>Ketoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Ketoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>The risk or severity of bleeding can be increased when Balsalazide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01050</drugbank-id>
+      <name>Ibuprofen</name>
+      <description>The risk or severity of bleeding can be increased when Ibuprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>The risk or severity of bleeding can be increased when Olsalazine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01283</drugbank-id>
+      <name>Lumiracoxib</name>
+      <description>The risk or severity of bleeding can be increased when Lumiracoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>The risk or severity of bleeding can be increased when Magnesium salicylate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01399</drugbank-id>
+      <name>Salsalate</name>
+      <description>The risk or severity of bleeding can be increased when Salsalate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01401</drugbank-id>
+      <name>Choline magnesium trisalicylate</name>
+      <description>The risk or severity of bleeding can be increased when Choline magnesium trisalicylate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01419</drugbank-id>
+      <name>Antrafenine</name>
+      <description>The risk or severity of bleeding can be increased when Antrafenine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01424</drugbank-id>
+      <name>Aminophenazone</name>
+      <description>The risk or severity of bleeding can be increased when Aminophenazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>The risk or severity of bleeding can be increased when Antipyrine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01600</drugbank-id>
+      <name>Tiaprofenic acid</name>
+      <description>The risk or severity of bleeding can be increased when Tiaprofenic acid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>The risk or severity of bleeding can be increased when Etoricoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02224</drugbank-id>
+      <name>Taxifolin</name>
+      <description>The risk or severity of bleeding can be increased when Taxifolin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03585</drugbank-id>
+      <name>Oxyphenbutazone</name>
+      <description>The risk or severity of bleeding can be increased when Oxyphenbutazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04725</drugbank-id>
+      <name>Licofelone</name>
+      <description>The risk or severity of bleeding can be increased when Licofelone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04743</drugbank-id>
+      <name>Nimesulide</name>
+      <description>The risk or severity of bleeding can be increased when Nimesulide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04812</drugbank-id>
+      <name>Benoxaprofen</name>
+      <description>The risk or severity of bleeding can be increased when Benoxaprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04817</drugbank-id>
+      <name>Metamizole</name>
+      <description>The risk or severity of bleeding can be increased when Metamizole is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04828</drugbank-id>
+      <name>Zomepirac</name>
+      <description>The risk or severity of bleeding can be increased when Zomepirac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05095</drugbank-id>
+      <name>Cimicoxib</name>
+      <description>The risk or severity of bleeding can be increased when Cimicoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06725</drugbank-id>
+      <name>Lornoxicam</name>
+      <description>The risk or severity of bleeding can be increased when Lornoxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06736</drugbank-id>
+      <name>Aceclofenac</name>
+      <description>The risk or severity of bleeding can be increased when Aceclofenac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06737</drugbank-id>
+      <name>Zaltoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Zaltoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07402</drugbank-id>
+      <name>Azapropazone</name>
+      <description>The risk or severity of bleeding can be increased when Azapropazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08439</drugbank-id>
+      <name>Parecoxib</name>
+      <description>The risk or severity of bleeding can be increased when Parecoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08797</drugbank-id>
+      <name>Salicylamide</name>
+      <description>The risk or severity of bleeding can be increased when Salicylamide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08940</drugbank-id>
+      <name>Kebuzone</name>
+      <description>The risk or severity of bleeding can be increased when Kebuzone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08942</drugbank-id>
+      <name>Isoxicam</name>
+      <description>The risk or severity of bleeding can be increased when Isoxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08951</drugbank-id>
+      <name>Indoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Indoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08955</drugbank-id>
+      <name>Ibuproxam</name>
+      <description>The risk or severity of bleeding can be increased when Ibuproxam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08976</drugbank-id>
+      <name>Floctafenine</name>
+      <description>The risk or severity of bleeding can be increased when Floctafenine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08981</drugbank-id>
+      <name>Fenbufen</name>
+      <description>The risk or severity of bleeding can be increased when Fenbufen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>The risk or severity of bleeding can be increased when Etofenamate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08991</drugbank-id>
+      <name>Epirizole</name>
+      <description>The risk or severity of bleeding can be increased when Epirizole is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09084</drugbank-id>
+      <name>Benzydamine</name>
+      <description>The risk or severity of bleeding can be increased when Benzydamine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09213</drugbank-id>
+      <name>Dexibuprofen</name>
+      <description>The risk or severity of bleeding can be increased when Dexibuprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09214</drugbank-id>
+      <name>Dexketoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Dexketoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09215</drugbank-id>
+      <name>Droxicam</name>
+      <description>The risk or severity of bleeding can be increased when Droxicam is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09216</drugbank-id>
+      <name>Tolfenamic acid</name>
+      <description>The risk or severity of bleeding can be increased when Tolfenamic acid is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09217</drugbank-id>
+      <name>Firocoxib</name>
+      <description>The risk or severity of bleeding can be increased when Firocoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09218</drugbank-id>
+      <name>Clonixin</name>
+      <description>The risk or severity of bleeding can be increased when Clonixin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09285</drugbank-id>
+      <name>Morniflumate</name>
+      <description>The risk or severity of bleeding can be increased when Morniflumate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>The risk or severity of bleeding can be increased when Propacetamol is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09295</drugbank-id>
+      <name>Talniflumate</name>
+      <description>The risk or severity of bleeding can be increased when Talniflumate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11455</drugbank-id>
+      <name>Robenacoxib</name>
+      <description>The risk or severity of bleeding can be increased when Robenacoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>The risk or severity of bleeding can be increased when Tepoxalin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11518</drugbank-id>
+      <name>Flunixin</name>
+      <description>The risk or severity of bleeding can be increased when Flunixin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12399</drugbank-id>
+      <name>Polmacoxib</name>
+      <description>The risk or severity of bleeding can be increased when Polmacoxib is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>The risk or severity of bleeding can be increased when Nitroaspirin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12545</drugbank-id>
+      <name>Indobufen</name>
+      <description>The risk or severity of bleeding can be increased when Indobufen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12610</drugbank-id>
+      <name>Ebselen</name>
+      <description>The risk or severity of bleeding can be increased when Ebselen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13001</drugbank-id>
+      <name>Tinoridine</name>
+      <description>The risk or severity of bleeding can be increased when Tinoridine is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13167</drugbank-id>
+      <name>Alclofenac</name>
+      <description>The risk or severity of bleeding can be increased when Alclofenac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13217</drugbank-id>
+      <name>Fentiazac</name>
+      <description>The risk or severity of bleeding can be increased when Fentiazac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13232</drugbank-id>
+      <name>Suxibuzone</name>
+      <description>The risk or severity of bleeding can be increased when Suxibuzone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13286</drugbank-id>
+      <name>Bumadizone</name>
+      <description>The risk or severity of bleeding can be increased when Bumadizone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13314</drugbank-id>
+      <name>Alminoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Alminoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13371</drugbank-id>
+      <name>Difenpiramide</name>
+      <description>The risk or severity of bleeding can be increased when Difenpiramide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13407</drugbank-id>
+      <name>Nifenazone</name>
+      <description>The risk or severity of bleeding can be increased when Nifenazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13432</drugbank-id>
+      <name>Lonazolac</name>
+      <description>The risk or severity of bleeding can be increased when Lonazolac is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13481</drugbank-id>
+      <name>Tenidap</name>
+      <description>The risk or severity of bleeding can be increased when Tenidap is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13524</drugbank-id>
+      <name>Propyphenazone</name>
+      <description>The risk or severity of bleeding can be increased when Propyphenazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13527</drugbank-id>
+      <name>Proglumetacin</name>
+      <description>The risk or severity of bleeding can be increased when Proglumetacin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13538</drugbank-id>
+      <name>Guacetisal</name>
+      <description>The risk or severity of bleeding can be increased when Guacetisal is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13544</drugbank-id>
+      <name>Ethenzamide</name>
+      <description>The risk or severity of bleeding can be increased when Ethenzamide is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13612</drugbank-id>
+      <name>Carbaspirin calcium</name>
+      <description>The risk or severity of bleeding can be increased when Carbaspirin calcium is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13629</drugbank-id>
+      <name>Mofebutazone</name>
+      <description>The risk or severity of bleeding can be increased when Mofebutazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13649</drugbank-id>
+      <name>Proquazone</name>
+      <description>The risk or severity of bleeding can be increased when Proquazone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13657</drugbank-id>
+      <name>Benorilate</name>
+      <description>The risk or severity of bleeding can be increased when Benorilate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13722</drugbank-id>
+      <name>Pirprofen</name>
+      <description>The risk or severity of bleeding can be increased when Pirprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13783</drugbank-id>
+      <name>Acemetacin</name>
+      <description>The risk or severity of bleeding can be increased when Acemetacin is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13860</drugbank-id>
+      <name>Imidazole salicylate</name>
+      <description>The risk or severity of bleeding can be increased when Imidazole salicylate is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14059</drugbank-id>
+      <name>SC-236</name>
+      <description>The risk or severity of bleeding can be increased when SC-236 is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14060</drugbank-id>
+      <name>NS-398</name>
+      <description>The risk or severity of bleeding can be increased when NS-398 is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14938</drugbank-id>
+      <name>Flurbiprofen axetil</name>
+      <description>The risk or severity of bleeding can be increased when Flurbiprofen axetil is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09212</drugbank-id>
+      <name>Loxoprofen</name>
+      <description>The risk or severity of bleeding can be increased when Loxoprofen is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The risk or severity of bleeding can be increased when Trazodone is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>The risk or severity of bleeding can be increased when Escitalopram is combined with Eptifibatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>The risk or severity of bleeding can be increased when Sertraline is combined with Eptifibatide.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-2.3</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>831.962</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C35H49N11O9S2</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11891</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505459</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449483</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000285</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Eptifibatide</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1174</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>75635</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/eptifibatide.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/eptifibatide.html</url>
+    </external-link>
+  </external-links>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000266</smpdb-id>
+      <name>Eptifibatide Action Pathway</name>
+      <category>drug_action</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00063</drugbank-id>
+          <name>Eptifibatide</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P08514</uniprot-id>
+        <uniprot-id>P05106</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0001155</id>
+      <name>Integrin beta-3</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1978</ref-id>
+            <pubmed-id>11588534</pubmed-id>
+            <citation>Amoroso G, van Boven AJ, van Veldhuisen DJ, Tio RA, Balje-Volkers CP, Petronio AS, van Oeveren W: Eptifibatide and abciximab exhibit equivalent antiplatelet efficacy in an experimental model of stenting in both healthy volunteers and patients with coronary artery disease. J Cardiovasc Pharmacol. 2001 Oct;38(4):633-41.</citation>
+          </article>
+          <article>
+            <ref-id>A1980</ref-id>
+            <pubmed-id>14618072</pubmed-id>
+            <citation>Schror K, Weber AA: Comparative pharmacology of GP IIb/IIIa antagonists. J Thromb Thrombolysis. 2003 Apr;15(2):71-80.</citation>
+          </article>
+          <article>
+            <ref-id>A1982</ref-id>
+            <pubmed-id>15860200</pubmed-id>
+            <citation>Fischer TH, Thatte HS, Nichols TC, Bender-Neal DE, Bellinger AD, Vournakis JN: Synergistic platelet integrin signaling and factor XII activation in poly-N-acetyl glucosamine fiber-mediated hemostasis. Biomaterials. 2005 Sep;26(27):5433-43.</citation>
+          </article>
+          <article>
+            <ref-id>A1984</ref-id>
+            <pubmed-id>12360110</pubmed-id>
+            <citation>Weber AA, Jacobs C, Meila D, Weber S, Zotz RB, Scharf RE, Kelm M, Strauer BE, Schror K: No evidence for an influence of the human platelet antigen-1 polymorphism on the antiplatelet effects of glycoprotein IIb/IIIa inhibitors. Pharmacogenetics. 2002 Oct;12(7):581-3.</citation>
+          </article>
+          <article>
+            <ref-id>A1987</ref-id>
+            <pubmed-id>14617694</pubmed-id>
+            <citation>Schwarz M, Katagiri Y, Kotani M, Bassler N, Loeffler C, Bode C, Peter K: Reversibility versus persistence of GPIIb/IIIa blocker-induced conformational change of GPIIb/IIIa (alphaIIbbeta3, CD41/CD61). J Pharmacol Exp Ther. 2004 Mar;308(3):1002-11. Epub 2003 Nov 14.</citation>
+          </article>
+          <article>
+            <ref-id>A1988</ref-id>
+            <pubmed-id>12928738</pubmed-id>
+            <citation>Auer J, Berent R, Lassnig E, Weber T, Maurer E, Eber B: [Platelet glycoprotein IIb/IIIa inhibitors in coronary artery disease]. Herz. 2003 Aug;28(5):393-403.</citation>
+          </article>
+          <article>
+            <ref-id>A1991</ref-id>
+            <pubmed-id>10592235</pubmed-id>
+            <citation>Berman HM, Westbrook J, Feng Z, Gilliland G, Bhat TN, Weissig H, Shindyalov IN, Bourne PE: The Protein Data Bank. Nucleic Acids Res. 2000 Jan 1;28(1):235-42.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P05106" source="Swiss-Prot">
+        <name>Integrin beta-3</name>
+        <general-function>Virus receptor activity</general-function>
+        <specific-function>Integrin alpha-V/beta-3 (ITGAV:ITGB3) is a receptor for cytotactin, fibronectin, laminin, matrix metalloproteinase-2, osteopontin, osteomodulin, prothrombin, thrombospondin, vitronectin and von Willebrand factor. Integrin alpha-IIb/beta-3 (ITGA2B:ITGB3) is a receptor for fibronectin, fibrinogen, plasminogen, prothrombin, thrombospondin and vitronectin. Integrins alpha-IIb/beta-3 and alpha-V/beta-3 recognize the sequence R-G-D in a wide array of ligands. Integrin alpha-IIb/beta-3 recognizes the sequence H-H-L-G-G-G-A-K-Q-A-G-D-V in fibrinogen gamma chain. Following activation integrin alpha-IIb/beta-3 brings about platelet/platelet interaction through binding of soluble fibrinogen. This step leads to rapid platelet aggregation which physically plugs ruptured endothelial surface. Fibrinogen binding enhances SELP expression in activated platelets (By similarity).(Microbial infection) Integrin ITGAV:ITGB3 acts as a receptor for herpes virus 8/HHV-8 (PubMed:18045938). Integrin ITGAV:ITGB3 acts as a receptor for coxsackievirus A9 (PubMed:7519807). Acts as a receptor for Hantaan virus (PubMed:9618541). Integrin ITGAV:ITGB3 acts as a receptor for cytomegalovirus/HHV-5 (PubMed:15834425). Integrin ITGA5:ITGB3 acts as a receptor for human metapneumovirus (PubMed:24478423). Integrin ITGAV:ITGB3 acts aP05556s a receptor for human parechovirus 1 (PubMed:11160695). Integrin ITGAV:ITGB3 acts as a receptor for west nile virus (PubMed:23658209). In case of HIV-1 infection, the interaction with extracellular viral Tat protein seems to enhance angiogenesis in Kaposi's sarcoma lesions (PubMed:10397733).</specific-function>
+        <gene-name>ITGB3</gene-name>
+        <locus>17q21.32</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>719-741</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi>4.85</theoretical-pi>
+        <molecular-weight>87056.975</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6156</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ITGB3</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J02703</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>306786</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P05106</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ITB3_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GP3A</synonym>
+          <synonym>GPIIIa</synonym>
+          <synonym>Platelet membrane glycoprotein IIIa</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002297|Integrin beta-3
+MRARPRPRPLWATVLALGALAGVGVGGPNICTTRGVSSCQQCLAVSPMCAWCSDEALPLG
+SPRCDLKENLLKDNCAPESIEFPVSEARVLEDRPLSDKGSGDSSQVTQVSPQRIALRLRP
+DDSKNFSIQVRQVEDYPVDIYYLMDLSYSMKDDLWSIQNLGTKLATQMRKLTSNLRIGFG
+AFVDKPVSPYMYISPPEALENPCYDMKTTCLPMFGYKHVLTLTDQVTRFNEEVKKQSVSR
+NRDAPEGGFDAIMQATVCDEKIGWRNDASHLLVFTTDAKTHIALDGRLAGIVQPNDGQCH
+VGSDNHYSASTTMDYPSLGLMTEKLSQKNINLIFAVTENVVNLYQNYSELIPGTTVGVLS
+MDSSNVLQLIVDAYGKIRSKVELEVRDLPEELSLSFNATCLNNEVIPGLKSCMGLKIGDT
+VSFSIEAKVRGCPQEKEKSFTIKPVGFKDSLIVQVTFDCDCACQAQAEPNSHRCNNGNGT
+FECGVCRCGPGWLGSQCECSEEDYRPSQQDECSPREGQPVCSQRGECLCGQCVCHSSDFG
+KITGKYCECDDFSCVRYKGEMCSGHGQCSCGDCLCDSDWTGYYCNCTTRTDTCMSSNGLL
+CSGRGKCECGSCVCIQPGSYGDTCEKCPTCPDACTFKKECVECKKFDRGALHDENTCNRY
+CRDEIESVKELKDTGKDAVNCTYKNEDDCVVRFQYYEDSSGKSILYVVEEPECPKGPDIL
+VVLLSVMGAILLIGLAALLIWKLLITIHDRKEFAKFEEERARAKWDTANNPLYKEATSTF
+TNITYRGT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021847|Integrin beta-3 (ITGB3)
+ATGCGAGCGCGGCCGCGGCCCCGGCCGCTCTGGGCGACTGTGCTGGCGCTGGGGGCGCTG
+GCGGGCGTTGGCGTAGGAGGGCCCAACATCTGTACCACGCGAGGTGTGAGCTCCTGCCAG
+CAGTGCCTGGCTGTGAGCCCCATGTGTGCCTGGTGCTCTGATGAGGCCCTGCCTCTGGGC
+TCACCTCGCTGTGACCTGAAGGAGAATCTGCTGAAGGATAACTGTGCCCCAGAATCCATC
+GAGTTCCCAGTGAGTGAGGCCCGAGTACTAGAGGACAGGCCCCTCAGCGACAAGGGCTCT
+GGAGACAGCTCCCAGGTCACTCAAGTCAGTCCCCAGAGGATTGCACTCCGGCTCCGGCCA
+GATGATTCGAAGAATTTCTCCATCCAAGTGCGGCAGGTGGAGGATTACCCTGTGGACATC
+TACTACTTGATGGACCTGTCTTACTCCATGAAGGATGATCTGTGGAGCATCCAGAACCTG
+GGTACCAAGCTGGCCACCCAGATGCGAAAGCTCACCAGTAACCTGCGGATTGGCTTCGGG
+GCATTTGTGGACAAGCCTGTGTCACCATACATGTATATCTCCCCACCAGAGGCCCTCGAA
+AACCCCTGCTATGATATGAAGACCACCTGCTTGCCCATGTTTGGCTACAAACACGTGCTG
+ACGCTAACTGACCAGGTGACCCGCTTCAATGAGGAAGTGAAGAAGCAGAGTGTGTCACGG
+AACCGAGATGCCCCAGAGGGTGGCTTTGATGCCATCATGCAGGCTACAGTCTGTGATGAA
+AAGATTGGCTGGAGGAATGATGCATCCCACTTGCTGGTGTTTACCACTGATGCCAAGACT
+CATATAGCATTGGACGGAAGGCTGGCAGGCATTGTCCAGCCTAATGACGGGCAGTGTCAT
+GTTGGTAGTGACAATCATTACTCTGCCTCCACTACCATGGATTATCCCTCTTTGGGGCTG
+ATGACTGAGAAGCTATCCCAGAAAAACATCAATTTGATCTTTGCAGTGACTGAAAATGTA
+GTCAATCTCTATCAGAACTATAGTGAGCTCATCCCAGGGACCACAGTTGGGGTTCTGTCC
+ATGGATTCCAGCAATGTCCTCCAGCTCATTGTTGATGCTTATGGGAAAATCCGTTCTAAA
+GTAGAGCTGGAAGTGCGTGACCTCCCTGAAGAGTTGTCTCTATCCTTCAATGCCACCTGC
+CTCAACAATGAGGTCATCCCTGGCCTCAAGTCTTGTATGGGACTCAAGATTGGAGACACG
+GTGAGCTTCAGCATTGAGGCCAAGGTGCGAGGCTGTCCCCAGGAGAAGGAGAAGTCCTTT
+ACCATAAAGCCCGTGGGCTTCAAGGACAGCCTGATCGTCCAGGTCACCTTTGATTGTGAC
+TGTGCCTGCCAGGCCCAAGCTGAACCTAATAGCCATCGCTGCAACAATGGCAATGGGACC
+TTTGAGTGTGGGGTATGCCGTTGTGGGCCTGGCTGGCTGGGATCCCAGTGTGAGTGCTCA
+GAGGAGGACTATCGCCCTTCCCAGCAGGACGAATGCAGCCCCCGGGAGGGTCAGCCCGTC
+TGCAGCCAGCGGGGCGAGTGCCTCTGTGGTCAATGTGTCTGCCACAGCAGTGACTTTGGC
+AAGATCACGGGCAAGTACTGCGAGTGTGACGACTTCTCCTGTGTCCGCTACAAGGGGGAG
+ATGTGCTCAGGCCATGGCCAGTGCAGCTGTGGGGACTGCCTGTGTGACTCCGACTGGACC
+GGCTACTACTGCAACTGTACCACGCGTACTGACACCTGCATGTCCAGCAATGGGCTGCTG
+TGCAGCGGCCGCGGCAAGTGTGAATGTGGCAGCTGTGTCTGTATCCAGCCGGGCTCCTAT
+GGGGACACCTGTGAGAAGTGCCCCACCTGCCCAGATGCCTGCACCTTTAAGAAAGAATGT
+GTGGAGTGTAAGAAGTTTGACCGGGGAGCCCTACATGACGAAAATACCTGCAACCGTTAC
+TGCCGTGACGAGATTGAGTCAGTGAAAGAGCTTAAGGACACTGGCAAGGATGCAGTGAAT
+TGTACCTATAAGAATGAGGATGACTGTGTCGTCAGATTCCAGTACTATGAAGATTCTAGT
+GGAAAGTCCATCCTGTATGTGGTAGAAGAGCCAGAGTGTCCCAAGGGCCCTGACATCCTG
+GTGGTCCTGCTCTCAGTGATGGGGGCCATTCTGCTCATTGGCCTTGCCGCCCTGCTCATC
+TGGAAACTCCTCATCACCATCCACGACCGAAAAGAATTCGCTAAATTTGAGGAAGAACGC
+GCCAGAGCAAAATGGGACACAGCCAACAACCCACTGTATAAAGAGGCCACGTCTACCTTC
+ACCAATATCACGTACCGGGGCACTTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07974</identifier>
+            <name>EGF_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00362</identifier>
+            <name>Integrin_beta</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08725</identifier>
+            <name>Integrin_b_cyt</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07965</identifier>
+            <name>Integrin_B_tail</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>alphav-beta3 integrin-vitronectin complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>filopodium membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>focal adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integrin alphav-beta3 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integrin complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lamellipodium membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>melanosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>microvillus membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>platelet alpha granule membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>ruffle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cell adhesion molecule binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>extracellular matrix binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fibronectin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>identical protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>platelet-derived growth factor receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protease binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein disulfide isomerase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vascular endothelial growth factor receptor 2 binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>virus receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of protein kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis involved in wound healing</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apolipoprotein A-I-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-matrix adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-substrate adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-substrate junction assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heterotypic cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>integrin-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesodermal cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of lipid storage</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of lipid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of low-density lipoprotein particle receptor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage derived foam cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet aggregation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein folding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of bone resorption</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>smooth muscle cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>substrate adhesion-dependent cell spreading</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tube development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>viral entry into host cell</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

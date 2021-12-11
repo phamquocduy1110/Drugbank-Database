@@ -1,0 +1,2723 @@
+<drug type="biotech" created="2005-06-13" updated="2020-10-24">
+  <drugbank-id primary="true">DB00039</drugbank-id>
+  <drugbank-id>BTD00042</drugbank-id>
+  <drugbank-id>BIOD00042</drugbank-id>
+  <name>Palifermin</name>
+  <description>Palifermin is a recombinant human keratinocyte growth factor (KGF). It is 140 residues long, and is produced using E. coli.&#13;
+&#13;
+Palifermin was granted FDA approval on 15 December 2004.[L17933]</description>
+  <cas-number>162394-19-6</cas-number>
+  <unii>QMS40680K6</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A222248</ref-id>
+        <pubmed-id>19707400</pubmed-id>
+        <citation>Barasch A, Epstein J, Tilashalski K: Palifermin for management of treatment-induced oral mucositis in cancer patients. Biologics. 2009;3:111-6. doi: 10.2147/btt.2009.2871. Epub 2009 Jul 13.</citation>
+      </article>
+      <article>
+        <ref-id>A52198</ref-id>
+        <pubmed-id>8663044</pubmed-id>
+        <citation>Ornitz DM, Xu J, Colvin JS, McEwen DG, MacArthur CA, Coulier F, Gao G, Goldfarb M: Receptor specificity of the fibroblast growth factor family. J Biol Chem. 1996 Jun 21;271(25):15292-7.</citation>
+      </article>
+      <article>
+        <ref-id>A13175</ref-id>
+        <pubmed-id>11422746</pubmed-id>
+        <citation>Cancilla B, Davies A, Cauchi JA, Risbridger GP, Bertram JF: Fibroblast growth factor receptors and their ligands in the adult rat kidney. Kidney Int. 2001 Jul;60(1):147-55.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L17933</ref-id>
+        <title>FDA Approved Drug Product: Kepivance (Palifermin) Intravenous Injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/125103s176lbl.pdf</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For treatment of oral mucositis associated with chemotherapy and radiation therapy.</indication>
+  <pharmacodynamics>Used in the prevention or treatment of oral mucoscitis (mouth ulcers arising from chemotherapy), Kepivance binds to the human keratinocyte growth factor (KGF) receptor on buccal cell surfaces. Kepivance acts as both a cell growth and survival factor by stimulating epithelial cell proliferation, differentiation, and migration around the tongue and mouth. The KGF receptor is found on many tissues particularly around the tongue, esophagus, salivary gland and other gastro-intestinal tract organs.</pharmacodynamics>
+  <mechanism-of-action>Palifermin has been shown to protect oral and intestinal epithelia from the effects of radiation and chemotherapy, though the exact mechanism is not well understood.[A222248] As a recombinant keratinocyte growth factor (KGF), palifermin may promote cell proliferation, reducing the severity of oral mucositis in patients in the relevant treatment groups.[A222248] Agonism of fibroblast growth factor 2 may be predominantly responsible for this effect.[A52198] The endogenous form if palifermin is expressed in the kidney of rats.[A13175]</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>Elimination half-life: 4.5 hours (range: 3.3-5.7 hours)</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">24-163 fibroblast growth factor 7 (human)</synonym>
+    <synonym language="spanish" coder="">Palifermina</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Kepivance</name>
+      <labeller>Amgen</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-520</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-12-15</started-marketing-on>
+      <ended-marketing-on>2009-12-15</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>6.25 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125103</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kepivance</name>
+      <labeller>SWEDISH ORPHAN BIOVITRUM AB (PUBL)</labeller>
+      <ndc-id/>
+      <ndc-product-code>66658-112</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>6.25 mg/1.2mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125103</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kepivance</name>
+      <labeller>SWEDISH ORPHAN BIOVITRUM AB (PUBL)</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02274221</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-03-14</started-marketing-on>
+      <ended-marketing-on>2016-01-30</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>6.25 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Kepivance</name>
+      <ingredients>Palifermin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kepivance</name>
+      <ingredients>Palifermin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kepivance</name>
+      <ingredients>Palifermin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Amgen Inc.</name>
+      <url>http://www.amgen.com</url>
+    </packager>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>BioVitrum AB</name>
+      <url>http://www.biovitrum.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Kepivance 6.25 mg vial</description>
+      <cost currency="USD">1650.0</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Detoxifying Agents for Antineoplastic Treatment</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Fibroblast Growth Factors</category>
+      <mesh-id>D005346</mesh-id>
+    </category>
+    <category>
+      <category>Increased Epithelial Proliferation</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Intercellular Signaling Peptides and Proteins</category>
+      <mesh-id>D036341</mesh-id>
+    </category>
+    <category>
+      <category>Mucocutaneous Epithelial Cell Growth Factor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>6.25 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>6.25 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>6.25 mg/1.2mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>6.25 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="V03AF08">
+      <level code="V03AF">Detoxifying agents for antineoplastic treatment</level>
+      <level code="V03A">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V03">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00039.pdf?1265922805</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Semuloparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Tinzaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Bemiparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Parnaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The serum concentration of Palifermin can be increased when it is combined with Reviparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Peginterferon alfa-2a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfa-n1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfa-n3.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Peginterferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon gamma-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon alfa-2a, Recombinant</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfa-2a, Recombinant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Aldesleukin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Gemtuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon beta-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfacon-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon alfa-2b</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00120</drugbank-id>
+      <name>Phenylalanine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Phenylalanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00446</drugbank-id>
+      <name>Chloramphenicol</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Chloramphenicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Zidovudine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Linezolid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Penicillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Tacrolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01099</drugbank-id>
+      <name>Flucytosine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Flucytosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05472</drugbank-id>
+      <name>Human interferon omega-1</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Human interferon omega-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09042</drugbank-id>
+      <name>Tedizolid phosphate</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Tedizolid phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The therapeutic efficacy of Palifermin can be decreased when used in combination with Cepeginterferon alfa-2B.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Palifermin sequence
+MSYDYMEGGDIRVRRLFCRTQWYLRIDKRGKVKGTQEMKNNYNIMEIRTVAVGIVAIKGV
+ESEFYLAMNKEGKLYAKKECNEDCNFKELILENHYNTYASAKWTHNGGEMFVALNQKGIP
+VRGKKTKKEQKTAHFLPMAIT</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.650</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>9.47</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>16192.7</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C721H1142N202O204S9</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>17147</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506691</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M60828</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164744014</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P21781</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001026</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Palifermin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201821</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>196319</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/kepivance.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/palifermin.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000748</id>
+      <name>Fibroblast growth factor receptor 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1875</ref-id>
+            <pubmed-id>17728847</pubmed-id>
+            <citation>Beaven AW, Shea TC: Recombinant human keratinocyte growth factor palifermin reduces oral mucositis and improves patient outcomes after stem cell transplant. Drugs Today (Barc). 2007 Jul;43(7):461-73.</citation>
+          </article>
+          <article>
+            <ref-id>A1877</ref-id>
+            <pubmed-id>16390600</pubmed-id>
+            <citation>Radtke ML, Kolesar JM: Palifermin (Kepivance) for the treatment of oral mucositis in patients with hematologic malignancies requiring hematopoietic stem cell support. J Oncol Pharm Pract. 2005 Sep;11(3):121-5.</citation>
+          </article>
+          <article>
+            <ref-id>A1878</ref-id>
+            <pubmed-id>16854582</pubmed-id>
+            <citation>Huang YW, Wang LS, Chang HL, Ye W, Shu S, Sugimoto Y, Lin YC: Effect of keratinocyte growth factor on cell viability in primary cultured human prostate cancer stromal cells. J Steroid Biochem Mol Biol. 2006 Jul;100(1-3):24-33. Epub 2006 Jul 18.</citation>
+          </article>
+          <article>
+            <ref-id>A1880</ref-id>
+            <pubmed-id>7499435</pubmed-id>
+            <citation>Patrie KM, Kudla AJ, Olwin BB, Chiu IM: Conservation of ligand specificity between the mammalian and amphibian fibroblast growth factor receptors. J Biol Chem. 1995 Dec 1;270(48):29018-24.</citation>
+          </article>
+          <article>
+            <ref-id>A1882</ref-id>
+            <pubmed-id>9056643</pubmed-id>
+            <citation>Cardoso WV, Itoh A, Nogawa H, Mason I, Brody JS: FGF-1 and FGF-7 induce distinct patterns of growth and differentiation in embryonic lung epithelium. Dev Dyn. 1997 Mar;208(3):398-405.</citation>
+          </article>
+          <article>
+            <ref-id>A1884</ref-id>
+            <pubmed-id>10593896</pubmed-id>
+            <citation>Berman B, Ostrovsky O, Shlissel M, Lang T, Regan D, Vlodavsky I, Ishai-Michaeli R, Ron D: Similarities and differences between the effects of heparin and glypican-1 on the bioactivity of acidic fibroblast growth factor and the keratinocyte growth factor. J Biol Chem. 1999 Dec 17;274(51):36132-8.</citation>
+          </article>
+          <article>
+            <ref-id>A1887</ref-id>
+            <pubmed-id>17456767</pubmed-id>
+            <citation>Zhu X, Lee K, Asa SL, Ezzat S: Epigenetic silencing through DNA and histone methylation of fibroblast growth factor receptor 2 in neoplastic pituitary cells. Am J Pathol. 2007 May;170(5):1618-28.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+          <article>
+            <ref-id>A52198</ref-id>
+            <pubmed-id>8663044</pubmed-id>
+            <citation>Ornitz DM, Xu J, Colvin JS, McEwen DG, MacArthur CA, Coulier F, Gao G, Goldfarb M: Receptor specificity of the fibroblast growth factor family. J Biol Chem. 1996 Jun 21;271(25):15292-7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links>
+          <link>
+            <ref-id>L17933</ref-id>
+            <title>FDA Approved Drug Product: Kepivance (Palifermin) Intravenous Injection</title>
+            <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/125103s176lbl.pdf</url>
+          </link>
+        </links>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P21802" source="Swiss-Prot">
+        <name>Fibroblast growth factor receptor 2</name>
+        <general-function>Protein tyrosine kinase activity</general-function>
+        <specific-function>Tyrosine-protein kinase that acts as cell-surface receptor for fibroblast growth factors and plays an essential role in the regulation of cell proliferation, differentiation, migration and apoptosis, and in the regulation of embryonic development. Required for normal embryonic patterning, trophoblast function, limb bud development, lung morphogenesis, osteogenesis and skin development. Plays an essential role in the regulation of osteoblast differentiation, proliferation and apoptosis, and is required for normal skeleton development. Promotes cell proliferation in keratinocytes and immature osteoblasts, but promotes apoptosis in differentiated osteoblasts. Phosphorylates PLCG1, FRS2 and PAK4. Ligand binding leads to the activation of several signaling cascades. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate. Phosphorylation of FRS2 triggers recruitment of GRB2, GAB1, PIK3R1 and SOS1, and mediates activation of RAS, MAPK1/ERK2, MAPK3/ERK1 and the MAP kinase signaling pathway, as well as of the AKT1 signaling pathway. FGFR2 signaling is down-regulated by ubiquitination, internalization and degradation. Mutations that lead to constitutive kinase activation or impair normal FGFR2 maturation, internalization and degradation lead to aberrant signaling. Over-expressed FGFR2 promotes activation of STAT1.</specific-function>
+        <gene-name>FGFR2</gene-name>
+        <locus>10q26</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>378-398</transmembrane-regions>
+        <signal-regions>1-21</signal-regions>
+        <theoretical-pi>5.68</theoretical-pi>
+        <molecular-weight>92024.29</molecular-weight>
+        <chromosome-location>10</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3689</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FGFR2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52832</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31374</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1809</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P21802</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FGFR2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.10.1</synonym>
+          <synonym>BEK</synonym>
+          <synonym>FGFR-2</synonym>
+          <synonym>K-sam</synonym>
+          <synonym>Keratinocyte growth factor receptor</synonym>
+          <synonym>KGFR</synonym>
+          <synonym>KSAM</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001492|Fibroblast growth factor receptor 2
+MVSWGRFICLVVVTMATLSLARPSFSLVEDTTLEPEEPPTKYQISQPEVYVAAPGESLEV
+RCLLKDAAVISWTKDGVHLGPNNRTVLIGEYLQIKGATPRDSGLYACTASRTVDSETWYF
+MVNVTDAISSGDDEDDTDGAEDFVSENSNNKRAPYWTNTEKMEKRLHAVPAANTVKFRCP
+AGGNPMPTMRWLKNGKEFKQEHRIGGYKVRNQHWSLIMESVVPSDKGNYTCVVENEYGSI
+NHTYHLDVVERSPHRPILQAGLPANASTVVGGDVEFVCKVYSDAQPHIQWIKHVEKNGSK
+YGPDGLPYLKVLKAAGVNTTDKEIEVLYIRNVTFEDAGEYTCLAGNSIGISFHSAWLTVL
+PAPGREKEITASPDYLEIAIYCIGVFLIACMVVTVILCRMKNTTKKPDFSSQPAVHKLTK
+RIPLRRQVTVSAESSSSMNSNTPLVRITTRLSSTADTPMLAGVSEYELPEDPKWEFPRDK
+LTLGKPLGEGCFGQVVMAEAVGIDKDKPKEAVTVAVKMLKDDATEKDLSDLVSEMEMMKM
+IGKHKNIINLLGACTQDGPLYVIVEYASKGNLREYLRARRPPGMEYSYDINRVPEEQMTF
+KDLVSCTYQLARGMEYLASQKCIHRDLAARNVLVTENNVMKIADFGLARDINNIDYYKKT
+TNGRLPVKWMAPEALFDRVYTHQSDVWSFGVLMWEIFTLGGSPYPGIPVEELFKLLKEGH
+RMDKPANCTNELYMMMRDCWHAVPSQRPTFKQLVEDLDRILTLTTNEEYLDLSQPLEQYS
+PSYPDTRSSCSSGDDSVFSPDPMPYEPCLPQYPHINGSVKT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010527|Fibroblast growth factor receptor 2 (FGFR2)
+ATGGTCAGCTGGGGTCGTTTCATCTGCCTGGTCGTGGTCACCATGGCAACCTTGTCCCTG
+GCCCGGCCCTCCTTCAGTTTAGTTGAGGATACCACATTAGAGCCAGAAGAGCCACCAACC
+AAATACCAAATCTCTCAACCAGAAGTGTACGTGGCTGCGCCAGGGGAGTCGCTAGAGGTG
+CGCTGCCTGTTGAAAGATGCCGCCGTGATCAGTTGGACTAAGGATGGGGTGCACTTGGGG
+CCCAACAATAGGACAGTGCTTATTGGGGAGTACTTGCAGATAAAGGGCGCCACGCCTAGA
+GACTCCGGCCTCTATGCTTGTACTGCCAGTAGGACTGTAGACAGTGAAACTTGGTACTTC
+ATGGTGAATGTCACAGATGCCATCTCATCCGGAGATGATGAGGATGACACCGATGGTGCG
+GAAGATTTTGTCAGTGAGAACAGTAACAACAAGAGAGCACCATACTGGACCAACACAGAA
+AAGATGGAAAAGCGGCTCCATGCTGTGCCTGCGGCCAACACTGTCAAGTTTCGCTGCCCA
+GCCGGGGGGAACCCAATGCCAACCATGCGGTGGCTGAAAAACGGGAAGGAGTTTAAGCAG
+GAGCATCGCATTGGAGGCTACAAGGTACGAAACCAGCACTGGAGCCTCATTATGGAAAGT
+GTGGTCCCATCTGACAAGGGAAATTATACCTGTGTAGTGGAGAATGAATACGGGTCCATC
+AATCACACGTACCACCTGGATGTTGTGGAGCGATCGCCTCACCGGCCCATCCTCCAAGCC
+GGACTGCCGGCAAATGCCTCCACAGTGGTCGGAGGAGACGTAGAGTTTGTCTGCAAGGTT
+TACAGTGATGCCCAGCCCCACATCCAGTGGATCAAGCACGTGGAAAAGAACGGCAGTAAA
+TACGGGCCCGACGGGCTGCCCTACCTCAAGGTTCTCAAGGCCGCCGGTGTTAACACCACG
+GACAAAGAGATTGAGGTTCTCTATATTCGGAATGTAACTTTTGAGGACGCTGGGGAATAT
+ACGTGCTTGGCGGGTAATTCTATTGGGATATCCTTTCACTCTGCATGGTTGACAGTTCTG
+CCAGCGCCTGGAAGAGAAAAGGAGATTACAGCTTCCCCAGACTACCTGGAGATAGCCATT
+TACTGCATAGGGGTCTTCTTAATCGCCTGTATGGTGGTAACAGTCATCCTGTGCCGAATG
+AAGAACACGACCAAGAAGCCAGACTTCAGCAGCCAGCCGGCTGTGCACAAGCTGACCAAA
+CGTATCCCCCTGCGGAGACAGGTAACAGTTTCGGCTGAGTCCAGCTCCTCCATGAACTCC
+AACACCCCGCTGGTGAGGATAACAACACGCCTCTCTTCAACGGCAGACACCCCCATGCTG
+GCAGGGGTCTCCGAGTATGAACTTCCAGAGGACCCAAAATGGGAGTTTCCAAGAGATAAG
+CTGACACTGGGCAAGCCCCTGGGAGAAGGTTGCTTTGGGCAAGTGGTCATGGCGGAAGCA
+GTGGGAATTGACAAAGACAAGCCCAAGGAGGCGGTCACCGTGGCCGTGAAGATGTTGAAA
+GATGATGCCACAGAGAAAGACCTTTCTGATCTGGTGTCAGAGATGGAGATGATGAAGATG
+ATTGGGAAACACAAGAATATCATAAATCTTCTTGGAGCCTGCACACAGGATGGGCCTCTC
+TATGTCATAGTTGAGTATGCCTCTAAAGGCAACCTCCGAGAATACCTCCGAGCCCGGAGG
+CCACCCGGGATGGAGTACTCCTATGACATTAACCGTGTTCCTGAGGAGCAGATGACCTTC
+AAGGACTTGGTGTCATGCACCTACCAGCTGGCCAGAGGCATGGAGTACTTGGCTTCCCAA
+AAATGTATTCATCGAGATTTAGCAGCCAGAAATGTTTTGGTAACAGAAAACAATGTGATG
+AAAATAGCAGACTTTGGACTCGCCAGAGATATCAACAATATAGACTATTACAAAAAGACC
+ACCAATGGGCGGCTTCCAGTCAAGTGGATGGCTCCAGAAGCCCTGTTTGATAGAGTATAC
+ACTCATCAGAGTGATGTCTGGTCCTTCGGGGTGTTAATGTGGGAGATCTTCACTTTAGGG
+GGCTCGCCCTACCCAGGGATTCCCGTGGAGGAACTTTTTAAGCTGCTGAAGGAAGGACAC
+AGAATGGATAAGCCAGCCAACTGCACCAACGAACTGTACATGATGATGAGGGACTGTTGG
+CATGCAGTGCCCTCCCAGAGACCAACGTTCAAGCAGTTGGTAGAAGACTTGGATCGAATT
+CTCACTCTCACAACCAATGAGGAATACTTGGACCTCAGCCAACCTCTCGAACAGTATTCA
+CCTAGTTACCCTGACACAAGAAGTTCTTGTTCTTCAGGAGATGATTCTGTTTTTTCTCCA
+GACCCCATGCCTTACGAACCATGCCTTCCTCAGTATCCACACATAAACGGCAGTGTTAAA
+ACATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07714</identifier>
+            <name>Pkinase_Tyr</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07679</identifier>
+            <name>I-set</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell cortex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic membrane-bounded vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>excitatory synapse</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fibroblast growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fibroblast growth factor-activated receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axonogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branch elongation involved in salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching involved in labyrinthine layer morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching involved in prostate gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching involved in salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching morphogenesis of a nerve</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bud elongation involved in lung branching</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell fate commitment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>coronal suture morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>digestive tract development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic cranial skeleton morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic digestive tract morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic organ development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic organ morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic pattern specification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endodermal digestive tract morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermis morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial cell proliferation involved in salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial to mesenchymal transition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in hemopoiesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in mammary gland specification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in negative regulation of apoptotic process in bone marrow</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in positive regulation of cell proliferation in bone marrow</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hair follicle morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>in utero embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lacrimal gland development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lateral sprouting from an epithelium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lens fiber cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>limb bud formation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung alveolus development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung lobe morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung-associated mesenchyme development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mammary gland bud formation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>membranous septum morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesenchymal cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesenchymal cell differentiation involved in lung development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesenchymal cell proliferation involved in lung development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesodermal cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>midbrain development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>morphogenesis of embryonic epithelium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organism growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of mitotic nuclear division</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neuromuscular junction development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>odontogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>orbitofrontal cortex development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>otic vesicle formation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>outflow tract septum morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylinositol-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of canonical Wnt signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cardiac muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell division</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial cell proliferation involved in lung morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of mesenchymal cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phospholipase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of Wnt signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>prostate epithelial cord arborization involved in prostate glandular acinus morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>prostate epithelial cord elongation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>prostate gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein autophosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>pyramidal neuron development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of branching involved in prostate gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell fate commitment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of morphogenesis of a branching structure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of multicellular organism growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of osteoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of osteoblast proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of smooth muscle cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of smoothened signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>reproductive structure development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>squamous basal epithelial stem cell differentiation involved in prostate gland acinus development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>synaptic vesicle transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ureteric bud development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ventricular cardiac muscle tissue morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ventricular zone neuroblast division</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0002131</id>
+      <name>Fibroblast growth factor receptor 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13167</ref-id>
+            <pubmed-id>11714710</pubmed-id>
+            <citation>Ostrovsky O, Berman B, Gallagher J, Mulloy B, Fernig DG, Delehedde M, Ron D: Differential effects of heparin saccharides on the formation of specific fibroblast growth factor (FGF) and FGF receptor complexes. J Biol Chem. 2002 Jan 25;277(4):2444-53. Epub 2001 Nov 19.</citation>
+          </article>
+          <article>
+            <ref-id>A13168</ref-id>
+            <pubmed-id>10950949</pubmed-id>
+            <citation>Sher I, Lang T, Lubinsky-Mink S, Kuhn J, Adir N, Chatterjee S, Schomburg D, Ron D: Identification of residues important both for primary receptor binding and specificity in fibroblast growth factor-7. J Biol Chem. 2000 Nov 10;275(45):34881-6.</citation>
+          </article>
+          <article>
+            <ref-id>A13169</ref-id>
+            <pubmed-id>11091737</pubmed-id>
+            <citation>Matsubara A, Yasumoto H, Usui T: Hormone Refractory Prostate Cancer and Fibroblast Growth Factor Receptor. Breast Cancer. 1999 Oct 25;6(4):320-324.</citation>
+          </article>
+          <article>
+            <ref-id>A13170</ref-id>
+            <pubmed-id>10212269</pubmed-id>
+            <citation>Lu W, Luo Y, Kan M, McKeehan WL: Fibroblast growth factor-10. A second candidate stromal to epithelial cell andromedin in prostate. J Biol Chem. 1999 Apr 30;274(18):12827-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13156</ref-id>
+            <pubmed-id>9890894</pubmed-id>
+            <citation>Wang F, Lu W, McKeehan K, Mohamedali K, Gabriel JL, Kan M, McKeehan WL: Common and specific determinants for fibroblast growth factors in the ectodomain of the receptor kinase complex. Biochemistry. 1999 Jan 5;38(1):160-71.</citation>
+          </article>
+          <article>
+            <ref-id>A52198</ref-id>
+            <pubmed-id>8663044</pubmed-id>
+            <citation>Ornitz DM, Xu J, Colvin JS, McEwen DG, MacArthur CA, Coulier F, Gao G, Goldfarb M: Receptor specificity of the fibroblast growth factor family. J Biol Chem. 1996 Jun 21;271(25):15292-7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P11362" source="Swiss-Prot">
+        <name>Fibroblast growth factor receptor 1</name>
+        <general-function>Protein tyrosine kinase activity</general-function>
+        <specific-function>Tyrosine-protein kinase that acts as cell-surface receptor for fibroblast growth factors and plays an essential role in the regulation of embryonic development, cell proliferation, differentiation and migration. Required for normal mesoderm patterning and correct axial organization during embryonic development, normal skeletogenesis and normal development of the gonadotropin-releasing hormone (GnRH) neuronal system. Phosphorylates PLCG1, FRS2, GAB1 and SHB. Ligand binding leads to the activation of several signaling cascades. Activation of PLCG1 leads to the production of the cellular signaling molecules diacylglycerol and inositol 1,4,5-trisphosphate. Phosphorylation of FRS2 triggers recruitment of GRB2, GAB1, PIK3R1 and SOS1, and mediates activation of RAS, MAPK1/ERK2, MAPK3/ERK1 and the MAP kinase signaling pathway, as well as of the AKT1 signaling pathway. Promotes phosphorylation of SHC1, STAT1 and PTPN11/SHP2. In the nucleus, enhances RPS6KA1 and CREB1 activity and contributes to the regulation of transcription. FGFR1 signaling is down-regulated by IL17RD/SEF, and by FGFR1 ubiquitination, internalization and degradation.</specific-function>
+        <gene-name>FGFR1</gene-name>
+        <locus>8p11.2-p11.1</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>377-397</transmembrane-regions>
+        <signal-regions>1-21</signal-regions>
+        <theoretical-pi>6.14</theoretical-pi>
+        <molecular-weight>91866.935</molecular-weight>
+        <chromosome-location>8</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3688</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FGFR1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X51803</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31368</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1808</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P11362</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FGFR1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.10.1</synonym>
+          <synonym>Basic fibroblast growth factor receptor 1</synonym>
+          <synonym>bFGF-R-1</synonym>
+          <synonym>BFGFR</synonym>
+          <synonym>CEK</synonym>
+          <synonym>FGFBR</synonym>
+          <synonym>FGFR-1</synonym>
+          <synonym>FLG</synonym>
+          <synonym>FLT-2</synonym>
+          <synonym>FLT2</synonym>
+          <synonym>Fms-like tyrosine kinase 2</synonym>
+          <synonym>HBGFR</synonym>
+          <synonym>N-sam</synonym>
+          <synonym>Proto-oncogene c-Fgr</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004180|Fibroblast growth factor receptor 1
+MWSWKCLLFWAVLVTATLCTARPSPTLPEQAQPWGAPVEVESFLVHPGDLLQLRCRLRDD
+VQSINWLRDGVQLAESNRTRITGEEVEVQDSVPADSGLYACVTSSPSGSDTTYFSVNVSD
+ALPSSEDDDDDDDSSSEEKETDNTKPNRMPVAPYWTSPEKMEKKLHAVPAAKTVKFKCPS
+SGTPNPTLRWLKNGKEFKPDHRIGGYKVRYATWSIIMDSVVPSDKGNYTCIVENEYGSIN
+HTYQLDVVERSPHRPILQAGLPANKTVALGSNVEFMCKVYSDPQPHIQWLKHIEVNGSKI
+GPDNLPYVQILKTAGVNTTDKEMEVLHLRNVSFEDAGEYTCLAGNSIGLSHHSAWLTVLE
+ALEERPAVMTSPLYLEIIIYCTGAFLISCMVGSVIVYKMKSGTKKSDFHSQMAVHKLAKS
+IPLRRQVTVSADSSASMNSGVLLVRPSRLSSSGTPMLAGVSEYELPEDPRWELPRDRLVL
+GKPLGEGCFGQVVLAEAIGLDKDKPNRVTKVAVKMLKSDATEKDLSDLISEMEMMKMIGK
+HKNIINLLGACTQDGPLYVIVEYASKGNLREYLQARRPPGLEYCYNPSHNPEEQLSSKDL
+VSCAYQVARGMEYLASKKCIHRDLAARNVLVTEDNVMKIADFGLARDIHHIDYYKKTTNG
+RLPVKWMAPEALFDRIYTHQSDVWSFGVLLWEIFTLGGSPYPGVPVEELFKLLKEGHRMD
+KPSNCTNELYMMMRDCWHAVPSQRPTFKQLVEDLDRIVALTSNQEYLDLSMPLDQYSPSF
+PDTRSSTCSSGEDSVFSHEPLPEEPCLPRHPAQLANGGLKRR</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021960|Fibroblast growth factor receptor 1 (FGFR1)
+ATGTGGAGCTGGAAGTGCCTCCTCTTCTGGGCTGTGCTGGTCACAGCCACACTCTGCACC
+GCTAGGCCGTCCCCGACCTTGCCTGAACAAGCCCAGCCCTGGGGAGCCCCTGTGGAAGTG
+GAGTCCTTCCTGGTCCACCCCGGTGACCTGCTGCAGCTTCGCTGTCGGCTGCGGGACGAT
+GTGCAGAGCATCAACTGGCTGCGGGACGGGGTGCAGCTGGCGGAAAGCAACCGCACCCGC
+ATCACAGGGGAGGAGGTGGAGGTGCAGGACTCCGTGCCCGCAGACTCCGGCCTCTATGCT
+TGCGTAACCAGCAGCCCCTCGGGCAGTGACACCACCTACTTCTCCGTCAATGTTTCAGAT
+GCTCTCCCCTCCTCGGAGGATGATGATGATGATGATGACTCCTCTTCAGAGGAGAAAGAA
+ACAGATAACACCAAACCAAACCGTATGCCCGTAGCTCCATATTGGACATCCCCAGAAAAG
+ATGGAAAAGAAATTGCATGCAGTGCCGGCTGCCAAGACAGTGAAGTTCAAATGCCCTTCC
+AGTGGGACCCCAAACCCCACACTGCGCTGGTTGAAAAATGGCAAAGAATTCAAACCTGAC
+CACAGAATTGGAGGCTACAAGGTCCGTTATGCCACCTGGAGCATCATAATGGACTCTGTG
+GTGCCCTCTGACAAGGGCAACTACACCTGCATTGTGGAGAATGAGTACGGCAGCATCAAC
+CACACATACCAGCTGGATGTCGTGGAGCGGTCCCCTCACCGGCCCATCCTGCAAGCAGGG
+TTGCCCGCCAACAAAACAGTGGCCCTGGGTAGCAACGTGGAGTTCATGTGTAAGGTGTAC
+AGTGACCCGCAGCCGCACATCCAGTGGCTAAAGCACATCGAGGTGAATGGGAGCAAGATT
+GGCCCAGACAACCTGCCTTATGTCCAGATCTTGAAGACTGCTGGAGTTAATACCACCGAC
+AAAGAGATGGAGGTGCTTCACTTAAGAAATGTCTCCTTTGAGGACGCAGGGGAGTATACG
+TGCTTGGCGGGTAACTCTATCGGACTCTCCCATCACTCTGCATGGTTGACCGTTCTGGAA
+GCCCTGGAAGAGAGGCCGGCAGTGATGACCTCGCCCCTGTACCTGGAGATCATCATCTAT
+TGCACAGGGGCCTTCCTCATCTCCTGCATGGTGGGGTCGGTCATCGTCTACAAGATGAAG
+AGTGGTACCAAGAAGAGTGACTTCCACAGCCAGATGGCTGTGCACAAGCTGGCCAAGAGC
+ATCCCTCTGCGCAGACAGGTGTCTGCTGACTCCAGTGCATCCATGAACTCTGGGGTTCTT
+CTGGTTCGGCCATCACGGCTCTCCTCCAGTGGGACTCCCATGCTAGCAGGGGTCTCTGAG
+TATGAGCTTCCCGAAGACCCTCGCTGGGAGCTGCCTCGGGACAGACTGGTCTTAGGCAAA
+CCCCTGGGAGAGGGCTGCTTTGGGCAGGTGGTGTTGGCAGAGGCTATCGGGCTGGACAAG
+GACAAACCCAACCGTGTGACCAAAGTGGCTGTGAAGATGTTGAAGTCGGACGCAACAGAG
+AAAGACTTGTCAGACCTGATCTCAGAAATGGAGATGATGAAGATGATCGGGAAGCATAAG
+AATATCATCAACCTGCTGGGGGCCTGCACGCAGGATGGTCCCTTGTATGTCATCGTGGAG
+TATGCCTCCAAGGGCAACCTGCGGGAGTACCTGCAGGCCCGGAGGCCCCCAGGGCTGGAA
+TACTGCTACAACCCCAGCCACAACCCAGAGGAGCAGCTCTCCTCCAAGGACCTGGTGTCC
+TGCGCCTACCAGGTGGCCCGAGGCATGGAGTATCTGGCCTCCAAGAAGTGCATACACCGA
+GACCTGGCAGCCAGGAATGTCCTGGTGACAGAGGACAATGTGATGAAGATAGCAGACTTT
+GGCCTCGCACGGGACATTCACCACATCGACTACTATAAAAAGACAACCAACGGCCGACTG
+CCTGTGAAGTGGATGGCACCCGAGGCATTATTTGACCGGATCTACACCCACCAGAGTGAT
+GTGTGGTCTTTCGGGGTGCTCCTGTGGGAGATCTTCACTCTGGGCGGCTCCCCATACCCC
+GGTGTGCCTGTGGAGGAACTTTTCAAGCTGCTGAAGGAGGGTCACCGCATGGACAAGCCC
+AGTAACTGCACCAACGAGCTGTACATGATGATGCGGGACTGCTGGCATGCAGTGCCCTCA
+CAGAGACCCACCTTCAAGCAGCTGGTGGAAGACCTGGACCGCATCGTGGCCTTGACCTCC
+AACCAGGAGTACCTGGACCTGTCCATGCCCCTGGACCAGTACTCCCCCAGCTTTCCCGAC
+ACCCGGAGCTCTACGTGCTCCTCAGGGGAGGATTCCGTCTTCTCTCATGAGCCGCTGCCC
+GAGGAGCCCTGCCTGCCCCGACACCCAGCCCAGCTTGCCAATGGCGGACTCAAACGCCGC
+TGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07714</identifier>
+            <name>Pkinase_Tyr</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00047</identifier>
+            <name>ig</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07679</identifier>
+            <name>I-set</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic membrane-bounded vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fibroblast growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fibroblast growth factor-activated receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>identical protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>auditory receptor cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching involved in salivary gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell maturation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chordate embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic limb morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway involved in orbitofrontal cortex development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>in utero embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung-associated mesenchyme development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mesenchymal cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>midbrain development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>middle ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>motogenic signaling involved in postnatal olfactory bulb interneuron migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of osteoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neuron migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ induction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>outer ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>paraxial mesoderm development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylinositol-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cardiac muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of mesenchymal cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of neuron differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of neuron projection development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphatidylinositol 3-kinase signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phospholipase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein autophosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of extrinsic apoptotic signaling pathway in absence of ligand</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of lateral mesodermal cell fate specification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of sensory perception of pain</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sensory perception of sound</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>stem cell population maintenance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ureteric bud development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ventricular zone neuroblast division</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0001031</id>
+      <name>Basement membrane-specific heparan sulfate proteoglycan core protein</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1884</ref-id>
+            <pubmed-id>10593896</pubmed-id>
+            <citation>Berman B, Ostrovsky O, Shlissel M, Lang T, Regan D, Vlodavsky I, Ishai-Michaeli R, Ron D: Similarities and differences between the effects of heparin and glypican-1 on the bioactivity of acidic fibroblast growth factor and the keratinocyte growth factor. J Biol Chem. 1999 Dec 17;274(51):36132-8.</citation>
+          </article>
+          <article>
+            <ref-id>A13178</ref-id>
+            <pubmed-id>9788974</pubmed-id>
+            <citation>Sharma B, Handler M, Eichstetter I, Whitelock JM, Nugent MA, Iozzo RV: Antisense targeting of perlecan blocks tumor growth and angiogenesis in vivo. J Clin Invest. 1998 Oct 15;102(8):1599-608.</citation>
+          </article>
+          <article>
+            <ref-id>A13179</ref-id>
+            <pubmed-id>16989989</pubmed-id>
+            <citation>Iwabuchi T, Goetinck PF: Syndecan-4 dependent FGF stimulation of mouse vibrissae growth. Mech Dev. 2006 Nov;123(11):831-41. Epub 2006 Aug 12.</citation>
+          </article>
+          <article>
+            <ref-id>A13180</ref-id>
+            <pubmed-id>14753849</pubmed-id>
+            <citation>Asada N, Tanaka Y, Hayashido Y, Toratani S, Kan M, Kitamoto M, Nakanishi T, Kajiyama G, Chayama K, Okamoto T: Expression of fibroblast growth factor receptor genes in human hepatoma-derived cell lines. In Vitro Cell Dev Biol Anim. 2003 Jul-Aug;39(7):321-8.</citation>
+          </article>
+          <article>
+            <ref-id>A13155</ref-id>
+            <pubmed-id>9094999</pubmed-id>
+            <citation>Friedl A, Chang Z, Tierney A, Rapraeger AC: Differential binding of fibroblast growth factor-2 and -7 to basement membrane heparan sulfate: comparison of normal and abnormal human tissues. Am J Pathol. 1997 Apr;150(4):1443-55.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P98160" source="Swiss-Prot">
+        <name>Basement membrane-specific heparan sulfate proteoglycan core protein</name>
+        <general-function>Protein c-terminus binding</general-function>
+        <specific-function>Integral component of basement membranes. Component of the glomerular basement membrane (GBM), responsible for the fixed negative electrostatic membrane charge, and which provides a barrier which is both size- and charge-selective. It serves as an attachment substrate for cells. Plays essential roles in vascularization. Critical for normal heart development and for regulating the vascular response to injury. Also required for avascular cartilage development.Endorepellin in an anti-angiogenic and anti-tumor peptide that inhibits endothelial cell migration, collagen-induced endothelial tube morphogenesis and blood vessel growth in the chorioallantoic membrane. Blocks endothelial cell adhesion to fibronectin and type I collagen. Anti-tumor agent in neovascularization. Interaction with its ligand, integrin alpha2/beta1, is required for the anti-angiogenic properties. Evokes a reduction in phosphorylation of receptor tyrosine kinases via alpha2/beta1 integrin-mediated activation of the tyrosine phosphatase, PTPN6.The LG3 peptide has anti-angiogenic properties that require binding of calcium ions for full activity.</specific-function>
+        <gene-name>HSPG2</gene-name>
+        <locus>1p36.1-p34</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-21</signal-regions>
+        <theoretical-pi>6.49</theoretical-pi>
+        <molecular-weight>468826.45</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:5273</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>HSPG2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X62515</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29470</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P98160</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PGBM_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>HSPG</synonym>
+          <synonym>Perlecan</synonym>
+          <synonym>PLC</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010721|Basement membrane-specific heparan sulfate proteoglycan core protein
+MGWRAAGALLLALLLHGRLLAVTHGLRAYDGLSLPEDIETVTASQMRWTHSYLSDDEDML
+ADSISGDDLGSGDLGSGDFQMVYFRALVNFTRSIEYSPQLEDAGSREFREVSEAVVDTLE
+SEYLKIPGDQVVSVVFIKELDGWVFVELDVGSEGNADGAQIQEMLLRVISSGSVASYVTS
+PQGFQFRRLGTVPQFPRACTEAEFACHSYNECVALEYRCDRRPDCRDMSDELNCEEPVLG
+ISPTFSLLVETTSLPPRPETTIMRQPPVTHAPQPLLPGSVRPLPCGPQEAACRNGHCIPR
+DYLCDGQEDCEDGSDELDCGPPPPCEPNEFPCGNGHCALKLWRCDGDFDCEDRTDEANCP
+TKRPEEVCGPTQFRCVSTNMCIPASFHCDEESDCPDRSDEFGCMPPQVVTPPRESIQASR
+GQTVTFTCVAIGVPTPIINWRLNWGHIPSHPRVTVTSEGGRGTLIIRDVKESDQGAYTCE
+AMNARGMVFGIPDGVLELVPQRGPCPDGHFYLEHSAACLPCFCFGITSVCQSTRRFRDQI
+RLRFDQPDDFKGVNVTMPAQPGTPPLSSTQLQIDPSLHEFQLVDLSRRFLVHDSFWALPE
+QFLGNKVDSYGGSLRYNVRYELARGMLEPVQRPDVVLMGAGYRLLSRGHTPTQPGALNQR
+QVQFSEEHWVHESGRPVQRAELLQVLQSLEAVLIQTVYNTKMASVGLSDIAMDTTVTHAT
+SHGRAHSVEECRCPIGYSGLSCESCDAHFTRVPGGPYLGTCSGCNCNGHASSCDPVYGHC
+LNCQHNTEGPQCNKCKAGFFGDAMKATATSCRPCPCPYIDASRRFSDTCFLDTDGQATCD
+ACAPGYTGRRCESCAPGYEGNPIQPGGKCRPVNQEIVRCDERGSMGTSGEACRCKNNVVG
+RLCNECADGSFHLSTRNPDGCLKCFCMGVSRHCTSSSWSRAQLHGASEEPGHFSLTNAAS
+THTTNEGIFSPTPGELGFSSFHRLLSGPYFWSLPSRFLGDKVTSYGGELRFTVTQRSQPG
+STPLHGQPLVVLQGNNIILEHHVAQEPSPGQPSTFIVPFREQAWQRPDGQPATREHLLMA
+LAGIDTLLIRASYAQQPAESRVSGISMDVAVPEETGQDPALEVEQCSCPPGYRGPSCQDC
+DTGYTRTPSGLYLGTCERCSCHGHSEACEPETGACQGCQHHTEGPRCEQCQPGYYGDAQR
+GTPQDCQLCPCYGDPAAGQAAHTCFLDTDGHPTCDACSPGHSGRHCERCAPGYYGNPSQG
+QPCQRDSQVPGPIGCNCDPQGSVSSQCDAAGQCQCKAQVEGLTCSHCRPHHFHLSASNPD
+GCLPCFCMGITQQCASSAYTRHLISTHFAPGDFQGFALVNPQRNSRLTGEFTVEPVPEGA
+QLSFGNFAQLGHESFYWQLPETYQGDKVAAYGGKLRYTLSYTAGPQGSPLSDPDVQITGN
+NIMLVASQPALQGPERRSYEIMFREEFWRRPDGQPATREHLLMALADLDELLIRATFSSV
+PLAASISAVSLEVAQPGPSNRPRALEVEECRCPPGYIGLSCQDCAPGYTRTGSGLYLGHC
+ELCECNGHSDLCHPETGACSQCQHNAAGEFCELCAPGYYGDATAGTPEDCQPCACPLTNP
+ENMFSRTCESLGAGGYRCTACEPGYTGQYCEQCGPGYVGNPSVQGGQCLPETNQAPLVVE
+VHPARSIVPQGGSHSLRCQVSGSPPHYFYWSREDGRPVPSGTQQRHQGSELHFPSVQPSD
+AGVYICTCRNLHQSNTSRAELLVTEAPSKPITVTVEEQRSQSVRPGADVTFICTAKSKSP
+AYTLVWTRLHNGKLPTRAMDFNGILTIRNVQLSDAGTYVCTGSNMFAMDQGTATLHVQAS
+GTLSAPVVSIHPPQLTVQPGQLAEFRCSATGSPTPTLEWTGGPGGQLPAKAQIHGGILRL
+PAVEPTDQAQYLCRAHSSAGQQVARAVLHVHGGGGPRVQVSPERTQVHAGRTVRLYCRAA
+GVPSATITWRKEGGSLPPQARSERTDIATLLIPAITTADAGFYLCVATSPAGTAQARIQV
+VVLSASDASPPPVKIESSSPSVTEGQTLDLNCVVAGSAHAQVTWYRRGGSLPPHTQVHGS
+RLRLPQVSPADSGEYVCRVENGSGPKEASITVSVLHGTHSGPSYTPVPGSTRPIRIEPSS
+SHVAEGQTLDLNCVVPGQAHAQVTWHKRGGSLPARHQTHGSLLRLHQVTPADSGEYVCHV
+VGTSGPLEASVLVTIEASVIPGPIPPVRIESSSSTVAEGQTLDLSCVVAGQAHAQVTWYK
+RGGSLPARHQVRGSRLYIFQASPADAGQYVCRASNGMEASITVTVTGTQGANLAYPAGST
+QPIRIEPSSSQVAEGQTLDLNCVVPGQSHAQVTWHKRGGSLPVRHQTHGSLLRLYQASPA
+DSGEYVCRVLGSSVPLEASVLVTIEPAGSVPALGVTPTVRIESSSSQVAEGQTLDLNCLV
+AGQAHAQVTWHKRGGSLPARHQVHGSRLRLLQVTPADSGEYVCRVVGSSGTQEASVLVTI
+QQRLSGSHSQGVAYPVRIESSSASLANGHTLDLNCLVASQAPHTITWYKRGGSLPSRHQI
+VGSRLRIPQVTPADSGEYVCHVSNGAGSRETSLIVTIQGSGSSHVPSVSPPIRIESSSPT
+VVEGQTLDLNCVVARQPQAIITWYKRGGSLPSRHQTHGSHLRLHQMSVADSGEYVCRANN
+NIDALEASIVISVSPSAGSPSAPGSSMPIRIESSSSHVAEGETLDLNCVVPGQAHAQVTW
+HKRGGSLPSHHQTRGSRLRLHHVSPADSGEYVCRVMGSSGPLEASVLVTIEASGSSAVHV
+PAPGGAPPIRIEPSSSRVAEGQTLDLKCVVPGQAHAQVTWHKRGGNLPARHQVHGPLLRL
+NQVSPADSGEYSCQVTGSSGTLEASVLVTIEPSSPGPIPAPGLAQPIYIEASSSHVTEGQ
+TLDLNCVVPGQAHAQVTWYKRGGSLPARHQTHGSQLRLHLVSPADSGEYVCRAASGPGPE
+QEASFTVTVPPSEGSSYRLRSPVISIDPPSSTVQQGQDASFKCLIHDGAAPISLEWKTRN
+QELEDNVHISPNGSIITIVGTRPSNHGTYRCVASNAYGVAQSVVNLSVHGPPTVSVLPEG
+PVWVKVGKAVTLECVSAGEPRSSARWTRISSTPAKLEQRTYGLMDSHAVLQISSAKPSDA
+GTYVCLAQNALGTAQKQVEVIVDTGAMAPGAPQVQAEEAELTVEAGHTATLRCSATGSPA
+PTIHWSKLRSPLPWQHRLEGDTLIIPRVAQQDSGQYICNATSPAGHAEATIILHVESPPY
+ATTVPEHASVQAGETVQLQCLAHGTPPLTFQWSRVGSSLPGRATARNELLHFERAAPEDS
+GRYRCRVTNKVGSAEAFAQLLVQGPPGSLPATSIPAGSTPTVQVTPQLETKSIGASVEFH
+CAVPSDRGTQLRWFKEGGQLPPGHSVQDGVLRIQNLDQSCQGTYICQAHGPWGKAQASAQ
+LVIQALPSVLINIRTSVQTVVVGHAVEFECLALGDPKPQVTWSKVGGHLRPGIVQSGGVV
+RIAHVELADAGQYRCTATNAAGTTQSHVLLLVQALPQISMPQEVRVPAGSAAVFPCIASG
+YPTPDISWSKLDGSLPPDSRLENNMLMLPSVRPQDAGTYVCTATNRQGKVKAFAHLQVPE
+RVVPYFTQTPYSFLPLPTIKDAYRKFEIKITFRPDSADGMLLYNGQKRVPGSPTNLANRQ
+PDFISFGLVGGRPEFRFDAGSGMATIRHPTPLALGHFHTVTLLRSLTQGSLIVGDLAPVN
+GTSQGKFQGLDLNEELYLGGYPDYGAIPKAGLSSGFIGCVRELRIQGEEIVFHDLNLTAH
+GISHCPTCRDRPCQNGGQCHDSESSSYVCVCPAGFTGSRCEHSQALHCHPEACGPDATCV
+NRPDGRGYTCRCHLGRSGLRCEEGVTVTTPSLSGAGSYLALPALTNTHHELRLDVEFKPL
+APDGVLLFSGGKSGPVEDFVSLAMVGGHLEFRYELGSGLAVLRSAEPLALGRWHRVSAER
+LNKDGSLRVNGGRPVLRSSPGKSQGLNLHTLLYLGGVEPSVPLSPATNMSAHFRGCVGEV
+SVNGKRLDLTYSFLGSQGIGQCYDSSPCERQPCQHGATCMPAGEYEFQCLCRDGFKGDLC
+EHEENPCQLREPCLHGGTCQGTRCLCLPGFSGPRCQQGSGHGIAESDWHLEGSGGNDAPG
+QYGAYFHDDGFLAFPGHVFSRSLPEVPETIELEVRTSTASGLLLWQGVEVGEAGQGKDFI
+SLGLQDGHLVFRYQLGSGEARLVSEDPINDGEWHRVTALREGRRGSIQVDGEELVSGRSP
+GPNVAVNAKGSVYIGGAPDVATLTGGRFSSGITGCVKNLVLHSARPGAPPPQPLDLQHRA
+QAGANTRPCPS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010722|Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG2)
+ATGGGGTGGCGGGCGGCGGGCGCGCTGCTGCTGGCGCTGCTGCTGCACGGGCGGCTGCTG
+GCGGTGACCCATGGGCTGAGGGCATACGATGGCTTGTCTCTGCCTGAGGACATAGAGACC
+GTCACAGCAAGCCAAATGCGCTGGACACATTCGTACCTTTCTGATGATGAGGACATGCTG
+GCTGACAGCATCTCAGGAGACGACCTGGGCAGTGGGGACCTGGGCAGCGGGGACTTCCAG
+ATGGTTTATTTCCGAGCCCTGGTGAATTTCACTCGCTCCATCGAGTACAGCCCTCAGCTG
+GAGGATGCAGGCTCCAGAGAGTTCCGAGAGGTGTCCGAGGCTGTGGTAGACACGCTGGAG
+TCGGAGTACTTGAAAATTCCCGGAGACCAGGTTGTCAGTGTGGTGTTCATCAAGGAGCTG
+GATGGCTGGGTTTTTGTGGAGCTGGATGTGGGCTCGGAAGGGAATGCGGATGGGGCTCAG
+ATTCAGGAGATGCTGCTCAGGGTCATCTCCAGCGGCTCTGTGGCCTCCTACGTCACCTCT
+CCCCAGGGATTCCAGTTCCGACGCCTGGGCACAGTGCCCCAGTTCCCAAGAGCCTGCACG
+GAGGCCGAGTTTGCCTGCCACAGCTACAATGAGTGTGTGGCCCTGGAGTATCGCTGTGAC
+CGGCGGCCCGACTGCAGGGACATGTCTGATGAGCTCAATTGTGAGGAGCCAGTCCTGGGT
+ATCAGCCCCACATTCTCTCTCCTTGTGGAGACGACATCTTTACCGCCCCGGCCAGAGACA
+ACCATCATGCGACAGCCACCAGTCACCCACGCTCCTCAGCCCCTGCTTCCCGGTTCCGTC
+AGGCCCCTGCCCTGTGGGCCCCAGGAGGCCGCATGCCGCAATGGGCACTGCATCCCCAGA
+GACTACCTCTGCGACGGACAGGAGGACTGCGAGGACGGCAGCGATGAGCTAGACTGTGGC
+CCCCCGCCACCCTGTGAGCCCAACGAGTTCCCCTGCGGGAATGGACATTGTGCCCTCAAG
+CTGTGGCGCTGCGATGGTGACTTTGACTGTGAGGACCGAACTGATGAAGCCAACTGCCCC
+ACCAAGCGTCCTGAGGAAGTGTGCGGGCCCACACAGTTCCGATGCGTCTCTACCAACATG
+TGCATCCCAGCCAGCTTCCACTGTGACGAGGAGAGCGACTGTCCTGACCGGAGCGACGAG
+TTTGGCTGCATGCCCCCCCAGGTGGTGACACCTCCCCGGGAGTCCATCCAGGCTTCCCGG
+GGCCAGACAGTGACCTTCACCTGCGTGGCCATTGGCGTCCCCACCCCCATCATCAATTGG
+AGGCTCAACTGGGGCCACATCCCCTCTCATCCCAGGGTGACAGTGACCAGCGAGGGTGGC
+CGTGGCACACTGATCATCCGTGATGTGAAGGAGTCAGACCAGGGTGCCTACACCTGTGAG
+GCCATGAACGCCCGGGGCATGGTGTTTGGCATTCCTGACGGTGTCCTTGAGCTCGTCCCA
+CAACGAGCAGGCCCCTGCCCTGACGGCCACTTCTACCTGGAGCACAGCGCCGCCTGCCTG
+CCCTGCTTCTGCTTTGGCATCACCAGCGTGTGCCAGAGCACCCGCCGCTTCCGGGACCAG
+ATCAGGCTGCGCTTTGACCAACCCGATGACTTCAAGGGTGTGAATGTGACAATGCCTGCG
+CAGCCCGGCACGCCACCCCTCTCCTCCACGCAGCTGCAGATCGACCCATCCCTGCACGAG
+TTCCAGCTAGTCGACCTGTCCCGCCGCTTCCTCGTCCACGACTCCTTCTGGGCTCTGCCT
+GAACAGTTCCTGGGCAACAAGGTGGACTCCTATGGCGGCTCCCTGCGTTACAACGTGCGC
+TACGAGTTGGCCCGTGGCATGCTGGAGCCAGTGCAGCGGCCGGACGTGGTCCTCATGGGT
+GCCGGGTACCGCCTCCTCTCCCGAGGCCACACACCCACCCAACCTGGTGCTCTGAACCAG
+CGCCAGGTCCAGTTCTCTGAGGAGCACTGGGTCCATGAGTCTGGCCGGCCGGTGCAGCGC
+GCGGAGCTGCTGCAGGTGCTGCAGAGCCTGGAGGCCGTGCTCATCCAGACCGTGTACAAC
+ACCAAGATGGCCAGCGTGGGACTTAGCGACATCGCCATGGATACCACCGTCACCCATGCC
+ACCAGCCATGGCCGTGCCCACAGTGTGGAGGAGTGCAGATGCCCCATTGGCTATTCTGGC
+TTGTCCTGCGAGAGCTGTGATGCCCACTTCACTCGGGTGCCTGGTGGGCCCTACCTGGGC
+ACCTGCTCTGGTTGCAATTGCAATGGCCATGCCAGCTCCTGTGACCCTGTGTATGGCCAC
+TGCCTGAATTGCCAGCACAACACGGAGGGGCCACAGTGCAACAAGTGCAAGGCTGGCTTC
+TTTGGGGACGCCATGAAGGCCACGGCCACTTCCTGCCGGCCCTGCCCTTGCCCATACATC
+GATGCCTCCCGCAGATTCTCAGACACTTGCTTCCTGGACACGGATGGCCAAGCCACATGT
+GACGCCTGTGCCCCAGGCTACACTGGCCGCCGCTGTGAGAGCTGTGCCCCCGGATACGAG
+GGCAACCCCATCCAGCCCGGCGGGAAGTGCAGGCCCGTCAACCAGGAGATTGTGCGCTGT
+GACGAGCGTGGCAGCATGGGGACCTCCGGGGAGGCCTGCCGCTGTAAGAACAATGTGGTG
+GGGCGCTTGTGCAATGAATGTGCTGACGGCTCTTTCCACCTGAGTACCCGAAACCCCGAT
+GGCTGCCTCAAGTGCTTCTGCATGGGTGTCAGTCGCCACTGCACCAGCTCTTCATGGAGC
+CGTGCCCAGTTGCATGGGGCCTCTGAGGAGCCTGGTCACTTCAGCCTGACCAACGCCGCA
+AGCACCCACACCACCAACGAGGGCATCTTCTCCCCCACGCCCGGGGAACTGGGATTCTCC
+TCCTTCCACAGACTCTTATCTGGACCCTACTTCTGGAGCCTCCCTTCACGCTTCCTGGGG
+GACAAGGTGACCTCCTATGGAGGAGAGCTGCGCTTCACAGTGACCCAGAGGTCCCAGCCG
+GGCTCCACACCCCTGCACGGGCAGCCGTTGGTGGTGCTGCAAGGTAACAACATCATCCTA
+GAGCACCATGTGGCCCAGGAGCCCAGCCCCGGCCAGCCCAGCACCTTCATTGTGCCTTTC
+CGGGAGCAAGCATGGCAGCGGCCCGATGGGCAGCCAGCCACACGGGAGCACCTGCTGATG
+GCACTGGCAGGCATCGACACCCTCCTGATCCGAGCATCCTACGCCCAGCAGCCCGCTGAG
+AGCAGGGTCTCTGGCATCAGCATGGACGTGGCTGTGCCCGAGGAAACCGGCCAGGACCCC
+GCGCTGGAAGTGGAACAGTGCTCCTGCCCACCCGGGTACCGTGGGCCGTCCTGCCAGGAC
+TGTGACACAGGCTACACACGCACGCCCAGTGGCCTCTACCTGGGTACCTGTGAACGCTGC
+AGCTGCCATGGCCACTCAGAGGCCTGCGAGCCAGAAACAGGTGCCTGCCAGGGCTGCCAG
+CATCACACGGAGGGCCCTCGGTGTGAGCAGTGCCAGCCAGGATACTACGGGGACGCCCAG
+CGGGGGACACCACAGGACTGCCAGCTGTGCCCCTGCTACGGAGACCCTGCTGCCGGCCAG
+GCTGCCCACACTTGTTTTCTGGACACAGACGGCCACCCCACCTGTGATGCGTGCTCCCCA
+GGCCACAGTGGGCGTCACTGTGAGAGGTGCGCCCCTGGCTACTATGGCAACCCCAGCCAG
+GGCCAGCCATGCCAGAGAGACAGCCAGGTGCCAGGGCCCATAGGCTGCAACTGTGACCCC
+CAAGGCAGCGTCAGCAGCCAGTGTGATGCTGCTGGTCAGTGCCAGTGCAAGGCCCAGGTG
+GAAGGCCTCACTTGCAGCCACTGCCGGCCCCACCACTTCCACCTGAGTGCCAGCAACCCA
+GACGGCTGCCTGCCCTGCTTCTGTATGGGCATCACCCAGCAGTGCGCCAGCTCTGCCTAC
+ACACGCCACCTGATCTCCACCCACTTTGCCCCTGGGGACTTCCAAGGCTTTGCCCTGGTG
+AACCCACAGCGAAACAGCCGCCTGACAGGAGAATTCACTGTGGAACCCGTGCCCGAGGGT
+GCCCAGCTCTCTTTTGGCAACTTTGCCCAACTCGGCCATGAGTCCTTCTACTGGCAGCTG
+CCGGAGACATACCAGGGAGACAAGGTGGCGGCCTACGGTGGGAAGTTGCGATACACCCTC
+TCCTACACAGCAGGCCCACAGGGCAGCCCACTCTCTGACCCCGATGTGCAGATCACGGGC
+AACAACATCATGCTAGTGGCCTCCCAGCCAGCGCTGCAGGGCCCTGAGAGGAGGAGCTAC
+GAGATCATGTTCCGAGAGGAATTCTGGCGCCGGCCCGATGGGCAGCCGGCCACACGCGAG
+CACCTCCTGATGGCACTGGCCGACCTGGATGAGCTCCTGATCCGGGCCACGTTCTCCTCC
+GTGCCGCTGGCGGCCAGCATCAGCGCAGTCAGCCTGGAGGTCGCCCAGCCGGGGCCCTCA
+AACAGACCCCGCGCCCTCGAGGTGGAGGAGTGCCGCTGCCCGCCAGGCTACATCGGTCTG
+TCCTGCCAGGACTGTGCCCCCGGCTACACGCGCACCGGGAGTGGGCTCTACCTCGGCCAC
+TGCGAGCTATGTGAATGCAATGGCCACTCAGACCTGTGCCACCCAGAGACTGGGGCCTGC
+TCGCAATGCCAGCACAACGCCGCAGGGGAGTTCTGCGAGCTTTGTGCCCCTGGCTACTAC
+GGAGATGCCACAGCCGGGACGCCTGAGGACTGCCAGCCCTGTGCCTGCCCACTGACCAAC
+CCAGAGAACATGTTTTCCCGCACCTGTGAGAGCCTGGGAGCCGGCGGGTACCGCTGCACG
+GCCTGCGAACCCGGCTACACTGGCCAGTACTGTGAGCAGTGTGGCCCAGGTTACGTGGGT
+AACCCCAGTGTGCAAGGGGGCCAGTGCCTGCCAGAGACAAACCAAGCCCCACTGGTGGTC
+GAGGTCCATCCTGCTCGAAGCATAGTGCCCCAAGGTGGCTCCCACTCCCTGCGGTGTCAG
+GTCAGTGGGAGCCCACCCCACTACTTCTATTGGTCCCGTGAGGATGGGCGGCCTGTGCCC
+AGCGGCACCCAGCAGCGACATCAAGGCTCCGAGCTCCACTTCCCCAGCGTCCAGCCCTCG
+GATGCTGGGGTCTACATTTGCACCTGCCGTAATCTCCACCAATCCAATACCAGCCGGGCA
+GAGCTGCTGGTCACTGAGGCTCCAAGCAAGCCCATCACAGTGACTGTGGAGGAGCAGCGG
+AGCCAGAGCGTGCGCCCCGGAGCTGACGTCACCTTCATCTGCACAGCCAAAAGCAAGTCC
+CCAGCCTATACCCTGGTGTGGACCCGCCTGCACAACGGGAAACTGCCCACCCGAGCCATG
+GATTTCAATGGCATCCTGACCATTCGCAACGTCCAGCTGAGTGATGCAGGCACCTACGTG
+TGCACCGGCTCCAACATGTTTGCCATGGACCAGGGCACAGCCACTCTACATGTGCAGGCC
+TCGGGCACCTTGTCCGCCCCCGTGGTCTCCATCCATCCGCCACAGCTCACAGTGCAGCCC
+GGGCAACTGGCGGAGTTCCGCTGCAGCGCCACAGGGAGCCCCACGCCCACCCTCGAGTGG
+ACAGGGGGCCCCGGCGGCCAGCTCCCTGCGAAGGCACAAATCCACGGCGGCATCCTGCGC
+CTGCCAGCTGTCGAGCCCACGGATCAGGCCCAGTACTTGTGCCGAGCCCACAGCAGCGCT
+GGGCAGCAGGTGGCCAGGGCTGTGCTCCACGTGCATGGGGGCGGTGGGCCCAGAGTCCAA
+GTGAGCCCAGAGAGGACCCAGGTCCACGCAGGCCGCACCGTCAGGCTGTACTGCAGGGCT
+GCAGGCGTGCCTAGCGCCACCATCACCTGGAGGAAGGAAGGGGGCAGCCTCCCACCACAG
+GCCCGGTCAGAGCGCACAGACATCGCGACACTGCTCATCCCAGCCATCACGACTGCTGAC
+GCCGGCTTCTACCTCTGCGTGGCCACCAGCCCTGCAGGCACTGCCCAGGCCCGGATCCAA
+GTGGTTGTCCTTTCAGCCTCAGATGCCAGCCCACCGCCGGTCAAGATTGAGTCCTCATCG
+CCTTCTGTGACAGAAGGGCAAACACTCGACCTCAACTGTGTGGTGGCAGGGTCAGCCCAT
+GCCCAGGTCACCTGGTACAGGCGAGGGGGTAGCCTGCCTCCCCACACCCAGGTGCACGGC
+TCCCGTCTGCGGCTCCCCCAGGTCTCACCAGCTGATTCTGGAGAATATGTGTGCCGTGTG
+GAGAATGGATCGGGCCCCAAGGAGGCCTCCATTACTGTGTCTGTGCTCCACGGCACCCAT
+TCTGGCCCCAGCTACACCCCAGTGCCCGGCAGCACCCGGCCCATCCGCATCGAGCCCTCC
+TCCTCACACGTGGCGGAAGGGCAGACCCTGGATCTGAACTGCGTGGTGCCCGGGCAGGCC
+CACGCCCAGGTCACGTGGCACAAGCGTGGGGGCAGCCTCCCTGCCCGGCACCAGACCCAC
+GGCTCGCTGCTGCGGCTGCACCAGGTGACCCCGGCCGACTCAGGCGAGTATGTGTGCCAT
+GTGGTGGGCACCTCCGGCCCCCTAGAGGCCTCAGTCCTGGTCACCATCGAAGCCTCTGTC
+ATCCCTGGACCCATCCCACCTGTCAGGATCGAGTCTTCATCCTCCACAGTGGCCGAGGGC
+CAGACCCTGGATCTGAGCTGCGTGGTGGCAGGGCAGGCCCACGCCCAGGTCACATGGTAC
+AAGCGTGGGGGCAGCCTCCCTGCCCGGCACCAGGTTCGTGGCTCCCGCCTGTACATCTTC
+CAGGCCTCACCTGCCGATGCGGGACAGTACGTCTGCCGGGCCAGCAACGGCATGGAGGCC
+TCCATCACGGTCACAGTAACTGGGACCCAGGGGGCCAACTTAGCCTACCCTGCCGGCAGC
+ACCCAGCCCATCCGCATCGAGCCCTCCTCCTCGCAAGTGGCGGAAGGGCAGACCCTGGAT
+CTGAACTGCGTGGTGCCCGGGCAGTCCCATGCCCAGGTCACGTGGCACAAGCGTGGGGGC
+AGCCTCCCTGTCCGGCACCAGACCCACGGCTCCCTGCTGAGACTCTACCAAGCGTCCCCC
+GCCGACTCGGGCGAGTACGTGTGCCGAGTGTTGGGCAGCTCCGTGCCTCTAGAGGCCTCT
+GTCCTGGTCACCATTGAGCCTGCGGGCTCAGTGCCTGCACTTGGGGTCACCCCCACGGTC
+CGGATCGAGTCATCGTCTTCGCAAGTGGCCGAGGGGCAGACCCTGGACCTGAACTGCCTC
+GTTGCTGGTCAGGCCCATGCCCAGGTCACGTGGCACAAGCGCGGGGGCAGCCTCCCGGCC
+CGGCACCAGGTGCATGGCTCGAGGCTACGCCTGCTCCAGGTGACCCCAGCTGATTCAGGG
+GAGTACGTGTGCCGTGTGGTCGGCAGCTCAGGTACCCAGGAAGCCTCAGTCCTTGTCACC
+ATCCAGCAGCGCCTTAGTGGCTCCCACTCCCAGGGTGTGGCGTACCCCGTCCGCATCGAG
+TCCTCCTCAGCCTCCCTGGCCAATGGACACACCCTGGACCTCAACTGCCTGGTTGCCAGC
+CAGGCTCCCCACACCATCACCTGGTATAAGCGTGGAGGCAGCTTACCCAGCCGGCACCAG
+ATCGTGGGCTCCCGGCTGCGGATCCCTCAGGTGACTCCGGCAGACTCGGGCGAGTACGTG
+TGTCACGTCAGTAACGGTGCAGGCTCCCGGGAGACCTCGCTCATCGTCACCATCCAGGGC
+AGCGGTTCCTCCCACGTGCCCAGCGTCTCCCCACCGATCAGGATCGAGTCGTCTTCCCCC
+ACGGTGGTGGAAGGGCAGACCTTGGATCTGAACTGCGTGGTCGCCAGGCAGCCCCAGGCT
+ATCATCACATGGTACAAGCGTGGGGGCAGCCTTCCCTCCCGACACCAGACCCATGGCTCC
+CACCTGCGGTTGCACCAAATGTCTGTGGCTGACTCGGGCGAGTATGTGTGCCGGGCCAAC
+AACAACATCGATGCCCTGGAGGCCTCCATCGTCATCTCCGTCTCCCCTAGCGCCGGCAGC
+CCCTCCGCCCCTGGCAGCTCCATGCCCATCAGAATTGAGTCATCCTCCTCACACGTGGCC
+GAAGGGGAGACCCTGGATCTGAACTGCGTGGTCCCCGGGCAGGCCCATGCCCAGGTCACT
+TGGCACAAGCGTGGGGGCAGCCTCCCCAGTCACCATCAGACCCGCGGCTCACGGCTGCGG
+CTGCACCATGTGTCCCCGGCCGACTCGGGTGAATACGTGTGCCGGGTGATGGGCAGCTCT
+GGCCCCCTGGAGGCCTCAGTCCTGGTCACCATCGAAGCCTCTGGCTCAAGTGCTGTCCAC
+GTCCCCGCCCCAGGTGGAGCCCCACCCATCCGCATCGAGCCCTCCTCCTCCCGAGTGGCA
+GAAGGGCAGACCCTGGATCTGAAGTGCGTGGTGCCCGGGCAGGCCCACGCCCAGGTCACG
+TGGCACAAGCGTGGAGGAAACCTCCCTGCCCGGCACCAGGTCCACGGCCCACTGCTGAGG
+CTGAACCAGGTGTCCCCGGCTGACTCTGGCGAGTACTCGTGCCAAGTGACCGGAAGCTCA
+GGCACCCTGGAGGCATCTGTCCTGGTCACAATTGAGCCCTCCAGCCCAGGACCCATTCCT
+GCTCCAGGACTGGCCCAGCCCATCTACATCGAGGCCTCCTCTTCACACGTGACTGAAGGG
+CAGACTCTGGATCTGAACTGTGTGGTGCCCGGGCAGGCCCATGCCCAGGTCACGTGGTAC
+AAGCGCGGGGGCAGCCTCCCCGCCCGGCACCAGACCCATGGCTCCCAGCTGCGGCTCCAC
+CTCGTCTCCCCTGCCGACTCAGGCGAGTATGTGTGTCGTGCAGCCAGCGGCCCAGGCCCT
+GAGCAAGAAGCCTCCTTCACAGTCACCGTCCCGCCCAGTGAGGGGTCTTCCTACCGCCTT
+AGGAGCCCGGTCATCTCCATCGACCCGCCCAGCAGCACCGTGCAGCAGGGCCAGGATGCC
+AGCTTCAAGTGCCTCATCCATGACGGGGCAGCCCCCATCAGCCTCGAGTGGAAGACCCGG
+AACCAGGAGCTGGAGGACAACGTCCACATCAGTCCCAATGGCTCCATCATCACCATCGTG
+GGCACCCGGCCCAGCAACCACGGTACCTACCGCTGCGTGGCCTCCAATGCCTACGGTGTG
+GCCCAGAGTGTGGTGAACCTCAGTGTGCACGGGCCCCCTACAGTGTCCGTGCTCCCCGAG
+GGCCCCGTGTGGGTGAAAGTGGGAAAGGCTGTCACCCTGGAGTGTGTCAGTGCCGGGGAG
+CCCCGCTCCTCTGCTCGTTGGACCCGGATCAGCAGCACCCCTGCCAAGTTGGAGCAGCGG
+ACATATGGGCTCATGGACAGCCACGCGGTGCTGCAGATTTCATCAGCTAAACCATCAGAT
+GCGGGCACTTATGTGTGCCTTGCTCAGAATGCACTAGGCACAGCACAGAAGCAGGTGGAG
+GTGATCGTGGACACGGGCGCCATGGCCCCAGGGGCCCCTCAGGTCCAAGCTGAAGAAGCT
+GAGCTGACTGTGGAGGCTGGACACACGGCCACCTTGCGCTGCTCAGCCACAGGCAGCCCC
+GCGCCCACCATCCACTGGTCCAAGCTGCGTTCCCCACTGCCCTGGCAGCACCGGCTGGAA
+GGTGACACACTCATCATACCCCGGGTAGCCCAGCAGGACTCGGGCCAGTACATCTGCAAT
+GCCACTAGCCCTGCTGGGCACGCTGAGGCCACCATCATCCTGCACGTGGAGAGCCCACCA
+TATGCCACCACGGTCCCAGAGCACGCTTCGGTGCAGGCAGGGGAGACGGTGCAGCTCCAG
+TGCCTGGCTCACGGGACACCCCCACTCACCTTCCAGTGGAGCCGCGTGGGCAGCAGCCTT
+CCTGGGAGGGCGACCGCCAGGAACGAGCTGCTGCACTTTGAGCGTGCAGCCCCTGAGGAC
+TCAGGCCGCTACCGCTGCCGGGTCACCAACAAGGTGGGCTCAGCCGAGGCCTTTGCCCAG
+CTGCTCGTCCAAGGCCCTCCCGGCTCTCTCCCTGCCACCTCCATCCCAGCAGGGTCCACG
+CCCACCGTGCAGGTCACGCCTCAGCTAGAGACCAAGAGCATTGGGGCCAGCGTTGAGTTC
+CACTGTGCTGTGCCCAGCGACCGGGGTACCCAGCTCCGTTGGTTCAAGGAAGGGGGTCAG
+CTGCCTCCGGGTCACAGCGTGCAGGATGGGGTGCTCCGAATCCAGAACTTGGACCAGAGC
+TGCCAAGGGACGTATATATGCCAGGCCCATGGACCTTGGGGGAAGGCCCAGGCCAGTGCC
+CAGCTGGTTATCCAAGCCCTGCCCTCGGTGCTCATCAACATCCGGACCTCTGTGCAGACC
+GTGGTGGTTGGCCACGCCGTGGAGTTCGAATGCCTGGCACTGGGTGACCCCAAGCCTCAG
+GTGACATGGAGCAAAGTTGGAGGGCACCTGCGGCCAGGCATTGTGCAGAGCGGAGGTGTC
+GTCAGGATCGCCCACGTAGAGCTGGCTGATGCGGGACAGTATCGCTGCACTGCCACCAAC
+GCAGCTGGCACCACACAATCCCACGTCCTGCTGCTTGTGCAAGCCTTGCCCCAGATCTCA
+ATGCCCCAAGAAGTCCGTGTGCCTGCTGGTTCTGCAGCTGTCTTCCCCTGCATAGCCTCA
+GGCTACCCCACTCCTGACATCAGCTGGAGCAAGCTGGATGGCAGCCTGCCACCTGACAGC
+CGCCTGGAGAACAACATGCTGATGCTGCCCTCAGTCCGACCCCAGGACGCAGGTACCTAC
+GTCTGCACCGCCACTAACCGCCAGGGCAAGGTCAAAGCCTTTGCCCACCTGCAGGTGCCA
+GAGCGGGTGGTGCCCTACTTCACGCAGACCCCCTACTCCTTCCTACCGCTGCCCACCATC
+AAGGATGCCTACAGGAAGTTCGAGATCAAGATCACCTTCCGGCCCGACTCAGCCGATGGG
+ATGCTGCTGTACAATGGGCAGAAGCGAGTCCCAGGGAGCCCCACCAACCTGGCCAACCGG
+CAGCCCGACTTCATCTCCTTCGGCCTCGTGGGGGGAAGGCCCGAGTTCCGGTTCGATGCA
+GGCTCAGGCATGGCCACCATCCGCCATCCCACACCACTGGCCCTGGGCCATTTCCACACC
+GTGACCCTGCTGCGCAGCCTCACCCAGGGCTCCCTGATTGTGGGTGACCTGGCCCCGGTC
+AATGGGACCTCCCAGGGCAAGTTCCAGGGCCTGGATCTGAACGAGGAACTCTACCTGGGT
+GGCTATCCTGACTATGGTGCCATCCCCAAGGCGGGGCTGAGCAGCGGCTTCATAGGCTGT
+GTCCGGGAGCTGCGCATCCAGGGCGAGGAGATCGTCTTCCATGACCTCAACCTCACGGCG
+CACGGCATCTCCCACTGCCCCACCTGTCGGGACCGGCCCTGCCAGAATGGCGGTCAGTGC
+CATGACTCTGAGAGCAGCAGCTACGTGTGCGTCTGCCCAGCTGGCTTCACCGGGAGCCGC
+TGTGAGCACTCGCAGGCCCTGCACTGCCATCCAGAGGCCTGTGGGCCCGACGCCACCTGT
+GTGAACCGGCCTGACGGTCGAGGCTACACCTGCCGCTGCCACCTGGGCCGCTCGGGGTTG
+CGGTGTGAGGAAGGTGTGACAGTGACCACCCCCTCGCTGTCGGGTGCTGGCTCCTACCTG
+GCACTGCCCGCCCTCACCAACACACACCACGAGCTACGCCTGGACGTGGAGTTCAAGCCA
+CTCGCCCCTGACGGGGTCCTGCTGTTCAGCGGGGGGAAGAGCGGGCCTGTGGAGGACTTC
+GTGTCCCTGGCGATGGTGGGCGGCCACCTGGAGTTCCGCTATGAGTTGGGGTCAGGGCTG
+GCCGTTCTGCGGAGCGCCGAGCCGCTGGCCCTGGGCCGCTGGCACCGTGTGTCTGCAGAG
+CGTCTCAACAAGGACGGCAGCCTGCGGGTGAATGGTGGACGCCCTGTGCTGCGCTCCTCG
+CCCGGCAAGAGCCAGGGCCTCAACCTGCACACCCTGCTCTACCTGGGGGGTGTGGAGCCT
+TCCGTGCCACTGTCCCCGGCCACCAACATGAGCGCTCACTTCCGCGGCTGTGTGGGCGAG
+GTGTCAGTGAATGGCAAACGGCTGGACCTCACCTACAGTTTCCTAGGCAGCCAGGGCATC
+GGGCAATGCTATGATAGCTCCCCATGTGAGCGCCAGCCTTGCCAACATGGTGCCACGTGC
+ATGCCCGCTGGCGAGTATGAGTTCCAGTGCCTGTGTCGAGATGGATTCAAAGGAGACCTG
+TGTGAGCACGAGGAGAACCCCTGCCAGCTCCGTGAACCCTGTCTGCATGGGGGCACCTGC
+CAGGGCACCCGCTGCCTCTGCCTCCCTGGCTTCTCTGGCCCACGCTGCCAACAAGGCTCT
+GGACATGGCATAGCAGAGTCCGACTGGCATCTTGAAGGCAGCGGGGGCAATGATGCCCCT
+GGGCAGTACGGAGCCTATTTCCACGATGATGGCTTCCTCGCCTTCCCTGGCCATGTCTTC
+TCCAGGAGCCTGCCCGAGGTGCCCGAGACCATCGAGCTGGAGGTTCGGACCAGCACAGCC
+AGTGGCCTCCTGCTCTGGCAGGGTGTGGAGGTGGGAGAGGCCGGCCAAGGCAAGGACTTC
+ATCAGCCTCGGGCTTCAAGACGGGCACCTTGTCTTCAGGTACCAGCTGGGTAGTGGGGAG
+GCCCGCCTGGTCTCTGAGGACCCCATCAATGACGGCGAGTGGCACCGGGTGACAGCACTG
+CGGGAGGGCCGCAGAGGTTCCATCCAAGTCGACGGTGAGGAGCTGGTCAGCGGCCGGTCC
+CCAGGTCCCAACGTGGCAGTCAACGCCAAGGGCAGCGTCTACATCGGCGGAGCCCCTGAC
+GTGGCCACGCTGACCGGGGGCAGATTCTCCTCAGGCATCACAGGCTGTGTCAAGAACCTG
+GTGCTGCACTCGGCCCGACCCGGCGCCCCGCCCCCACAGCCCCTGGACCTGCAGCACCGC
+GCCCAGGCCGGGGCCAACACACGCCCCTGCCCCTCGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00047</identifier>
+            <name>ig</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00008</identifier>
+            <name>EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07679</identifier>
+            <name>I-set</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00057</identifier>
+            <name>Ldl_recept_a</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00054</identifier>
+            <name>Laminin_G_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00052</identifier>
+            <name>Laminin_B</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00053</identifier>
+            <name>Laminin_EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basal lamina</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>focal adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein C-terminus binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brain development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cardiac muscle tissue development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cartilage development involved in endochondral bone morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondroitin sulfate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic skeletal system morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endochondral ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phototransduction, visible light</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein localization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retinoid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,4211 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-10-01">
+  <drugbank-id primary="true">DB00144</drugbank-id>
+  <drugbank-id>NUTR00048</drugbank-id>
+  <name>Phosphatidyl serine</name>
+  <description>Phosphatidyl serine (PS) is a phospholipid nutrient found in fish, green leafy vegetables, soybeans and rice, and is essential for the normal functioning of neuronal cell membranes and activates Protein kinase C (PKC) which has been shown to be involved in memory function. In apoptosis, phosphatidyl serine is transferred to the outer leaflet of the plasma membrane. This is part of the process by which the cell is targeted for phagocytosis. PS has been shown to slow cognitive decline in animal models. PS has been investigated in a small number of double-blind placebo trials and has been shown to increase memory performance in the elderly. Because of the potentail cognitive benefits of phosphatidylserine, the substance is sold as a dietary supplement to people who believe they can benefit from an increased intake.&#13;
+&#13;
+The dietary supplement was originally processed from bovine sources however Prion disease scares in the 1990s outlawed this process, and a soy-based alternative was adopted.</description>
+  <cas-number>1446756-47-3</cas-number>
+  <unii>394XK0IH40</unii>
+  <average-mass>792.089</average-mass>
+  <monoisotopic-mass>791.567634842</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>investigational</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Lorenzo De Ferra, Pietro Massardo, Oreste Piccolo, Stefano Servi, "Process for the industrial preparation of phosphatidylserine." U.S. Patent US5700668, issued January, 1992.</synthesis-reference>
+  <indication>Phosphatidylserine has demonstrated some usefulness in treating cognitive impairment, including Alzheimer's disease, age-associated memory impairment and some non-Alzheimer's dementias. More research is needed before phosphatidylserine can be indicated for immune enhancement or for reduction of exercise stress.</indication>
+  <pharmacodynamics>Phosphatidylserine is indicated in the treatment of cognitive impairment, including Alzheimer's disease, age-associated memory impairment and some non-Alzheimer's dementias. Further research is required before phosphatidylserine can be indicated for immune enhancement or for reduction of exercise stress. Phosphatidylserine was first isolated from brain lipids called cephalins. The major cephalins are phosphatidylserine and phophatidylethanolamine. Phosphatidylserine is involved in signal transduction activity as well as being a basic structural component of biologic membranes.</pharmacodynamics>
+  <mechanism-of-action>Cholinergic hypofunction is thought to account in part for the cognitive deficits found in Alzheimer's disease. The most commonly used drugs for the treatment of Alzheimer's disease are reversible acetylcholinesterase inhibitors. The rationale of these drugs is to increase acetylcholine levels in the brains of Alzheimer's patients, and they may be somewhat effective in some cases. Phosphatidylserine restores acetylcholine release in aging humans by maintaining an adequate supply of the molecule and is able to increase the availability of endogenous choline for de novo acetylcholine synthesis. The hippocampus of the brain is believed to be important for cognitive processes and is affected in those with Alzheimer's disease. The dendritic spines of pyramidal cells, the post-synaptic target of the excitatory input to the hippocampus, have been proposed as a substrate for information storage. Age-dependent dendritic spine loss in pyramidal neurons has been reported in the human brain, and the extent of synaptic loss appears to correlate with the degree of cognitive impairment. Phosphatidylserine treatment prevents the age-related reduction in dendritic spine density in rat hippocampus. Protein kinase C facilitation of acetylcholine release has been reported in rats. Phosphatidylserine was found to restore protein kinase C activity in aging rats. Stimulation of calcium uptake by brain synaptosomes and activation of protein kinase C are yet other speculative mechanisms of phosphatidylserine's putative cognition-enhancing action.</mechanism-of-action>
+  <toxicity>There are no reports of overdosage. LD&lt;sub&gt;50&lt;/sub&gt; in rats is more than 5g/kg, and in rabbits is more than 2g/kg.</toxicity>
+  <metabolism>Following absorption, lysophosphatidylserine is metabolized in intestinal mucosa cells, and its metabolites, which include some phosphatidylserine, enter the lymphatics draining the small intestine.</metabolism>
+  <absorption>Absorbed in the small intestine.</absorption>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Phosphatidyl serine</synonym>
+    <synonym language="english" coder="">Phosphatidylserine</synonym>
+    <synonym language="english" coder="">PS</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>EnBrace HR</name>
+      <labeller>Jaymac Pharmaceuticals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>64661-650</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-08-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, delayed release pellets</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>EnLyte</name>
+      <labeller>Jaymac Pharmaceuticals Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>64661-711</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-08-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, delayed release pellets</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>PramLyte</name>
+      <labeller>Allegis Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>28595-400</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-09-11</started-marketing-on>
+      <ended-marketing-on>2016-01-04</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number>ANDA078604</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>LifeExtension PS Caps</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>PramLyte</name>
+      <ingredients>1,2-Docosahexanoyl-sn-glycero-3-phosphoserine + 1,2-icosapentoyl-sn-glycero-3-phosphoserine + Citric acid + Cobamamide + Cocarboxylase + Escitalopram + Ferrous cysteine glycinate + Flavin adenine dinucleotide + Folic acid + Glycine betaine + Leucovorin + Levomefolic acid + Magnesium ascorbate + NADH + Phosphatidyl serine + Pyridoxal phosphate + Sodium citrate + Zinc ascorbate</ingredients>
+    </mixture>
+    <mixture>
+      <name>EnLyte</name>
+      <ingredients>1,2-Docosahexanoyl-sn-glycero-3-phosphoserine + 1,2-icosapentoyl-sn-glycero-3-phosphoserine + Citric acid + Cobamamide + Cocarboxylase + Ferrous cysteine glycinate + Flavin adenine dinucleotide + Folic acid + Glycine betaine + L-threonic acid + Leucovorin + Levomefolic acid + Magnesium ascorbate + NADH + Phosphatidyl serine + Pyridoxal phosphate + Sodium citrate + Zinc ascorbate</ingredients>
+    </mixture>
+    <mixture>
+      <name>EnBrace HR</name>
+      <ingredients>1,2-Docosahexanoyl-sn-glycero-3-phosphoserine + 1,2-icosapentoyl-sn-glycero-3-phosphoserine + Cobamamide + Cocarboxylase + Ferrous cysteine glycinate + Flavin adenine dinucleotide + Folic acid + Glycine betaine + L-threonic acid + Leucovorin + Levomefolic acid + Magnesium ascorbate + NADH + Phosphatidyl serine + Pyridoxal phosphate + Zinc ascorbate</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Professional Co.</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Phosphatidylserine 40% powder</description>
+      <cost currency="USD">13.2</cost>
+      <unit>g</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alcohols</category>
+      <mesh-id>D000438</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Glycerophosphates</category>
+      <mesh-id>D005994</mesh-id>
+    </category>
+    <category>
+      <category>Glycerophospholipids</category>
+      <mesh-id>D020404</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Lipids</category>
+      <mesh-id>D008563</mesh-id>
+    </category>
+    <category>
+      <category>Phosphatidic Acids</category>
+      <mesh-id>D010712</mesh-id>
+    </category>
+    <category>
+      <category>Phosphatidylserines</category>
+      <mesh-id>D010718</mesh-id>
+    </category>
+    <category>
+      <category>Phospholipids</category>
+      <mesh-id>D010743</mesh-id>
+    </category>
+    <category>
+      <category>Sugar Alcohols</category>
+      <mesh-id>D013402</mesh-id>
+    </category>
+    <category>
+      <category>Sugar Phosphates</category>
+      <mesh-id>D013403</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Triose Sugar Alcohols</category>
+      <mesh-id>D000073999</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Capsule, delayed release pellets</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>250 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries>
+    <pdb-entry>4b2z</pdb-entry>
+    <pdb-entry>6i3y</pdb-entry>
+    <pdb-entry>6lcp</pdb-entry>
+    <pdb-entry>6lcr</pdb-entry>
+    <pdb-entry>6lkn</pdb-entry>
+    <pdb-entry>6sp2</pdb-entry>
+    <pdb-entry>6tt7</pdb-entry>
+    <pdb-entry>6vp0</pdb-entry>
+    <pdb-entry>7bsu</pdb-entry>
+    <pdb-entry>7bsv</pdb-entry>
+  </pdb-entries>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.95</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-7.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>6.74e-05 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>11.27</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S)-2-amino-3-({[(2R)-2,3-bis(octadecanoyloxy)propoxy](hydroxy)phosphoryl}oxy)propanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>distearoyl phosphatidylserine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>792.089</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>791.567634842</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CCCCCCCCCCCCCCCCCC(=O)OC[C@H](COP(O)(=O)OC[C@H](N)C(O)=O)OC(=O)CCCCCCCCCCCCCCCCC</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C42H82NO10P</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C42H82NO10P/c1-3-5-7-9-11-13-15-17-19-21-23-25-27-29-31-33-40(44)50-35-38(36-51-54(48,49)52-37-39(43)42(46)47)53-41(45)34-32-30-28-26-24-22-20-18-16-14-12-10-8-6-4-2/h38-39H,3-37,43H2,1-2H3,(H,46,47)(H,48,49)/t38-,39+/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>TZCPCKNHXULUIY-RGULYWFUSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>171.68</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>215.24</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>96.63</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>44</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>1.47</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-3.5</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>84519</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>6323481</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505650</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>7826046</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164768860</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>P5S</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>IUPHAR</resource>
+      <identifier>3638</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Guide to Pharmacology</resource>
+      <identifier>3638</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Phosphatidylserine</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL4297669</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000085588270</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>89959</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>PDRhealth</resource>
+      <url>http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/pho_0202.shtml</url>
+    </external-link>
+  </external-links>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0014216</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/14:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014218</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/15:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014220</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/16:1(9Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014224</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/18:2(9Z,12Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014228</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/20:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014229</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/20:1(11Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014230</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/20:2(11Z,14Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014233</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/20:4(5Z,8Z,11Z,14Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014235</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/20:5(5Z,8Z,11Z,14Z,17Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014240</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/22:5(4Z,7Z,10Z,13Z,16Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014242</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014245</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/14:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014248</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/16:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014249</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/16:1(9Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014255</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/18:3(9Z,12Z,15Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014267</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/22:2(13Z,16Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014272</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(14:1(9Z)/24:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014274</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/14:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014277</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/16:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014278</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/16:1(9Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014279</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/18:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014287</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/20:1(11Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014290</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/20:3(8Z,11Z,14Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014291</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/20:4(5Z,8Z,11Z,14Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014294</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/22:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014300</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(15:0/22:6(4Z,7Z,10Z,13Z,16Z,19Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014303</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(16:0/14:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014304</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(16:0/14:1(9Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014306</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(16:0/16:0)</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0014310</smpdb-id>
+      <name>Phosphatidylcholine Biosynthesis PC(16:0/18:1(9Z))</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00122</drugbank-id>
+          <name>Choline</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00144</drugbank-id>
+          <name>Phosphatidyl serine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03945</drugbank-id>
+          <name>N,N,N-Trimethyl-2-(phosphonooxy)ethanaminium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03994</drugbank-id>
+          <name>Ethanolamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P49585</uniprot-id>
+        <uniprot-id>Q99447</uniprot-id>
+        <uniprot-id>P35790</uniprot-id>
+        <uniprot-id>Q9Y6K0</uniprot-id>
+        <uniprot-id>Q9UG56</uniprot-id>
+        <uniprot-id>Q9UBM1</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0002296</id>
+      <name>Diacylglycerol kinase gamma</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13804</ref-id>
+            <pubmed-id>16905533</pubmed-id>
+            <citation>Yamaguchi Y, Shirai Y, Matsubara T, Sanse K, Kuriyama M, Oshiro N, Yoshino K, Yonezawa K, Ono Y, Saito N: Phosphorylation and up-regulation of diacylglycerol kinase gamma via its interaction with protein kinase C gamma. J Biol Chem. 2006 Oct 20;281(42):31627-37. Epub 2006 Aug 11.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P49619" source="Swiss-Prot">
+        <name>Diacylglycerol kinase gamma</name>
+        <general-function>Diacylglycerol kinase activity</general-function>
+        <specific-function>Reverses the normal flow of glycerolipid biosynthesis by phosphorylating diacylglycerol back to phosphatidic acid.</specific-function>
+        <gene-name>DGKG</gene-name>
+        <locus>3q27.2-q27.3</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.73</theoretical-pi>
+        <molecular-weight>89123.27</molecular-weight>
+        <chromosome-location>3</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2853</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>DGKG</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D26135</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>516758</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P49619</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>DGKG_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.1.107</synonym>
+          <synonym>DAG kinase gamma</synonym>
+          <synonym>DAGK3</synonym>
+          <synonym>DGK-gamma</synonym>
+          <synonym>Diglyceride kinase gamma</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037187|Diacylglycerol kinase gamma
+MGEERWVSLTPEEFDQLQKYSEYSSKKIKDALTEFNEGGSLKQYDPHEPISYDVFKLFMR
+AYLEVDLPQPLSTHLFLAFSQKPRHETSDHPTEGASNSEANSADTNIQNADNATKADEAC
+APDTESNMAEKQAPAEDQVAATPLEPPVPRSSSSESPVVYLKDVVCYLSLLETGRPQDKL
+EFMFRLYDSDENGLLDQAEMDCIVNQMLHIAQYLEWDPTELRPILKEMLQGMDYDRDGFV
+SLQEWVHGGMTTIPLLVLLGMDDSGSKGDGRHAWTMKHFKKPTYCNFCHIMLMGVRKQGL
+CCTYCKYTVHERCVSRNIPGCVKTYSKAKRSGEVMQHAWVEGNSSVKCDRCHKSIKCYQS
+VTARHCVWCRMTFHRKCELSTLCDGGELRDHILLPTSICPITRDRPGEKSDGCVSAKGEL
+VMQYKIIPTPGTHPLLVLVNPKSGGRQGERILRKFHYLLNPKQVFNLDNGGPTPGLNFFR
+DTPDFRVLACGGDGTVGWILDCIDKANFAKHPPVAVLPLGTGNDLARCLRWGGGYEGGSL
+TKILKDIEQSPLVMLDRWHLEVIPREEVENGDQVPYSIMNNYFSIGVDASIAHRFHVMRE
+KHPEKFNSRMKNKLWYFEFGTSETFAATCKKLHDHIELECDGVGVDLSNIFLEGIAILNI
+PSMYGGTNLWGENKKNRAVIRESRKGVTDPKELKFCVQDLSDQLLEVVGLEGAMEMGQIY
+TGLKSAGRRLAQCASVTIRTNKLLPMQVDGEPWMQPCCTIKITHKNQAPMMMGPPQKSSF
+FSLRRKSRSKD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016744|Diacylglycerol kinase gamma (DGKG)
+ATGGGTGAAGAACGGTGGGTCTCCCTCACTCCAGAAGAATTTGACCAACTCCAGAAATAT
+TCAGAATATTCCTCCAAGAAGATAAAAGATGCCTTGACTGAATTTAATGAGGGTGGGAGC
+CTCAAACAATATGACCCACATGAGCCGATTAGCTATGATGTCTTCAAGCTGTTCATGAGG
+GCGTACCTGGAGGTGGACCTTCCCCAGCCACTGAGCACTCACCTCTTCCTGGCCTTCAGC
+CAGAAGCCCAGACACGAGACCTCTGACCACCCGACGGAGGGAGCCAGCAACAGTGAGGCC
+AACAGCGCAGATACTAATATACAGAATGCAGATAATGCCACCAAAGCAGACGAGGCCTGT
+GCCCCTGATACTGAATCAAATATGGCTGAGAAGCAAGCACCAGCTGAAGACCAAGTGGCT
+GCGACCCCCCTGGAACCCCCCGTCCCTCGGTCTTCAAGCTCGGAATCCCCAGTGGTATAC
+CTGAAGGATGTTGTGTGCTACCTGTCCCTGCTGGAGACGGGGAGGCCTCAGGATAAGCTG
+GAGTTCATGTTTCGCCTCTATGATTCAGATGAGAACGGTCTCCTGGACCAAGCGGAGATG
+GATTGCATTGTCAACCAAATGCTGCATATTGCCCAGTACCTGGAGTGGGATCCCACAGAG
+CTGAGGCCTATATTGAAGGAGATGCTGCAAGGGATGGACTACGACCGGGACGGCTTTGTG
+TCTCTACAGGAATGGGTCCATGGAGGGATGACCACCATCCCATTGCTGGTCCTCCTGGGG
+ATGGATGACTCTGGCTCCAAGGGGGATGGGCGGCACGCCTGGACCATGAAGCACTTCAAG
+AAACCAACCTACTGCAACTTCTGCCATATCATGCTCATGGGCGTCCGCAAGCAAGGCCTG
+TGCTGCACTTACTGTAAATACACTGTCCACGAACGCTGTGTGTCCAGAAACATTCCTGGT
+TGTGTCAAAACGTACTCAAAAGCCAAAAGGAGTGGTGAGGTGATGCAGCACGCATGGGTG
+GAAGGGAACTCCTCCGTCAAGTGTGACCGGTGCCACAAAAGTATCAAGTGCTACCAGAGT
+GTCACCGCGCGGCACTGCGTGTGGTGCCGGATGACGTTTCACCGCAAATGTGAATTATCA
+ACGTTGTGTGACGGTGGGGAACTCAGAGACCACATCTTACTGCCCACCTCCATATGCCCC
+ATCACCCGGGACAGGCCAGGTGAGAAGTCTGATGGCTGCGTGTCCGCCAAGGGCGAACTT
+GTCATGCAGTATAAGATCATCCCCACCCCGGGTACCCACCCCCTGCTGGTCTTGGTGAAC
+CCCAAGAGTGGAGGGAGACAAGGAGAAAGGTTGAACTTTTTCCGTGATACTCCAGACTTC
+CGTGTTTTGGCCTGTGGTGGAGATGGGACAGTTGGCTGGATTTTGGATTGCATTGATAAG
+GCCAACTTTGCAAAGCATCCACCAGTGGCTGTCCTGCCTCTTGGAACAGGAAATGACCTT
+GCCCGTTGTCTCCGCTGGGGAGGAGGTTATGAAGGGGGCAGCTTGACAAAAATCCTGAAA
+GACATTGAGCAGAGCCCCTTGGTGATGCTGGACCGCTGGCATCTGGAAGTCATCCCCAGA
+GAGGAAGTGGAAAACGGGGACCAGGTCCCATACAGCATCATGAACAACTATTTCTCCATT
+GGTGTGGACGCTTCCATTGCACACAGATTCCATGTGATGAGAGAGAAACATCCTGAAAAA
+TTCAACAGCAGGATGAAGAACAAGCTGTGGTACTTTGAATTTGGCACCTCGGAGACTTTT
+GCAGCGACCTGCAAGAAACTCCACGACCACATTGAGTTGGAGTGTGATGGGGTTGGGGTG
+GACCTGAGCAACATCTTCCTGGAAGGCATTGCCATTCTCAACATTCCCAGCATGTACGGA
+GGCACCAATCTCTGGGGAGAAAACAAGAAGAACCGGGCTGTGATCCGGGAAAGCAGGAAG
+GGTGTCACTGACCCCAAAGAACTGAAATTCTGCGTTCAAGACCTCAGTGACCAGCTCCTT
+GAAGTGGTGGGGCTAGAAGGAGCCATGGAGATGGGGCAGATCTACACCGGCCTGAAGAGT
+GCAGGCAGGAGGCTGGCCCAGTGCGCCTCTGTCACCATCAGGACAAACAAGCTGCTGCCA
+ATGCAAGTGGATGGAGAACCCTGGATGCAGCCATGTTGCACGATTAAAATTACTCACAAG
+AACCAAGCGCCCATGATGATGGGGCCTCCCCAGAAGAGCAGCTTCTTCTCGTTGAGAAGG
+AAGAGCCGTTCAAAAGACTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00130</identifier>
+            <name>C1_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00609</identifier>
+            <name>DAGK_acc</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00781</identifier>
+            <name>DAGK_cat</name>
+          </pfam>
+          <pfam>
+            <identifier>PF14513</identifier>
+            <name>DAG_kinase_N</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13499</identifier>
+            <name>EF-hand_7</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diacylglycerol kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neuron development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein kinase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002297</id>
+      <name>Diacylglycerol kinase delta</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13805</ref-id>
+            <pubmed-id>11309392</pubmed-id>
+            <citation>Bregoli L, Baldassare JJ, Raben DM: Nuclear diacylglycerol kinase-theta is activated in response to alpha-thrombin. J Biol Chem. 2001 Jun 29;276(26):23288-95. Epub 2001 Apr 17.</citation>
+          </article>
+          <article>
+            <ref-id>A13806</ref-id>
+            <pubmed-id>8626538</pubmed-id>
+            <citation>Sakane F, Imai S, Kai M, Wada I, Kanoh H: Molecular cloning of a novel diacylglycerol kinase isozyme with a pleckstrin homology domain and a C-terminal tail similar to those of the EPH family of protein-tyrosine kinases. J Biol Chem. 1996 Apr 5;271(14):8394-401.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q16760" source="Swiss-Prot">
+        <name>Diacylglycerol kinase delta</name>
+        <general-function>Protein homodimerization activity</general-function>
+        <specific-function>May function as signaling molecule.Isoform 2 may be involved in cell growth and tumorigenesis. Involved in clathrin-dependent endocytosis.</specific-function>
+        <gene-name>DGKD</gene-name>
+        <locus>2q37.1</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>7.58</theoretical-pi>
+        <molecular-weight>134524.235</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2851</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>DGKD</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AB078966</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>22773821</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q16760</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>DGKD_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>130 kDa diacylglycerol kinase</synonym>
+          <synonym>2.7.1.107</synonym>
+          <synonym>DAG kinase delta</synonym>
+          <synonym>DGK-delta</synonym>
+          <synonym>Diglyceride kinase delta</synonym>
+          <synonym>KIAA0145</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004510|Diacylglycerol kinase delta
+MAAAAGAPPPGPPQPPPPPPPEESSDSEPEAEPGSPQKLIRKVSTSGQIRQKTIIKEGML
+TKQNNSFQRSKRRYFKLRGRTLYYAKTAKSIIFDEVDLTDASVAESSTKNVNNSFTVITP
+CRKLILCADNRKEMEDWIAALKTVQNREHFEPTQYSMDHFSGMHNWYACSHARPTYCNVC
+REALSGVTSHGLSCEVCKFKAHKRCAVRATNNCKWTTLASIGKDIIEDADGIAMPHQWLE
+GNLPVSAKCTVCDKTCGSVLRLQDWRCLWCKAMVHTSCKESLLTKCPLGLCKVSVIPPTA
+LNSIDSDGFWKASCPPSCTSPLLVFVNSKSGDNQGVKFLRRFKQLLNPAQVFDLMNGGPH
+LGLRLFQKFDTFRILVCGGDGSVGWVLSEIDSLNLHKQCQLGVLPLGTGNDLARVLGWGS
+ACDDDTQLPQILEKLERASTKMLDRWSVMAYEAKLPRQASSSTVTEDFSEDSEVQQILFY
+EDSVAAHLSKILTSDQHSVVISSAKVLCETVKDFVARVGKAYEKTTESSEESEVMAKKCS
+VLKEKLDSLLKTLDDESQASSSLPNPPPTIAEEAEDGDGSGSICGSTGDRLVASACPARP
+QIFRPREQLMLRANSLKKAIRQIIEHTEKAVDEQNAQTQEQEGFVLGLSESEEKMDHRVC
+PPLSHSESFGVPKGRSQRKVSKSPCEKLISKGSLSLGSSASLPPQPGSRDGLPALNTKIL
+YPNVRAGMSGSLPGGSVISRLLINADPFNSEPETLEYYTEKCVMNNYFGIGLDAKISLDF
+NNKRDEHPEKCRSRTKNMMWYGVLGTKELLHRTYKNLEQKVLLECDGRPIPLPSLQGIAV
+LNIPSYAGGTNFWGGTKEDDTFAAPSFDDKILEVVAVFGSMQMAVSRVIRLQHHRIAQCR
+TVKISILGDEGVPVQVDGEAWVQPPGYIRIVHKNRAQTLTRDRAFESTLKSWEDKQKCEL
+PRPPSCSLHPEMLSEEEATQMDQFGQAAGVLIHSIREIAQSHRDMEQELAHAVNASSKSM
+DRVYGKPRTTEGLNCSFVLEMVNNFRALRSETELLLSGKMALQLDPPQKEQLGSALAEMD
+RQLRRLADTPWLCQSAEPGDEESVMLDLAKRSRSGKFRLVTKFKKEKNNKNKEAHSSLGA
+PVHLWGTEEVAAWLEHLSLCEYKDIFTRHDIRGSELLHLERRDLKDLGVTKVGHMKRILC
+GIKELSRSAPAVEA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011654|Diacylglycerol kinase delta (DGKD)
+ATGAATATGTTTCTGTACTTTCAGACCATCATCAAAGAGGGGATGCTGACCAAACAGAAC
+AATTCATTCCAGCGATCAAAAAGGAGATACTTTAAGCTTCGAGGGCGAACGCTTTACTAT
+GCCAAAACGGCAAAGTCAATCATATTTGATGAGGTGGATCTGACAGATGCCAGCGTAGCT
+GAATCCAGTACCAAAAACGTCAACAACAGTTTTACGGTCATAACTCCATGCAGGAAGCTC
+ATCTTGTGTGCTGATAACAGAAAAGAAATGGAAGATTGGATTGCAGCATTAAAGACTGTG
+CAGAACAGGGAGCACTTTGAGCCCACCCAGTACAGCATGGACCACTTCTCAGGGATGCAC
+AATTGGTACGCCTGTTCCCACGCGAGGCCGACCTACTGCAATGTGTGCCGTGAGGCTCTG
+TCTGGGGTCACGTCGCACGGGCTGTCCTGCGAGGTGTGCAAATTTAAGGCCCACAAGCGC
+TGTGCTGTGCGTGCAACCAATAACTGCAAGTGGACCACACTGGCCTCGATCGGGAAGGAC
+ATCATTGAAGATGCAGATGGGATTGCAATGCCCCACCAGTGGTTGGAAGGAAACCTACCT
+GTGAGCGCCAAGTGCACTGTGTGCGACAAGACCTGTGGCAGTGTGCTGCGCCTGCAGGAC
+TGGCGCTGCCTCTGGTGCAAGGCCATGGTTCACACATCGTGTAAAGAATCCTTGCTGACC
+AAGTGCCCACTTGGCCTGTGCAAAGTGTCAGTCATCCCACCCACGGCTCTCAACAGCATC
+GACTCCGATGGGTTCTGGAAGGCCAGCTGTCCTCCTTCTTGCACAAGCCCACTGTTGGTC
+TTCGTCAATTCAAAAAGTGGGGACAACCAGGGTGTGAAGTTCCTCAGAAGATTCAAACAG
+CTACTAAACCCCGCCCAGGTCTTCGACCTCATGAACGGAGGCCCACACCTCGGCTTACGG
+TTATTCCAGAAGTTTGACACATTCCGGATTCTGGTTTGTGGCGGGGATGGAAGTGTTGGC
+TGGGTCCTCTCCGAAATCGACAGCCTCAACCTTCATAAACAGTGTCAGCTGGGAGTGCTG
+CCGCTCGGCACAGGGAACGACTTGGCCCGAGTACTGGGCTGGGGCTCAGCCTGCGATGAC
+GACACCCAGCTCCCCCAGATCTTGGAGAAGTTGGAGAGAGCCAGCACCAAGATGCTGGAC
+AGGTGGAGCGTCATGGCATACGAGGCCAAGCTCCCCCGGCAGGCCTCCTCCTCTACCGTC
+ACCGAAGACTTCAGCGAGGATTCCGAGGTACAGCAGATTCTCTTCTATGAAGACTCGGTT
+GCAGCCCACCTTTCTAAAATCCTCACCTCGGACCAGCACTCGGTGGTCATCTCCTCGGCC
+AAAGTGCTCTGTGAGACGGTGAAGGACTTCGTGGCACGGGTGGGGAAGGCCTATGAGAAG
+ACGACCGAGAGCTCGGAGGAGTCAGAGGTCATGGCCAAGAAGTGCTCTGTCCTGAAAGAG
+AAGCTGGATTCCCTTCTCAAGACCTTGGACGATGAGTCCCAGGCCTCGTCCTCTCTGCCC
+AACCCGCCCCCCACCATTGCCGAGGAGGCTGAAGATGGAGATGGGTCGGGCAGCATCTGC
+GGTTCCACCGGAGACCGCTTGGTGGCATCAGCTTGCCCGGCCCGGCCGCAGATATTCCGG
+CCTCGAGAACAGCTCATGCTGAGAGCCAACAGCCTGAAGAAAGCAATTCGTCAGATCATA
+GAACACACAGAAAAAGCTGTCGATGAGCAGAATGCCCAGACCCAGGAGCAGGAGGGCTTC
+GTCCTGGGCCTCTCTGAGTCAGAGGAGAAGATGGACCACAGAGTGTGCCCACCACTGTCC
+CACAGCGAGAGCTTCGGGGTCCCCAAGGGGAGGAGCCAGCGCAAAGTGTCGAAATCTCCG
+TGTGAAAAGCTGATCAGCAAAGGGAGTCTGTCCCTAGGCAGTTCTGCTTCCCTTCCGCCC
+CAGCCGGGAAGCCGGGACGGCCTGCCTGCGCTCAACACCAAGATCCTGTACCCAAATGTC
+CGGGCTGGAATGTCTGGTTCCTTACCCGGTGGCTCAGTCATCAGTCGCCTGTTAATTAAT
+GCTGATCCCTTCAACTCTGAACCAGAAACCCTAGAGTATTACACGGAGAAATGTGTCATG
+AACAACTATTTTGGCATTGGCCTGGATGCGAAGATATCCCTGGACTTTAACAACAAGCGC
+GATGAGCACCCAGAGAAGTGCAGGAGCCGAACCAAGAACATGATGTGGTATGGAGTTCTT
+GGAACCAAAGAGTTGCTGCACAGAACCTACAAGAACCTGGAGCAAAAGGTCTTGCTGGAG
+TGTGACGGGCGACCCATCCCACTCCCCAGTCTTCAGGGAATTGCTGTCCTTAACATTCCC
+AGCTATGCCGGAGGAACCAACTTCTGGGGGGGTACCAAGGAAGATGATACTTTCGCAGCT
+CCATCATTCGATGACAAGATTCTGGAGGTGGTCGCCGTGTTCGGCAGCATGCAGATGGCC
+GTCTCTCGAGTCATCAGGCTACAGCATCATCGGATCGCCCAGTGTCGCACGGTGAAGATC
+TCCATCCTTGGGGATGAGGGCGTGCCTGTGCAGGTGGACGGAGAGGCCTGGGTCCAGCCG
+CCAGGGTACATTCGGATTGTCCACAAGAACCGGGCACAGACACTGACCAGAGACAGGGCA
+TTTGAGAGCACCCTGAAGTCCTGGGAAGACAAGCAGAAGTGCGAGCTGCCCCGCCCTCCA
+TCCTGTTCCCTGCACCCGGAGATGCTGTCCGAGGAGGAGGCCACCCAGATGGACCAGTTT
+GGGCAGGCAGCAGGGGTCCTCATTCACAGTATCCGAGAAATAGCTCAGTCTCACCGGGAC
+ATGGAGCAGGAACTGGCCCACGCCGTCAATGCCAGCTCCAAGTCCATGGACCGTGTGTAT
+GGCAAGCCCAGAACCACAGAGGGGCTCAACTGCAGCTTCGTCCTGGAAATGGTGAATAAC
+TTCAGAGCTCTGCGCAGTGAGACGGAGCTGCTGCTGTCTGGGAAGATGGCCCTGCAGCTG
+GATCCGCCTCAGAAGGAGCAGCTGGGGAGTGCTCTTGCCGAGATGGACCGACAGCTCAGG
+AGGCTGGCAGACACCCCGTGGCTCTGCCAGTCCGCAGAGCCCGGCGACGAAGAGAGTGTG
+ATGCTGGATCTTGCCAAGCGCAGTCGCAGTGGTAAATTCCGCCTCGTGACCAAGTTTAAA
+AAGGAGAAAAACAACAAGAACAAAGAAGCTCACAGTAGCCTGGGAGCCCCGGTTCACCTC
+TGGGGGACAGAGGAGGTTGCTGCCTGGCTGGAGCACCTCAGTCTCTGTGAGTATAAGGAC
+ATCTTCACACGGCACGACATCCGGGGCTCTGAGCTCCTGCACCTGGAGCGGAGGGACCTC
+AAGGACCTGGGCGTGACCAAGGTGGGCCACATGAAGAGGATCCTGTGTGGCATCAAGGAG
+CTGAGCCGCAGCGCCCCCGCCGTCGAGGCCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00169</identifier>
+            <name>PH</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00130</identifier>
+            <name>C1_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00609</identifier>
+            <name>DAGK_acc</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00781</identifier>
+            <name>DAGK_cat</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07647</identifier>
+            <name>SAM_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic membrane-bounded vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diacylglycerol binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diacylglycerol kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>diacylglycerol metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organismal development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein homooligomerization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein kinase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to organic substance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>second-messenger-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002299</id>
+      <name>Phosphatidylserine synthase 2</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13807</ref-id>
+            <pubmed-id>12361952</pubmed-id>
+            <citation>Bergo MO, Gavino BJ, Steenbergen R, Sturbois B, Parlow AF, Sanan DA, Skarnes WC, Vance JE, Young SG: Defining the importance of phosphatidylserine synthase 2 in mice. J Biol Chem. 2002 Dec 6;277(49):47701-8. Epub 2002 Oct 1.</citation>
+          </article>
+          <article>
+            <ref-id>A13808</ref-id>
+            <pubmed-id>15052332</pubmed-id>
+            <citation>Vance JE, Vance DE: Phospholipid biosynthesis in mammalian cells. Biochem Cell Biol. 2004 Feb;82(1):113-28.</citation>
+          </article>
+          <article>
+            <ref-id>A13809</ref-id>
+            <pubmed-id>12833164</pubmed-id>
+            <citation>Dygas A, Baranska J, Santella L: Ca2+-dependent phosphatidylserine synthesis in immature and mature starfish oocytes. Acta Biochim Pol. 2003;50(2):377-87.</citation>
+          </article>
+          <article>
+            <ref-id>A13810</ref-id>
+            <pubmed-id>14984733</pubmed-id>
+            <citation>Grandmaison PA, Nanowski TS, Vance JE: Externalization of phosphatidylserine during apoptosis does not specifically require either isoform of phosphatidylserine synthase. Biochim Biophys Acta. 2004 Feb 27;1636(1):1-11.</citation>
+          </article>
+          <article>
+            <ref-id>A13811</ref-id>
+            <pubmed-id>17387686</pubmed-id>
+            <citation>Wen Z, Kim HY: Inhibition of phosphatidylserine biosynthesis in developing rat brain by maternal exposure to ethanol. J Neurosci Res. 2007 May 15;85(7):1568-78.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9BVG9" source="Swiss-Prot">
+        <name>Phosphatidylserine synthase 2</name>
+        <general-function>Cdp-diacylglycerol-serine o-phosphatidyltransferase activity</general-function>
+        <specific-function>Catalyzes a base-exchange reaction in which the polar head group of phosphatidylethanolamine (PE) or phosphatidylcholine (PC) is replaced by L-serine. PTDSS2 is specific for phosphatatidylethanolamine and does not act on phosphatidylcholine.</specific-function>
+        <gene-name>PTDSS2</gene-name>
+        <locus>11p15</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>63-83
+97-117
+127-147
+314-334
+336-356
+377-397
+404-424</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>6.19</theoretical-pi>
+        <molecular-weight>56252.55</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:15463</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PTDSS2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AL834357</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>21740008</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9BVG9</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PTSS2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.8.29</synonym>
+          <synonym>PSS-2</synonym>
+          <synonym>PSS2</synonym>
+          <synonym>Serine-exchange enzyme II</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0019267|Phosphatidylserine synthase 2
+MRRGERRDAGGPRPESPVPAGRASLEEPPDGPSAGQATGPGEGRRSTESEVYDDGTNTFF
+WRAHTLTVLFILTCTLGYVTLLEETPQDTAYNTKRGIVASILVFLCFGVTQAKDGPFSRP
+HPAYWRFWLCVSVVYELFLIFILFQTVQDGRQFLKYVDPKLGVPLPERDYGGNCLIYDPD
+NETDPFHNIWDKLDGFVPAHFLGWYLKTLMIRDWWMCMIISVMFEFLEYSLEHQLPNFSE
+CWWDHWIMDVLVCNGLGIYCGMKTLEWLSLKTYKWQGLWNIPTYKGKMKRIAFQFTPYSW
+VRFEWKPASSLRRWLAVCGIILVFLLAELNTFYLKFVLWMPPEHYLVLLRLVFFVNVGGV
+AMREIYDFMDDPKPHKKLGPQAWLVAAITATELLIVVKYDPHTLTLSLPFYISQCWTLGS
+VLALTWTVWRFFLRDITLRYKETRWQKWQNKDDQGSTVGNGDQHPLGLDEDLLGPGVAEG
+EGAPTPN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019268|Phosphatidylserine synthase 2 (PTDSS2)
+ATGCGGAGGGGCGAGCGCAGGGACGCCGGAGGTCCGCGGCCCGAGTCCCCGGTGCCCGCG
+GGCAGGGCCTCGCTGGAGGAGCCGCCTGACGGGCCGTCTGCCGGCCAAGCCACCGGGCCG
+GGCGAGGGCCGCCGCAGCACCGAGTCCGAGGTCTACGACGACGGCACCAACACCTTCTTC
+TGGCGAGCCCACACCTTAACCGTGCTCTTCATCCTCACCTGTACGCTTGGCTATGTGACG
+CTGCTGGAGGAAACACCTCAGGACACGGCCTACAACACCAAGAGAGGTATTGTGGCCAGT
+ATTTTGGTTTTCTTATGTTTTGGAGTCACACAAGCTAAAGACGGGCCATTTTCCAGACCT
+CATCCAGCTTACTGGAGGTTTTGGCTCTGCGTGAGTGTGGTCTACGAGCTGTTTCTCATC
+TTTATACTCTTCCAGACTGTCCAGGACGGCCGGCAGTTTCTAAAGTATGTTGACCCCAAG
+CTGGGAGTCCCACTGCCAGAGAGAGACTACGGGGGAAACTGCCTCATCTACGACCCAGAC
+AATGAGACTGACCCCTTTCACAACATCTGGGACAAGTTGGATGGCTTTGTTCCCGCGCAC
+TTTCTTGGCTGGTACCTGAAGACCCTGATGATCCGAGACTGGTGGATGTGCATGATCATC
+AGCGTGATGTTCGAGTTCCTGGAGTACAGCCTGGAGCACCAGCTGCCCAACTTCAGCGAG
+TGCTGGTGGGATCACTGGATCATGGACGTGCTCGTCTGCAACGGGCTGGGCATCTACTGC
+GGCATGAAGACCCTTGAGTGGCTGTCCCTGAAGACGTACAAGTGGCAGGGCCTCTGGAAC
+ATTCCGACCTACAAGGGCAAGATGAAGAGGATCGCCTTCCAGTTCACGCCGTACAGCTGG
+GTTCGCTTCGAGTGGAAGCCGGCCTCCAGCCTGCGTCGCTGGCTGGCCGTGTGCGGCATC
+ATCCTGGTGTTCCTGTTGGCAGAACTGAACACGTTCTACCTGAAGTTTGTGCTGTGGATG
+CCCCCGGAGCACTACCTGGTCCTCCTGCGGCTCGTCTTCTTCGTGAACGTGGGTGGCGTG
+GCCATGCGTGAGATCTACGACTTCATGGATGACCCGAAGCCCCACAAGAAGCTGGGCCCG
+CAGGCCTGGCTGGTGGCGGCCATCACGGCCACGGAGCTGCTCATCGTGGTGAAGTACGAC
+CCCCACACGCTCACCCTGTCCCTGCCCTTCTACATCTCCCAGTGCTGGACCCTCGGCTCC
+GTCCTGGCGCTCACCTGGACCGTCTGGCGCTTCTTCCTGCGGGACATCACATTGAGGTAC
+AAGGAGACCCGGTGGCAGAAGTGGCAGAACAAGGATGACCAGGGCAGCACCGTCGGCAAC
+GGGGACCAGCACCCACTGGGGCTGGACGAAGACCTGCTGGGGCCTGGGGTGGCCGAGGGC
+GAGGGAGCACCAACTCCAAACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF03034</identifier>
+            <name>PSS</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>CDP-diacylglycerol-serine O-phosphatidyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycerophospholipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylserine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002300</id>
+      <name>Sphingomyelin phosphodiesterase 4</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13812</ref-id>
+            <pubmed-id>16517606</pubmed-id>
+            <citation>Krut O, Wiegmann K, Kashkar H, Yazdanpanah B, Kronke M: Novel tumor necrosis factor-responsive mammalian neutral sphingomyelinase-3 is a C-tail-anchored protein. J Biol Chem. 2006 May 12;281(19):13784-93. Epub 2006 Mar 3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9NXE4" source="Swiss-Prot">
+        <name>Sphingomyelin phosphodiesterase 4</name>
+        <general-function>Sphingomyelin phosphodiesterase d activity</general-function>
+        <specific-function>Catalyzes the hydrolysis of membrane sphingomyelin to form phosphorylcholine and ceramide.</specific-function>
+        <gene-name>SMPD4</gene-name>
+        <locus>2q21.1</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>783-803</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.04</theoretical-pi>
+        <molecular-weight>93350.76</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:32949</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SMPD4</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AB037839</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>7243217</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9NXE4</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NSMA3_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.1.4.12</synonym>
+          <synonym>KIAA1418</synonym>
+          <synonym>Neutral sphingomyelinase 3</synonym>
+          <synonym>Neutral sphingomyelinase III</synonym>
+          <synonym>nSMase-3</synonym>
+          <synonym>nSMase3</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004516|Sphingomyelin phosphodiesterase 4
+MAFPHLQQPSFLLASLKADSINKPFAQQCQDLVKVIEDFPAKELHTIFPWLVESIFGSLD
+GVLVGWNLRCLQGRVNPVEYSIVMEFLDPGGPMMKLVYKLQAEDYKFDFPVSYLPGPVKA
+SIQECILPDSPLYHNKVQFTPTGGLGLNLALNPFEYYIFFFALSLITQKPLPVSLHVRTS
+DCAYFILVDRYLSWFLPTEGSVPPPLSSSPGGTSPSPPPRTPAIPFASYGLHHTSLLKRH
+ISHQTSVNADPASHEIWRSETLLQVFVEMWLHHYSLEMYQKMQSPHAKLEVLHYRLSVSS
+ALYSPAQPSLQALHAYQESFTPTEEHVLVVRLLLKHLHAFANSLKPEQASPSAHSHATSP
+LEEFKRAAVPRFVQQKLYLFLQHCFGHWPLDASFRAVLEMWLSYLQPWRYAPDKQAPGSD
+SQPRCVSEKWAPFVQENLLMYTKLFVGFLNRALRTDLVSPKHALMVFRVAKVFAQPNLAE
+MIQKGEQLFLEPELVIPHRQHRLFTAPTFTGSFLSPWPPAVTDASFKVKSHVYSLEGQDC
+KYTPMFGPEARTLVLRLAQLITQAKHTAKSISDQCAESPAGHSFLSWLGFSSMDTNGSYT
+ANDLDEMGQDSVRKTDEYLEKALEYLRQIFRLSEAQLRQFTLALGTTQDENGKKQLPDCI
+VGEDGLILTPLGRYQIINGLRRFEIEYQGDPELQPIRSYEIASLVRTLFRLSSAINHRFA
+GQMAALCSRDDFLGSFCRYHLTEPGLASRHLLSPVGRRQVAGHTRGPRLSLRFLGSYRTL
+VSLLLAFFVASLFCVGPLPCTLLLTLGYVLYASAMTLLTERGKLHQP</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016745|Sphingomyelin phosphodiesterase 4 (SMPD4)
+ATGACGACTTTCGGCGCCGTGGCGGAATGGCGGCTTCCATCTCTGAGGCGAGCGACGCTA
+TGGATCCCACAGTGGTTTGCTAAGAAGGCCATTTTCAACTCTCCACTGGAGGCTGCTATG
+GCGTTCCCTCACCTGCAGCAGCCCAGCTTTCTACTGGCTAGCCTGAAAGCTGACTCTATA
+AATAAGCCCTTTGCACAGCAGTGCCAAGACTTGGTTAAAGTCATTGAGGACTTTCCAGCA
+AAGGGTCCTGTGAAGGCGTCCATCCAGGAGTGCATCCTCCCTGACAGTCCTCTGTACCAC
+AACAAGGTCCAGTTCACCCCTACTGGGGGCCTTGGTCTGAACTTGGCCCTGAATCCGTTC
+GAGTATTACATATTCTTCTTTGCCTTGAGCCTCATCACTCAGAAGCCACTTCCTGTGTCC
+CTCCACGTCCGTACTTCAGACTGTGCCTATTTCATCCTGGTGGACAGGTACCTGTCATGG
+TTCCTGCCCACCGAAGGCAGTGTGCCCCCACCACTCTCCTCCAGCCCAGGGGGGACCAGC
+CCCTCACCACCTCCCAGGACACCAGCCATACCCTTTGCTTCCTATGGCCTCCACCACACT
+AGCCTCCTAAAGCGACACATCTCTCATCAGACGTCTGTGAATGCAGACCCCGCCTCCCAC
+GAGATCTGGAGGTCAGAAACTCTGCTCCAGGTTTTTGTTGAAATGTGGCTTCATCACTAT
+TCCTTGGAGATGTATCAAAAAATGCAGTCCCCTCATGCCAAGGAGTCGTTCACGCCTACT
+GAGGAGCATGTGTTGGTGGTGCGCCTGCTGCTGAAGCACCTGCACGCCTTTGCCAACAGC
+CTGAAGCCAGAGCAGGCCTCACCCTCCGCCCACTCCCACGCCACCAGCCCCCTGGAGGAG
+TTCAAACGGGCTGCTGTCCCGAGGTTCGTCCAGCAGAAACTCTACCTCTTCTTGCAGCAT
+TGCTTTGGCCACTGGCCCCTGGACGCATCGTTCAGAGCTGTCCTGGAGATGTGGCTGAGC
+TACCTGCAGCCGTGGCGGTACGCGCCTGACAAGCAGGCTCCGGGCAGCGACTCCCAGCCC
+CGGTGTGTGTCGGAGAAATGGGCACCCTTTGTCCAGGAGAACCTGCTGATGTACACCAAG
+TTGTTTGTGGGCTTTCTGAACCGCGCGCTCCGCACAGACCTGGTCAGCCCCAAGCACGCG
+CTCATGGTGTTCCGAGTGGCCAAAGTCTTTGCCCAGCCCAACCTGGCTGAGATGATTCAG
+AAAGGTGAGCAGCTATTCCTGGAGCCAGAGCTGGTCATCCCCCACCGCCAGCACCGACTC
+TTCACGGCCCCCACATTCACTGGGAGCTTCCTGTCACCCTGGCCACCAGCGGTCACTGAT
+GCCTCCTTCAAGGTGAAGAGCCACGTCTACAGCCTGGAGGGCCAGGACTGCAAGTACACC
+CCGATGTTTGGGCCCGAGGCCCGCACCCTGGTCCTGCGCCTCGCTCAGCTCATCACACAG
+GCCAAACACACAGCCAAGTCCATCTCCGACCAGTGTGCGGAGAGCCCGGCTGGCCACTCC
+TTCCTCTCATGGCTGGGCTTTAGCTCCATGGACACCAATGGCTCCTACACAGCCAACGAC
+CTGGACGAGATGGGGCAAGACAGTGTCCGGAAGACAGATGAATACCTGGAGAAGGCCCTG
+GAGTACCTGCGCCAGATATTCCGGCTCAGCGAAGCGCAGCTCAGGCAGTTCACACTCGCC
+TTGGGCACCACCCAGGATGAGAATGGAAAAAAGCAACTCCCCGACTGCATCGTGGGTGAG
+GACGGACTCATCCTTACGCCCCTGGGGCGGTACCAGATCATCAATGGGCTGCGAAGGTTT
+GAAATTGAGTACCAGGGGGACCCGGAGCTGCAGCCCATCCGGAGCTATGAGATCGCCAGC
+TTGGTCCGCACACTCTTTAGGCTGTCGTCTGCCATCAACCACAGATTTGCAGGACAGATG
+GCGGCTCTGTGTTCCCGGGATGACTTCCTCGGCAGCTTCTGTCGCTACCACCTCACAGAA
+CCTGGGCTGGCCAGCAGGCACCTGCTGAGCCCTGTGGGGCGGAGGCAGGTGGCCGGCCAC
+ACCCGCGGCCCCAGGCTCAGCCTGCGCTTCCTGGGCAGTTACCGGACGCTGGTCTCGCTG
+CTGCTGGCCTTCTTCGTGGCCTCTCTGTTCTGCGTCGGGCCCCTCCCATGCACGCTGCTG
+CTCACCCTGGGCTATGTCCTCTACGCCTCTGCCATGACACTGCTGACCGAGCGGGGGAAG
+CTGCACCAGCCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF14724</identifier>
+            <name>mit_SMPDase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>trans-Golgi network</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sphingomyelin phosphodiesterase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sphingomyelin phosphodiesterase D activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to tumor necrosis factor</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ceramide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycerophospholipid catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosphingolipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingolipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingomyelin catabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002301</id>
+      <name>Sphingomyelin phosphodiesterase 3</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13812</ref-id>
+            <pubmed-id>16517606</pubmed-id>
+            <citation>Krut O, Wiegmann K, Kashkar H, Yazdanpanah B, Kronke M: Novel tumor necrosis factor-responsive mammalian neutral sphingomyelinase-3 is a C-tail-anchored protein. J Biol Chem. 2006 May 12;281(19):13784-93. Epub 2006 Mar 3.</citation>
+          </article>
+          <article>
+            <ref-id>A13813</ref-id>
+            <pubmed-id>12566438</pubmed-id>
+            <citation>Marchesini N, Luberto C, Hannun YA: Biochemical properties of mammalian neutral sphingomyelinase 2 and its role in sphingolipid metabolism. J Biol Chem. 2003 Apr 18;278(16):13775-83. Epub 2003 Feb 3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9NY59" source="Swiss-Prot">
+        <name>Sphingomyelin phosphodiesterase 3</name>
+        <general-function>Sphingomyelin phosphodiesterase activity</general-function>
+        <specific-function>Catalyzes the hydrolysis of sphingomyelin to form ceramide and phosphocholine. Ceramide mediates numerous cellular functions, such as apoptosis and growth arrest, and is capable of regulating these 2 cellular events independently. Also hydrolyzes sphingosylphosphocholine. Regulates the cell cycle by acting as a growth suppressor in confluent cells. Probably acts as a regulator of postnatal development and participates in bone and dentin mineralization.</specific-function>
+        <gene-name>SMPD3</gene-name>
+        <locus>16q22.1</locus>
+        <cellular-location>Golgi apparatus membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.53</theoretical-pi>
+        <molecular-weight>71080.1</molecular-weight>
+        <chromosome-location>16</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:14240</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SMPD3</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AJ250460</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>8247250</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9NY59</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NSMA2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.1.4.12</synonym>
+          <synonym>Neutral sphingomyelinase 2</synonym>
+          <synonym>Neutral sphingomyelinase II</synonym>
+          <synonym>nSMase-2</synonym>
+          <synonym>nSMase2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004518|Sphingomyelin phosphodiesterase 3
+MVLYTTPFPNSCLSALHCVSWALIFPCYWLVDRLAASFIPTTYEKRQRADDPCCLQLLCT
+ALFTPIYLALLVASLPFAFLGFLFWSPLQSARRPYIYSRLEDKGLAGGAALLSEWKGTGP
+GKSFCFATANVCLLPDSLARVNNLFNTQARAKEIGQRIRNGAARPQIKIYIDSPTNTSIS
+AASFSSLVSPQGGDGVARAVPGSIKRTASVEYKGDGGRHPGDEAANGPASGDPVDSSSPE
+DACIVRIGGEEGGRPPEADDPVPGGQARNGAGGGPRGQTPNHNQQDGDSGSLGSPSASRE
+SLVKGRAGPDTSASGEPGANSKLLYKASVVKKAAARRRRHPDEAFDHEVSAFFPANLDFL
+CLQEVFDKRAATKLKEQLHGYFEYILYDVGVYGCQGCCSFKCLNSGLLFASRYPIMDVAY
+HCYPNKCNDDALASKGALFLKVQVGSTPQDQRIVGYIACTHLHAPQEDSAIRCGQLDLLQ
+DWLADFRKSTSSSSAANPEELVAFDVVCGDFNFDNCSSDDKLEQQHSLFTHYRDPCRLGP
+GEEKPWAIGTLLDTNGLYDEDVCTPDNLQKVLESEEGRREYLAFPTSKSSGQKGRKELLK
+GNGRRIDYMLHAEEGLCPDWKAEVEEFSFITQLSGLTDHLPVAMRLMVSSGEEEA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011657|Sphingomyelin phosphodiesterase 3 (SMPD3)
+ATGGTTTTGTACACGACCCCCTTTCCTAACAGCTGTCTGTCCGCCCTGCACTGTGTGTCC
+TGGGCCCTTATCTTTCCATGCTACTGGCTGGTGGACCGGCTCGCTGCCTCCTTCATACCC
+ACCACCTACGAGAAGCGCCAGCGGGCAGACGACCCGTGCTGCCTGCAGCTGCTCTGCACT
+GCCCTCTTCACGCCCATCTACCTGGCCCTCCTGGTGGCCTCGCTGCCCTTTGCGTTTCTC
+GGCTTTCTCTTCTGGTCCCCACTGCAGTCGGCCCGCCGGCCCTACATCTATTCACGGCTG
+GAAGACAAGGGCCTGGCCGGTGGGGCAGCCCTGCTCAGTGAATGGAAGGGCACGGGGCCT
+GGCAAAAGCTTCTGCTTTGCCACTGCCAACGTCTGCCTCCTGCCCGACTCACTCGCCAGG
+GTCAACAACCTTTTTAACACCCAAGCGCGGGCCAAGGAGATCGGGCAGAGAATCCGCAAT
+GGGGCCGCCCGGCCCCAGATCAAAATTTACATCGACTCCCCCACCAATACCTCCATCAGC
+GCCGCTAGCTTCAGCAGCCTGGTGTCACCACAGGGCGGCGATGGGGTGGCCCGGGCCGTC
+CCCGGGAGCATTAAGAGGACAGCCTCTGTGGAGTACAAGGGTGACGGTGGGCGGCACCCC
+GGTGACGAGGCTGCCAACGGCCCAGCCTCTGGGGACCCTGTCGACAGCAGCAGCCCGGAG
+GATGCCTGCATCGTGCGCATCGGTGGCGAGGAGGGCGGCCGGCCACCTGAAGCTGACGAC
+CCTGTGCCTGGGGGCCAGGCCAGGAACGGAGCTGGCGGGGGCCCAAGGGGCCAGACGCCC
+AACCATAATCAGCAGGACGGGGATTCAGGGAGCCTGGGCAGCCCCTCGGCCTCCCGGGAG
+TCCCTGGTGAAGGGGCGAGCTGGGCCAGACACCAGTGCCAGCGGGGAGCCAGGTGCCAAC
+AGCAAGCTCCTGTACAAGGCCTCGGTGGTGAAGAAGGCGGCTGCACGCAGGAGGCGGCAC
+CCCGACGAGGCCTTCGACCATGAGGTCTCCGCCTTCTTCCCCGCCAACCTGGACTTCCTG
+TGCCTGCAGGAGGTGTTTGACAAGCGAGCAGCCACCAAATTGAAAGAGCAGCTGCACGGC
+TACTTCGAGTACATCCTGTACGACGTCGGGGTCTACGGCTGCCAGGGCTGCTGCAGCTTC
+AAGTGTCTCAACAGCGGCCTCCTCTTTGCCAGCCGCTACCCCATCATGGACGTGGCCTAT
+CACTGTTACCCCAACAAGTGTAACGACGATGCCCTGGCCTCTAAGGGAGCTCTGTTTCTC
+AAGGTGCAGGTGGGAAGCACACCTCAGGACCAAAGAATCGTCGGGTACATCGCCTGCACA
+CACCTGCATGCCCCGCAAGAGGACAGCGCCATCCGGTGTGGGCAGCTGGACCTGCTTCAG
+GACTGGCTGGCTGATTTCCGAAAATCTACCTCCTCGTCCAGCGCAGCCAACCCCGAGGAG
+CTGGTGGCATTTGACGTCGTCTGTGGAGATTTCAACTTTGATAACTGCTCCTCTGACGAC
+AAGCTGGAGCAGCAACACTCCCTGTTCACCCACTACAGGGACCCCTGCCGCCTGGGGCCT
+GGTGAGGAGAAGCCGTGGGCCATCGGTACTCTGCTGGACACGAACGGCCTGTACGATGAG
+GATGTGTGCACCCCCGACAACCTGCAGAAGGTCCTGGAGAGTGAGGAGGGCCGCAGGGAG
+TACCTGGCGTTTCCCACCAGCAAGAGCTCGGGCCAGAAGGGGCGGAAGGAGCTGCTGAAG
+GGCAACGGCCGGCGCATCGACTACATGCTGCATGCAGAGGAGGGGCTGTGCCCAGACTGG
+AAGGCCGAGGTGGAAGAATTCAGTTTTATCACCCAGCTGTCCGGCCTGACGGACCACCTG
+CCAGTAGCCATGCGACTGATGGTGTCTTCGGGGGAGGAGGAGGCATAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF03372</identifier>
+            <name>Exo_endo_phos</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi cis cisterna</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sphingomyelin phosphodiesterase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosphingolipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hematopoietic progenitor cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptide hormone secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ceramide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of exosomal secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingolipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingomyelin catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tumor necrosis factor-mediated signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0001001</id>
+      <name>Probable phospholipid-transporting ATPase IA</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13814</ref-id>
+            <pubmed-id>12697835</pubmed-id>
+            <citation>Bettache N, Baisamy L, Baghdiguian S, Payrastre B, Mangeat P, Bienvenue A: Mechanical constraint imposed on plasma membrane through transverse phospholipid imbalance induces reversible actin polymerization via phosphoinositide 3-kinase activation. J Cell Sci. 2003 Jun 1;116(Pt 11):2277-84. Epub 2003 Apr 15.</citation>
+          </article>
+          <article>
+            <ref-id>A13815</ref-id>
+            <pubmed-id>15971000</pubmed-id>
+            <citation>Wolfs JL, Comfurius P, Rasmussen JT, Keuren JF, Lindhout T, Zwaal RF, Bevers EM: Activated scramblase and inhibited aminophospholipid translocase cause phosphatidylserine exposure in a distinct platelet fraction. Cell Mol Life Sci. 2005 Jul;62(13):1514-25.</citation>
+          </article>
+          <article>
+            <ref-id>A13816</ref-id>
+            <pubmed-id>16179347</pubmed-id>
+            <citation>Mandal D, Mazumder A, Das P, Kundu M, Basu J: Fas-, caspase 8-, and caspase 3-dependent signaling regulates the activity of the aminophospholipid translocase and phosphatidylserine externalization in human erythrocytes. J Biol Chem. 2005 Nov 25;280(47):39460-7. Epub 2005 Sep 22.</citation>
+          </article>
+          <article>
+            <ref-id>A13817</ref-id>
+            <pubmed-id>16618126</pubmed-id>
+            <citation>Paterson JK, Renkema K, Burden L, Halleck MS, Schlegel RA, Williamson P, Daleke DL: Lipid specific activation of the murine P4-ATPase Atp8a1 (ATPase II). Biochemistry. 2006 Apr 25;45(16):5367-76.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9Y2Q0" source="Swiss-Prot">
+        <name>Phospholipid-transporting ATPase IA</name>
+        <general-function>Phospholipid-translocating atpase activity</general-function>
+        <specific-function>Catalytic component of a P4-ATPase flippase complex which catalyzes the hydrolysis of ATP coupled to the transport of aminophospholipids from the outer to the inner leaflet of various membranes and ensures the maintenance of asymmetric distribution of phospholipids. Phospholipid translocation seems also to be implicated in vesicle formation and in uptake of lipid signaling molecules. In vitro, its ATPase activity is selectively and stereospecifically stimulated by phosphatidylserine (PS). The flippase complex ATP8A1:TMEM30A seems to play a role in regulation of cell migration probably involving flippase-mediated translocation of phosphatidylethanolamine (PE) at the plasma membrane. Acts as aminophospholipid translocase at the plasma membrane in neuronal cells.</specific-function>
+        <gene-name>ATP8A1</gene-name>
+        <locus>4p14-p12</locus>
+        <cellular-location>Cytoplasmic vesicle</cellular-location>
+        <transmembrane-regions>66-86
+93-115
+298-319
+345-366
+858-878
+891-910
+941-962
+977-999
+1006-1026
+1045-1070</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>6.83</theoretical-pi>
+        <molecular-weight>131368.215</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:13531</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ATP8A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF067820</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4972583</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9Y2Q0</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>AT8A1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.6.3.1</synonym>
+          <synonym>ATPase class I type 8A member 1</synonym>
+          <synonym>ATPIA</synonym>
+          <synonym>Chromaffin granule ATPase II</synonym>
+          <synonym>P4-ATPase flippase complex alpha subunit ATP8A1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001993|Phospholipid-transporting ATPase IA
+MPTMRRTVSEIRSRAEGYEKTDDVSEKTSLADQEEVRTIFINQPQLTKFCNNHVSTAKYN
+IITFLPRFLYSQFRRAANSFFLFIALLQQIPDVSPTGRYTTLVPLLFILAVAAIKEIIED
+IKRHKADNAVNKKQTQVLRNGAWEIVHWEKVAVGEIVKVTNGEHLPADLISLSSSEPQAM
+CYIETSNLDGETNLKIRQGLPATSDIKDVDSLMRISGRIECESPNRHLYDFVGNIRLDGH
+GTVPLGADQILLRGAQLRNTQWVHGIVVYTGHDTKLMQNSTSPPLKLSNVERITNVQILI
+LFCILIAMSLVCSVGSAIWNRRHSGKDWYLNLNYGGASNFGLNFLTFIILFNNLIPISLL
+VTLEVVKFTQAYFINWDLDMHYEPTDTAAMARTSNLNEELGQVKYIFSDKTGTLTCNVMQ
+FKKCTIAGVAYGHVPEPEDYGCSPDEWQNSQFGDEKTFSDSSLLENLQNNHPTAPIICEF
+LTMMAVCHTAVPEREGDKIIYQAASPDEGALVRAAKQLNFVFTGRTPDSVIIDSLGQEER
+YELLNVLEFTSARKRMSVIVRTPSGKLRLYCKGADTVIYDRLAETSKYKEITLKHLEQFA
+TEGLRTLCFAVAEISESDFQEWRAVYQRASTSVQNRLLKLEESYELIEKNLQLLGATAIE
+DKLQDQVPETIETLMKADIKIWILTGDKQETAINIGHSCKLLKKNMGMIVINEGSLDGTR
+ETLSRHCTTLGDALRKENDFALIIDGKTLKYALTFGVRQYFLDLALSCKAVICCRVSPLQ
+KSEVVEMVKKQVKVVTLAIGDGANDVSMIQTAHVGVGISGNEGLQAANSSDYSIAQFKYL
+KNLLMIHGAWNYNRVSKCILYCFYKNIVLYIIEIWFAFVNGFSGQILFERWCIGLYNVMF
+TAMPPLTLGIFERSCRKENMLKYPELYKTSQNALDFNTKVFWVHCLNGLFHSVILFWFPL
+KALQYGTAFGNGKTSDYLLLGNFVYTFVVITVCLKAGLETSYWTWFSHIAIWGSIALWVV
+FFGIYSSLWPAIPMAPDMSGEAAMLFSSGVFWMGLLFIPVASLLLDVVYKVIKRTAFKTL
+VDEVQELEAKSQDPGAVVLGKSLTERAQLLKNVFKKNHVNLYRSESLQQNLLHGYAFSQD
+ENGIVSQSEVIRAYDTTKQRPDEW</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019050|Phospholipid-transporting ATPase IA (ATP8A1)
+ATGCCCACCATGCGGAGGACCGTGTCGGAGATCCGCTCGCGCGCCGAAGGTTATGAGAAG
+ACAGATGATGTTTCAGAGAAGACCTCACTGGCTGACCAGGAGGAAGTAAGGACTATTTTC
+ATCAACCAGCCCCAGCTGACAAAATTCTGCAATAACCATGTCAGCACTGCAAAATACAAC
+ATAATCACATTCCTTCCAAGATTTCTCTACTCTCAGTTCAGAAGAGCTGCTAATTCATTT
+TTTCTCTTTATTGCACTGCTGCAGCAAATACCTGATGTGTCACCAACAGGTCGTTATACA
+ACACTGGTTCCTCTCTTATTTATTTTAGCTGTGGCAGCTATCAAAGAGATAATAGAAGAT
+ATTAAACGACATAAAGCTGATAATGCAGTGAACAAGAAACAAACGCAAGTTTTGAGAAAT
+GGTGCTTGGGAAATTGTCCACTGGGAAAAGGTAAATGTTGGAGATATAGTTATAATAAAA
+GGCAAAGAGTATATACCTGCTGACACTGTACTTCTCTCATCAAGTGAGCCCCAAGCCATG
+TGCTACATTGAAACATCCAACTTAGATGGTGAAACAAACTTGAAAATTAGACAGGGCTTA
+CCAGCAACATCAGATATCAAAGACGTTGACAGTTTGATGAGGATTTCTGGCAGAATTGAG
+TGTGAAAGTCCAAACAGACATCTCTACGATTTTGTTGGAAACATAAGGCTTGATGGACAT
+GGCACCGTTCCACTGGGAGCAGATCAGATTCTTCTTCGAGGAGCTCAGTTGAGAAATACA
+CAGTGGGTTCATGGAATAGTTGTCTACACTGGACATGACACCAAGCTGATGCAGAATTCA
+ACAAGTCCACCACTTAAGCTCTCAAATGTGGAACGGATTACAAATGTACAAATTTTGATT
+TTATTTTGTATCTTAATTGCCATGTCTCTTGTCTGTTCTGTGGGCTCAGCCATTTGGAAT
+CGAAGGCATTCTGGAAAAGACTGGTATCTCAATCTAAACTATGGTGGCGCTAGTAATTTT
+GGACTGAATTTCTTGACCTTCATCATCCTTTTCAACAATCTCATTCCTATCAGCTTATTG
+GTTACATTAGAAGTTGTGAAATTTACCCAGGCATACTTCATAAATTGGGATCTTGACATG
+CACTATGAACCCACAGACACTGCTGCTATGGCTCGAACATCTAATCTGAATGAGGAACTT
+GGCCAGGTTAAATACATATTTTCTGACAAAACTGGTACTCTGACATGCAATGTAATGCAG
+TTTAAGAAGTGCACCATAGCGGGAGTTGCTTATGGGCAGAACTCACAGTTTGGAGATGAA
+AAAACATTTAGTGATTCATCATTGCTGGAAAATCTCCAAAATAATCATCCAACTGCACCT
+ATAATATGTGAATTTCTTACAATGATGGCAGTCTGTCACACAGCAGTGCCAGAGCGAGAA
+GGTGACAAGATTATTTATCAAGCAGCATCTCCAGATGAGGGAGCATTGGTCAGAGCAGCC
+AAGCAATTGAATTTTGTTTTCACTGGAAGAACACCCGACTCGGTGATTATAGATTCACTG
+GGGCAGGAAGAAAGATATGAATTGCTCAATGTCTTGGAGTTTACCAGTGCTAGGAAAAGA
+ATGTCAGTGATTGTTCGCACTCCATCTGGAAAGTTACGACTCTACTGCAAAGGAGCTGAC
+ACTGTAATTTATGATCGACTGGCAGAGACGTCAAAATACAAAGAAATTACCCTAAAACAT
+TTAGAGCAGTTTGCTACAGAAGGGTTAAGAACTTTATGTTTTGCTGTGGCTGAGATTTCA
+GAGAGCGACTTTCAGGAGTGGCGAGCAGTCTATCAGCGAGCATCTACATCTGTGCAGAAC
+AGGCTACTCAAACTCGAAGAGAGTTATGAGTTGATTGAAAAGAATCTTCAGCTACTTGGA
+GCAACAGCCATTGAGGATAAATTACAAGATCAAGTGCCTGAAACCATAGAAACGCTAATG
+AAAGCAGACATCAAAATCTGGATCCTTACAGGGGACAAGCAAGAAACTGCCATTAACATC
+GGACACTCCTGCAAACTGTTGAAGAAGAACATGGGAATGATTGTTATAAATGAAGGCTCT
+CTTGATGGAACAAGGGAAACTCTCAGTCGTCACTGTACTACCCTTGGTGATGCTCTCCGG
+AAAGAGAATGATTTTGCTCTTATAATTGATGGGAAAACCCTCAAATATGCCTTAACCTTT
+GGAGTACGACAGTATTTCCTGGACTTAGCTTTGTCATGCAAAGCTGTCATTTGCTGTCGG
+GTTTCTCCTCTTCAAAAATCTGAAGTTGTTGAGATGGTTAAGAAACAAGTCAAAGTCGTA
+ACGCTTGCAATCGGTGATGGAGCAAATGATGTCAGCATGATACAGACAGCGCACGTTGGT
+GTTGGTATCAGTGGCAATGAAGGCCTGCAGGCAGCTAATTCCTCTGACTACTCCATAGCT
+CAGTTCAAATATTTGAAGAATTTACTGATGATTCATGGTGCCTGGAACTATAACAGAGTC
+TCCAAGTGCATCTTATACTGCTTCTACAAGAATATAGTGCTCTATATTATCGAGATCTGG
+TTTGCCTTTGTTAATGGCTTTTCTGGACAGATCCTCTTTGAAAGATGGTGTATAGGTCTC
+TATAACGTGATGTTTACAGCAATGCCTCCTTTAACTCTTGGAATATTTGAGAGATCATGC
+AGAAAAGAGAACATGTTGAAGTACCCTGAATTATACAAAACATCTCAGAATGCCCTGGAC
+TTCAACACCAAGGTTTTCTGGGTTCATTGTTTAAATGGCCTCTTCCACTCAGTTATTCTG
+TTTTGGTTTCCACTAAAAGCCCTTCAGTATGGTACTGCATTTGGAAATGGGAAAACCTCG
+GATTATCTGCTACTGGGAAACTTTGTGTACACTTTTGTGGTGATAACTGTGTGTTTGAAA
+GCTGGATTGGAGACATCATATTGGACATGGTTCAGCCACATAGCGATATGGGGGAGCATC
+GCACTCTGGGTGGTGTTTTTTGGAATCTACTCATCTCTGTGGCCTGCCATTCCGATGGCC
+CCTGATATGTCAGGAGAGGCAGCCATGTTGTTCAGTTCTGGAGTCTTTTGGATGGGCTTG
+TTATTCATCCCTGTGGCATCTCTGCTCCTTGATGTGGTGTACAAGGTTATCAAGAGGACT
+GCTTTTAAAACATTGGTCGATGAAGTTCAGGAGCTGGAGGCAAAATCTCAAGACCCAGGA
+GCAGTTGTACTTGGAAAAAGCCTGACCGAGAGGGCGCAACTGCTCAAGAACGTCTTTAAG
+AAGAACCACGTGAACTTGTACCGCTCTGAATCCTTGCAACAAAATCTGCTCCATGGGTAT
+GCGTTCTCTCAAGATGAAAATGGAATCGTTTCACAGTCTGAAGTGATAAGAGCATATGAT
+ACCACGAAACAGAGGCCCGACGAATGGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00122</identifier>
+            <name>E1-E2_ATPase</name>
+          </pfam>
+          <pfam>
+            <identifier>PF16212</identifier>
+            <name>PhoLip_ATPase_C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF16209</identifier>
+            <name>PhoLip_ATPase_N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>chromaffin granule membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cation-transporting ATPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>magnesium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phospholipid-translocating ATPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cation transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>learning</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid translocation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phospholipid translocation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0001132</id>
+      <name>Protein kinase C alpha type</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11687</ref-id>
+            <pubmed-id>12269833</pubmed-id>
+            <citation>Yu D, Kazanietz MG, Harvey RG, Penning TM: Polycyclic aromatic hydrocarbon o-quinones inhibit the activity of the catalytic fragment of protein kinase C. Biochemistry. 2002 Oct 1;41(39):11888-94.</citation>
+          </article>
+          <article>
+            <ref-id>A11688</ref-id>
+            <pubmed-id>14698304</pubmed-id>
+            <citation>Rodriguez-Alfaro JA, Gomez-Fernandez JC, Corbalan-Garcia S: Role of the lysine-rich cluster of the C2 domain in the phosphatidylserine-dependent activation of PKCalpha. J Mol Biol. 2004 Jan 23;335(4):1117-29.</citation>
+          </article>
+          <article>
+            <ref-id>A11689</ref-id>
+            <pubmed-id>16114872</pubmed-id>
+            <citation>Lopez-Andreo MJ, Torrecillas A, Conesa-Zamora P, Corbalan-Garcia S, Gomez-Fernandez JC: Retinoic acid as a modulator of the activity of protein kinase Calpha. Biochemistry. 2005 Aug 30;44(34):11353-60.</citation>
+          </article>
+          <article>
+            <ref-id>A11690</ref-id>
+            <pubmed-id>17367165</pubmed-id>
+            <citation>Corbin JA, Evans JH, Landgraf KE, Falke JJ: Mechanism of specific membrane targeting by C2 domains: localized pools of target lipids enhance Ca2+ affinity. Biochemistry. 2007 Apr 10;46(14):4322-36. Epub 2007 Mar 17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P17252" source="Swiss-Prot">
+        <name>Protein kinase C alpha type</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Calcium-activated, phospholipid- and diacylglycerol (DAG)-dependent serine/threonine-protein kinase that is involved in positive and negative regulation of cell proliferation, apoptosis, differentiation, migration and adhesion, tumorigenesis, cardiac hypertrophy, angiogenesis, platelet function and inflammation, by directly phosphorylating targets such as RAF1, BCL2, CSPG4, TNNT2/CTNT, or activating signaling cascade involving MAPK1/3 (ERK1/2) and RAP1GAP. Involved in cell proliferation and cell growth arrest by positive and negative regulation of the cell cycle. Can promote cell growth by phosphorylating and activating RAF1, which mediates the activation of the MAPK/ERK signaling cascade, and/or by up-regulating CDKN1A, which facilitates active cyclin-dependent kinase (CDK) complex formation in glioma cells. In intestinal cells stimulated by the phorbol ester PMA, can trigger a cell cycle arrest program which is associated with the accumulation of the hyper-phosphorylated growth-suppressive form of RB1 and induction of the CDK inhibitors CDKN1A and CDKN1B. Exhibits anti-apoptotic function in glioma cells and protects them from apoptosis by suppressing the p53/TP53-mediated activation of IGFBP3, and in leukemia cells mediates anti-apoptotic action by phosphorylating BCL2. During macrophage differentiation induced by macrophage colony-stimulating factor (CSF1), is translocated to the nucleus and is associated with macrophage development. After wounding, translocates from focal contacts to lamellipodia and participates in the modulation of desmosomal adhesion. Plays a role in cell motility by phosphorylating CSPG4, which induces association of CSPG4 with extensive lamellipodia at the cell periphery and polarization of the cell accompanied by increases in cell motility. Is highly expressed in a number of cancer cells where it can act as a tumor promoter and is implicated in malignant phenotypes of several tumors such as gliomas and breast cancers. Negatively regulates myocardial contractility and positively regulates angiogenesis, platelet aggregation and thrombus formation in arteries. Mediates hypertrophic growth of neonatal cardiomyocytes, in part through a MAPK1/3 (ERK1/2)-dependent signaling pathway, and upon PMA treatment, is required to induce cardiomyocyte hypertrophy up to heart failure and death, by increasing protein synthesis, protein-DNA ratio and cell surface area. Regulates cardiomyocyte function by phosphorylating cardiac troponin T (TNNT2/CTNT), which induces significant reduction in actomyosin ATPase activity, myofilament calcium sensitivity and myocardial contractility. In angiogenesis, is required for full endothelial cell migration, adhesion to vitronectin (VTN), and vascular endothelial growth factor A (VEGFA)-dependent regulation of kinase activation and vascular tube formation. Involved in the stabilization of VEGFA mRNA at post-transcriptional level and mediates VEGFA-induced cell proliferation. In the regulation of calcium-induced platelet aggregation, mediates signals from the CD36/GP4 receptor for granule release, and activates the integrin heterodimer ITGA2B-ITGB3 through the RAP1GAP pathway for adhesion. During response to lipopolysaccharides (LPS), may regulate selective LPS-induced macrophage functions involved in host defense and inflammation. But in some inflammatory responses, may negatively regulate NF-kappa-B-induced genes, through IL1A-dependent induction of NF-kappa-B inhibitor alpha (NFKBIA/IKBA). Upon stimulation with 12-O-tetradecanoylphorbol-13-acetate (TPA), phosphorylates EIF4G1, which modulates EIF4G1 binding to MKNK1 and may be involved in the regulation of EIF4E phosphorylation. Phosphorylates KIT, leading to inhibition of KIT activity. Phosphorylates ATF2 which promotes cooperation between ATF2 and JUN, activating transcription.</specific-function>
+        <gene-name>PRKCA</gene-name>
+        <locus>17q22-q23.2</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>7.05</theoretical-pi>
+        <molecular-weight>76749.445</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9393</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PRKCA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52479</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>35483</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1482</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P17252</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>KPCA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.11.13</synonym>
+          <synonym>PKC-A</synonym>
+          <synonym>PKCA</synonym>
+          <synonym>PRKACA</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0020507|Protein kinase C alpha type
+MADVFPGNDSTASQDVANRFARKGALRQKNVHEVKDHKFIARFFKQPTFCSHCTDFIWGF
+GKQGFQCQVCCFVVHKRCHEFVTFSCPGADKGPDTDDPRSKHKFKIHTYGSPTFCDHCGS
+LLYGLIHQGMKCDTCDMNVHKQCVINVPSLCGMDHTEKRGRIYLKAEVADEKLHVTVRDA
+KNLIPMDPNGLSDPYVKLKLIPDPKNESKQKTKTIRSTLNPQWNESFTFKLKPSDKDRRL
+SVEIWDWDRTTRNDFMGSLSFGVSELMKMPASGWYKLLNQEEGEYYNVPIPEGDEEGNME
+LRQKFEKAKLGPAGNKVISPSEDRKQPSNNLDRVKLTDFNFLMVLGKGSFGKVMLADRKG
+TEELYAIKILKKDVVIQDDDVECTMVEKRVLALLDKPPFLTQLHSCFQTVDRLYFVMEYV
+NGGDLMYHIQQVGKFKEPQAVFYAAEISIGLFFLHKRGIIYRDLKLDNVMLDSEGHIKIA
+DFGMCKEHMMDGVTTRTFCGTPDYIAPEIIAYQPYGKSVDWWAYGVLLYEMLAGQPPFDG
+EDEDELFQSIMEHNVSYPKSLSKEAVSVCKGLMTKHPAKRLGCGPEGERDVREHAFFRRI
+DWEKLENREIQPPFKPKVCGKGAENFDKFFTRGQPVLTPPDQLVIANIDQSDFEGFSYVN
+PQFVHPILQSAV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020508|Protein kinase C alpha type (PRKCA)
+ATGGCTGACGTTTTCCCGGGCAACGACTCCACGGCGTCTCAGGACGTGGCCAACCGCTTC
+GCCCGCAAAGGGGCGCTGAGGCAGAAGAACGTGCACGAGGTGAAGGACCACAAATTCATC
+GCGCGCTTCTTCAAGCAGCCCACCTTCTGCAGCCACTGCACCGACTTCATCTGGGGGTTT
+GGGAAACAAGGCTTCCAGTGCCAAGTTTGCTGTTTTGTGGTCCACAAGAGGTGCCATGAA
+TTTGTTACTTTTTCTTGTCCGGGTGCGGATAAGGGACCCGACACTGATGACCCCAGGAGC
+AAGCACAAGTTCAAAATCCACACTTACGGAAGCCCCACCTTCTGCGATCACTGTGGGTCA
+CTGCTCTATGGACTTATCCATCAAGGGATGAAATGTGACACCTGCGATATGAACGTTCAC
+AAGCAATGCGTCATCAATGTCCCCAGCCTCTGCGGAATGGATCACACTGAGAAGAGGGGG
+CGGATTTACCTAAAGGCTGAGGTTGCTGATGAAAAGCTCCATGTCACAGTACGAGATGCA
+AAAAATCTAATCCCTATGGATCCAAACGGGCTTTCAGATCCTTATGTGAAGCTGAAACTT
+ATTCCTGATCCCAAGAATGAAAGCAAGCAAAAAACCAAAACCATCCGCTCCACACTAAAT
+CCGCAGTGGAATGAGTCCTTTACATTCAAATTGAAACCTTCAGACAAAGACCGACGACTG
+TCTGTAGAAATCTGGGACTGGGATCGAACAACAAGGAATGACTTCATGGGATCCCTTTCC
+TTTGGAGTTTCGGAGCTGATGAAGATGCCGGCCAGTGGATGGTACAAGTTGCTTAACCAA
+GAAGAAGGTGAGTACTACAACGTACCCATTCCGGAAGGGGACGAGGAAGGAAACATGGAA
+CTCAGGCAGAAATTCGAGAAAGCCAAACTTGGCCCTGCTGGCAACAAAGTCATCAGTCCC
+TCTGAAGACAGGAAACAACCTTCCAACAACCTTGACCGAGTGAAACTCACGGACTTCAAT
+TTCCTCATGGTGTTGGGAAAGGGGAGTTTTGGAAAGGTGATGCTTGCCGACAGGAAGGGC
+ACAGAAGAACTGTATGCAATCAAAATCCTGAAGAAGGATGTGGTGATTCAGGATGATGAC
+GTGGAGTGCACCATGGTAGAAAAGCGAGTCTTGGCCCTGCTTGACAAACCCCCGTTCTTG
+ACGCAGCTGCACTCCTGCTTCCAGACAGTGGATCGGCTGTACTTCGTCATGGAATATGTC
+AACGGTGGGGACCTCATGTACCACATTCAGCAAGTAGGAAAATTTAAGGAACCACAAGCA
+GTATTCTATGCGGCAGAGATTTCCATCGGATTGTTCTTTCTTCATAAAAGAGGAATCATT
+TATAGGGATCTGAAGTTAGATAACGTCATGTTGGATTCAGAAGGACATATCAAAATTGCT
+GACTTTGGGATGTGCAAGGAACACATGATGGATGGAGTCACGACCAGGACCTTCTGTGGG
+ACTCCAGATTATATCGCCCCAGAGATAATCGCTTATCAGCCGTATGGAAAATCTGTGGAC
+TGGTGGGCCTATGGCGTCCTGTTGTATGAAATGCTTGCCGGGCAGCCTCCATTTGATGGT
+GAAGATGAAGACGAGCTATTTCAGTCTATCATGGAGCACAACGTTTCCTATCCAAAATCC
+TTGTCCAAGGAGGCTGTTTCTATCTGCAAAGGACTGATGACCAAACACCCAGCCAAGCGG
+CTGGGCTGTGGGCCTGAGGGGGAGAGGGACGTGAGAGAGCATGCCTTCTTCCGGAGGATC
+GACTGGGAAAAACTGGAGAACAGGGAGATCCAGCCACCATTCAAGCCCAAAGTGTGTGGC
+AAAGGAGCAGAGAACTTTGACAAGTTCTTCACACGAGGACAGCCCGTCTTAACACCACCT
+GATCAGCTGGTTATTGCTAACATAGACCAGTCTGATTTTGAAGGGTTCTCGTATGTCAAC
+CCCCAGTTTGTGCACCCCATCTTACAGAGTGCAGTATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00069</identifier>
+            <name>Pkinase</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00130</identifier>
+            <name>C1_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00168</identifier>
+            <name>C2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical part of cell</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendrite</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrial membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>perinuclear region of cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>photoreceptor outer segment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium-dependent protein kinase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>histone kinase activity (H3-T6 specific)</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein serine/threonine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to carbohydrate stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>desmosome assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>energy reserve metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>histone H3-T6 phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inactivation of MAPK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>induction of positive chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intrinsic apoptotic signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitotic cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitotic nuclear envelope disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of glial cell apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of glucose import</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-serine autophosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phototransduction, visible light</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood vessel endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cardiac muscle hypertrophy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of dense core granule biogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of lipopolysaccharide-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of macrophage differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of mitotic cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of insulin secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of mRNA stability</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of platelet aggregation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of rhodopsin mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of the force of heart contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to interleukin-1</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>rhodopsin mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>synaptic transmission</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0001099</id>
+      <name>Phosphatidylserine synthase 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11691</ref-id>
+            <pubmed-id>12761285</pubmed-id>
+            <citation>Kuge O, Nishijima M: Biosynthetic regulation and intracellular transport of phosphatidylserine in mammalian cells. J Biochem. 2003 Apr;133(4):397-403.</citation>
+          </article>
+          <article>
+            <ref-id>A11692</ref-id>
+            <pubmed-id>12912985</pubmed-id>
+            <citation>Kuge O, Hasegawa K, Ohsawa T, Saito K, Nishijima M: Purification and characterization of Chinese hamster phosphatidylserine synthase 2. J Biol Chem. 2003 Oct 24;278(43):42692-8. Epub 2003 Aug 11.</citation>
+          </article>
+          <article>
+            <ref-id>A11693</ref-id>
+            <pubmed-id>15130088</pubmed-id>
+            <citation>Ohsawa T, Nishijima M, Kuge O: Functional analysis of Chinese hamster phosphatidylserine synthase 1 through systematic alanine mutagenesis. Biochem J. 2004 Aug 1;381(Pt 3):853-9.</citation>
+          </article>
+          <article>
+            <ref-id>A11694</ref-id>
+            <pubmed-id>16627002</pubmed-id>
+            <citation>Steenbergen R, Nanowski TS, Nelson R, Young SG, Vance JE: Phospholipid homeostasis in phosphatidylserine synthase-2-deficient mice. Biochim Biophys Acta. 2006 Mar;1761(3):313-23. Epub 2006 Mar 31.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P48651" source="Swiss-Prot">
+        <name>Phosphatidylserine synthase 1</name>
+        <general-function>Transferase activity</general-function>
+        <specific-function>Catalyzes a base-exchange reaction in which the polar head group of phosphatidylethanolamine (PE) or phosphatidylcholine (PC) is replaced by L-serine. In membranes, PTDSS1 catalyzes mainly the conversion of phosphatidylcholine. Also converts, in vitro and to a lesser extent, phosphatidylethanolamine.</specific-function>
+        <gene-name>PTDSS1</gene-name>
+        <locus>8q22</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>36-56
+73-93
+103-123
+187-207
+217-237
+287-307
+320-342
+356-376
+384-404</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.52</theoretical-pi>
+        <molecular-weight>55527.18</molecular-weight>
+        <chromosome-location>8</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9587</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PTDSS1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D14694</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>603802</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P48651</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PTSS1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.8.29</synonym>
+          <synonym>KIAA0024</synonym>
+          <synonym>PSS-1</synonym>
+          <synonym>PSSA</synonym>
+          <synonym>Serine-exchange enzyme I</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002187|Phosphatidylserine synthase 1
+MASCVGSRTLSKDDVNYKMHFRMINEQQVEDITIDFFYRPHTITLLSFTIVSLMYFAFTR
+DDSVPEDNIWRGILSVIFFFLIISVLAFPNGPFTRPHPALWRMVFGLSVLYFLFLVFLLF
+LNFEQVKSLMYWLDPNLRYATREADVMEYAVNCHVITWERIISHFDIFAFGHFWGWAMKA
+LLIRSYGLCWTISITWELTELFFMHLLPNFAECWWDQVILDILLCNGGGIWLGMVVCRFL
+EMRTYHWASFKDIHTTTGKIKRAVLQFTPASWTYVRWFDPKSSFQRVAGVYLFMIIWQLT
+ELNTFFLKHIFVFQASHPLSWGRILFIGGITAPTVRQYYAYLTDTQCKRVGTQCWVFGVI
+GFLEAIVCIKFGQDLFSKTQILYVVLWLLCVAFTTFLCLYGMIWYAEHYGHREKTYSECE
+DGTYSPEISWHHRKGTKGSEDSPPKHAGNNESHSSRRRNRHSKSKVTNGVGKK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010770|Phosphatidylserine synthase 1 (PTDSS1)
+ATGGAGTATGCTGTGAACTGCCATGTGATCACCTGGGAGAGGATTATCAGCCACTTTGAT
+ATTTTTGCATTTGGACATTTCTGGGGCTGGGCCATGAAGGCCTTGCTGATCCGTAGTTAC
+GGTCTCTGCTGGACAATCAGTATTACCTGGGAGCTGACTGAGCTCTTCTTCATGCATCTC
+CTCCCCAATTTTGCCGAGTGCTGGTGGGATCAAGTCATTCTGGACATCCTGTTGTGCAAT
+GGCGGTGGCATTTGGCTGGGCATGGTCGTTTGCCGGTTTTTAGAGATGAGGACTTACCAC
+TGGGCAAGCTTCAAGGACATTCATACCACCACCGGGAAGATCAAGAGAGCTGTTCTGCAG
+TTCACTCCTGCTAGCTGGACCTATGTTCGATGGTTTGACCCCAAATCTTCTTTTCAGAGA
+GTAGCTGGAGTGTACCTTTTCATGATCATCTGGCAGCTGACTGAGTTGAATACCTTCTTC
+TTGAAGCATATCTTTGTGTTCCAAGCCAGTCATCCATTAAGTTGGGGTAGAATTCTCTTT
+ATTGGTGGCATCACAGCTCCCACAGTGAGACAGTACTACGCTTACCTCACCGACACACAG
+TGCAAGCGCGTAGGAACACAATGCTGGGTGTTTGGGGTCATTGGTTTCCTGGAGGCCATT
+GTTTGCATAAAATTTGGACAAGATCTCTTCTCTAAGACCCAAATACTCTATGTTGTGCTT
+TGGCTTCTTTGCGTGGCTTTCACCACTTTCCTCTGTCTGTACGGCATGATTTGGTATGCA
+GAACACTATGGTCACCGAGAAAAGACCTACTCGGAGTGTGAAGATGGCACCTACAGTCCA
+GAGATCTCCTGGCATCACAGGAAAGGGACAAAAGGTTCTGAAGACAGCCCACCCAAGCAT
+GCAGGCAACAACGAAAGCCATTCTTCCAGGAGAAGGAATCGGCATTCCAAGTCAAAAGTC
+ACCAATGGCGTTGGAAAGAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF03034</identifier>
+            <name>PSS</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycerophospholipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylserine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000673</id>
+      <name>Phosphatidylserine decarboxylase proenzyme</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9889</ref-id>
+            <pubmed-id>14660568</pubmed-id>
+            <citation>Wu WI, Voelker DR: Reconstitution of phosphatidylserine transport from chemically defined donor membranes to phosphatidylserine decarboxylase 2 implicates specific lipid domains in the process. J Biol Chem. 2004 Feb 20;279(8):6635-42. Epub 2003 Dec 4.</citation>
+          </article>
+          <article>
+            <ref-id>A9890</ref-id>
+            <pubmed-id>15522831</pubmed-id>
+            <citation>Burgermeister M, Birner-Grunberger R, Heyn M, Daum G: Contribution of different biosynthetic pathways to species selectivity of aminoglycerophospholipids assembled into mitochondrial membranes of the yeast Saccharomyces cerevisiae. Biochim Biophys Acta. 2004 Nov 8;1686(1-2):148-60.</citation>
+          </article>
+          <article>
+            <ref-id>A9891</ref-id>
+            <pubmed-id>15522832</pubmed-id>
+            <citation>Burgermeister M, Birner-Grunberger R, Nebauer R, Daum G: Contribution of different pathways to the supply of phosphatidylethanolamine and phosphatidylcholine to mitochondrial membranes of the yeast Saccharomyces cerevisiae. Biochim Biophys Acta. 2004 Nov 8;1686(1-2):161-8.</citation>
+          </article>
+          <article>
+            <ref-id>A9892</ref-id>
+            <pubmed-id>15273086</pubmed-id>
+            <citation>Roggero R, Zufferey R, Minca M, Richier E, Calas M, Vial H, Ben Mamoun C: Unraveling the mode of action of the antimalarial choline analog G25 in Plasmodium falciparum and Saccharomyces cerevisiae. Antimicrob Agents Chemother. 2004 Aug;48(8):2816-24.</citation>
+          </article>
+          <article>
+            <ref-id>A9893</ref-id>
+            <pubmed-id>16246067</pubmed-id>
+            <citation>Voelker DR: Protein and lipid motifs regulate phosphatidylserine traffic in yeast. Biochem Soc Trans. 2005 Nov;33(Pt 5):1141-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9UG56" source="Swiss-Prot">
+        <name>Phosphatidylserine decarboxylase proenzyme</name>
+        <general-function>Phosphatidylserine decarboxylase activity</general-function>
+        <specific-function/>
+        <gene-name>PISD</gene-name>
+        <locus>22q12.2</locus>
+        <cellular-location>Mitochondrion</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>9.8</theoretical-pi>
+        <molecular-weight>46671.34</molecular-weight>
+        <chromosome-location>22</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:8999</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PISD</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AL050371</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>57997016</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9UG56</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PISD_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>4.1.1.65</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037058|Phosphatidylserine decarboxylase proenzyme
+MATSVGHRCLGLLHGVAPWRSSLHPCEITALSQSLQPLRKLPFRAFRTDARKIHTAPART
+MFLLRPLPILLVTGGGYAGYRQYEKYRERELEKLGLEIPPKLAGHWEVALYKSVPTRLLS
+RAWGRLNQVELPHWLRRPVYSLYIWTFGVNMKEAAVEDLHHYRNLSEFFRRKLKPQARPV
+CGLHSVISPSDGRILNFGQVKNCEVEQVKGVTYSLESFLGPRMCTEDLPFPPAASCDSFK
+NQLVTREGNELYHCVIYLAPGDYHCFHSPTDWTVSHRRHFPGSLMSVNPGMARWIKELFC
+HNERVVLTGDWKHGFFSLTAVGATNVGSIRIYFDRDLHTNSPRHSKGSYNDFSFVTHTNR
+EGVPMRKGEHLGEFNLGSTIVLIFEAPKDFNFQLKTGQKIRFGEALGSL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010469|Phosphatidylserine decarboxylase proenzyme (PISD)
+ATGATGTGTCAGTCAGAGGCGCGGCAAGGACCAGAGCTCCGCGCGGCGAAATGGTTGCAC
+TTCCCCCAGCTGGCCCTGAGGCGGAGGCTGGGGCAGCTGAGCTGCATGTCCAGACCCGCT
+CTGAAACTGCGCTCCTGGCCCTTGACCGTCCTCTACTACCTCCTGCCCTTCGGCGCCCTC
+AGACCGCTCAGCCGGGTGGGATGGAGGCCCGTAAGCAGGGTGGCTTTGTACAAGTCAGTG
+CCAACGCGCTTGCTGTCACGGGCCTGGGGTCGCCTCAATCAGGTGGAGCTGCCACACTGG
+CTGCGCAGGCCCGTCTACAGCCTGTACATCTGGACGTTTGGGGTGAACATGAAAGAGGCC
+GCTGTGGAGGACCTGCATCACTACCGCAACCTCAGCGAGTTCTTCCGGCGCAAGCTGAAG
+CCGCAGGCCCGGCCTGTCTGTGGCCTGCACAGCGTGATTAGCCCATCGGATGGAAGGATC
+CTCAACTTTGGGCAGGTGAAGAACTGTGAGGTGGAGCAGGTAAAGGGGGTCACCTACTCC
+CTGGAGTCGTTCCTGGGCCCGCGTATGTGCACAGAGGACCTGCCCTTCCCACCAGCCGCG
+TCGTGTGACTCCTTCAAGAACCAGCTGGTCACCCGGGAAGGGAATGAGCTCTATCACTGT
+GTCATCTACCTGGCCCCTGGGGACTACCACTGCTTCCACTCCCCCACCGACTGGACTGTG
+TCCCACCGGCGCCACTTCCCAGGCTCCCTGATGTCAGTGAACCCTGGCATGGCTCGCTGG
+ATCAAAGAGCTCTTCTGCCATAACGAGCGGGTGGTCCTGACGGGGGACTGGAAACATGGC
+TTCTTCTCACTGACAGCTGTGGGGGCCACCAACGTGGGCTCCATTCGCATCTACTTTGAC
+CGGGACCTGCACACAAACAGCCCAAGGCACAGCAAGGGCTCCTACAATGACTTCAGCTTC
+GTGACGCACACCAATAGAGAGGGCGTCCCCATGCGTAAGGGCGAGCACCTGGGCGAGTTC
+AACCTGGGCTCCACCATCGTGCTCATCTTCGAGGCCCCCAAGGACTTCAATTTCCAGCTG
+AAAACAGGACAGAAAATCCGCTTTGGGGAAGCCCTGGGCTCGCTCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF02666</identifier>
+            <name>PS_Dcarbxylase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phosphatidylserine decarboxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycerophospholipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phosphatidylethanolamine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000189</id>
+      <name>Scavenger receptor class B member 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9894</ref-id>
+            <pubmed-id>15541376</pubmed-id>
+            <citation>Yan X, Poelstra K, Scherphof GL, Kamps JA: A role for scavenger receptor B-I in selective transfer of rhodamine-PE from liposomes to cells. Biochem Biophys Res Commun. 2004 Dec 17;325(3):908-14.</citation>
+          </article>
+          <article>
+            <ref-id>A9895</ref-id>
+            <pubmed-id>14594995</pubmed-id>
+            <citation>Yancey PG, Kawashiri MA, Moore R, Glick JM, Williams DL, Connelly MA, Rader DJ, Rothblat GH: In vivo modulation of HDL phospholipid has opposing effects on SR-BI- and ABCA1-mediated cholesterol efflux. J Lipid Res. 2004 Feb;45(2):337-46. Epub 2003 Nov 1.</citation>
+          </article>
+          <article>
+            <ref-id>A9896</ref-id>
+            <pubmed-id>15791597</pubmed-id>
+            <citation>Nakagawa A, Shiratsuchi A, Tsuda K, Nakanishi Y: In vivo analysis of phagocytosis of apoptotic cells by testicular Sertoli cells. Mol Reprod Dev. 2005 Jun;71(2):166-77.</citation>
+          </article>
+          <article>
+            <ref-id>A9897</ref-id>
+            <pubmed-id>16371234</pubmed-id>
+            <citation>Zhang J, Fujii S, Wu Z, Hashioka S, Tanaka Y, Shiratsuchi A, Nakanishi Y, Nakanishi H: Involvement of COX-1 and up-regulated prostaglandin E synthases in phosphatidylserine liposome-induced prostaglandin E2 production by microglia. J Neuroimmunol. 2006 Mar;172(1-2):112-20. Epub 2005 Dec 20.</citation>
+          </article>
+          <article>
+            <ref-id>A9898</ref-id>
+            <pubmed-id>16530182</pubmed-id>
+            <citation>Osada Y, Shiratsuchi A, Nakanishi Y: Involvement of mitogen-activated protein kinases in class B scavenger receptor type I-induced phagocytosis of apoptotic cells. Exp Cell Res. 2006 Jun 10;312(10):1820-30. Epub 2006 Mar 10.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q8WTV0" source="Swiss-Prot">
+        <name>Scavenger receptor class B member 1</name>
+        <general-function>Virus receptor activity</general-function>
+        <specific-function>Receptor for different ligands such as phospholipids, cholesterol ester, lipoproteins, phosphatidylserine and apoptotic cells. Probable receptor for HDL, located in particular region of the plasma membrane, called caveolae. Facilitates the flux of free and esterified cholesterol between the cell surface and extracellular donors and acceptors, such as HDL and to a lesser extent, apoB-containing lipoproteins and modified lipoproteins. Probably involved in the phagocytosis of apoptotic cells, via its phosphatidylserine binding activity. Receptor for hepatitis C virus glycoprotein E2. Binding between SCARB1 and E2 was found to be independent of the genotype of the viral isolate. Plays an important role in the uptake of HDL cholesteryl ester (By similarity).(Microbial infection) Acts as a receptor for hepatitis C virus in hepatocytes.</specific-function>
+        <gene-name>SCARB1</gene-name>
+        <locus>12q24.31</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>12-32
+444-464</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.31</theoretical-pi>
+        <molecular-weight>60877.385</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1664</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SCARB1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Z22555</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>397607</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q8WTV0</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SCRB1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD36 and LIMPII analogous 1</synonym>
+          <synonym>CD36 antigen-like 1</synonym>
+          <synonym>CD36L1</synonym>
+          <synonym>CLA-1</synonym>
+          <synonym>CLA1</synonym>
+          <synonym>Collagen type I receptor, thrombospondin receptor-like 1</synonym>
+          <synonym>SR-BI</synonym>
+          <synonym>SRB1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000377|Scavenger receptor class B member 1
+MGCSAKARWAAGALGVAGLLCAVLGAVMIVMVPSLIKQQVLKNVRIDPSSLSFNMWKEIP
+IPFYLSVYFFDVMNPSEILKGEKPQVRERGPYVYREFRHKSNITFNNNDTVSFLEYRTFQ
+FQPSKSHGSESDYIVMPNILVLGAAVMMENKPMTLKLIMTLAFTTLGERAFMNRTVGEIM
+WGYKDPLVNLINKYFPGMFPFKDKFGLFAELNNSDSGLFTVFTGVQNISRIHLVDKWNGL
+SKVDFWHSDQCNMINGTSGQMWPPFMTPESSLEFYSPEACRSMKLMYKESGVFEGIPTYR
+FVAPKTLFANGSIYPPNEGFCPCLESGIQNVSTCRFSAPLFLSHPHFLNADPVLAEAVTG
+LHPNQEAHSLFLDIHPVTGIPMNCSVKLQLSLYMKSVAGIGQTGKIEPVVLPLLWFAESG
+AMEGETLHTFYTQLVLMPKVMHYAQYVLLALGCVLLLVPVICQIRSQVGAGQRAARADSH
+SLACWGKGASDRTLWPTAAWSPPPAAVLRLCRSGSGHCWGLRSTLASFACRVATTLPVLE
+GLGPSLGGGTGS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0009993|Scavenger receptor class B member 1 (SCARB1)
+ATGGGCTGCTCCGCCAAAGCGCGCTGGGCTGCCGGGGCGCTGGGCGTCGCGGGGCTACTG
+TGCGCTGTGCTGGGCGCTGTCATGATCGTGATGGTGCCGTCGCTCATCAAGCAGCAGGTC
+CTTAAGAACGTGCGCATCGACCCCAGTAGCCTGTCCTTCAACATGTGGAAGGAGATCCCT
+ATCCCCTTCTATCTCTCCGTCTACTTCTTTGACGTCATGAACCCCAGCGAGATCCTGAAG
+GGCGAGAAGCCGCAGGTGCGGGAGCGCGGGCCCTACGTGTACAGGGAGTTCAGGCACAAA
+AGCAACATCACCTTCAACAACAACGACACCGTGTCCTTCCTCGAGTACCGCACCTTCCAG
+TTCCAGCCCTCCAAGTCCCACGGCTCGGAGAGCGACTACATCGTCATGCCCAACATCCTG
+GTCTTGGGTGCGGCGGTGATGATGGAGAATAAGCCCATGACCCTGAAGCTCATCATGACC
+TTGGCATTCACCACCCTCGGCGAACGTGCCTTCATGAACCGCACTGTGGGTGAGATCATG
+TGGGGCTACAAGGACCCCCTTGTGAATCTCATCAACAAGTACTTTCCAGGCATGTTCCCC
+TTCAAGGACAAGTTCGGATTATTTGCTGAGCTCAACAACTCCGACTCTGGGCTCTTCACG
+GTGTTCACGGGGGTCCAGAACATCAGCAGGATCCACCTCGTGGACAAGTGGAACGGGCTG
+AGCAAGGTTGACTTCTGGCATTCCGATCAGTGCAACATGATCAATGGAACTTCTGGGCAA
+ATGTGGCCGCCCTTCATGACTCCTGAGTCCTCGCTGGAGTTCTACAGCCCGGAGGCCTGC
+CGATCCATGAAGCTAATGTACAAGGAGTCAGGGGTGTTTGAAGGCATCCCCACCTATCGC
+TTCGTGGCTCCCAAAACCCTGTTTGCCAACGGGTCCATCTACCCACCCAACGAAGGCTTC
+TGCCCGTGCCTGGAGTCTGGAATTCAGAACGTCAGCACCTGCAGGTTCAGTGCCCCCTTG
+TTTCTCTCCCATCCTCACTTCCTCAACGCTGACCCGGTTCTGGCAGAAGCGGTGACTGGC
+CTGCACCCTAACCAGGAGGCACACTCCTTGTTCCTGGACATCCACCCGGTCACGGGAATC
+CCCATGAACTGCTCTGTGAAACTGCAGCTGAGCCTCTACATGAAATCTGTCGCAGGCATT
+GGACAAACTGGGAAGATTGAGCCTGTGGTCCTGCCGCTGCTCTGGTTTGCAGAGAGCGGG
+GCCATGGAGGGGGAGACTCTTCACACATTCTACACTCAGCTGGTGTTGATGCCCAAGGTG
+ATGCACTATGCCCAGTACGTCCTCCTGGCGCTGGGCTGCGTCCTGCTGCTGGTCCCTGTC
+ATCTGCCAAATCCGGAGCCAAGGTCCTGAGGACACCGTGAGCCAGCCAGGCCTGGCCGCT
+GGGCCTGACCGGCCCCCCAGCCCCTACACCCCGCTTCTCCCGGACTCTCCCAGCGGACAG
+CCCCCCAGCCCCACAGCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01130</identifier>
+            <name>CD36</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>caveola</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endocytic vesicle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>1-phosphatidylinositol binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>apolipoprotein A-I binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>apolipoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>high-density lipoprotein particle receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipopolysaccharide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipopolysaccharide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>low-density lipoprotein particle binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phosphatidylserine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>virus receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adhesion of symbiont to host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cholesterol efflux</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cholesterol homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cholesterol import</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>detection of lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>high-density lipoprotein particle clearance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>high-density lipoprotein particle remodeling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipopolysaccharide transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipopolysaccharide-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>low-density lipoprotein particle clearance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cholesterol storage</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of nitric-oxide synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of triglyceride biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>recognition of apoptotic cell</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of phosphatidylcholine catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>reverse cholesterol transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>triglyceride homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,2365 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00147</drugbank-id>
+  <drugbank-id>NUTR00049</drugbank-id>
+  <name>Pyridoxal</name>
+  <description>The 4-carboxyaldehyde form of vitamin B 6 which is converted to pyridoxal phosphate which is a coenzyme for synthesis of amino acids, neurotransmitters (serotonin, norepinephrine), sphingolipids, aminolevulinic acid. [PubChem]</description>
+  <cas-number>66-72-8</cas-number>
+  <unii>3THM379K8A</unii>
+  <average-mass>167.162</average-mass>
+  <monoisotopic-mass>167.058243159</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Robert C. Siegel, "Synthesis of cross-links in the helical domain of collagen using pyridoxal 5-phosphate and copper or iron." U.S. Patent US4544638, issued June, 1981.</synthesis-reference>
+  <indication>Pyridoxal is one of the natural forms available of vitamin B6, therefore, it is used for nutritional supplementation and for treating dietary shortage or imbalances.</indication>
+  <pharmacodynamics>Pyridoxal principally in the form of the coenzyme pyridoxal 5'-phosphate, is involved in a wide range of biochemical reactions, including the metabolism of amino acids and glycogen, the synthesis of nucleic acids, hemogloblin, sphingomyelin and other sphingolipids, and the synthesis of the neurotransmitters serotonin, dopamine, norepinephrine and gamma-aminobutyric acid (GABA).</pharmacodynamics>
+  <mechanism-of-action>Pyridoxal is the precursor to pyridoxal phosphate. Pyridoxal 5'-phosphate is involved in a wide range of biochemical reactions, including the metabolism of amino acids and glycogen, the synthesis of nucleic acids, hemogloblin, sphingomyelin and other sphingolipids, and the synthesis of the neurotransmitters serotonin, dopamine, norepinephrine and gamma-aminobutyric acid (GABA).</mechanism-of-action>
+  <toxicity>Oral LD&lt;sub&gt;50&lt;/sub&gt; Rat: 2150 mg/kg, Oral LD&lt;sub&gt;50&lt;/sub&gt; Mouse: 1800 mg/kg</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as pyridoxals and derivatives. These are compounds containing a pyridoxal moiety, which consists of a pyridine ring substituted at positions 2,3,4, and 5 by a methyl group, a hydroxyl group, a carbaldehyde group, and a hydroxymethyl group, respectively.</description>
+    <direct-parent>Pyridoxals and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organoheterocyclic compounds</superclass>
+    <class>Pyridines and derivatives</class>
+    <subclass>Pyridine carboxaldehydes</subclass>
+    <alternative-parent>Aromatic alcohols</alternative-parent>
+    <alternative-parent>Aryl-aldehydes</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Hydroxypyridines</alternative-parent>
+    <alternative-parent>Methylpyridines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Vinylogous acids</alternative-parent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aldehyde</substituent>
+    <substituent>Aromatic alcohol</substituent>
+    <substituent>Aromatic heteromonocyclic compound</substituent>
+    <substituent>Aryl-aldehyde</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Hydroxypyridine</substituent>
+    <substituent>Methylpyridine</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Pyridoxal</substituent>
+    <substituent>Vinylogous acid</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001795</drugbank-id>
+      <name>Pyridoxal hydrochloride</name>
+      <unii>1416KF0QBC</unii>
+      <cas-number>65-22-5</cas-number>
+      <inchikey>FCHXJFJNDJXENQ-UHFFFAOYSA-N</inchikey>
+      <average-mass>203.62</average-mass>
+      <monoisotopic-mass>203.0349209</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="">2-methyl-3-hydroxy-4-formyl-5-hydroxymethylpyridine</synonym>
+    <synonym language="english" coder="">3-hydroxy-5-(hydroxymethyl)-2-methyl-4-pyridinecarboxaldehyde</synonym>
+    <synonym language="english" coder="">3-hydroxy-5-(hydroxymethyl)-2-methylisonicotinaldehyde</synonym>
+    <synonym language="english" coder="">3-hydroxy-5-(hydroxymethyl)-2-methylpyridine-4-carboxaldehyde</synonym>
+    <synonym language="english" coder="">Piridoxal</synonym>
+    <synonym language="english" coder="">Pyridoxaldehyde</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers>
+    <packager>
+      <name>Medisca Inc.</name>
+      <url>http://www.medisca.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Pyridoxal-5-phosphate powder</description>
+      <cost currency="USD">18.24</cost>
+      <unit>g</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Growth Substances</category>
+      <mesh-id>D006133</mesh-id>
+    </category>
+    <category>
+      <category>Micronutrients</category>
+      <mesh-id>D018977</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Picolines</category>
+      <mesh-id>D010847</mesh-id>
+    </category>
+    <category>
+      <category>Pyridines</category>
+      <mesh-id>D011725</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Vitamin B Complex</category>
+      <mesh-id>D014803</mesh-id>
+    </category>
+    <category>
+      <category>Vitamins</category>
+      <mesh-id>D014815</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries>
+    <pdb-entry>1td2</pdb-entry>
+    <pdb-entry>2ddw</pdb-entry>
+    <pdb-entry>2z9w</pdb-entry>
+    <pdb-entry>2z9x</pdb-entry>
+    <pdb-entry>3fhx</pdb-entry>
+    <pdb-entry>3mbh</pdb-entry>
+    <pdb-entry>4c5l</pdb-entry>
+    <pdb-entry>4c5n</pdb-entry>
+    <pdb-entry>6su9</pdb-entry>
+  </pdb-entries>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00147.pdf?1265922746</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>0.02</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.17e+01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>0.18</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>3-hydroxy-5-(hydroxymethyl)-2-methylpyridine-4-carbaldehyde</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>pyridoxal</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>167.162</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>167.058243159</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC1=NC=C(CO)C(C=O)=C1O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C8H9NO3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C8H9NO3/c1-5-8(12)7(4-11)6(3-10)2-9-5/h2,4,10,12H,3H2,1H3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>RADKZDMFGJYCBB-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>70.42</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>43.87</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>16.28</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>7.97</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>4.11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>5E+005 mg/L</value>
+      <source>COFFEN,DL (1978)</source>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>165 °C</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>0</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>17310</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>1050</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506282</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00250</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>1021</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>BindingDB</resource>
+      <identifier>50366979</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164749166</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>PXL</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Pyridoxal</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL102970</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000000120249</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>9002</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000137</smpdb-id>
+      <name>2-Methyl-3-hydroxybutryl-CoA Dehydrogenase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000139</smpdb-id>
+      <name>3-Methylglutaconic Aciduria Type I</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000173</smpdb-id>
+      <name>beta-Ketothiolase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000524</smpdb-id>
+      <name>Isovaleric Acidemia</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000017</smpdb-id>
+      <name>Vitamin B6 Metabolism</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00165</drugbank-id>
+          <name>Pyridoxine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01593</drugbank-id>
+          <name>Zinc</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02142</drugbank-id>
+          <name>Pyridoxamine-5'-Phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02209</drugbank-id>
+          <name>Pyridoxine phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03247</drugbank-id>
+          <name>Flavin mononucleotide</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P05186</uniprot-id>
+        <uniprot-id>Q9NVS9</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>O00764</uniprot-id>
+        <uniprot-id>Q96GD0</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000138</smpdb-id>
+      <name>3-Hydroxy-3-methylglutaryl-CoA Lyase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000200</smpdb-id>
+      <name>Methylmalonic Aciduria</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000503</smpdb-id>
+      <name>Hypophosphatasia</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00165</drugbank-id>
+          <name>Pyridoxine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01593</drugbank-id>
+          <name>Zinc</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02142</drugbank-id>
+          <name>Pyridoxamine-5'-Phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02209</drugbank-id>
+          <name>Pyridoxine phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03247</drugbank-id>
+          <name>Flavin mononucleotide</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P05186</uniprot-id>
+        <uniprot-id>Q9NVS9</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>O00764</uniprot-id>
+        <uniprot-id>Q96GD0</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000523</smpdb-id>
+      <name>Isobutyryl-CoA Dehydrogenase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000032</smpdb-id>
+      <name>Valine, Leucine, and Isoleucine Degradation</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000140</smpdb-id>
+      <name>3-Methylglutaconic Aciduria Type III</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000141</smpdb-id>
+      <name>3-Methylglutaconic Aciduria Type IV</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000199</smpdb-id>
+      <name>Maple Syrup Urine Disease</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000236</smpdb-id>
+      <name>Propionic Acidemia</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000237</smpdb-id>
+      <name>3-Methylcrotonyl-CoA Carboxylase Deficiency Type I</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000238</smpdb-id>
+      <name>Isovaleric Aciduria</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000384</smpdb-id>
+      <name>Methylmalonate Semialdehyde Dehydrogenase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000521</smpdb-id>
+      <name>3-Hydroxyisobutyric Acid Dehydrogenase Deficiency</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000522</smpdb-id>
+      <name>3-Hydroxyisobutyric Aciduria</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00121</drugbank-id>
+          <name>Biotin</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00139</drugbank-id>
+          <name>Succinic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00147</drugbank-id>
+          <name>Pyridoxal</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00149</drugbank-id>
+          <name>Leucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00157</drugbank-id>
+          <name>NADH</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00161</drugbank-id>
+          <name>Valine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00167</drugbank-id>
+          <name>Isoleucine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01762</drugbank-id>
+          <name>Acetoacetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03147</drugbank-id>
+          <name>Flavin adenine dinucleotide</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03229</drugbank-id>
+          <name>alpha-Ketoisocaproic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04074</drugbank-id>
+          <name>alpha-Ketoisovalerate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04183</drugbank-id>
+          <name>Methylmalonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P21953</uniprot-id>
+        <uniprot-id>P12694</uniprot-id>
+        <uniprot-id>P09622</uniprot-id>
+        <uniprot-id>P35914</uniprot-id>
+        <uniprot-id>P54687</uniprot-id>
+        <uniprot-id>P11182</uniprot-id>
+        <uniprot-id>P26440</uniprot-id>
+        <uniprot-id>P11310</uniprot-id>
+        <uniprot-id>P30084</uniprot-id>
+        <uniprot-id>Q96RQ3</uniprot-id>
+        <uniprot-id>Q9HCC0</uniprot-id>
+        <uniprot-id>P16219</uniprot-id>
+        <uniprot-id>P45954</uniprot-id>
+        <uniprot-id>Q9UKU7</uniprot-id>
+        <uniprot-id>Q6NVY1</uniprot-id>
+        <uniprot-id>P31937</uniprot-id>
+        <uniprot-id>P80404</uniprot-id>
+        <uniprot-id>Q99714</uniprot-id>
+        <uniprot-id>P42765</uniprot-id>
+        <uniprot-id>Q02252</uniprot-id>
+        <uniprot-id>P05165</uniprot-id>
+        <uniprot-id>P05166</uniprot-id>
+        <uniprot-id>Q96PE7</uniprot-id>
+        <uniprot-id>P22033</uniprot-id>
+        <uniprot-id>Q06278</uniprot-id>
+        <uniprot-id>P05091</uniprot-id>
+        <uniprot-id>Q13825</uniprot-id>
+        <uniprot-id>P54868</uniprot-id>
+        <uniprot-id>P24752</uniprot-id>
+        <uniprot-id>P55809</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000042</id>
+      <name>Pyridoxal kinase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A4176</ref-id>
+            <pubmed-id>15985434</pubmed-id>
+            <citation>Tang L, Li MH, Cao P, Wang F, Chang WR, Bach S, Reinhardt J, Ferandin Y, Galons H, Wan Y, Gray N, Meijer L, Jiang T, Liang DC: Crystal structure of pyridoxal kinase in complex with roscovitine and derivatives. J Biol Chem. 2005 Sep 2;280(35):31220-9. Epub 2005 Jun 28.</citation>
+          </article>
+          <article>
+            <ref-id>A4177</ref-id>
+            <pubmed-id>16494569</pubmed-id>
+            <citation>Adams JB, George F, Audhya T: Abnormally high plasma levels of vitamin B6 in children with autism not taking supplements compared to controls not taking supplements. J Altern Complement Med. 2006 Jan-Feb;12(1):59-63.</citation>
+          </article>
+          <article>
+            <ref-id>A4178</ref-id>
+            <pubmed-id>16978644</pubmed-id>
+            <citation>Newman JA, Das SK, Sedelnikova SE, Rice DW: The crystal structure of an ADP complex of Bacillus subtilis pyridoxal kinase provides evidence for the parallel emergence of enzyme activity during evolution. J Mol Biol. 2006 Oct 20;363(2):520-30. Epub 2006 Aug 12.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="O00764" source="Swiss-Prot">
+        <name>Pyridoxal kinase</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Required for synthesis of pyridoxal-5-phosphate from vitamin B6.</specific-function>
+        <gene-name>PDXK</gene-name>
+        <locus/>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.05</theoretical-pi>
+        <molecular-weight>35102.105</molecular-weight>
+        <chromosome-location>21</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:8819</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PDXK</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U89606</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1946349</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O00764</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PDXK_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.1.35</synonym>
+          <synonym>C21orf124</synonym>
+          <synonym>C21orf97</synonym>
+          <synonym>PKH</synonym>
+          <synonym>PNK</synonym>
+          <synonym>Pyridoxine kinase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000084|Pyridoxal kinase
+MEEECRVLSIQSHVIRGYVGNRAATFPLQVLGFEIDAVNSVQFSNHTGYAHWKGQVLNSD
+ELQELYEGLRLNNMNKYDYVLTGYTRDKSFLAMVVDIVQELKQQNPRLVYVCDPVLGDKW
+DGEGSMYVPEDLLPVYKEKVVPLADIITPNQFEAELLSGRKIHSQEEALRVMDMLHSMGP
+DTVVITSSDLPSPQGSNYLIVLGSQRRRNPAGSVVMERIRMDIRKVDAVFVGTGDLFAAM
+LLAWTHKHPNNLKVACEKTVSTLHHVLQRTIQCAKAQAGEGVRPSPMQLELRMVQSKRDI
+EDPEIVVQATVL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018912|Pyridoxal kinase (PDXK)
+ATGGAGGAGGAGTGCCGGGTGCTCTCCATACAGAGCCACGTCATCCGCGGCTACGTGGGC
+AACCGGGCGGCCACGTTCCCGCTGCAGGTTTTGGGATTTGAGATTGACGCGGTGAACTCT
+GTCCAGTTTTCAAACCACACAGGCTATGCCCACTGGAAGGGCCAAGTGCTGAATTCAGAT
+GAGCTCCAGGAGTTGTACGAAGGCCTGAGGCTGAACAACATGAATAAATATGACTACGTG
+CTCACAGGTTATACGAGGGACAAGTCGTTCCTGGCCATGGTGGTGGACATTGTGCAGGAG
+CTGAAGCAGCAGAACCCCAGGCTGGTGTACGTGTGTGATCCAGTCTTGGGTGACAAGTGG
+GACGGCGAAGGCTCGATGTACGTCCCGGAGGACCTCCTTCCCGTCTACAAAGAAAAAGTG
+GTGCCGCTTGCAGACATTATCACGCCCAACCAGTTTGAGGCCGAGTTACTGAGTGGCCGG
+AAGATCCACAGCCAGGAGGAAGCCTTGCGGGTGATGGACATGCTGCACTCTATGGGCCCC
+GACACCGTGGTCATCACCAGCTCCGACCTGCCCTCCCCGCAGGGCAGCAACTACCTGATT
+GTGCTGGGGAGTCAGAGGAGGAGGAATCCCGCTGGCTCCGTGGTGATGGAACGCATCCGG
+ATGGACATTCGCAAAGTGGACGCCGTCTTTGTGGGCACTGGGGACCTGTTTGCTGCCATG
+CTCCTGGCGTGGACACACAAGCACCCCAATAACCTCAAGGTGGCCTGTGAGAAGACCGTG
+TCTACCTTGCACCACGTTCTGCAGAGGACCATCCAGTGTGCAAAAGCCCAGGCCGGGGAA
+GGAGTGAGGCCCAGCCCCATGCAGCTGGAGCTGCGGATGGTGCAGAGCAAAAGGGACATC
+GAGGACCCAGAGATCGTCGTCCAGGCCACGGTGCTGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF08543</identifier>
+            <name>Phos_pyr_kin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lithium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>magnesium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>potassium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>pyridoxal kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>pyridoxal phosphate binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sodium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>pyridoxal 5'-phosphate salvage</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>pyridoxal phosphate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin B6 metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>water-soluble vitamin metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

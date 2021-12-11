@@ -1,0 +1,2706 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00040</drugbank-id>
+  <drugbank-id>BTD00057</drugbank-id>
+  <drugbank-id>BIOD00057</drugbank-id>
+  <name>Glucagon</name>
+  <description>Glucagon is a 29 amino acid hormone used as a diagnostic aid in radiologic exams to temporarily inhibit the movement of the gastrointestinal tract and to treat severe hypoglycemia.[L7634,L7637,L7640,L7643,L8519] Glucagon raises blood sugar through activation of hepatic glucagon receptors, stimulating glycogenolysis and the release of glucose.[L7640,L7643]&#13;
+&#13;
+Glucagon was granted FDA approval on 14 November 1960.[L7631]</description>
+  <cas-number>16941-32-5</cas-number>
+  <unii>76LA80IG2G</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A19402</ref-id>
+        <pubmed-id>12626323</pubmed-id>
+        <citation>Jiang G, Zhang BB: Glucagon and regulation of glucose metabolism. Am J Physiol Endocrinol Metab. 2003 Apr;284(4):E671-8.</citation>
+      </article>
+      <article>
+        <ref-id>A181649</ref-id>
+        <pubmed-id>24370975</pubmed-id>
+        <citation>Zhou A, Pacini G, Ahren B, D'Argenio DZ: Glucagon clearance is regulated by nutritional state: evidence from experimental studies in mice. Diabetologia. 2014 Apr;57(4):801-8. doi: 10.1007/s00125-013-3148-x. Epub 2013 Dec 28.</citation>
+      </article>
+      <article>
+        <ref-id>A181667</ref-id>
+        <pubmed-id>659632</pubmed-id>
+        <citation>Holst JJ, Galbo H, Richter EA: Neutralization of glucagon by antiserum as a tool in glucagon physiology. Lack of depression of basal blood glucose after antiserum treatment in rats. J Clin Invest. 1978 Jul;62(1):182-90. doi: 10.1172/JCI109104.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L7631</ref-id>
+        <title>FDA Approved Drug Products: Glucagon Hydrochloride Injection (Discontinued)</title>
+        <url>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=012122</url>
+      </link>
+      <link>
+        <ref-id>L7634</ref-id>
+        <title>FDA Approved Drug Products: Glucagon Intravenous or Intramuscular Injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2015/201849s002lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L7637</ref-id>
+        <title>FDA Approved Drug Products: Glucagon for Injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020928s056lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L7640</ref-id>
+        <title>FDA Approved Drug Products: Glucagon Subcutaneous, Intramuscular, or Intravenous Injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/020918s052lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L7643</ref-id>
+        <title>FDA Approved Drug Products: Glucagon Nasal Powder</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/210134s000lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L7658</ref-id>
+        <title>Medsafe New Zealand: Glucagon Data Sheet</title>
+        <url>https://www.medsafe.govt.nz/profs/Datasheet/g/GlucaGeninj.pdf</url>
+      </link>
+      <link>
+        <ref-id>L8519</ref-id>
+        <title>FDA Approved Drug Products: Glucagon Subcutaneous Auto-Injector and Pre-Filled Syringe</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/212097s000lbl.pdf</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Glucagon is indicated as a diagnostic aid in radiologic exams to temporarily inhibit the movement of the gastrointestinal tract and to treat severe hypoglycemia.[L7634,L7637,L7640,L7643,L8519]</indication>
+  <pharmacodynamics>Glucagon is indicated as a diagnostic aid in radiologic exams to temporarily inhibit the movement of the gastrointestinal tract and severe hypoglycemia.[A19402,L7634,L7637,L7640,L7643,L8519] Glucagon raises blood sugar through activation of hepatic glucagon receptors, stimulating glycogenolysis and the release of glucose.[L7640,L7643] Glucagon has a short duration of action.[L7634,L7637,L7640,L7643] Glucagon may cause hyperglycemia in diabetic patients.[L7634,L7637,L7640,L7643]</pharmacodynamics>
+  <mechanism-of-action>Glucagon binds to the glucagon receptor activating G&lt;sub&gt;s&lt;/sub&gt;α and G&lt;sub&gt;q&lt;/sub&gt;.[A19402] This activation activates adenylate cyclase, which increases intracellular cyclic AMP and activates protein kinase A.[A19402] Activating G&lt;sub&gt;q&lt;/sub&gt; activates phospholipase C, increases production of inositol 1,4,5-triphosphate, and releases intracellular calcium.[A19402] Protein kinase A phosphorylates glycogen phosphorylase kinase, which phosphorylates glycogen phosphorylase, which phosphorylates glycogen, causing its breakdown.[A19402]&#13;
+&#13;
+Glucagon also relaxes smooth muscle of the stomach, duodenum, small bowel, and colon.[L7634,L7643]</mechanism-of-action>
+  <toxicity>Patients experiencing an overdose may present with nausea, vomiting, inhibition of GI tract motility, increased blood pressure and heart rate, and decreased serum potassium.[L7634,L7637,L7640,L7643] Phentolamine may be given to control blood pressure.[L7634,L7637,L7640,L7643] Treatment of glucagon overdose is largely symptomatic for nausea, vomiting, and hypokalemia.[L7637]&#13;
+&#13;
+The LD&lt;sub&gt;50&lt;/sub&gt; for intravenous glucagon in mice is 300mg/kg and in rats is 38.6mg/kg.[L7637]</toxicity>
+  <metabolism>Glucagon is a protein and so it is metabolized into smaller polypeptides and amino acids in the liver, kidney, and plasma.[L7634,L7643]</metabolism>
+  <absorption>A 1mg intravenous dose of glucagon reaches a C&lt;sub&gt;max&lt;/sub&gt; of 7.9ng/mL with a T&lt;sub&gt;max&lt;/sub&gt; of 20 minutes.[L7637] An intramuscular dose reaches a C&lt;sub&gt;max&lt;/sub&gt; of 6.9ng/mL with a T&lt;sub&gt;max&lt;/sub&gt; of 13 minutes.[L7637] A 3mg dose of glucagon nasal powder reaches a C&lt;sub&gt;max&lt;/sub&gt; of 6130pg/mL with a T&lt;sub&gt;max&lt;/sub&gt; of 15 minutes.[L7643]</absorption>
+  <half-life>The half life of glucagon is 26 minutes for an intramuscular dose.[L7634] The half life of glucagon nasal powder is approximately 35 minutes.[L7643] The half life of glucagon by a subcutaneous auto-injector or pre-filled syringe is 32 minutes.[L8519]</half-life>
+  <protein-binding>Glucagon has not been described in the literature as bound to a protein in serum.[A181649,A181667,L7634,L7637,L7640,L7643,L7658]</protein-binding>
+  <route-of-elimination>Elimination of glucagon is not fully characterized in literature, however the kidney and liver appear to contribute significantly in animal models.[A181649] The liver and kidney are responsible for approximately 30% of glucagon elimination each.[L7658]</route-of-elimination>
+  <volume-of-distribution>The volume of distribution of glucagon is 0.25L/kg.[L7637] The apparent volume of distribution is 885L.[L7643]</volume-of-distribution>
+  <clearance>A 1mg intravenous dose of glucagon has a clearance of 13.5mL/min/kg.[L7637]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001413</drugbank-id>
+      <name>Glucagon hydrochloride</name>
+      <unii>1H87NVF4DB</unii>
+      <cas-number>19179-82-9</cas-number>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="inn">Glucagon</synonym>
+    <synonym language="english" coder="">Glucagon (recombinant dna origin)</synonym>
+    <synonym language="english" coder="">Glucagon recombinant</synonym>
+    <synonym language="english" coder="">Glucagon, human</synonym>
+    <synonym language="english" coder="">Glucagon, porcine</synonym>
+    <synonym language="english" coder="">Glucagone</synonym>
+    <synonym language="latin" coder="inn">Glucagonum</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Baqsimi</name>
+      <labeller>Eli Lilly and Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>0002-6145</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>3 mg/1</strength>
+      <route>Nasal</route>
+      <fda-application-number>NDA210134</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Baqsimi</name>
+      <labeller>Eli Lilly Nederland B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003848</ema-product-code>
+      <ema-ma-number>EU/1/19/1406/001</ema-ma-number>
+      <started-marketing-on>2019-12-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength/>
+      <route/>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Baqsimi</name>
+      <labeller>Eli Lilly Nederland B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003848</ema-product-code>
+      <ema-ma-number>EU/1/19/1406/002</ema-ma-number>
+      <started-marketing-on>2019-12-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength/>
+      <route/>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Baqsimi</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02492415</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>3 mg</strength>
+      <route>Nasal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Glucag0n</name>
+      <labeller>HF Acquisition Co LLC, DBA HealthFirst</labeller>
+      <ndc-id/>
+      <ndc-product-code>51662-1323</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020298</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>GlucaGen</name>
+      <labeller>Bedford Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>55390-004</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-06-22</started-marketing-on>
+      <ended-marketing-on>2016-11-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020918</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>GlucaGen</name>
+      <labeller>Boehringer Ingelheim Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0597-0260</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-06-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020918</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>GlucaGen</name>
+      <labeller>Boehringer Ingelheim Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0597-0053</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-06-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020918</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>GlucaGen</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02333619</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-01-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>GlucaGen HypoKit</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7065</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-06-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020918</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>GlucaGen HypoKit</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02333627</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5070</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-05-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020928</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>TYA Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>64725-8031</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020928</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>A-S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-0639</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020928</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-596</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA201849</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-582</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-09-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA201849</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>HF Acquisition Co LLC, DBA HealthFirst</labeller>
+      <ndc-id/>
+      <ndc-product-code>51662-1498</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-03-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA201849</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Eli Lilly and Company</labeller>
+      <ndc-id/>
+      <ndc-product-code>0002-8031</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1 mg/1mL</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number>NDA020928</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-593</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA201849</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-594</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>NDA201849</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glucagon</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02243297</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1 mg</strength>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Glucagon Ampoule 666 1mg</name>
+      <labeller>Eli Lilly &amp; Co. Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00015377</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1961-12-31</started-marketing-on>
+      <ended-marketing-on>2002-05-27</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Gvoke HypoPen 0.5 mg Auto-Injector</name>
+      <labeller>Xeris Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72065-120</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.5 mg/0.1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA212097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gvoke HypoPen 1 mg Auto-Injector</name>
+      <labeller>Xeris Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72065-121</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1 mg/0.2mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA212097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gvoke PFS 0.5 mg Pre-filled Syringe</name>
+      <labeller>Xeris Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72065-130</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.5 mg/0.1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA212097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Gvoke PFS 1 mg Pre-filled Syringe</name>
+      <labeller>Xeris Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72065-131</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-09-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1 mg/0.2mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA212097</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen HypoKit</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Baqsimi</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucag0n</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gvoke PFS 0.5 mg Pre-filled Syringe</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gvoke PFS 1 mg Pre-filled Syringe</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gvoke HypoPen 1 mg Auto-Injector</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Gvoke HypoPen 0.5 mg Auto-Injector</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Baqsimi</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Baqsimi</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>GlucaGen HypoKit</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glucagon Ampoule 666 1mg</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+    <mixture>
+      <name>Baqsimi</name>
+      <ingredients>Glucagon</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Bedford Labs</name>
+      <url>http://www.bedfordlabs.com</url>
+    </packager>
+    <packager>
+      <name>Eli Lilly &amp; Co.</name>
+      <url>http://www.lilly.com</url>
+    </packager>
+    <packager>
+      <name>Novo Nordisk Inc.</name>
+      <url>http://www.novonordisk.com</url>
+    </packager>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Eli lilly and co</manufacturer>
+    <manufacturer generic="false" url="">Novo nordisk pharmaceuticals inc</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Glucagen 1 mg vial</description>
+      <cost currency="USD">84.0</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Glucagon 1 mg/vial</description>
+      <cost currency="USD">94.98</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Glucagon 1 mg emergency kit</description>
+      <cost currency="USD">119.28</cost>
+      <unit>kit</unit>
+    </price>
+    <price>
+      <description>Glucagen 1 mg hypokit</description>
+      <cost currency="USD">120.36</cost>
+      <unit>kit</unit>
+    </price>
+    <price>
+      <description>GlucaGen HypoKit 1 mg Solution Box</description>
+      <cost currency="USD">123.72</cost>
+      <unit>box</unit>
+    </price>
+    <price>
+      <description>Glucagon Emergency 1 mg Kit Box</description>
+      <cost currency="USD">124.05</cost>
+      <unit>box</unit>
+    </price>
+    <price>
+      <description>Glucagon 1 mg kit</description>
+      <cost currency="USD">128.34</cost>
+      <unit>kit</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antihypoglycemic Agent</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased GI Motility</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased GI Smooth Muscle Tone</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased Glycolysis</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Hormones</category>
+      <mesh-id>D005768</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Motility Inhibitor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glucagon, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glycogenolytic Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Glycogenolytic Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Increased Gluconeogenesis</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Increased Glycogenolysis</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pancreatic Hormones</category>
+      <mesh-id>D010187</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proglucagon</category>
+      <mesh-id>D052336</mesh-id>
+    </category>
+    <category>
+      <category>Protein Precursors</category>
+      <mesh-id>D011498</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form/>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Nasal</route>
+      <strength>3 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Nasal</route>
+      <strength>3 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route/>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Parenteral</route>
+      <strength>1 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Parenteral</route>
+      <strength>1 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>1 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.5 mg/0.1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>1 mg/0.2mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="H04AA01">
+      <level code="H04AA">Glycogenolytic hormones</level>
+      <level code="H04A">GLYCOGENOLYTIC HORMONES</level>
+      <level code="H04">PANCREATIC HORMONES</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>68:22.12</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00040.pdf?1265922805</fda-label>
+  <patents>
+    <patent>
+      <number>10213487</number>
+      <country>United States</country>
+      <approved>2019-02-26</approved>
+      <expires>2036-02-16</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6938798</number>
+      <country>United States</country>
+      <approved>2005-09-06</approved>
+      <expires>2022-01-03</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9649364</number>
+      <country>United States</country>
+      <approved>2017-05-16</approved>
+      <expires>2036-04-22</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>10765602</number>
+      <country>United States</country>
+      <approved>2019-09-23</approved>
+      <expires>2039-09-23</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00193</drugbank-id>
+      <name>Tramadol</name>
+      <description>Tramadol may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00209</drugbank-id>
+      <name>Trospium</name>
+      <description>Trospium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00219</drugbank-id>
+      <name>Oxyphenonium</name>
+      <description>Oxyphenonium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00245</drugbank-id>
+      <name>Benzatropine</name>
+      <description>Benzatropine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00246</drugbank-id>
+      <name>Ziprasidone</name>
+      <description>Ziprasidone may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00280</drugbank-id>
+      <name>Disopyramide</name>
+      <description>Disopyramide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>Amitriptyline may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00332</drugbank-id>
+      <name>Ipratropium</name>
+      <description>Ipratropium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>Olanzapine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00340</drugbank-id>
+      <name>Metixene</name>
+      <description>Metixene may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00342</drugbank-id>
+      <name>Terfenadine</name>
+      <description>Terfenadine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00354</drugbank-id>
+      <name>Buclizine</name>
+      <description>Buclizine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>Clozapine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00366</drugbank-id>
+      <name>Doxylamine</name>
+      <description>Doxylamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00376</drugbank-id>
+      <name>Trihexyphenidyl</name>
+      <description>Trihexyphenidyl may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00383</drugbank-id>
+      <name>Oxyphencyclimine</name>
+      <description>Oxyphencyclimine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00387</drugbank-id>
+      <name>Procyclidine</name>
+      <description>Procyclidine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00392</drugbank-id>
+      <name>Profenamine</name>
+      <description>Profenamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>Promazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00424</drugbank-id>
+      <name>Hyoscyamine</name>
+      <description>Hyoscyamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00434</drugbank-id>
+      <name>Cyproheptadine</name>
+      <description>Cyproheptadine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>Imipramine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00462</drugbank-id>
+      <name>Methscopolamine bromide</name>
+      <description>Methscopolamine bromide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>Chlorpromazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00483</drugbank-id>
+      <name>Gallamine triethiodide</name>
+      <description>Gallamine triethiodide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00496</drugbank-id>
+      <name>Darifenacin</name>
+      <description>Darifenacin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00505</drugbank-id>
+      <name>Tridihexethyl</name>
+      <description>Tridihexethyl may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00508</drugbank-id>
+      <name>Triflupromazine</name>
+      <description>Triflupromazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00517</drugbank-id>
+      <name>Anisotropine methylbromide</name>
+      <description>Anisotropine methylbromide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>Nortriptyline may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>Amoxapine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00555</drugbank-id>
+      <name>Lamotrigine</name>
+      <description>Lamotrigine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00572</drugbank-id>
+      <name>Atropine</name>
+      <description>Atropine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00622</drugbank-id>
+      <name>Nicardipine</name>
+      <description>Nicardipine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00670</drugbank-id>
+      <name>Pirenzepine</name>
+      <description>Pirenzepine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>Paroxetine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00725</drugbank-id>
+      <name>Homatropine methylbromide</name>
+      <description>Homatropine methylbromide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00728</drugbank-id>
+      <name>Rocuronium</name>
+      <description>Rocuronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00747</drugbank-id>
+      <name>Scopolamine</name>
+      <description>Scopolamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00767</drugbank-id>
+      <name>Benzquinamide</name>
+      <description>Benzquinamide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00771</drugbank-id>
+      <name>Clidinium</name>
+      <description>Clidinium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00777</drugbank-id>
+      <name>Propiomazine</name>
+      <description>Propiomazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00782</drugbank-id>
+      <name>Propantheline</name>
+      <description>Propantheline may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00804</drugbank-id>
+      <name>Dicyclomine</name>
+      <description>Dicyclomine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00810</drugbank-id>
+      <name>Biperiden</name>
+      <description>Biperiden may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00835</drugbank-id>
+      <name>Brompheniramine</name>
+      <description>Brompheniramine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00875</drugbank-id>
+      <name>Flupentixol</name>
+      <description>Flupentixol may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00907</drugbank-id>
+      <name>Cocaine</name>
+      <description>Cocaine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>Quinidine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>Maprotiline may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00940</drugbank-id>
+      <name>Methantheline</name>
+      <description>Methantheline may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00942</drugbank-id>
+      <name>Cycrimine</name>
+      <description>Cycrimine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00986</drugbank-id>
+      <name>Glycopyrronium</name>
+      <description>Glycopyrronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01036</drugbank-id>
+      <name>Tolterodine</name>
+      <description>Tolterodine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01062</drugbank-id>
+      <name>Oxybutynin</name>
+      <description>Oxybutynin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01069</drugbank-id>
+      <name>Promethazine</name>
+      <description>Promethazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01075</drugbank-id>
+      <name>Diphenhydramine</name>
+      <description>Diphenhydramine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01135</drugbank-id>
+      <name>Doxacurium</name>
+      <description>Doxacurium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>Doxepin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01148</drugbank-id>
+      <name>Flavoxate</name>
+      <description>Flavoxate may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>Desipramine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01173</drugbank-id>
+      <name>Orphenadrine</name>
+      <description>Orphenadrine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>Escitalopram may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01224</drugbank-id>
+      <name>Quetiapine</name>
+      <description>Quetiapine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01226</drugbank-id>
+      <name>Mivacurium</name>
+      <description>Mivacurium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01231</drugbank-id>
+      <name>Diphenidol</name>
+      <description>Diphenidol may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01238</drugbank-id>
+      <name>Aripiprazole</name>
+      <description>Aripiprazole may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01239</drugbank-id>
+      <name>Chlorprothixene</name>
+      <description>Chlorprothixene may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01336</drugbank-id>
+      <name>Metocurine</name>
+      <description>Metocurine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>Pancuronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01338</drugbank-id>
+      <name>Pipecuronium</name>
+      <description>Pipecuronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01403</drugbank-id>
+      <name>Methotrimeprazine</name>
+      <description>Methotrimeprazine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01409</drugbank-id>
+      <name>Tiotropium</name>
+      <description>Tiotropium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01591</drugbank-id>
+      <name>Solifenacin</name>
+      <description>Solifenacin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01625</drugbank-id>
+      <name>Isopropamide</name>
+      <description>Isopropamide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04834</drugbank-id>
+      <name>Rapacuronium</name>
+      <description>Rapacuronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04843</drugbank-id>
+      <name>Mepenzolate</name>
+      <description>Mepenzolate may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06153</drugbank-id>
+      <name>Pizotifen</name>
+      <description>Pizotifen may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06702</drugbank-id>
+      <name>Fesoterodine</name>
+      <description>Fesoterodine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06787</drugbank-id>
+      <name>Hexocyclium</name>
+      <description>Hexocyclium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08801</drugbank-id>
+      <name>Dimetindene</name>
+      <description>Dimetindene may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08897</drugbank-id>
+      <name>Aclidinium</name>
+      <description>Aclidinium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08997</drugbank-id>
+      <name>Dexetimide</name>
+      <description>Dexetimide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09023</drugbank-id>
+      <name>Benactyzine</name>
+      <description>Benactyzine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09076</drugbank-id>
+      <name>Umeclidinium</name>
+      <description>Umeclidinium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09089</drugbank-id>
+      <name>Trimebutine</name>
+      <description>Trimebutine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09167</drugbank-id>
+      <name>Dosulepin</name>
+      <description>Dosulepin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09262</drugbank-id>
+      <name>Imidafenacin</name>
+      <description>Imidafenacin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09300</drugbank-id>
+      <name>Butylscopolamine</name>
+      <description>Butylscopolamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11235</drugbank-id>
+      <name>Thonzylamine</name>
+      <description>Thonzylamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11315</drugbank-id>
+      <name>Methscopolamine</name>
+      <description>Methscopolamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11855</drugbank-id>
+      <name>Revefenacin</name>
+      <description>Revefenacin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12086</drugbank-id>
+      <name>Oxitropium</name>
+      <description>Oxitropium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12278</drugbank-id>
+      <name>Propiverine</name>
+      <description>Propiverine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12526</drugbank-id>
+      <name>Batefenterol</name>
+      <description>Batefenterol may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12554</drugbank-id>
+      <name>Mebeverine</name>
+      <description>Mebeverine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13252</drugbank-id>
+      <name>Tropatepine</name>
+      <description>Tropatepine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13254</drugbank-id>
+      <name>Prifinium</name>
+      <description>Prifinium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13351</drugbank-id>
+      <name>Piperidolate</name>
+      <description>Piperidolate may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13369</drugbank-id>
+      <name>Benzilone</name>
+      <description>Benzilone may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13380</drugbank-id>
+      <name>Difemerine</name>
+      <description>Difemerine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13413</drugbank-id>
+      <name>Phenglutarimide</name>
+      <description>Phenglutarimide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13448</drugbank-id>
+      <name>Mazaticol</name>
+      <description>Mazaticol may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13468</drugbank-id>
+      <name>Etybenzatropine</name>
+      <description>Etybenzatropine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13500</drugbank-id>
+      <name>Otilonium</name>
+      <description>Otilonium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13505</drugbank-id>
+      <name>Emepronium</name>
+      <description>Emepronium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13507</drugbank-id>
+      <name>Poldine</name>
+      <description>Poldine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13542</drugbank-id>
+      <name>Bevonium</name>
+      <description>Bevonium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13581</drugbank-id>
+      <name>Rociverine</name>
+      <description>Rociverine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13619</drugbank-id>
+      <name>Bornaprine</name>
+      <description>Bornaprine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13636</drugbank-id>
+      <name>Etanautine</name>
+      <description>Etanautine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13666</drugbank-id>
+      <name>Tiemonium iodide</name>
+      <description>Tiemonium iodide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13678</drugbank-id>
+      <name>Dihexyverine</name>
+      <description>Dihexyverine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13695</drugbank-id>
+      <name>Penthienate</name>
+      <description>Penthienate may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13720</drugbank-id>
+      <name>Diphemanil</name>
+      <description>Diphemanil may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13738</drugbank-id>
+      <name>Camylofin</name>
+      <description>Camylofin may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13759</drugbank-id>
+      <name>Fenpiverinium</name>
+      <description>Fenpiverinium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13769</drugbank-id>
+      <name>Emetonium iodide</name>
+      <description>Emetonium iodide may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13844</drugbank-id>
+      <name>Pipenzolate</name>
+      <description>Pipenzolate may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13850</drugbank-id>
+      <name>Timepidium</name>
+      <description>Timepidium may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09007</drugbank-id>
+      <name>Chlorphenoxamine</name>
+      <description>Chlorphenoxamine may increase the gastrointestinal motility reducing activities of Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The therapeutic efficacy of Glucagon can be decreased when used in combination with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The therapeutic efficacy of Dicoumarol can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The therapeutic efficacy of Phenindione can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The therapeutic efficacy of Warfarin can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The therapeutic efficacy of Phenprocoumon can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The therapeutic efficacy of Acenocoumarol can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The therapeutic efficacy of 4-hydroxycoumarin can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The therapeutic efficacy of Coumarin can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The therapeutic efficacy of (R)-warfarin can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The therapeutic efficacy of Ethyl biscoumacetate can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The therapeutic efficacy of Fluindione can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The therapeutic efficacy of Clorindione can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The therapeutic efficacy of Diphenadione can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The therapeutic efficacy of Tioclomarol can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The therapeutic efficacy of (S)-Warfarin can be increased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>The therapeutic efficacy of Esmolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>The therapeutic efficacy of Betaxolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>The therapeutic efficacy of Metoprolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>The therapeutic efficacy of Atenolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>The therapeutic efficacy of Timolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>The therapeutic efficacy of Sotalol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The therapeutic efficacy of Propranolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00598</drugbank-id>
+      <name>Labetalol</name>
+      <description>The therapeutic efficacy of Labetalol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00612</drugbank-id>
+      <name>Bisoprolol</name>
+      <description>The therapeutic efficacy of Bisoprolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00866</drugbank-id>
+      <name>Alprenolol</name>
+      <description>The therapeutic efficacy of Alprenolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00960</drugbank-id>
+      <name>Pindolol</name>
+      <description>The therapeutic efficacy of Pindolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>The therapeutic efficacy of Carvedilol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The therapeutic efficacy of Propafenone can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>The therapeutic efficacy of Acebutolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>The therapeutic efficacy of Nadolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01295</drugbank-id>
+      <name>Bevantolol</name>
+      <description>The therapeutic efficacy of Bevantolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01297</drugbank-id>
+      <name>Practolol</name>
+      <description>The therapeutic efficacy of Practolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01359</drugbank-id>
+      <name>Penbutolol</name>
+      <description>The therapeutic efficacy of Penbutolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>The therapeutic efficacy of Oxprenolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03322</drugbank-id>
+      <name>Dexpropranolol</name>
+      <description>The therapeutic efficacy of Dexpropranolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>The therapeutic efficacy of Celiprolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04861</drugbank-id>
+      <name>Nebivolol</name>
+      <description>The therapeutic efficacy of Nebivolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06726</drugbank-id>
+      <name>Bufuralol</name>
+      <description>The therapeutic efficacy of Bufuralol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08807</drugbank-id>
+      <name>Bopindolol</name>
+      <description>The therapeutic efficacy of Bopindolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>The therapeutic efficacy of Bupranolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08952</drugbank-id>
+      <name>Indenolol</name>
+      <description>The therapeutic efficacy of Indenolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09204</drugbank-id>
+      <name>Arotinolol</name>
+      <description>The therapeutic efficacy of Arotinolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09351</drugbank-id>
+      <name>Levobetaxolol</name>
+      <description>The therapeutic efficacy of Levobetaxolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11770</drugbank-id>
+      <name>Talinolol</name>
+      <description>The therapeutic efficacy of Talinolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>The therapeutic efficacy of Anisodamine can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12752</drugbank-id>
+      <name>Bucindolol</name>
+      <description>The therapeutic efficacy of Bucindolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13443</drugbank-id>
+      <name>Esatenolol</name>
+      <description>The therapeutic efficacy of Esatenolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13508</drugbank-id>
+      <name>Cloranolol</name>
+      <description>The therapeutic efficacy of Cloranolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13530</drugbank-id>
+      <name>Mepindolol</name>
+      <description>The therapeutic efficacy of Mepindolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13757</drugbank-id>
+      <name>Epanolol</name>
+      <description>The therapeutic efficacy of Epanolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13775</drugbank-id>
+      <name>Tertatolol</name>
+      <description>The therapeutic efficacy of Tertatolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12212</drugbank-id>
+      <name>Landiolol</name>
+      <description>The therapeutic efficacy of Landiolol can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00030</drugbank-id>
+      <name>Insulin human</name>
+      <description>The therapeutic efficacy of Insulin human can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00046</drugbank-id>
+      <name>Insulin lispro</name>
+      <description>The therapeutic efficacy of Insulin lispro can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00047</drugbank-id>
+      <name>Insulin glargine</name>
+      <description>The therapeutic efficacy of Insulin glargine can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00071</drugbank-id>
+      <name>Insulin pork</name>
+      <description>The therapeutic efficacy of Insulin pork can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01306</drugbank-id>
+      <name>Insulin aspart</name>
+      <description>The therapeutic efficacy of Insulin aspart can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01307</drugbank-id>
+      <name>Insulin detemir</name>
+      <description>The therapeutic efficacy of Insulin detemir can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01309</drugbank-id>
+      <name>Insulin glulisine</name>
+      <description>The therapeutic efficacy of Insulin glulisine can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05115</drugbank-id>
+      <name>NN344</name>
+      <description>The therapeutic efficacy of NN344 can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09456</drugbank-id>
+      <name>Insulin beef</name>
+      <description>The therapeutic efficacy of Insulin beef can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09564</drugbank-id>
+      <name>Insulin degludec</name>
+      <description>The therapeutic efficacy of Insulin degludec can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11567</drugbank-id>
+      <name>Insulin peglispro</name>
+      <description>The therapeutic efficacy of Insulin peglispro can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11568</drugbank-id>
+      <name>Insulin tregopil</name>
+      <description>The therapeutic efficacy of Insulin tregopil can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11564</drugbank-id>
+      <name>Insulin argine</name>
+      <description>The therapeutic efficacy of Insulin argine can be decreased when used in combination with Glucagon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14513</drugbank-id>
+      <name>Magnesium</name>
+      <description>The serum concentration of Magnesium can be increased when it is combined with Glucagon.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Glucagon for Injection Sequence 
+HSQGTFTSDYSKYLDSRRAQDFVQWLMNT</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>7.1</value>
+      <source>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3005042/</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>3767.1</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C165H249N49O51S1</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12072</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11363</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46504732</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C01501</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00116</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>AF529185</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164779052</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>Q8MJ25</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001037</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Glucagon</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL266481</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>261716</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/gluca.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/glucagon.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000527</id>
+      <name>Glucagon receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1889</ref-id>
+            <pubmed-id>17462598</pubmed-id>
+            <citation>Katayama T, Shimamoto S, Oda H, Nakahara K, Kangawa K, Murakami N: Glucagon receptor expression and glucagon stimulation of ghrelin secretion in rat stomach. Biochem Biophys Res Commun. 2007 Jun 15;357(4):865-70. Epub 2007 Apr 9.</citation>
+          </article>
+          <article>
+            <ref-id>A1895</ref-id>
+            <pubmed-id>17620721</pubmed-id>
+            <citation>Li P, Rogers T, Smiley D, DiMarchi RD, Zhang F: Design, synthesis and crystallization of a novel glucagon analog as a therapeutic agent. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2007 Jul 1;63(Pt 7):599-601. Epub 2007 Jun 15.</citation>
+          </article>
+          <article>
+            <ref-id>A1897</ref-id>
+            <pubmed-id>17623014</pubmed-id>
+            <citation>Li XC, Zhuo JL: Targeting glucagon receptor signalling in treating metabolic syndrome and renal injury in Type 2 diabetes: theory versus promise. Clin Sci (Lond). 2007 Aug;113(4):183-93.</citation>
+          </article>
+          <article>
+            <ref-id>A1898</ref-id>
+            <pubmed-id>17534934</pubmed-id>
+            <citation>Fischer AJ, Stanke JJ, Ghai K, Scott M, Omar G: Development of bullwhip neurons in the embryonic chicken retina. J Comp Neurol. 2007 Aug 1;503(4):538-49.</citation>
+          </article>
+          <article>
+            <ref-id>A1900</ref-id>
+            <pubmed-id>17479245</pubmed-id>
+            <citation>Winzell MS, Brand CL, Wierup N, Sidelmann UG, Sundler F, Nishimura E, Ahren B: Glucagon receptor antagonism improves islet function in mice with insulin resistance induced by a high-fat diet. Diabetologia. 2007 Jul;50(7):1453-62. Epub 2007 May 4.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+          <article>
+            <ref-id>A1902</ref-id>
+            <pubmed-id>8020989</pubmed-id>
+            <citation>Menzel S, Stoffel M, Espinosa R 3rd, Fernald AA, Le Beau MM, Bell GI: Localization of the glucagon receptor gene to human chromosome band 17q25. Genomics. 1994 Mar 15;20(2):327-8.</citation>
+          </article>
+          <article>
+            <ref-id>A1905</ref-id>
+            <pubmed-id>12529935</pubmed-id>
+            <citation>Brubaker PL, Drucker DJ: Structure-function of the glucagon receptor family of G protein-coupled receptors: the glucagon, GIP, GLP-1, and GLP-2 receptors. Receptors Channels. 2002;8(3-4):179-88.</citation>
+          </article>
+          <article>
+            <ref-id>A1907</ref-id>
+            <pubmed-id>8144028</pubmed-id>
+            <citation>Lok S, Kuijper JL, Jelinek LJ, Kramer JM, Whitmore TE, Sprecher CA, Mathewes S, Grant FJ, Biggs SH, Rosenberg GB, et al.: The human glucagon receptor encoding gene: structure, cDNA sequence and chromosomal localization. Gene. 1994 Mar 25;140(2):203-9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P47871" source="Swiss-Prot">
+        <name>Glucagon receptor</name>
+        <general-function>Peptide hormone binding</general-function>
+        <specific-function>G-protein coupled receptor for glucagon that plays a central role in the regulation of blood glucose levels and glucose homeostasis. Regulates the rate of hepatic glucose production by promoting glycogen hydrolysis and gluconeogenesis. Plays an important role in mediating the responses to fasting. Ligand binding causes a conformation change that triggers signaling via guanine nucleotide-binding proteins (G proteins) and modulates the activity of down-stream effectors, such as adenylate cyclase. Promotes activation of adenylate cyclase. Besides, plays a role in signaling via a phosphatidylinositol-calcium second messenger system.</specific-function>
+        <gene-name>GCGR</gene-name>
+        <locus>17q25</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>137-161
+174-198
+226-249
+264-285
+304-326
+351-369
+382-402</transmembrane-regions>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>8.83</theoretical-pi>
+        <molecular-weight>54008.44</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4192</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GCGR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U03469</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>439690</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>251</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>251</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P47871</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>GLR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GL-R</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016117|Glucagon receptor
+MPPCQPQRPLLLLLLLLACQPQVPSAQVMDFLFEKWKLYGDQCHHNLSLLPPPTELVCNR
+TFDKYSCWPDTPANTTANISCPWYLPWHHKVQHRFVFKRCGPDGQWVRGPRGQPWRDASQ
+CQMDGEEIEVQKEVAKMYSSFQVMYTVGYSLSLGALLLALAILGGLSKLHCTRNAIHANL
+FASFVLKASSVLVIDGLLRTRYSQKIGDDLSVSTWLSDGAVAGCRVAAVFMQYGIVANYC
+WLLVEGLYLHNLLGLATLPERSFFSLYLGIGWGAPMLFVVPWAVVKCLFENVQCWTSNDN
+MGFWWILRFPVFLAILINFFIFVRIVQLLVAKLRARQMHHTDYKFRLAKSTLTLIPLLGV
+HEVVFAFVTDEHAQGTLRSAKLFFDLFLSSFQGLLVAVLYCFLNKEVQSELRRRWHRWRL
+GKVLWEERNTSNHRASSSPGHGPPSKELQFGRGGGSQDSSAETPLAGGLPRLAESPF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016118|Glucagon receptor (GCGR)
+ATGCCCCCCTGCCAGCCACAGCGACCCCTGCTGCTGTTGCTGCTGCTGCTGGCCTGCCAG
+CCACAGGTCCCCTCCGCTCAGGTGATGGACTTCCTGTTTGAGAAGTGGAAGCTCTACGGT
+GACCAGTGTCACCACAACCTGAGCCTGCTGCCCCCTCCCACGGAGCTGGTGTGCAACAGA
+ACCTTCGACAAGTATTCCTGCTGGCCGGACACCCCCGCCAATACCACGGCCAACATCTCC
+TGCCCCTGGTACCTGCCTTGGCACCACAAAGTGCAACACCGCTTCGTGTTCAAGAGATGC
+GGGCCCGACGGTCAGTGGGTGCGTGGACCCCGGGGGCAGCCTTGGCGTGATGCCTCCCAG
+TGCCAGATGGATGGCGAGGAGATTGAGGTCCAGAAGGAGGTGGCCAAGATGTACAGCAGC
+TTCCAGGTGATGTACACAGTGGGCTACAGCCTGTCCCTGGGGGCCCTGCTCCTCGCCTTG
+GCCATCCTGGGGGGCCTCAGCAAGCTGCACTGCACCCGCAATGCCATCCACGCGAATCTG
+TTTGCGTCCTTCGTGCTGAAAGCCAGCTCCGTGCTGGTCATTGATGGGCTGCTCAGGACC
+CGCTACAGCCAGAAAATTGGCGACGACCTCAGTGTCAGCACCTGGCTCAGTGATGGAGCG
+GTGGCTGGCTGCCGTGTGGCCGCGGTGTTCATGCAATATGGCATCGTGGCCAACTACTGC
+TGGCTGCTGGTGGAGGGCCTGTACCTGCACAACCTGCTGGGCCTGGCCACCCTCCCCGAG
+AGGAGCTTCTTCAGCCTCTACCTGGGCATCGGCTGGGGTGCCCCCATGCTGTTCGTCGTC
+CCCTGGGCAGTGGTCAAGTGTCTGTTCGAGAACGTCCAGTGCTGGACCAGCAATGACAAC
+ATGGGCTTCTGGTGGATCCTGCGGTTCCCCGTCTTCCTGGCCATCCTGATCAACTTCTTC
+ATCTTCGTCCGCATCGTTCAGCTGCTCGTGGCCAAGCTGCGGGCACGGCAGATGCACCAC
+ACAGACTACAAGTTCCGGCTGGCCAAGTCCACGCTGACCCTCATCCCTCTGCTGGGCGTC
+CACGAAGTGGTCTTCGCCTTCGTGACGGACGAGCACGCCCAGGGCACCCTGCGCTCCGCC
+AAGCTCTTCTTCGACCTCTTCCTCAGCTCCTTCCAGGGCCTGCTGGTGGCTGTCCTCTAC
+TGCTTCCTCAACAAGGAGGTGCAGTCGGAGCTGCGGCGGCGTTGGCACCGCTGGCGCCTG
+GGCAAAGTGCTATGGGAGGAGCGGAACACCAGCAACCACAGGGCCTCATCTTCGCCCGGC
+CACGGCCCTCCCAGCAAGGAGCTGCAGTTTGGGAGGGGTGGTGGCAGCCAGGATTCATCT
+GCGGAGACCCCCTTGGCTGGTGGCCTCCCTAGATTGGCTGAGAGCCCCTTCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00002</identifier>
+            <name>7tm_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02793</identifier>
+            <name>HRM</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glucagon receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>guanyl-nucleotide exchange factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-modulating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to glucagon stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>energy reserve metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>exocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>generation of precursor metabolites and energy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glucose homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of GTPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of glycogen metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to nutrient</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to starvation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002134</id>
+      <name>Glucagon-like peptide 2 receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13181</ref-id>
+            <pubmed-id>11212269</pubmed-id>
+            <citation>Boushey RP, Yusta B, Drucker DJ: Glucagon-like peptide (GLP)-2 reduces chemotherapy-associated mortality and enhances cell survival in cells expressing a transfected GLP-2 receptor. Cancer Res. 2001 Jan 15;61(2):687-93.</citation>
+          </article>
+          <article>
+            <ref-id>A13182</ref-id>
+            <pubmed-id>9990065</pubmed-id>
+            <citation>Munroe DG, Gupta AK, Kooshesh F, Vyas TB, Rizkalla G, Wang H, Demchyshyn L, Yang ZJ, Kamboj RK, Chen H, McCallum K, Sumner-Smith M, Drucker DJ, Crivici A: Prototypic G protein-coupled receptor for the intestinotrophic factor glucagon-like peptide 2. Proc Natl Acad Sci U S A. 1999 Feb 16;96(4):1569-73.</citation>
+          </article>
+          <article>
+            <ref-id>A13183</ref-id>
+            <pubmed-id>15817468</pubmed-id>
+            <citation>Estall JL, Koehler JA, Yusta B, Drucker DJ: The glucagon-like peptide-2 receptor C terminus modulates beta-arrestin-2 association but is dispensable for ligand-induced desensitization, endocytosis, and G-protein-dependent effector activation. J Biol Chem. 2005 Jun 10;280(23):22124-34. Epub 2005 Apr 6.</citation>
+          </article>
+          <article>
+            <ref-id>A1905</ref-id>
+            <pubmed-id>12529935</pubmed-id>
+            <citation>Brubaker PL, Drucker DJ: Structure-function of the glucagon receptor family of G protein-coupled receptors: the glucagon, GIP, GLP-1, and GLP-2 receptors. Receptors Channels. 2002;8(3-4):179-88.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O95838" source="Swiss-Prot">
+        <name>Glucagon-like peptide 2 receptor</name>
+        <general-function>Glucagon receptor activity</general-function>
+        <specific-function>This is a receptor for glucagon-like peptide 2. The activity of this receptor is mediated by G proteins which activate adenylyl cyclase.</specific-function>
+        <gene-name>GLP2R</gene-name>
+        <locus>17p13.3</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>174-198
+211-235
+262-285
+300-321
+340-362
+387-405
+418-438</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.03</theoretical-pi>
+        <molecular-weight>63000.84</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4325</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GLP2R</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF105367</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4324491</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>250</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>250</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O95838</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>GLP2R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GLP-2 receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011545|Glucagon-like peptide 2 receptor
+MKLGSSRAGPGRGSAGLLPGVHELPMGIPAPWGTSPLSFHRKCSLWAPGRPFLTLVLLVS
+IKQVTGSLLEETTRKWAQYKQACLRDLLKEPSGIFCNGTFDQYVCWPHSSPGNVSVPCPS
+YLPWWSEESSGRAYRHCLAQGTWQTIENATDIWQDDSECSENHSFKQNVDRYALLSTLQL
+MYTVGYSFSLISLFLALTLLLFLRKLHCTRNYIHMNLFASFILRTLAVLVKDVVFYNSYS
+KRPDNENGWMSYLSEMSTSCRSVQVLLHYFVGANYLWLLVEGLYLHTLLEPTVLPERRLW
+PRYLLLGWAFPVLFVVPWGFARAHLENTGCWTTNGNKKIWWIIRGPMMLCVTVNFFIFLK
+ILKLLISKLKAHQMCFRDYKYRLAKSTLVLIPLLGVHEILFSFITDDQVEGFAKLIRLFI
+QLTLSSFHGFLVALQYGFANGEVKAELRKYWVRFLLARHSGCRACVLGKDFRFLGKCPKK
+LSEGDGAEKLRKLQPSLNSGRLLHLAMRGLGELGAQPQQDHARWPRGSSLSECSEGDVTM
+ANTMEEILEESEI</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011546|Glucagon-like peptide 2 receptor (GLP2R)
+ATGAAGCTGGGATCGAGCAGGGCAGGGCCTGGGAGAGGAAGCGCGGGACTCCTGCCTGGC
+GTCCACGAGCTGCCCATGGGCATCCCTGCCCCCTGGGGGACCAGTCCTCTCTCCTTCCAC
+AGGAAGTGCTCTCTCTGGGCCCCTGGGAGGCCCTTCCTCACTCTGGTCCTGCTGGTTTCC
+ATCAAGCAAGTTACAGGATCCCTCCTTGAGGAAACGACTCGGAAGTGGGCTCAGTACAAA
+CAGGCATGTCTGAGAGACTTACTCAAGGAACCTTCTGGCATATTTTGTAACGGGACATTT
+GATCAGTACGTGTGTTGGCCTCATTCTTCTCCTGGAAATGTCTCTGTACCCTGCCCTTCA
+TACTTACCTTGGTGGAGTGAAGAGAGCTCAGGAAGGGCCTACAGACACTGCTTGGCTCAG
+GGGACTTGGCAGACGATAGAGAACGCCACGGATATTTGGCAGGATGACTCCGAATGCTCC
+GAGAACCACAGCTTCAAGCAAAACGTGGATCGTTATGCCTTGCTGTCAACCTTGCAGCTG
+ATGTACACCGTGGGATACTCCTTCTCTCTTATCTCCCTCTTCCTGGCTCTCACCCTCCTC
+TTGTTTCTTCGAAAACTCCACTGCACGCGCAACTACATCCACATGAACTTGTTTGCTTCT
+TTCATCCTGAGAACCCTGGCTGTACTGGTGAAGGACGTCGTCTTCTACAACTCTTACTCC
+AAGAGGCCTGACAATGAGAATGGGTGGATGTCCTACCTGTCAGAGATGTCCACCTCCTGC
+CGCTCAGTCCAGGTTCTCTTGCATTACTTTGTGGGTGCCAATTACTTATGGCTGCTGGTT
+GAAGGCCTCTACCTCCACACGCTGCTGGAGCCCACAGTGCTTCCTGAGAGGCGGCTGTGG
+CCCAGATACCTGCTGTTGGGTTGGGCCTTCCCTGTGCTATTTGTTGTACCCTGGGGTTTC
+GCCCGTGCACACCTGGAGAACACAGGGTGCTGGACAACAAATGGGAATAAGAAAATCTGG
+TGGATCATCCGAGGACCCATGATGCTCTGTGTAACAGTCAATTTCTTCATCTTCCTGAAA
+ATTCTCAAGCTTCTCATTTCTAAGCTCAAAGCTCATCAAATGTGCTTCAGAGATTATAAA
+TACAGATTGGCAAAATCAACACTGGTCCTCATTCCTTTATTGGGCGTTCATGAGATCCTC
+TTCTCTTTCATCACTGATGATCAAGTTGAAGGATTTGCAAAACTTATACGACTTTTCATT
+CAGTTGACACTGAGCTCCTTTCATGGGTTCCTGGTGGCCTTGCAGTATGGTTTTGCCAAT
+GGAGAGGTGAAGGCTGAGCTGCGGAAATACTGGGTCCGCTTCTTGCTAGCCCGCCACTCA
+GGCTGCAGAGCCTGTGTCCTGGGGAAGGACTTCCGGTTCCTAGGAAAATGTCCCAAGAAG
+CTCTCGGAAGGAGATGGCGCTGAGAAGCTTCGGAAGCTGCAGCCCTCACTTAACAGTGGG
+CGGCTCCTACATCTAGCCATGCGAGGTCTTGGGGAGCTGGGCGCCCAGCCCCAACAGGAC
+CATGCACGCTGGCCCCGGGGCAGCAGCCTGTCCGAGTGCAGTGAGGGGGATGTCACCATG
+GCCAACACCATGGAGGAGATTCTGGAAGAGAGTGAGATCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00002</identifier>
+            <name>7tm_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02793</identifier>
+            <name>HRM</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glucagon receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-modulating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000857</id>
+      <name>Glucagon-like peptide 1 receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13184</ref-id>
+            <pubmed-id>17475961</pubmed-id>
+            <citation>Korner M, Stockli M, Waser B, Reubi JC: GLP-1 receptor expression in human tumors and human normal tissues: potential for in vivo targeting. J Nucl Med. 2007 May;48(5):736-43.</citation>
+          </article>
+          <article>
+            <ref-id>A13185</ref-id>
+            <pubmed-id>17498508</pubmed-id>
+            <citation>Baggio LL, Drucker DJ: Biology of incretins: GLP-1 and GIP. Gastroenterology. 2007 May;132(6):2131-57.</citation>
+          </article>
+          <article>
+            <ref-id>A1898</ref-id>
+            <pubmed-id>17534934</pubmed-id>
+            <citation>Fischer AJ, Stanke JJ, Ghai K, Scott M, Omar G: Development of bullwhip neurons in the embryonic chicken retina. J Comp Neurol. 2007 Aug 1;503(4):538-49.</citation>
+          </article>
+          <article>
+            <ref-id>A1905</ref-id>
+            <pubmed-id>12529935</pubmed-id>
+            <citation>Brubaker PL, Drucker DJ: Structure-function of the glucagon receptor family of G protein-coupled receptors: the glucagon, GIP, GLP-1, and GLP-2 receptors. Receptors Channels. 2002;8(3-4):179-88.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P43220" source="Swiss-Prot">
+        <name>Glucagon-like peptide 1 receptor</name>
+        <general-function>Transmembrane signaling receptor activity</general-function>
+        <specific-function>This is a receptor for glucagon-like peptide 1. The activity of this receptor is mediated by G proteins which activate adenylyl cyclase.</specific-function>
+        <gene-name>GLP1R</gene-name>
+        <locus>6p21</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>140-164
+177-201
+228-251
+266-287
+306-328
+353-371
+384-404</transmembrane-regions>
+        <signal-regions>1-23</signal-regions>
+        <theoretical-pi>8.19</theoretical-pi>
+        <molecular-weight>53025.22</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4324</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GLP1R</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U01104</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>405082</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>249</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>249</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P43220</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>GLP1R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GLP-1 receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010605|Glucagon-like peptide 1 receptor
+MAGAPGPLRLALLLLGMVGRAGPRPQGATVSLWETVQKWREYRRQCQRSLTEDPPPATDL
+FCNRTFDEYACWPDGEPGSFVNVSCPWYLPWASSVPQGHVYRFCTAEGLWLQKDNSSLPW
+RDLSECEESKRGERSSPEEQLLFLYIIYTVGYALSFSALVIASAILLGFRHLHCTRNYIH
+LNLFASFILRALSVFIKDAALKWMYSTAAQQHQWDGLLSYQDSLSCRLVFLLMQYCVAAN
+YYWLLVEGVYLYTLLAFSVLSEQWIFRLYVSIGWGVPLLFVVPWGIVKYLYEDEGCWTRN
+SNMNYWLIIRLPILFAIGVNFLIFVRVICIVVSKLKANLMCKTDIKCRLAKSTLTLIPLL
+GTHEVIFAFVMDEHARGTLRFIKLFTELSFTSFQGLMVAILYCFVNNEVQLEFRKSWERW
+RLEHLHIQRDSSMKPLKCPTSSLSSGATAGSSMYTATCQASCS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010606|Glucagon-like peptide 1 receptor (GLP1R)
+ATGGCCGGCGCCCCCGGCCCGCTGCGCCTTGCGCTGCTGCTGCTCGGGATGGTGGGCAGG
+GCCGGCCCCCGCCCCCAGGGTGCCACTGTGTCCCTCTGGGAGACGGTGCAGAAATGGCGA
+GAATACCGACGCCAGTGCCAGCGCTCCCTGACTGAGGATCCACCTCCTGCCACAGACTTG
+TTCTGCAACCGGACCTTCGATGAATACGCCTGCTGGCCAGATGGGGAGCCAGGCTCGTTC
+GTGAATGTCAGCTGCCCCTGGTACCTGCCCTGGGCCAGCAGTGTGCCGCAGGGCCACGTG
+TACCGGTTCTGCACAGCTGAAGGCCTCTGGCTGCAGAAGGACAACTCCAGCCTGCCCTGG
+AGGGACTTGTCGGAGTGCGAGGAGTCCAAGCGAGGGGAAAGAAGCTCCCCGGAGGAGCAG
+CTCCTGTTCCTCTACATCATCTACACGGTGGGCTACGCACTCTCCTTCTCTGCTCTGGTT
+ATCGCCTCTGCGATCCTCCTCGGCTTCAGACACCTGCACTGCACCAGGAACTACATCCAC
+CTGAACCTGTTTGCATCCTTCATCCTGCGAGCATTGTCCGTCTTCATCAAGGACGCAGCC
+CTGAAGTGGATGTATAGCACAGCCGCCCAGCAGCACCAGTGGGATGGGCTCCTCTCCTAC
+CAGGACTCTCTGAGCTGCCGCCTGGTGTTTCTGCTCATGCAGTACTGTGTGGCGGCCAAT
+TACTACTGGCTCTTGGTGGAGGGCGTGTACCTGTACACACTGCTGGCCTTCTCGGTCTTA
+TCTGAGCAATGGATCTTCAGGCTCTACGTGAGCATAGGCTGGGGTGTTCCCCTGCTGTTT
+GTTGTCCCCTGGGGCATTGTCAAGTACCTCTATGAGGACGAGGGCTGCTGGACCAGGAAC
+TCCAACATGAACTACTGGCTCATTATCCGGCTGCCCATTCTCTTTGCCATTGGGGTGAAC
+TTCCTCATCTTTGTTCGGGTCATCTGCATCGTGGTATCCAAACTGAAGGCCAATCTCATG
+TGCAAGACAGACATCAAATGCAGACTTGCCAAGTCCACGCTGACACTCATCCCCCTGCTG
+GGGACTCATGAGGTCATCTTTGCCTTTGTGATGGACGAGCACGCCCGGGGGACCCTGCGC
+TTCATCAAGCTGTTTACAGAGCTCTCCTTCACCTCCTTCCAGGGGCTGATGGTGGCCATA
+TTATACTGCTTTGTCAACAATGAGGTCCAGCTGGAATTTCGGAAGAGCTGGGAGCGCTGG
+CGGCTTGAGCACTTGCACATCCAGAGGGACAGCAGCATGAAGCCCCTCAAGTGTCCCACC
+AGCAGCCTGAGCAGTGGAGCCACGGCGGGCAGCAGCATGTACACAGCCACTTGCCAGGCC
+TCCTGCAGCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00002</identifier>
+            <name>7tm_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02793</identifier>
+            <name>HRM</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glucagon receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>energy reserve metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>learning or memory</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of heart contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of insulin secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

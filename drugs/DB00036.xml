@@ -1,0 +1,2643 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00036</drugbank-id>
+  <drugbank-id>BTD00006</drugbank-id>
+  <drugbank-id>BIOD00006</drugbank-id>
+  <name>Coagulation factor VIIa Recombinant Human</name>
+  <description>Recombinant human coagulation Factor VIIa (rFVIIa), intended for promoting hemostasis by activating the extrinsic pathway of the coagulation cascade. NovoSeven is a vitamin K-dependent glycoprotein consisting of 406 amino acid residues. Cloned and expressed in hamster kidney cells, the protein is catalytically active in a two-chain form.</description>
+  <cas-number>102786-61-8</cas-number>
+  <unii>AC71R787OV</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A62</ref-id>
+        <pubmed-id>2155</pubmed-id>
+        <citation>Blackshear PJ, Holloway PA, Alberti KG: Factors regulating amino acid release from extrasplanchnic tissues in the rat. Interactions of alanine and glutamine. Biochem J. 1975 Sep;150(3):379-87.</citation>
+      </article>
+      <article>
+        <ref-id>A63</ref-id>
+        <pubmed-id>15328151</pubmed-id>
+        <citation>Roberts HR, Monroe DM, White GC: The use of recombinant factor VIIa in the treatment of bleeding disorders. Blood. 2004 Dec 15;104(13):3858-64. Epub 2004 Aug 24.</citation>
+      </article>
+      <article>
+        <ref-id>A64</ref-id>
+        <pubmed-id>10584732</pubmed-id>
+        <citation>Kenet G, Walden R, Eldad A, Martinowitz U: Treatment of traumatic bleeding with recombinant factor VIIa. Lancet. 1999 Nov 27;354(9193):1879.</citation>
+      </article>
+      <article>
+        <ref-id>A65</ref-id>
+        <pubmed-id>16418464</pubmed-id>
+        <citation>O'Connell KA, Wood JJ, Wise RP, Lozier JN, Braun MM: Thromboembolic adverse events after use of recombinant human coagulation factor VIIa. JAMA. 2006 Jan 18;295(3):293-8.</citation>
+      </article>
+      <article>
+        <ref-id>A66</ref-id>
+        <pubmed-id>15728810</pubmed-id>
+        <citation>Mayer SA, Brun NC, Begtrup K, Broderick J, Davis S, Diringer MN, Skolnick BE, Steiner T: Recombinant activated factor VII for acute intracerebral hemorrhage. N Engl J Med. 2005 Feb 24;352(8):777-85.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L12681</ref-id>
+        <title>FDA Approved Drug Products: Sevenfact (coagulation factor VIIa (recombinant)-jncw) for intravenous use</title>
+        <url>https://www.fda.gov/media/136610/download</url>
+      </link>
+      <link>
+        <ref-id>L12687</ref-id>
+        <title>Health Canada Product Monograph: NiaStase RT (eptacog alfa (activated) ) powder for injection</title>
+        <url>https://pdf.hres.ca/dpd_pm/00042076.PDF</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For treatment of hemorrhagic complications in hemophilia A and B.</indication>
+  <pharmacodynamics>Used in the treatment of bleeding episodes in hemophilia A or B. NovoSeven is recombinant Factor VIIa and, when complexed with tissue factor can activate coagulation Factor X to Factor Xa, as well as coagulation Factor IX to Factor IXa. Factor Xa, in complex with other factors, then converts prothrombin to thrombin, which leads to the formation of a hemostatic plug by converting fibrinogen to fibrin and thereby inducing local clotting.</pharmacodynamics>
+  <mechanism-of-action>NovoSeven activates the coagulation or clotting cascade by cleaving Factor IX and Factor X, which activates them and then leads to activation of thrombin and fibrin.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>* 121 ± 30 mL/kg [adults]&#13;
+* 153 ± 29 mL/kg [children]&#13;
+* 280 to 290 mL/kg [congenital Factor VII deficiency]</volume-of-distribution>
+  <clearance>* 33 - 37 mL/h x kg [healthy]&#13;
+* 1375 +/- 396 mL/hr [severe hemophilia A male children]&#13;
+* 57.3 +/- 9.5 mL/hr/kg [severe hemophilia A male children]&#13;
+* 2767 +/- 385 mL/hr [severe hemophilia A men]&#13;
+* 37.6 +/- 13.1 mL/hr/kg [severe hemophilia A men]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Coagulation factor VIIa</synonym>
+    <synonym language="english" coder="">Coagulation factor VIIa (recombinant)</synonym>
+    <synonym language="english" coder="">Coagulation factor VIIa (recombinant)-jncw</synonym>
+    <synonym language="english" coder="">Eptacog alfa</synonym>
+    <synonym language="english" coder="">Eptacog alfa (activated)</synonym>
+    <synonym language="english" coder="">rFVIIa</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Niastase</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239659</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-08-05</started-marketing-on>
+      <ended-marketing-on>2013-07-22</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239660</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-08-05</started-marketing-on>
+      <ended-marketing-on>2013-07-22</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239661</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-08-05</started-marketing-on>
+      <ended-marketing-on>2013-07-22</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02417103</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02417111</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02417138</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02417146</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02347113</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02347121</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02347148</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Niastase RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02365669</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/004</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>50 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/005</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/006</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>250 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/007</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>400 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/008</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>50 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/009</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/010</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>250 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Novoseven</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000074</ema-product-code>
+      <ema-ma-number>EU/1/96/006/011</ema-ma-number>
+      <started-marketing-on>1996-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>400 KIU</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7010</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7020</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7050</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7040</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7201</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7202</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7205</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>NovoSeven RT</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7208</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-10-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103665</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sevenfact</name>
+      <labeller>Laboratoire Français du Fractionnement et des Biotechnologies Société Anonyme (LFB S.A.)</labeller>
+      <ndc-id/>
+      <ndc-product-code>71127-1000</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125641</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sevenfact</name>
+      <labeller>Laboratoire Français du Fractionnement et des Biotechnologies Société Anonyme (LFB S.A.)</labeller>
+      <ndc-id/>
+      <ndc-product-code>71127-5000</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-08-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>5 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125641</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Novoseven</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>NovoSeven RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sevenfact</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sevenfact</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Niastase RT</name>
+      <ingredients>Coagulation factor VIIa Recombinant Human</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Novo Nordisk Inc.</name>
+      <url>http://www.novonordisk.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Novoseven 1200 mcg vial</description>
+      <cost currency="USD">1.64</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Novoseven 2400 mcg vial</description>
+      <cost currency="USD">1.64</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Novoseven 4800 mcg vial</description>
+      <cost currency="USD">1.64</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Coagulation Factors</category>
+      <mesh-id>D001779</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Endopeptidases</category>
+      <mesh-id>D010450</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Precursors</category>
+      <mesh-id>D004792</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Factor VII</category>
+      <mesh-id>D005167</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Increased Coagulation Factor IX Activity</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Increased Coagulation Factor X Activity</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptide Hydrolases</category>
+      <mesh-id>D010447</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serine Endopeptidases</category>
+      <mesh-id>D012697</mesh-id>
+    </category>
+    <category>
+      <category>Serine Proteases</category>
+      <mesh-id>D057057</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route/>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route/>
+      <strength>1.2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route/>
+      <strength>2.4 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>100 KIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 KIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>400 KIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>50 KIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous bolus</route>
+      <strength>1 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous bolus</route>
+      <strength>2 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous bolus</route>
+      <strength>5 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous bolus</route>
+      <strength>8 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1.2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>2.4 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>4.8 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>5 mg/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B02BD08">
+      <level code="B02BD">Blood coagulation factors</level>
+      <level code="B02B">VITAMIN K AND OTHER HEMOSTATICS</level>
+      <level code="B02">ANTIHEMORRHAGICS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>20:28.16</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB09310</drugbank-id>
+      <name>Catridecacog</name>
+      <description>Catridecacog may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00513</drugbank-id>
+      <name>Aminocaproic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Aminocaproic acid is combined with Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00058</drugbank-id>
+      <name>Alpha-1-proteinase inhibitor</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00170</drugbank-id>
+      <name>Menadione</name>
+      <description>Menadione may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00302</drugbank-id>
+      <name>Tranexamic acid</name>
+      <description>Tranexamic acid may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>Aprotinin may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11091</drugbank-id>
+      <name>Hydrogen peroxide</name>
+      <description>Hydrogen peroxide may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13244</drugbank-id>
+      <name>Aminomethylbenzoic acid</name>
+      <description>Aminomethylbenzoic acid may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13729</drugbank-id>
+      <name>Camostat</name>
+      <description>Camostat may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12726</drugbank-id>
+      <name>Monteplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Monteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Alteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Urokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Reteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Anistreplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Tenecteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Drotrecogin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Streptokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan polysulfate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Pentosan polysulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Acetylsalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dipyridamole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Iloprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Epoprostenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with 4-hydroxycoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Coumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Desmoteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Defibrotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ancrod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Beraprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Fibrinolysin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Prasugrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>Idraparinux</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Cangrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Astaxanthin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06679</drugbank-id>
+      <name>Amediplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Amediplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Tinzaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07767</drugbank-id>
+      <name>Ferulic acid</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ferulic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with (R)-warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Triflusal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ticagrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Ditazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Vorapaxar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09125</drugbank-id>
+      <name>Potassium citrate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Potassium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09154</drugbank-id>
+      <name>Sodium citrate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Sodium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Bemiparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Parnaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11154</drugbank-id>
+      <name>Zinc citrate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Zinc citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11166</drugbank-id>
+      <name>Antithrombin Alfa</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Antithrombin Alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11984</drugbank-id>
+      <name>Letaxaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Letaxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>Darexaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Darexaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12364</drugbank-id>
+      <name>Betrixaban</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Betrixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13199</drugbank-id>
+      <name>Brinase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Brinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Clorindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Diphenadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Tioclomarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13616</drugbank-id>
+      <name>Melagatran</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Melagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13646</drugbank-id>
+      <name>Saruplase</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Saruplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with (S)-Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14094</drugbank-id>
+      <name>Tocopherylquinone</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Tocopherylquinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14598</drugbank-id>
+      <name>Edetate calcium disodium anhydrous</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Edetate calcium disodium anhydrous.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14726</drugbank-id>
+      <name>Dabigatran</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Dabigatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Semuloparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13124</drugbank-id>
+      <name>Troxerutin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Troxerutin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic acid</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Edetic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The therapeutic efficacy of Coagulation factor VIIa Recombinant Human can be decreased when used in combination with Reviparin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00036 sequence
+ANAFLEELRPGSLERECKEEQCSFEEAREIFKDAERTKLFWISYSDGDQCASSPCQNGGS
+CKDQLQSYICFCLPAFEGRNCETHKDDQLICVNENGGCEQYCSDHTGTKRSCRCHEGYSL
+LADGVSCTPTVEYPCGKIPILEKRNASKPQGRIVGGKVCPKGECPWQVLLLVNGAQLCGG
+TLINTIWVVSAAHCFDKIKNWRNLIAVLGEHDLSEHDGDEQSRRVAQVIIPSTYVPGTTN
+HDIALLRLHQPVVLTDHVVPLCLPERTFSERTLAFVRFSLVSGWGQLLDRGATALELMVL
+NVPRLMTQDCLQQSRKVGDSPNITEYMFCAGYSDGSKDSCKGDSGGPHATHYRGTWYLTG
+IVSWGQGCATVGHFGVYTRVSQYIEWLQKLMRSEPRPGVLLRAPFP</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>58 °C</value>
+      <source>Petersen, L.C. et al., Eur. J. Biochem 261: 124-129 (1999)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.311</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>6.09</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>45079.1</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1972H3076N560O597S28</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13301</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507544</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C03378</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00172</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M13232</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748389</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P08709</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Factor_VII</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>253149</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/novoseven.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/coagulation-factor-viia-recombinant.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000216</id>
+      <name>Coagulation factor X</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A6693</ref-id>
+            <pubmed-id>5969560</pubmed-id>
+            <citation>Malinvaud G: [Reflections on the use of PPSB fraction (Prothrombin-proconvertin-Stuart factor-antihemophilic factor B)]. Transfusion (Paris). 1966;9(3):245-54.</citation>
+          </article>
+          <article>
+            <ref-id>A1816</ref-id>
+            <pubmed-id>13801371</pubmed-id>
+            <citation>BLATRIX C, SOULIER JP: [Preparation of a fraction rich in prothrombin, proconvertin, Stuart factor and antihemophilic factor B (P.P.B. fraction)]. Pathol Biol (Paris). 1959 Dec;7:2477-86.</citation>
+          </article>
+          <article>
+            <ref-id>A6694</ref-id>
+            <pubmed-id>13713641</pubmed-id>
+            <citation>HERMANSKY F, VITEK J: The role of proconvertin and Stuart factor in the inactivation of tissue thromboplastin by serum. Experientia. 1960 Oct 15;16:455-6.</citation>
+          </article>
+          <article>
+            <ref-id>A6695</ref-id>
+            <pubmed-id>14227143</pubmed-id>
+            <citation>GAERTNER H, CAEN J: [FUNCTIONAL RELATION BETWEEN ERYTHROPLASTIN (ERYTHROCYTE COAGULANT FACTOR) AND PLASMA FACTORS: PROACCELERIN (V), PROCONVERTIN (VII) AND STUART FACTOR(X)]. Acta Physiol Pol. 1964 Mar-Apr;15:237-43.</citation>
+          </article>
+          <article>
+            <ref-id>A6696</ref-id>
+            <pubmed-id>13621053</pubmed-id>
+            <citation>DIDISHEIM P, LOEB J, BLATRIX C, SOULIER JP: Preparation of a human plasma fraction rich in prothrombin, proconvertin, Stuart factor, and PTC and a study of its activity and toxicity in rabbits and man. J Lab Clin Med. 1959 Feb;53(2):322-30.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P00742" source="Swiss-Prot">
+        <name>Coagulation factor X</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Factor Xa is a vitamin K-dependent glycoprotein that converts prothrombin to thrombin in the presence of factor Va, calcium and phospholipid during blood clotting.</specific-function>
+        <gene-name>F10</gene-name>
+        <locus>13q34</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-31</signal-regions>
+        <theoretical-pi>5.74</theoretical-pi>
+        <molecular-weight>54731.255</molecular-weight>
+        <chromosome-location>13</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F10</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>K03194</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182841</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2359</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00742</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA10_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.6</synonym>
+          <synonym>Stuart factor</synonym>
+          <synonym>Stuart-Prower factor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010204|Coagulation factor X
+MGRPLHLVLLSASLAGLLLLGESLFIRREQANNILARVTRANSFLEEMKKGHLERECMEE
+TCSYEEAREVFEDSDKTNEFWNKYKDGDQCETSPCQNQGKCKDGLGEYTCTCLEGFEGKN
+CELFTRKLCSLDNGDCDQFCHEEQNSVVCSCARGYTLADNGKACIPTGPYPCGKQTLERR
+KRSVAQATSSSGEAPDSITWKPYDAADLDPTENPFDLLDFNQTQPERGDNNLTRIVGGQE
+CKDGECPWQALLINEENEGFCGGTILSEFYILTAAHCLYQAKRFKVRVGDRNTEQEEGGE
+AVHEVEVVIKHNRFTKETYDFDIAVLRLKTPITFRMNVAPACLPERDWAESTLMTQKTGI
+VSGFGRTHEKGRQSTRLKMLEVPYVDRNSCKLSSSFIITQNMFCAGYDTKQEDACQGDSG
+GPHVTRFKDTYFVTGIVSWGEGCARKGKYGIYTKVTAFLKWIDRSMKTRGLPKAKSHAPE
+VITSSPLK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010205|Coagulation factor X (F10)
+ATGGGGCGCCCACTGCACCTCGTCCTGCTCAGTGCCTCCCTGGCTGGCCTCCTGCTGCTC
+GGGGAAAGTCTGTTCATCCGCAGGGAGCAGGCCAACAACATCCTGGCGAGGGTCACGAGG
+GCCAATTCCTTTCTTGAAGAGATGAAGAAAGGACACCTCGAAAGAGAGTGCATGGAAGAG
+ACCTGCTCATACGAAGAGGCCCGCGAGGTCTTTGAGGACAGCGACAAGACGAATGAATTC
+TGGAATAAATACAAAGATGGCGACCAGTGTGAGACCAGTCCTTGCCAGAACCAGGGCAAA
+TGTAAAGACGGCCTCGGGGAATACACCTGCACCTGTTTAGAAGGATTCGAAGGCAAAAAC
+TGTGAATTATTCACACGGAAGCTCTGCAGCCTGGACAACGGGGACTGTGACCAGTTCTGC
+CACGAGGAACAGAACTCTGTGGTGTGCTCCTGCGCCCGCGGGTACACCCTGGCTGACAAC
+GGCAAGGCCTGCATTCCCACAGGGCCCTACCCCTGTGGGAAACAGACCCTGGAACGCAGG
+AAGAGGTCAGTGGCCCAGGCCACCAGCAGCAGCGGGGAGGCCCCTGACAGCATCACATGG
+AAGCCATATGATGCAGCCGACCTGGACCCCACCGAGAACCCCTTCGACCTGCTTGACTTC
+AACCAGACGCAGCCTGAGAGGGGCGACAACAACCTCACCAGGATCGTGGGAGGCCAGGAA
+TGCAAGGACGGGGAGTGTCCCTGGCAGGCCCTGCTCATCAATGAGGAAAACGAGGGTTTC
+TGTGGTGGAACCATTCTGAGCGAGTTCTACATCCTAACGGCAGCCCACTGTCTCTACCAA
+GCCAAGAGATTCAAGGTGAGGGTAGGGGACCGGAACACGGAGCAGGAGGAGGGCGGTGAG
+GCGGTGCACGAGGTGGAGGTGGTCATCAAGCACAACCGGTTCACAAAGGAGACCTATGAC
+TTCGACATCGCCGTGCTCCGGCTCAAGACCCCCATCACCTTCCGCATGAACGTGGCGCCT
+GCCTGCCTCCCCGAGCGTGACTGGGCCGAGTCCACGCTGATGACGCAGAAGACGGGGATT
+GTGAGCGGCTTCGGGCGCACCCACGAGAAGGGCCGGCAGTCCACCAGGCTCAAGATGCTG
+GAGGTGCCCTACGTGGACCGCAACAGCTGCAAGCTGTCCAGCAGCTTCATCATCACCCAG
+AACATGTTCTGTGCCGGCTACGACACCAAGCAGGAGGATGCCTGCCAGGGGGACAGCGGG
+GGCCCGCACGTCACCCGCTTCAAGGACACCTACTTCGTGACAGGCATCGTCAGCTGGGGA
+GAGGGCTGTGCCCGTAAGGGGAAGTACGGGATCTACACCAAGGTCACCGCCTTCCTCAAG
+TGGATCGACAGGTCCATGAAAACCAGGGGCTTGCCCAAGGCCAAGAGCCATGCCCCGGAG
+GTCATAACGTCCTCTCCATTAAAGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00008</identifier>
+            <name>EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00594</identifier>
+            <name>Gla</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intrinsic component of external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phospholipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, intrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000967</id>
+      <name>Tissue factor pathway inhibitor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13148</ref-id>
+            <pubmed-id>11772005</pubmed-id>
+            <citation>Mine S, Yamazaki T, Miyata T, Hara S, Kato H: Structural mechanism for heparin-binding of the third Kunitz domain of human tissue factor pathway inhibitor. Biochemistry. 2002 Jan 8;41(1):78-85.</citation>
+          </article>
+          <article>
+            <ref-id>A13149</ref-id>
+            <pubmed-id>7559599</pubmed-id>
+            <citation>Narita M, Bu G, Olins GM, Higuchi DA, Herz J, Broze GJ Jr, Schwartz AL: Two receptor systems are involved in the plasma clearance of tissue factor pathway inhibitor in vivo. J Biol Chem. 1995 Oct 20;270(42):24800-4.</citation>
+          </article>
+          <article>
+            <ref-id>A13150</ref-id>
+            <pubmed-id>8700900</pubmed-id>
+            <citation>Stassens P, Bergum PW, Gansemans Y, Jespers L, Laroche Y, Huang S, Maki S, Messens J, Lauwereys M, Cappello M, Hotez PJ, Lasters I, Vlasuk GP: Anticoagulant repertoire of the hookworm Ancylostoma caninum. Proc Natl Acad Sci U S A. 1996 Mar 5;93(5):2149-54.</citation>
+          </article>
+          <article>
+            <ref-id>A13151</ref-id>
+            <pubmed-id>12974870</pubmed-id>
+            <citation>Lee AY, Vlasuk GP: Recombinant nematode anticoagulant protein c2 and other inhibitors targeting blood coagulation factor VIIa/tissue factor. J Intern Med. 2003 Oct;254(4):313-21.</citation>
+          </article>
+          <article>
+            <ref-id>A13152</ref-id>
+            <pubmed-id>11238112</pubmed-id>
+            <citation>Hansen CB, Pyke C, Petersen LC, Rao LV: Tissue factor-mediated endocytosis, recycling, and degradation of factor VIIa by a clathrin-independent mechanism not requiring the cytoplasmic domain of tissue factor. Blood. 2001 Mar 15;97(6):1712-20.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P10646" source="Swiss-Prot">
+        <name>Tissue factor pathway inhibitor</name>
+        <general-function>Serine-type endopeptidase inhibitor activity</general-function>
+        <specific-function>Inhibits factor X (X(a)) directly and, in a Xa-dependent way, inhibits VIIa/tissue factor activity, presumably by forming a quaternary Xa/LACI/VIIa/TF complex. It possesses an antithrombotic action and also the ability to associate with lipoproteins in plasma.</specific-function>
+        <gene-name>TFPI</gene-name>
+        <locus>2q32</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-28</signal-regions>
+        <theoretical-pi>8.31</theoretical-pi>
+        <molecular-weight>35014.835</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11760</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>TFPI</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J03225</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>180546</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P10646</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TFPI1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>EPI</synonym>
+          <synonym>Extrinsic pathway inhibitor</synonym>
+          <synonym>LACI</synonym>
+          <synonym>Lipoprotein-associated coagulation inhibitor</synonym>
+          <synonym>TFPI</synonym>
+          <synonym>TFPI1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001925|Tissue factor pathway inhibitor
+MIYTMKKVHALWASVCLLLNLAPAPLNADSEEDEEHTIITDTELPPLKLMHSFCAFKADD
+GPCKAIMKRFFFNIFTRQCEEFIYGGCEGNQNRFESLEECKKMCTRDNANRIIKTTLQQE
+KPDFCFLEEDPGICRGYITRYFYNNQTKQCERFKYGGCLGNMNNFETLEECKNICEDGPN
+GFQVDNYGTQLNAVNNSLTPQSTKVPSLFEFHGPSWCLTPADRGLCRANENRFYYNSVIG
+KCRPFKYSGCGGNENNFTSKQECLRACKKGFIQRISKGGLIKTKRKRKKQRVKIAYEEIF
+VKNM</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010679|Tissue factor pathway inhibitor (TFPI)
+ATGATTTACACAATGAAGAAAGTACATGCACTTTGGGCTTCTGTATGCCTGCTGCTTAAT
+CTTGCCCCTGCCCCTCTTAATGCTGATTCTGAGGAAGATGAAGAACACACAATTATCACA
+GATACGGAGTTGCCACCACTGAAACTTATGCATTCATTTTGTGCATTCAAGGCGGATGAT
+GGCCCATGTAAAGCAATCATGAAAAGATTTTTCTTCAATATTTTCACTCGACAGTGCGAA
+GAATTTATATATGGGGGATGTGAAGGAAATCAGAATCGATTTGAAAGTCTGGAAGAGTGC
+AAAAAAATGTGTACAAGAGATAATGCAAACAGGATTATAAAGACAACATTGCAACAAGAA
+AAGCCAGATTTCTGCTTTTTGGAAGAAGATCCTGGAATATGTCGAGGTTATATTACCAGG
+TATTTTTATAACAATCAGACAAAACAGTGTGAACGTTTCAAGTATGGTGGATGCCTGGGC
+AATATGAACAATTTTGAGACACTGGAAGAATGCAAGAACATTTGTGAAGATGGTCCGAAT
+GGTTTCCAGGTGGATAATTATGGAACCCAGCTCAATGCTGTGAATAACTCCCTGACTCCG
+CAATCAACCAAGGTTCCCAGCCTTTTTGTTACAAAAGAAGGAACAAATGATGGTTGGAAG
+AATGCGGCTCATATTTACCAAGTCTTTCTGAACGCCTTCTGCATTCATGCATCCATGTTC
+TTTCTAGGATTGGATAGCATTTCATGCCTATGTTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00014</identifier>
+            <name>Kunitz_BPTI</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>anchored component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>organelle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>endopeptidase inhibitor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase inhibitor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of endopeptidase activity</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000403</id>
+      <name>Vitamin K-dependent gamma-carboxylase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13153</ref-id>
+            <pubmed-id>10901669</pubmed-id>
+            <citation>Bouwman CA, Van Dam E, Fase KM, Koppe JG, Seinen W, Thijssen HH, Vermeer C, Van den Berg M: Effects of 2,3,7,8-tetrachlorodibenzo-p-dioxin or 2,2',4,4',5,5'-hexachlorobiphenyl on vitamin K-dependent blood coagulation in male and female WAG/Rij-rats. Chemosphere. 1999 Feb;38(3):489-505.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P38435" source="Swiss-Prot">
+        <name>Vitamin K-dependent gamma-carboxylase</name>
+        <general-function>Gamma-glutamyl carboxylase activity</general-function>
+        <specific-function>Mediates the vitamin K-dependent carboxylation of glutamate residues to calcium-binding gamma-carboxyglutamate (Gla) residues with the concomitant conversion of the reduced hydroquinone form of vitamin K to vitamin K epoxide.</specific-function>
+        <gene-name>GGCX</gene-name>
+        <locus>2p12</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>61-81
+114-134
+137-157
+293-313
+362-382</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.1</theoretical-pi>
+        <molecular-weight>87560.065</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4247</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GGCX</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M81592</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>184028</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P38435</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>VKGC_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>4.1.1.90</synonym>
+          <synonym>Gamma-glutamyl carboxylase</synonym>
+          <synonym>GC</synonym>
+          <synonym>Peptidyl-glutamate 4-carboxylase</synonym>
+          <synonym>Vitamin K gamma glutamyl carboxylase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000803|Vitamin K-dependent gamma-carboxylase
+MAVSAGSARTSPSSDKVQKDKAELISGPRQDSRIGKLLGFEWTDLSSWRRLVTLLNRPTD
+PASLAVFRFLFGFLMVLDIPQERGLSSLDRKYLDGLDVCRFPLLDALRPLPLDWMYLVYT
+IMFLGALGMMLGLCYRISCVLFLLPYWYVFLLDKTSWNNHSYLYGLLAFQLTFMDANHYW
+SVDGLLNAHRRNAHVPLWNYAVLRGQIFIVYFIAGVKKLDADWVEGYSMEYLSRHWLFSP
+FKLLLSEELTSLLVVHWGGLLLDLSAGFLLFFDVSRSIGLFFVSYFHCMNSQLFSIGMFS
+YVMLASSPLFCSPEWPRKLVSYCPRRLQQLLPLKAAPQPSVSCVYKRSRGKSGQKPGLRH
+QLGAAFTLLYLLEQLFLPYSHFLTQGYNNWTNGLYGYSWDMMVHSRSHQHVKITYRDGRT
+GELGYLNPGVFTQSRRWKDHADMLKQYATCLSRLLPKYNVTEPQIYFDIWVSINDRFQQR
+IFDPRVDIVQAAWSPFQRTSWVQPLLMDLSPWRAKLQEIKSSLDNHTEVVFIADFPGLHL
+ENFVSEDLGNTSIQLLQGEVTVELVAEQKNQTLREGEKMQLPAGEYHKVYTTSPSPSCYM
+YVYVNTTELALEQDLAYLQELKEKVENGSETGPLPPELQPLLEGEVKGGPEPTPLVQTFL
+RRQQRLQEIERRRNTPFHERFFRFLLRKLYVFRRSFLMTCISLRNLILGRPSLEQLAQEV
+TYANLRPFEAVGELNPSNTDSSHSNPPESNPDPVHSEF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018949|Vitamin K-dependent gamma-carboxylase (GGCX)
+ATGGCGGTGTCTGCCGGGTCCGCGCGGACCTCGCCCAGCTCAGATAAAGTACAGAAAGAC
+AAGGCTGAACTGATCTCAGGGCCCAGGCAGGACAGCCGAATAGGGAAACTCTTGGGTTTT
+GAGTGGACAGATTTGTCCAGTTGGCGGAGGCTGGTGACCCTGCTGAATCGACCAACGGAC
+CCTGCAAGCTTAGCTGTCTTTCGTTTTCTTTTTGGGTTCTTGATGGTGCTAGACATTCCC
+CAGGAGCGGGGGCTCAGCTCTCTGGACCGGAAATACCTTGATGGGCTGGATGTGTGCCGC
+TTCCCCTTGCTGGATGCCCTACGCCCACTGCCACTTGACTGGATGTATCTTGTCTACACC
+ATCATGTTTCTGGGGGCACTGGGCATGATGCTGGGCCTGTGCTACCGGATAAGCTGTGTG
+TTATTCCTGCTGCCATACTGGTATGTGTTTCTCCTGGACAAGACATCATGGAACAACCAC
+TCCTATCTGTATGGGTTGTTGGCCTTTCAGCTAACATTCATGGATGCAAACCACTACTGG
+TCTGTGGACGGTCTGCTGAATGCCCATAGGAGGAATGCCCACGTGCCCCTTTGGAACTAT
+GCAGTGCTCCGTGGCCAGATCTTCATTGTGTACTTCATTGCGGGTGTGAAAAAGCTGGAT
+GCAGACTGGGTTGAAGGCTATTCCATGGAATATTTGTCCCGGCACTGGCTCTTCAGTCCC
+TTCAAACTGCTGTTGTCTGAGGAGCTGACTAGCCTGCTGGTCGTGCACTGGGGTGGGCTG
+CTGCTTGACCTCTCAGCTGGTTTCCTGCTCTTTTTTGATGTCTCAAGATCCATTGGCCTG
+TTCTTTGTGTCCTACTTCCACTGCATGAATTCCCAGCTTTTCAGCATTGGTATGTTCTCC
+TACGTCATGCTGGCCAGCAGCCCTCTCTTCTGCTCCCCTGAGTGGCCTCGGAAGCTGGTG
+TCCTACTGCCCCCGAAGGTTGCAACAACTGTTGCCCCTCAAGGCAGCCCCTCAGCCCAGT
+GTTTCCTGTGTGTATAAGAGGAGCCGGGGCAAAAGTGGCCAGAAGCCAGGGCTGCGCCAT
+CAGCTGGGAGCTGCCTTCACCCTGCTCTACCTCCTGGAGCAGCTATTCCTGCCCTATTCT
+CATTTTCTCACCCAGGGCTATAACAACTGGACAAATGGGCTGTATGGCTATTCCTGGGAC
+ATGATGGTGCACTCCCGCTCCCACCAGCACGTGAAGATCACCTACCGTGATGGCCGCACT
+GGCGAACTGGGCTACCTTAACCCTGGGGTATTTACACAGAGTCGGCGATGGAAGGATCAT
+GCAGACATGCTGAAGCAATATGCCACTTGCCTGAGCCGCCTGCTTCCCAAGTATAATGTC
+ACTGAGCCCCAGATCTACTTTGATATTTGGGTCTCCATCAATGACCGCTTCCAGCAGAGG
+ATTTTTGACCCTCGTGTGGACATCGTGCAGGCCGCTTGGTCACCCTTTCAGCGCACATCC
+TGGGTGCAACCACTCTTGATGGACCTGTCTCCCTGGAGGGCCAAGTTACAGGAAATCAAG
+AGCAGCCTAGACAACCACACTGAGGTGGTCTTCATTGCAGATTTCCCTGGACTGCACTTG
+GAGAATTTTGTGAGTGAAGACCTGGGCAACACTAGCATCCAGCTGCTGCAGGGGGAAGTG
+ACTGTGGAGCTTGTGGCAGAACAGAAGAACCAGACTCTTCGAGAGGGAGAAAAAATGCAG
+TTGCCTGCTGGTGAGTACCATAAGGTGTATACGACATCACCTAGCCCTTCTTGCTACATG
+TACGTCTATGTCAACACTACAGAGCTTGCACTGGAGCAAGACCTGGCATATCTGCAAGAA
+TTAAAGGAAAAGGTGGAGAATGGAAGTGAAACAGGGCCTCTACCCCCAGAGCTGCAGCCT
+CTGTTGGAAGGGGAAGTAAAAGGGGGCCCTGAGCCAACACCTCTGGTTCAGACCTTTCTT
+AGACGCCAACAAAGGCTCCAGGAGATTGAACGCCGGCGAAATACTCCTTTCCATGAGCGA
+TTCTTCCGCTTCTTGTTGCGAAAGCTCTATGTCTTTCGCCGCAGCTTCCTGATGACTTGT
+ATCTCACTTCGAAATCTGATATTAGGCCGTCCTTCCCTGGAGCAGCTGGCCCAGGAGGTG
+ACTTATGCAAACTTGAGACCCTTTGAGGCAGTTGGAGAACTGAATCCCTCAAACACGGAT
+TCTTCACATTCTAATCCTCCTGAGTCAAATCCTGATCCTGTCCACTCAGAGTTCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF05090</identifier>
+            <name>VKG_Carbox</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>gamma-glutamyl carboxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein modification process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000333</id>
+      <name>Coagulation factor VII</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13162</ref-id>
+            <pubmed-id>10388743</pubmed-id>
+            <citation>Perera L, Darden TA, Pedersen LG: Probing the structural changes in the light chain of human coagulation factor VIIa due to tissue factor association. Biophys J. 1999 Jul;77(1):99-113.</citation>
+          </article>
+          <article>
+            <ref-id>A13163</ref-id>
+            <pubmed-id>11735107</pubmed-id>
+            <citation>Shapiro A: Inhibitor treatment: state of the art. Semin Hematol. 2001 Oct;38(4 Suppl 12):26-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13164</ref-id>
+            <pubmed-id>12525826</pubmed-id>
+            <citation>Shapiro A: Inhibitor treatment: state of the art. Dis Mon. 2003 Jan;49(1):22-38.</citation>
+          </article>
+          <article>
+            <ref-id>A13165</ref-id>
+            <pubmed-id>15907148</pubmed-id>
+            <citation>Siddiqui MA, Scott LJ: Recombinant factor VIIa (Eptacog Alfa): a review of its use in congenital or acquired haemophilia and other congenital bleeding disorders. Drugs. 2005;65(8):1161-77.</citation>
+          </article>
+          <article>
+            <ref-id>A13166</ref-id>
+            <pubmed-id>16370916</pubmed-id>
+            <citation>Rizoli SB, Chughtai T: The emerging role of recombinant activated Factor VII (rFVIIa) in the treatment of blunt traumatic haemorrhage. Expert Opin Biol Ther. 2006 Jan;6(1):73-81.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08709" source="Swiss-Prot">
+        <name>Coagulation factor VII</name>
+        <general-function>Serine-type peptidase activity</general-function>
+        <specific-function>Initiates the extrinsic pathway of blood coagulation. Serine protease that circulates in the blood in a zymogen form. Factor VII is converted to factor VIIa by factor Xa, factor XIIa, factor IXa, or thrombin by minor proteolysis. In the presence of tissue factor and calcium ions, factor VIIa then converts factor X to factor Xa by limited proteolysis. Factor VIIa will also convert factor IX to factor IXa in the presence of tissue factor and calcium.</specific-function>
+        <gene-name>F7</gene-name>
+        <locus>13q34</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-20</signal-regions>
+        <theoretical-pi>7.23</theoretical-pi>
+        <molecular-weight>51593.465</molecular-weight>
+        <chromosome-location>13</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3544</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F7</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M13232</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182801</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2363</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08709</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA7_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.21</synonym>
+          <synonym>Proconvertin</synonym>
+          <synonym>Serum prothrombin conversion accelerator</synonym>
+          <synonym>SPCA</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000663|Coagulation factor VII
+MVSQALRLLCLLLGLQGCLAAGGVAKASGGETRDMPWKPGPHRVFVTQEEAHGVLHRRRR
+ANAFLEELRPGSLERECKEEQCSFEEAREIFKDAERTKLFWISYSDGDQCASSPCQNGGS
+CKDQLQSYICFCLPAFEGRNCETHKDDQLICVNENGGCEQYCSDHTGTKRSCRCHEGYSL
+LADGVSCTPTVEYPCGKIPILEKRNASKPQGRIVGGKVCPKGECPWQVLLLVNGAQLCGG
+TLINTIWVVSAAHCFDKIKNWRNLIAVLGEHDLSEHDGDEQSRRVAQVIIPSTYVPGTTN
+HDIALLRLHQPVVLTDHVVPLCLPERTFSERTLAFVRFSLVSGWGQLLDRGATALELMVL
+NVPRLMTQDCLQQSRKVGDSPNITEYMFCAGYSDGSKDSCKGDSGGPHATHYRGTWYLTG
+IVSWGQGCATVGHFGVYTRVSQYIEWLQKLMRSEPRPGVLLRAPFP</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016066|Coagulation factor VII (F7)
+ATGGTCTCCCAGGCCCTCAGGCTCCTCTGCCTTCTGCTTGGGCTTCAGGGCTGCCTGGCT
+GCAGGCGGGGTCGCTAAGGCCTCAGGAGGAGAAACACGGGACATGCCGTGGAAGCCGGGG
+CCTCACAGAGTCTTCGTAACCCAGGAGGAAGCCCACGGCGTCCTGCACCGGCGCCGGCGC
+GCCAACGCGTTCCTGGAGGAGCTGCGGCCGGGCTCCCTGGAGAGGGAGTGCAAGGAGGAG
+CAGTGCTCCTTCGAGGAGGCCCGGGAGATCTTCAAGGACGCGGAGAGGACGAAGCTGTTC
+TGGATTTCTTACAGTGATGGGGACCAGTGTGCCTCAAGTCCATGCCAGAATGGGGGCTCC
+TGCAAGGACCAGCTCCAGTCCTATATCTGCTTCTGCCTCCCTGCCTTCGAGGGCCGGAAC
+TGTGAGACGCACAAGGATGACCAGCTGATCTGTGTGAACGAGAACGGCGGCTGTGAGCAG
+TACTGCAGTGACCACACGGGCACCAAGCGCTCCTGTCGGTGCCACGAGGGGTACTCTCTG
+CTGGCAGACGGGGTGTCCTGCACACCCACAGTTGAATATCCATGTGGAAAAATACCTATT
+CTAGAAAAAAGAAATGCCAGCAAACCCCAAGGCCGAATTGTGGGGGGCAAGGTGTGCCCC
+AAAGGGGAGTGTCCATGGCAGGTCCTGTTGTTGGTGAATGGAGCTCAGTTGTGTGGGGGG
+ACCCTGATCAACACCATCTGGGTGGTCTCCGCGGCCCACTGTTTCGACAAAATCAAGAAC
+TGGAGGAACCTGATCGCGGTGCTGGGCGAGCACGACCTCAGCGAGCACGACGGGGATGAG
+CAGAGCCGGCGGGTGGCGCAGGTCATCATCCCCAGCACGTACGTCCCGGGCACCACCAAC
+CACGACATCGCGCTGCTCCGCCTGCACCAGCCCGTGGTCCTCACTGACCATGTGGTGCCC
+CTCTGCCTGCCCGAACGGACGTTCTCTGAGAGGACGCTGGCCTTCGTGCGCTTCTCATTG
+GTCAGCGGCTGGGGCCAGCTGCTGGACCGTGGCGCCACGGCCCTGGAGCTCATGGTCCTC
+AACGTGCCCCGGCTGATGACCCAGGACTGCCTGCAGCAGTCACGGAAGGTGGGAGACTCC
+CCAAATATCACGGAGTACATGTTCTGTGCCGGCTACTCGGATGGCAGCAAGGACTCCTGC
+AAGGGGGACAGTGGAGGCCCACATGCCACCCACTACCGGGGCACGTGGTACCTGACGGGC
+ATCGTCAGCTGGGGCCAGGGCTGCGCAACCGTGGGCCACTTTGGGGTGTACACCAGGGTC
+TCCCAGTACATCGAGTGGCTGCAAAAGCTCATGCGCTCAGAGCCACGCCCAGGAGTCCTC
+CTGCGAGCCCCATTTCCCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00008</identifier>
+            <name>EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00594</identifier>
+            <name>Gla</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glycoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>circadian rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of leukocyte chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of platelet-derived growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of positive chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to growth hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin K</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0001178</id>
+      <name>Tissue factor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A6694</ref-id>
+            <pubmed-id>13713641</pubmed-id>
+            <citation>HERMANSKY F, VITEK J: The role of proconvertin and Stuart factor in the inactivation of tissue thromboplastin by serum. Experientia. 1960 Oct 15;16:455-6.</citation>
+          </article>
+          <article>
+            <ref-id>A11609</ref-id>
+            <pubmed-id>1586032</pubmed-id>
+            <citation>Rogers KS, Barton CL, Benson PA, Green RA: Effects of single-dose L-asparaginase on coagulation values in healthy dogs and dogs with lymphoma. Am J Vet Res. 1992 Apr;53(4):580-4.</citation>
+          </article>
+          <article>
+            <ref-id>A11610</ref-id>
+            <pubmed-id>6658368</pubmed-id>
+            <citation>Christensen NJ: Measurements of some blood clotting factors using a centrifugal analyser (Multistat III). Scand J Clin Lab Invest. 1983 Oct;43(6):521-6.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P13726" source="Swiss-Prot">
+        <name>Tissue factor</name>
+        <general-function>Protease binding</general-function>
+        <specific-function>Initiates blood coagulation by forming a complex with circulating factor VII or VIIa. The [TF:VIIa] complex activates factors IX or X by specific limited protolysis. TF plays a role in normal hemostasis by initiating the cell-surface assembly and propagation of the coagulation protease cascade.</specific-function>
+        <gene-name>F3</gene-name>
+        <locus>1p22-p21</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>252-274</transmembrane-regions>
+        <signal-regions>1-32</signal-regions>
+        <theoretical-pi>7.09</theoretical-pi>
+        <molecular-weight>33067.3</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3541</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F3</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M16553</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>339504</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P13726</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TF_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Coagulation factor III</synonym>
+          <synonym>TF</synonym>
+          <synonym>Thromboplastin</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002343|Tissue factor
+METPAWPRVPRPETAVARTLLLGWVFAQVAGASGTTNTVAAYNLTWKSTNFKTILEWEPK
+PVNQVYTVQISTKSGDWKSKCFYTTDTECDLTDEIVKDVKQTYLARVFSYPAGNVESTGS
+AGEPLYENSPEFTPYLETNLGQPTIQSFEQVGTKVNVTVEDERTLVRRNNTFLSLRDVFG
+KDLIYTLYYWKSSSSGKKTAKTNTNEFLIDVDKGENYCFSVQAVIPSRTVNRKSTDSPVE
+CMGQEKGEFREIFYIIGAVVFVVIILVIILAISLHKCRKAGVGQSWKENSPLNVS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021656|Tissue factor (F3)
+ATGGAGACCCCTGCCTGGCCCCGGGTCCCGCGCCCCGAGACCGCCGTCGCTCGGACGCTC
+CTGCTCGGCTGGGTCTTCGCCCAGGTGGCCGGCGCTTCAGGCACTACAAATACTGTGGCA
+GCATATAATTTAACTTGGAAATCAACTAATTTCAAGACAATTTTGGAGTGGGAACCCAAA
+CCCGTCAATCAAGTCTACACTGTTCAAATAAGCACTAAGTCAGGAGATTGGAAAAGCAAA
+TGCTTTTACACAACAGACACAGAGTGTGACCTCACCGACGAGATTGTGAAGGATGTGAAG
+CAGACGTACTTGGCACGGGTCTTCTCCTACCCGGCAGGGAATGTGGAGAGCACCGGTTCT
+GCTGGGGAGCCTCTGTATGAGAACTCCCCAGAGTTCACACCTTACCTGGAGACAAACCTC
+GGACAGCCAACAATTCAGAGTTTTGAACAGGTGGGAACAAAAGTGAATGTGACCGTAGAA
+GATGAACGGACTTTAGTCAGAAGGAACAACACTTTCCTAAGCCTCCGGGATGTTTTTGGC
+AAGGACTTAATTTATACACTTTATTATTGGAAATCTTCAAGTTCAGGAAAGAAATATTCT
+ACATCATTGGAGCTGTGGTATTTGTGGTCATCATCCTTGTCATCATCCTGGCTATATCTC
+TACACAAGTGTAGAAAGGCAGGAGTGGGGCAGAGCTGGAAGGAGAACTCCCCACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01108</identifier>
+            <name>Tissue_fac</name>
+          </pfam>
+          <pfam>
+            <identifier>PF09294</identifier>
+            <name>Interfer-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intrinsic component of external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phospholipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protease binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of blood coagulation via clotting cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of plasma proteins involved in acute inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hydrogen peroxide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of platelet-derived growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of positive chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to fluid shear stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to low-density lipoprotein particle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to mechanical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to temperature stimulus</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

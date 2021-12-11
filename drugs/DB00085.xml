@@ -1,0 +1,1511 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00085</drugbank-id>
+  <drugbank-id>BTD00067</drugbank-id>
+  <drugbank-id>BIOD00067</drugbank-id>
+  <drugbank-id>DB05356</drugbank-id>
+  <name>Pancrelipase</name>
+  <description>Pancrelipase, in general, is composed of a mixture of pancreatic enzymes which include amylases, lipases, and proteases. These enzymes are extracted from porcine pancreatic glands.[L2509] The pancrelipase mixture was developed by Ortho-McNeil-Janssen Pharmaceuticals, Inc and FDA approved on April 12, 2010.[L2510] For further information on the components of this mixture please visit [DB11065], [DB11066] and [DB13147].</description>
+  <cas-number>53608-75-6</cas-number>
+  <unii>FQ3DRG0N5K</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A32736</ref-id>
+        <pubmed-id>21086085</pubmed-id>
+        <citation>Kuhn RJ, Gelrud A, Munck A, Caras S: CREON (Pancrelipase Delayed-Release Capsules) for the treatment of exocrine pancreatic insufficiency. Adv Ther. 2010 Dec;27(12):895-916. doi: 10.1007/s12325-010-0085-7. Epub 2010 Nov  15.</citation>
+      </article>
+      <article>
+        <ref-id>A32721</ref-id>
+        <pubmed-id>22936895</pubmed-id>
+        <citation>Nakajima K, Oshida H, Muneyuki T, Kakei M: Pancrelipase: an evidence-based review of its use for treating pancreatic exocrine insufficiency. Core Evid. 2012;7:77-91. doi: 10.2147/CE.S26705. Epub 2012 Jul 19.</citation>
+      </article>
+      <article>
+        <ref-id>A32723</ref-id>
+        <pubmed-id>20510825</pubmed-id>
+        <citation>Dominguez Munoz JE: Diagnosis of chronic pancreatitis: Functional testing. Best Pract Res Clin Gastroenterol. 2010 Jun;24(3):233-41. doi: 10.1016/j.bpg.2010.03.008.</citation>
+      </article>
+    </articles>
+    <textbooks>
+      <textbook>
+        <ref-id>T180</ref-id>
+        <isbn>978-1-4160-0208-6</isbn>
+        <citation>Shorr R., Hoth A. and Rawls N. (2007). Drugs for the Geriatric Patient. Elsevier.</citation>
+      </textbook>
+    </textbooks>
+    <links>
+      <link>
+        <ref-id>L2509</ref-id>
+        <title>Creon monograph</title>
+        <url>http://www.rxabbvie.com/pdf/creon_PI.pdf</url>
+      </link>
+      <link>
+        <ref-id>L2510</ref-id>
+        <title>FDA approval</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/nda/2010/022523_pancreaze_toc.cfm</url>
+      </link>
+      <link>
+        <ref-id>L2521</ref-id>
+        <title>FDA reports</title>
+        <url>https://www.fda.gov/downloads/Drugs/DevelopmentApprovalProcess/DevelopmentResources/UCM308286.pdf</url>
+      </link>
+      <link>
+        <ref-id>L1770</ref-id>
+        <title>CENTER FOR DRUG EVALUATION AND RESEARCH- 20755</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/nda/2009/020725s000PharmR.pdf</url>
+      </link>
+      <link>
+        <ref-id>L2528</ref-id>
+        <title>EMA reports</title>
+        <url>http://www.ema.europa.eu/docs/en_GB/document_library/EPAR_-_Public_assessment_report/human/002070/WC500210680.pdf</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>The use of pancrelipase amylase is part of the pancreatic enzyme replacement therapy. This therapy is indicated for the treatment of pancreatic insufficiency attributed to cystic fibrosis, chronic pancreatitis or any other medically defined pancreatic disease that might require it.[A32721, A32736] Pancreatic diseases are associated with the deterioration of pancreatic parenchyma and of the dual physiological functions of the pancreas. Once established, pancreatic insufficiency results in malnutrition, weight loss, and steatorrhea.[A32723]</indication>
+  <pharmacodynamics>The major maldigestion/malabsorption problems arise from incomplete fat digestion. In clinical trials, the administration of pancrelipase as a mixture of amylase, lipase, and protease demonstrated a significant improvement in the coefficient of fat absorption and nitrogen absorption. These effects are accompanied by increased in body weight and body mass index.[A32721]</pharmacodynamics>
+  <mechanism-of-action>Pancrelipase is used to replace the deficiency of pancreatic enzymes. As abovementioned, pancrelipase is formed by a mixture of lipase, protease, and amylase which are able to break down fat, protein, and starches, respectively, in the small intestine.[T180] For a more specific description of each mechanism of action, please visit [DB11065], [DB11066] and [DB13147]. </mechanism-of-action>
+  <toxicity>The studies of the toxicology of pancrelipase are not needed as this drug has been used clinically for a long time.[L1770] Clinical overdose studies proved no effect on lungs, pancreas, liver and kidneys but it can produce symptoms such as diarrhea or stomach upset. Carcinogenicity studies have not shown any increased incidence with the use of pancrelipase. As pancrelipase is not absorbed, the effect on fetal development or reproduction is not expected.[L2528]&#13;
+&#13;
+</toxicity>
+  <metabolism>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the metabolism is not relevant.[L2521]</metabolism>
+  <absorption>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount.[L2521]</absorption>
+  <half-life>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the elimination half-life is not relevant.[L2521]</half-life>
+  <protein-binding>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the protein binding is not relevant.[L2521]</protein-binding>
+  <route-of-elimination>Pancrelipase is entirely eliminated in the feces.[L2521]</route-of-elimination>
+  <volume-of-distribution>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the volume of distribution is not relevant.[L2521]</volume-of-distribution>
+  <clearance>Pancrelipase acts locally in the GI tract and it is not absorbed in any significant amount thus, the clearance rate is not relevant.[L2521]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Pancrealipase</synonym>
+    <synonym language="english" coder="">Pancreatic extract pancrelipase</synonym>
+    <synonym language="english" coder="">Pancreatic protease</synonym>
+    <synonym language="english" coder="">Pancreatin</synonym>
+    <synonym language="latin" coder="">Pancreatinum</synonym>
+    <synonym language="english" coder="">Pancrelipase (amylase;lipase;protease)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Alka-pan Tablets</name>
+      <labeller>Morter Healthsystem</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231774</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Bio-zyme Tab 50mg</name>
+      <labeller>Metagenics, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00837008</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-01-27</started-marketing-on>
+      <ended-marketing-on>2012-08-07</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Duchol Ect</name>
+      <labeller>Duchesnay Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00391484</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1977-12-31</started-marketing-on>
+      <ended-marketing-on>2003-07-18</ended-marketing-on>
+      <dosage-form>Tablet, delayed release</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Dygest</name>
+      <labeller>Creative Nutrition Canada Corp.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00665975</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2007-07-11</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Enzyme Tablets</name>
+      <labeller>General Nutrition Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02181312</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2001-10-20</started-marketing-on>
+      <ended-marketing-on>2007-08-01</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Festal Plus</name>
+      <labeller>OASIS TRADING</labeller>
+      <ndc-id/>
+      <ndc-product-code>72689-0010</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-11-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Medichol</name>
+      <labeller>Medic Laboratory LtÉe</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00134759</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1959-12-31</started-marketing-on>
+      <ended-marketing-on>2007-10-22</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neo Life Enzyme Tab</name>
+      <labeller>Golden Neo Life International Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00474002</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-01</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancreatin and Enzyme Formula - Tablet</name>
+      <labeller>Health Wise Nutrition Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02175533</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-08-15</started-marketing-on>
+      <ended-marketing-on>2000-07-29</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancreatin Tab 400mg</name>
+      <labeller>Jamieson Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00470643</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>2000-09-08</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancreatine Enzymes</name>
+      <labeller>Gahler Enterprises Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00622222</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1984-12-31</started-marketing-on>
+      <ended-marketing-on>2002-07-17</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancrelipase HP</name>
+      <labeller>Nordmark Arzneimittel GmbH &amp; Co. KG</labeller>
+      <ndc-id/>
+      <ndc-product-code>61974-0003</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-04-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder</dosage-form>
+      <strength>1 kg/1kg</strength>
+      <route>Not applicable</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pancrex Granules</name>
+      <labeller>Paines and Byrne Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00154407</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1953-12-31</started-marketing-on>
+      <ended-marketing-on>1996-08-21</ended-marketing-on>
+      <dosage-form/>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancrex V Capsules</name>
+      <labeller>Paines and Byrne Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00154393</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1962-12-31</started-marketing-on>
+      <ended-marketing-on>1996-08-21</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancrex V Forte Tablets 1gm/tab</name>
+      <labeller>Paines and Byrne Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00154415</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-12-31</started-marketing-on>
+      <ended-marketing-on>1996-08-21</ended-marketing-on>
+      <dosage-form>Tablet, delayed release</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancrex V Powder</name>
+      <labeller>Paines and Byrne Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00154423</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-12-31</started-marketing-on>
+      <ended-marketing-on>1996-08-21</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pancrex V Tab 0.33gm</name>
+      <labeller>Paines and Byrne Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00154385</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-12-31</started-marketing-on>
+      <ended-marketing-on>1996-08-21</ended-marketing-on>
+      <dosage-form>Tablet, delayed release</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Phytozyme Tab 150mg</name>
+      <labeller>Phyto Health Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00418889</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1976-12-31</started-marketing-on>
+      <ended-marketing-on>2008-07-21</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pro Gest Tab</name>
+      <labeller>Pure Life International Prods Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01946803</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>2000-07-27</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Stozyme</name>
+      <labeller>Chunwoo Pharmaceutical Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72850-0004</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-10-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zypanax</name>
+      <labeller>Therapeutic Foods Co.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00191353</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-04-02</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Cotazym</name>
+      <company>Organon</company>
+    </international-brand>
+    <international-brand>
+      <name>Ku-Zyme</name>
+      <company>Koichi</company>
+    </international-brand>
+    <international-brand>
+      <name>Pancrease</name>
+      <company>Ortho-McNeil</company>
+    </international-brand>
+    <international-brand>
+      <name>Ultrase</name>
+      <company>Axcan Scandipharm</company>
+    </international-brand>
+    <international-brand>
+      <name>Ultresa (delayed-release enteric coated capsules)</name>
+      <company>APTALIS PHARMA US</company>
+    </international-brand>
+    <international-brand>
+      <name>Viokace (tablets)</name>
+      <company>APTALIS PHARMA US</company>
+    </international-brand>
+    <international-brand>
+      <name>Zymase</name>
+      <company>Organon</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Festal Plus</name>
+      <ingredients>Dimethicone + Pancrelipase + Ursodeoxycholic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrelipase HP</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Stozyme</name>
+      <ingredients>Dimethicone + Hemicellulase + Ox bile extract + Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pro Gest Tab</name>
+      <ingredients>Glycine betaine + Pancrelipase + Papain + Pepsin + Taurocholic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Medichol</name>
+      <ingredients>Dehydrocholic acid + Deoxycholic acid + Pancrelipase + Pepsin + Taurocholic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Duchol Ect</name>
+      <ingredients>Dehydrocholic acid + Deoxycholic acid + Pancrelipase + Pepsin + Taurocholic acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancreatin Tab 400mg</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neo Life Enzyme Tab</name>
+      <ingredients>Pancrelipase + Papain + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancreatin and Enzyme Formula - Tablet</name>
+      <ingredients>Bromelains + Ox bile extract + Pancrelipase + Pancrelipase lipase + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Enzyme Tablets</name>
+      <ingredients>Glycine betaine + Ox bile extract + Pancrelipase + Pancrelipase amylase + Papain + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Phytozyme Tab 150mg</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bio-zyme Tab 50mg</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrex V Capsules</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrex Granules</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrex V Forte Tablets 1gm/tab</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrex V Powder</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancrex V Tab 0.33gm</name>
+      <ingredients>Pancrelipase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pancreatine Enzymes</name>
+      <ingredients>Pancrelipase + Pancrelipase lipase + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Dygest</name>
+      <ingredients>Glycine betaine + Ox bile extract + Pancrelipase + Papain + Peppermint + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zypanax</name>
+      <ingredients>Ammonium chloride + Glycine betaine + Pancrelipase + Pepsin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alka-pan Tablets</name>
+      <ingredients>Bromelains + Glycine betaine + Ox bile extract + Pancrelipase + Papaya</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Axcan Pharma Inc.</name>
+      <url>http://www.axcan.com</url>
+    </packager>
+    <packager>
+      <name>Confab Laboratories Inc.</name>
+      <url>http://www.confab.ca</url>
+    </packager>
+    <packager>
+      <name>Eurand Pharmaceuticals Inc.</name>
+      <url>http://www.eurand.com</url>
+    </packager>
+    <packager>
+      <name>Global Pharmaceuticals</name>
+      <url>http://www.globalphar.com</url>
+    </packager>
+    <packager>
+      <name>Kaiser Foundation Hospital</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Ortho Mcneil Janssen Pharmaceutical Inc.</name>
+      <url>http://www.ortho-mcneil.com</url>
+    </packager>
+    <packager>
+      <name>Ortho-McNeil-Janssen Pharmaceuticals Inc.</name>
+      <url>http://www.ortho-mcneil.com</url>
+    </packager>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+    <packager>
+      <name>Schwarz Pharma Inc.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Solvay Pharmaceuticals</name>
+      <url>http://global.abbottgrowth.com</url>
+    </packager>
+    <packager>
+      <name>X-Gen Pharmaceuticals</name>
+      <url>http://www.x-gen.us</url>
+    </packager>
+    <packager>
+      <name>Yung Shin Pharmaceutical Industry Ltd.</name>
+      <url>http://www.ysp.com.cn</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Pancrelipase MST-16 48-16-48mu Enteric Coated Capsule</description>
+      <cost currency="USD">1.03</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrelipase 10000 30-10-30mu Enteric Coated Capsule</description>
+      <cost currency="USD">1.38</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrease MT 10 30-10-30mu Enteric Coated Capsule</description>
+      <cost currency="USD">1.49</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Creon 10 33.2-10-37.5mu Enteric Coated Capsule</description>
+      <cost currency="USD">1.54</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Ultrase MT 12 39-12-39mu Enteric Coated Capsule</description>
+      <cost currency="USD">1.65</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrelipase 16000 48-16-48mu Enteric Coated Capsule</description>
+      <cost currency="USD">2.02</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrease MT 16 48-16-48mu Enteric Coated Capsule</description>
+      <cost currency="USD">2.4</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Ultrase MT 18 58.5-18-58.5mu Enteric Coated Capsule</description>
+      <cost currency="USD">2.65</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Creon 20 66.4-20-75mu Enteric Coated Capsule</description>
+      <cost currency="USD">2.83</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrease MT 20 56-20-44mu Enteric Coated Capsule</description>
+      <cost currency="USD">2.99</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Ultrase MT 20 65-20-65mu Enteric Coated Capsule</description>
+      <cost currency="USD">3.06</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Creon 24000 unit Enteric Coated Capsule</description>
+      <cost currency="USD">3.32</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrelipase ec 4500 capsule</description>
+      <cost currency="USD">0.64</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrease ec capsule</description>
+      <cost currency="USD">0.76</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Ultrase 4500 unit Enteric Coated Capsule</description>
+      <cost currency="USD">0.8</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Creon 5 16.6-5-18.75mu Enteric Coated Capsule</description>
+      <cost currency="USD">0.86</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>Pancrease 4500 unit Enteric Coated Capsule</description>
+      <cost currency="USD">0.87</cost>
+      <unit>capsule</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Carboxylic Ester Hydrolases</category>
+      <mesh-id>D002265</mesh-id>
+    </category>
+    <category>
+      <category>Complex Mixtures</category>
+      <mesh-id>D045424</mesh-id>
+    </category>
+    <category>
+      <category>Digestives, Incl. Enzymes</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzyme Preparations</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Esterases</category>
+      <mesh-id>D004950</mesh-id>
+    </category>
+    <category>
+      <category>Gastrointestinal Agents</category>
+      <mesh-id>D005765</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Lipase</category>
+      <mesh-id>D008049</mesh-id>
+    </category>
+    <category>
+      <category>Pancreatic Extracts</category>
+      <mesh-id>D010184</mesh-id>
+    </category>
+    <category>
+      <category>Tissue Extracts</category>
+      <mesh-id>D014020</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>120 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>24 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>20000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>30000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>40000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated, extended release</form>
+      <route>Oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated, extended release</form>
+      <route>Oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated, extended release</form>
+      <route>Oral</route>
+      <strength>400 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>40000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>400 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Granule</form>
+      <route>Oral</route>
+      <strength>60.12 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated</form>
+      <route>Oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated</form>
+      <route>Oral</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>420 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, delayed release</form>
+      <route>Oral</route>
+      <strength>25 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, delayed release</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>209.3 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>334.9 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>39.8 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>83.7 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>6 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, delayed release</form>
+      <route>Oral</route>
+      <strength>220 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, sugar coated</form>
+      <route>Oral</route>
+      <strength>135 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>59.4 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>59.4 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>10000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>10000 Einheiten</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>10000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>20000 Einheiten</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>25000 Einheiten</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>25000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated pellets</form>
+      <route/>
+      <strength>25000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>35000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>35000 Einheiten</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>40000 Einheiten</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated pellets</form>
+      <route/>
+      <strength>40000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>8000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Granule, delayed release</form>
+      <route>Oral</route>
+      <strength>50000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>25000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Granule</form>
+      <route>Oral</route>
+      <strength>60.12 mg/100mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>10 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>10000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>40 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Not applicable</route>
+      <strength>1 kg/1kg</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, delayed release</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>20000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, delayed release</form>
+      <route>Oral</route>
+      <strength>36000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, sugar coated</form>
+      <route>Oral</route>
+      <strength>80 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, film coated</form>
+      <route>Oral</route>
+      <strength>170 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Granule</form>
+      <route>Oral</route>
+      <strength>170 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>170 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>212.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>50000 USP</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>35000 U FIP</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>400 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, coated</form>
+      <route>Oral</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength>25 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A09AA02">
+      <level code="A09AA">Enzyme preparations</level>
+      <level code="A09A">DIGESTIVES, INCL. ENZYMES</level>
+      <level code="A09">DIGESTIVES, INCL. ENZYMES</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>56:16.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00085.pdf?1368993217</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00085.pdf?1524763894</msds>
+  <patents>
+    <patent>
+      <number>9198871</number>
+      <country>United States</country>
+      <approved>2015-12-01</approved>
+      <expires>2030-02-07</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8562979</number>
+      <country>United States</country>
+      <approved>2013-10-22</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8562980</number>
+      <country>United States</country>
+      <approved>2013-10-22</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8562981</number>
+      <country>United States</country>
+      <approved>2013-10-22</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8221747</number>
+      <country>United States</country>
+      <approved>2012-07-17</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8562978</number>
+      <country>United States</country>
+      <approved>2013-10-22</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8246950</number>
+      <country>United States</country>
+      <approved>2012-08-21</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>7658918</number>
+      <country>United States</country>
+      <approved>2010-02-09</approved>
+      <expires>2028-02-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions>
+    <food-interaction>Drink plenty of fluids.</food-interaction>
+    <food-interaction>Take with fluids.</food-interaction>
+    <food-interaction>Take with food. If swallowing the oral capsule is not tolerated, sprinkle on acidic soft foods with a pH of 4 or less.</food-interaction>
+  </food-interactions>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00325</drugbank-id>
+      <name>Nitroprusside</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Nitroprusside resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06783</drugbank-id>
+      <name>Prussian blue</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Prussian blue resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09146</drugbank-id>
+      <name>Iron sucrose</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Iron sucrose resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09501</drugbank-id>
+      <name>Ferric ammonium citrate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric ammonium citrate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09507</drugbank-id>
+      <name>Ferumoxsil</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferumoxsil resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09508</drugbank-id>
+      <name>Ferumoxides</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferumoxides resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11171</drugbank-id>
+      <name>Ferric sulfate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric sulfate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11210</drugbank-id>
+      <name>Ferrous bisglycinate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous bisglycinate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11417</drugbank-id>
+      <name>Gleptoferron</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Gleptoferron resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11576</drugbank-id>
+      <name>Ferric oxide</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric oxide resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12821</drugbank-id>
+      <name>Perflubutane</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Perflubutane resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13257</drugbank-id>
+      <name>Ferrous sulfate anhydrous</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous sulfate anhydrous resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13381</drugbank-id>
+      <name>Sodium feredetate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Sodium feredetate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13423</drugbank-id>
+      <name>Ferric hydroxide</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric hydroxide resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13569</drugbank-id>
+      <name>Ferrous chloride</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous chloride resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13949</drugbank-id>
+      <name>Ferric cation</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric cation resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14488</drugbank-id>
+      <name>Ferrous gluconate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous gluconate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14489</drugbank-id>
+      <name>Ferrous succinate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous succinate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14491</drugbank-id>
+      <name>Ferrous fumarate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferrous fumarate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14520</drugbank-id>
+      <name>Tetraferric tricitrate decahydrate</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Tetraferric tricitrate decahydrate resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14695</drugbank-id>
+      <name>Ferric oxyhydroxide</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric oxyhydroxide resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15598</drugbank-id>
+      <name>Ferric maltol</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Ferric maltol resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12208</drugbank-id>
+      <name>Iron isomaltoside 1000</name>
+      <description>Pancrelipase can cause a decrease in the absorption of Iron isomaltoside 1000 resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1 mg/ml</value>
+      <source>Monograph</source>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>48-50 °C</value>
+      <source>Vinogradov, A.A. et al., Protein Eng. 14:683-689 (2001)</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>131000.0</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>3173</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>9754</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46504728</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D05349</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M18785</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA448428</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P04746</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Pancreatic_enzymes_(medication)</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2108074</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>235379</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/pancrel.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/amylase-lipase-protease.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0004834</id>
+      <name>Dietary fat</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>cleavage</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17142</ref-id>
+            <pubmed-id>11150608</pubmed-id>
+            <citation>Svendsen A: Lipase protein engineering. Biochim Biophys Acta. 2000 Dec 29;1543(2):223-238.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+    <target position="2">
+      <id>BE0004835</id>
+      <name>Dietary protein</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>cleavage</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17143</ref-id>
+            <pubmed-id>7845208</pubmed-id>
+            <citation>Rawlings ND, Barrett AJ: Families of serine peptidases. Methods Enzymol. 1994;244:19-61.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+    <target position="3">
+      <id>BE0004836</id>
+      <name>Dietary starch</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>cleavage</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17144</ref-id>
+            <pubmed-id>15005645</pubmed-id>
+            <citation>Udani J, Hardy M, Madsen DC: Blocking carbohydrate absorption and weight loss: a clinical trial using Phase 2 brand proprietary fractionated white bean extract. Altern Med Rev. 2004 Mar;9(1):63-9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

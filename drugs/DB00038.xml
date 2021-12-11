@@ -1,0 +1,407 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00038</drugbank-id>
+  <drugbank-id>BTD00021</drugbank-id>
+  <drugbank-id>BIOD00021</drugbank-id>
+  <name>Oprelvekin</name>
+  <description>Oprelvekin, the active ingredient in Neumega®, is recombinant Interleukin-11 (IL-11), which is produced in Escherichia coli (E. coli) by recombinant DNA technology. With a molecular mass of approximately 19,000 daltons, the non-glycosylated protein is 177 amino acids in length in comparison to the natural IL-11, which is 178 amino acid long. However, it displays comparable biological activity compared to the natural IL-11 _in vitro_ and _in vivo_. Oprelvekin works by stimulating megakaryocytopoiesis and thrombopoiesis. In mice and nonhuman primate studies of animals with moderate and severe myelosuppression, in addition to compromised hematopoiesis, oprelvekin was shown to potently induce thrombopoiesis and improve platelet nadirs and accelerated platelet recoveries compared to controls. In animal studies, oprelvekin was also shown to regulate intestinal epithelium growth by enhancing healing of gastrointestinal lesions, inhibit adiopegenesis and macrophageal released pro-inflammatory cytokines, and induce acute phase protein synthesis.</description>
+  <cas-number>145941-26-0</cas-number>
+  <unii>HM5641GA6F</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Indicated for the prevention of severe thrombocytopenia and the reduction of the need for platelet transfusions following myelosuppressive chemotherapy in adult patients with nonmyeloid malignancies who are at high risk of severe thrombocytopenia.[Label]</indication>
+  <pharmacodynamics>Oprelvekin promotes hematopoiesis by stimulating megakaryocytopoiesis and thrombopoiesis. It is used in adult patients with nonmyeloid malignancies to prevent severe thrombocytopenia and reduce the need for platelet transfusions following therapies that cause myelosuppression. Its use is prioritized in patients who are at an elevated risk for developing severe thrombocytopenia. In clinical trials, oprelvekin has shown potent thrombopoietic activity in individuals with compromised hematopoiesis. </pharmacodynamics>
+  <mechanism-of-action>Oprelvekin binds to the interleukin 11 receptor which leads to a cascade of signal transduction events. Its pharmacological action mimics the biological activity of endogenous IL-11, which is a thrombopoietic growth factor that directly stimulates the proliferation of hematopoietic stem cells and megakaryocyte progenitor cells and induces megakaryocyte maturation resulting in increased platelet production.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>Absolute bioavailability is over 80%.</absorption>
+  <half-life>6.9 +/- 1.7 hrs</half-life>
+  <protein-binding/>
+  <route-of-elimination>The kidney is the primary route of elimination. The amount of intact Neumega in urine was low, indicating that the molecule was metabolized before excretion.</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">IL-11</synonym>
+    <synonym language="english" coder="">Interleukin 11</synonym>
+    <synonym language="english" coder="">Interleukin-11</synonym>
+    <synonym language="english" coder="inn/usan">Oprelvekin</synonym>
+    <synonym language="english" coder="">Recombinant interleukin-11</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Neumega</name>
+      <labeller>Wyeth Bio Pharma Division Of Wyeth Pharmaceuticals Inc., A Subsidiary Of Pfizer Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-004</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-11-01</started-marketing-on>
+      <ended-marketing-on>2017-04-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>5 mg/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103694</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Neumega</name>
+      <ingredients>Oprelvekin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+    <packager>
+      <name>Wyeth Pharmaceuticals</name>
+      <url>http://www.wyeth.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Neumega 5 mg vial</description>
+      <cost currency="USD">352.9</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Adjuvants, Immunologic</category>
+      <mesh-id>D000276</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Cytokines</category>
+      <mesh-id>D016207</mesh-id>
+    </category>
+    <category>
+      <category>Intercellular Signaling Peptides and Proteins</category>
+      <mesh-id>D036341</mesh-id>
+    </category>
+    <category>
+      <category>Interleukins</category>
+      <mesh-id>D007378</mesh-id>
+    </category>
+    <category>
+      <category>Megakaryocyte Growth Factor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength>5 mg/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L03AC02">
+      <level code="L03AC">Interleukins</level>
+      <level code="L03A">IMMUNOSTIMULANTS</level>
+      <level code="L03">IMMUNOSTIMULANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00038.pdf?1265922806</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00038 sequence
+GPPPGPPRVSPDPRAELDSTVLLTRSLLADTRQLAAQLRDKFPADGDHNLDSLPTLAMSA
+GALGALQLPGVLTRLRADLLSYLRHVQWLRRAGGSSLKTLEPELGTLQARLDRLLRRLQL
+LMSRLALPQPPPDPPAPPLAPPSSAWGGIRAAHAILGGLHLTLDWAVRGLLLLKTRL</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.070</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>11.16</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>19047.2</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C854H1411N253O235S2</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506470</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M57765</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164747991</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P20809</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001287</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Oprelvekin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201573</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1311380</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/oprelvek.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/oprelvekin.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000416</id>
+      <name>Interleukin-11 receptor subunit alpha</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1865</ref-id>
+            <pubmed-id>11012177</pubmed-id>
+            <citation>Nandurkar HH, Robb L, Begley CG: The role of IL-II in hematopoiesis as revealed by a targeted mutation of its receptor. Stem Cells. 1998;16 Suppl 2:53-65.</citation>
+          </article>
+          <article>
+            <ref-id>A1867</ref-id>
+            <pubmed-id>11570967</pubmed-id>
+            <citation>Li R, Hartley L, Robb L: Cloning of rat interleukin 11 and interleukin 11 receptor alpha chain and analysis of their expression in rat uterus in the peri-implantation period. Reproduction. 2001 Oct;122(4):593-600.</citation>
+          </article>
+          <article>
+            <ref-id>A1869</ref-id>
+            <pubmed-id>8637716</pubmed-id>
+            <citation>Nandurkar HH, Hilton DJ, Nathan P, Willson T, Nicola N, Begley CG: The human IL-11 receptor requires gp130 for signalling: demonstration by molecular cloning of the receptor. Oncogene. 1996 Feb 1;12(3):585-93.</citation>
+          </article>
+          <article>
+            <ref-id>A1871</ref-id>
+            <pubmed-id>8676079</pubmed-id>
+            <citation>Romas E, Udagawa N, Zhou H, Tamura T, Saito M, Taga T, Hilton DJ, Suda T, Ng KW, Martin TJ: The role of gp130-mediated signals in osteoclast development: regulation of interleukin 11 production by osteoblasts and distribution of its receptor in bone marrow cultures. J Exp Med. 1996 Jun 1;183(6):2581-91.</citation>
+          </article>
+          <article>
+            <ref-id>A1873</ref-id>
+            <pubmed-id>9310465</pubmed-id>
+            <citation>Nandurkar HH, Robb L, Tarlinton D, Barnett L, Kontgen F, Begley CG: Adult mice with targeted mutation of the interleukin-11 receptor (IL11Ra) display normal hematopoiesis. Blood. 1997 Sep 15;90(6):2148-59.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q14626" source="Swiss-Prot">
+        <name>Interleukin-11 receptor subunit alpha</name>
+        <general-function>Transmembrane signaling receptor activity</general-function>
+        <specific-function>Receptor for interleukin-11. The receptor systems for IL6, LIF, OSM, CNTF, IL11 and CT1 can utilize IL6ST for initiating signal transmission. The IL11/IL11RA/IL6ST complex may be involved in the control of proliferation and/or differentiation of skeletogenic progenitor or other mesenchymal cells. Essential for the normal development of craniofacial bones and teeth. Restricts suture fusion and tooth number.</specific-function>
+        <gene-name>IL11RA</gene-name>
+        <locus>9p13</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>371-391</transmembrane-regions>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>7.91</theoretical-pi>
+        <molecular-weight>45221.925</molecular-weight>
+        <chromosome-location>9</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:5967</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>IL11RA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Z38102</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>995654</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q14626</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>I11RA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>IL-11 receptor subunit alpha</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000829|Interleukin-11 receptor subunit alpha
+MSSSCSGLSRVLVAVATALVSASSPCPQAWGPPGVQYGQPGRSVKLCCPGVTAGDPVSWF
+RDGEPKLLQGPDSGLGHELVLAQADSTDEGTYICQTLDGALGGTVTLQLGYPPARPVVSC
+QAADYENFSCTWSPSQISGLPTRYLTSYRKKTVLGADSQRRSPSTGPWPCPQDPLGAARC
+VVHGAEFWSQYRINVTEVNPLGASTRLLDVSLQSILRPDPPQGLRVESVPGYPRRLRASW
+TYPASWPCQPHFLLKFRLQYRPAQHPAWSTVEPAGLEEVITDAVAGLPHAVRVSARDFLD
+AGTWSTWSPEAWGTPSTGTIPKEIPAWGQLHTQPEVEPQVDSPAPPRPSLQPHPRLLDHR
+DSVEQVAVLASLGILSFLGLVAGALALGLWLRLRRGGKDGSPKPGFLASVIPVDRRPGAP
+NL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016088|Interleukin-11 receptor subunit alpha (IL11RA)
+ATGAGCAGCAGCTGCTCAGGGCTGAGCAGGGTCCTGGTGGCCGTGGCTACAGCCCTGGTG
+TCTGCCTCCTCCCCCTGCCCCCAGGCCTGGGGCCCCCCAGGGGTCCAGTATGGGCAGCCA
+GGCAGGTCCGTGAAGCTGTGTTGTCCTGGAGTGACTGCCGGGGACCCAGTGTCCTGGTTT
+CGGGATGGGGAGCCAAAGCTGCTCCAGGGACCTGACTCTGGGCTAGGGCATGAACTGGTC
+CTGGCCCAGGCAGACAGCACTGATGAGGGCACCTACATCTGCCAGACCCTGGATGGTGCA
+CTTGGGGGCACAGTGACCCTGCAGCTGGGCTACCCTCCAGCCCGCCCTGTTGTCTCCTGC
+CAAGCAGCCGACTATGAGAACTTCTCTTGCACTTGGAGTCCCAGCCAGATCAGCGGTTTA
+CCCACCCGCTACCTCACCTCCTACAGGAAGAAGACAGTCCTAGGAGCTGATAGCCAGAGG
+AGGAGTCCATCCACAGGGCCCTGGCCATGCCCACAGGATCCCCTAGGGGCTGCCCGCTGT
+GTTGTCCACGGGGCTGAGTTCTGGAGCCAGTACCGGATTAATGTGACTGAGGTGAACCCA
+CTGGGTGCCAGCACACGCCTGCTGGATGTGAGCTTGCAGAGCATCTTGCGCCCTGACCCA
+CCCCAGGGCCTGCGGGTAGAGTCAGTACCAGGTTACCCCCGACGCCTGCGAGCCAGCTGG
+ACATACCCTGCCTCCTGGCCGTGCCAGCCCCACTTCCTGCTCAAGTTCCGTTTGCAGTAC
+CGTCCGGCGCAGCATCCAGCCTGGTCCACGGTGGAGCCAGCTGGACTGGAGGAGGTGATC
+ACAGATGCTGTGGCTGGGCTGCCCCATGCTGTACGAGTCAGTGCCCGGGACTTTCTAGAT
+GCTGGCACCTGGAGCACCTGGAGCCCGGAGGCCTGGGGAACTCCGAGCACTGGGACCATA
+CCAAAGGAGATACCAGCATGGGGCCAGCTACACACGCAGCCAGAGGTGGAGCCTCAGGTG
+GACAGCCCTGCTCCTCCAAGGCCCTCCCTCCAACCACACCCTCGGCTACTTGATCACAGG
+GACTCTGTGGAGCAGGTAGCTGTGCTGGCGTCTTTGGGAATCCTTTCTTTCCTGGGACTG
+GTGGCTGGGGCCCTGGCACTGGGGCTCTGGCTGAGGCTGAGACGGGGTGGGAAGGATGGA
+TCCCCAAAGCCTGGGTTCTTGGCCTCAGTGATTCCAGTGGACAGGCGTCCAGGAGCTCCA
+AACCTGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00047</identifier>
+            <name>ig</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00041</identifier>
+            <name>fn3</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>signal transducer activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>developmental process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryo implantation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>head development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

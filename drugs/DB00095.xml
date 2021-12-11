@@ -1,0 +1,3919 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00095</drugbank-id>
+  <drugbank-id>BTD00074</drugbank-id>
+  <drugbank-id>BIOD00074</drugbank-id>
+  <name>Efalizumab</name>
+  <description>Humanized IgG1 kappa isotype monoclonal antibody that binds to human CD11a. Efalizumab has a molecular weight of approximately 150 kilodaltons and is produced in a Chinese hamster ovary mammalian cell expression system in a nutrient medium containing the antibiotic gentamicin.</description>
+  <cas-number>214745-43-4</cas-number>
+  <unii>XX2MN88N5D</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A145</ref-id>
+        <pubmed-id>8943405</pubmed-id>
+        <citation>Werther WA, Gonzalez TN, O'Connor SJ, McCabe S, Chan B, Hotaling T, Champe M, Fox JA, Jardieu PM, Berman PW, Presta LG: Humanization of an anti-lymphocyte function-associated antigen (LFA)-1 monoclonal antibody and reengineering of the humanized antibody for binding to rhesus LFA-1. J Immunol. 1996 Dec 1;157(11):4986-95.</citation>
+      </article>
+      <article>
+        <ref-id>A146</ref-id>
+        <pubmed-id>17053736</pubmed-id>
+        <citation>Descamps V: [Efalizumab]. Ann Dermatol Venereol. 2006 Aug-Sep;133(8-9 Pt 1):666-78.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L11094</ref-id>
+        <title>Health Canada Product Monograph: Raptiva (efalizumab) for subcutaneous injection</title>
+        <url>https://www.fda.gov/drugs/postmarket-drug-safety-information-patients-and-providers/efalizumab-marketed-raptiva-information</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of adult patients with moderate to severe chronic plaque psoriasis, who are candidates for phototherapy or systemic therapy.</indication>
+  <pharmacodynamics>Lymphocyte activation and trafficking to skin play a role in the pathophysiology of chronic plaque psoriasis. In psoriatic skin, ICAM-1 cell surface expression is upregulated on endothelium and keratinocytes. Raptiva inhibits the binding of LFA-1 to the intercellular adhesion molecule-1 (ICAM-1), thereby inhibiting the adhesion of leukocytes to other cell types.</pharmacodynamics>
+  <mechanism-of-action>Efalizumab binds to CD11a, a subunit of leukocyte function antigen-1 (LFA-1), which is expressed on all leukocytes. As a result efalizumab decreases cell surface expression of CD11a.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>Average efalizumab bioavailability following subcutaneous administration was estimated at 30 to 50%.</absorption>
+  <half-life>5 days</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">anti-CD11a</synonym>
+    <synonym language="english" coder="">antiCD11 alpha</synonym>
+    <synonym language="english" coder="inn/usan">Efalizumab</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Raptiva</name>
+      <labeller>Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000542</ema-product-code>
+      <ema-ma-number>EU/1/04/291/001</ema-ma-number>
+      <started-marketing-on>2004-09-20</started-marketing-on>
+      <ended-marketing-on>2009-08-03</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 mg/ml</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Raptiva</name>
+      <labeller>Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000542</ema-product-code>
+      <ema-ma-number>EU/1/04/291/002</ema-ma-number>
+      <started-marketing-on>2004-09-20</started-marketing-on>
+      <ended-marketing-on>2009-08-03</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 mg/ml</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Raptiva</name>
+      <labeller>Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000542</ema-product-code>
+      <ema-ma-number>EU/1/04/291/003</ema-ma-number>
+      <started-marketing-on>2004-09-20</started-marketing-on>
+      <ended-marketing-on>2009-08-03</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>100 mg/ml</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Raptiva</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02272504</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-10-26</started-marketing-on>
+      <ended-marketing-on>2009-06-08</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Xanelim</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Raptiva</name>
+      <ingredients>Efalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Raptiva</name>
+      <ingredients>Efalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Raptiva</name>
+      <ingredients>Efalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Raptiva</name>
+      <ingredients>Efalizumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Genentech Inc.</name>
+      <url>http://www.gene.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal</category>
+      <mesh-id>D000911</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>CD11 Antigens</category>
+      <mesh-id>D018845</mesh-id>
+    </category>
+    <category>
+      <category>CD11a-directed Antibody Interactions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>CD11a-directed Humanized IgG1 Antibody</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cell Migration Inhibition</category>
+      <mesh-id>D002464</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Selective Immunosuppressants</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>100 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>125 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L04AA21">
+      <level code="L04AA">Selective immunosuppressants</level>
+      <level code="L04A">IMMUNOSUPPRESSANTS</level>
+      <level code="L04">IMMUNOSUPPRESSANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00095.pdf?1265922798</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n1 is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n3 is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2b is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00026</drugbank-id>
+      <name>Anakinra</name>
+      <description>The risk or severity of adverse effects can be increased when Anakinra is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon gamma-1b is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon alfa-2a, Recombinant</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-2a, Recombinant is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The risk or severity of adverse effects can be increased when Aldesleukin is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Gemtuzumab ozogamicin is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00059</drugbank-id>
+      <name>Pegaspargase</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Infliximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon beta-1b is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfacon-1 is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Rituximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Basiliximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Muromonab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Ibritumomab tiuxetan is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Tositumomab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alemtuzumab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00092</drugbank-id>
+      <name>Alefacept</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Interferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00120</drugbank-id>
+      <name>Phenylalanine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Phenylalanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Flunisolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Beclomethasone dipropionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00432</drugbank-id>
+      <name>Trifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00446</drugbank-id>
+      <name>Chloramphenicol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Chloramphenicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Zidovudine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluticasone propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone acetonide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluocinolone acetonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Linezolid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fludrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mycophenolate mofetil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Penicillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Azathioprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01099</drugbank-id>
+      <name>Flucytosine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Flucytosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Estramustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Budesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01281</drugbank-id>
+      <name>Abatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Abatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01285</drugbank-id>
+      <name>Corticotropin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Corticotropin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Colchicine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ciclesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01423</drugbank-id>
+      <name>Stepronin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Stepronin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01611</drugbank-id>
+      <name>Hydroxychloroquine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hydroxychloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Castanospermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02806</drugbank-id>
+      <name>2-Methoxyethanol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with 2-Methoxyethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03523</drugbank-id>
+      <name>Brequinar</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Brequinar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pirfenidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05259</drugbank-id>
+      <name>Glatiramer</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Glatiramer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05260</drugbank-id>
+      <name>Gallium nitrate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gallium nitrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05472</drugbank-id>
+      <name>Human interferon omega-1</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Human interferon omega-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Apremilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06372</drugbank-id>
+      <name>Rilonacept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rilonacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Panobinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06662</drugbank-id>
+      <name>Abetimus</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Abetimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06681</drugbank-id>
+      <name>Belatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Belatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06813</drugbank-id>
+      <name>Pralatrexate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pralatrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08059</drugbank-id>
+      <name>Wortmannin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Wortmannin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Teriflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluticasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08908</drugbank-id>
+      <name>Dimethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dimethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09082</drugbank-id>
+      <name>Vilanterol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vilanterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tixocortol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tepoxalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Melengestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11616</drugbank-id>
+      <name>Pirarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11693</drugbank-id>
+      <name>Voclosporin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Voclosporin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11708</drugbank-id>
+      <name>Peficitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Peficitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11817</drugbank-id>
+      <name>Baricitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Baricitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11921</drugbank-id>
+      <name>Deflazacort</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Deflazacort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12025</drugbank-id>
+      <name>Triptolide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Triptolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12371</drugbank-id>
+      <name>Siponimod</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Siponimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12612</drugbank-id>
+      <name>Ozanimod</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ozanimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mizoribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12692</drugbank-id>
+      <name>Gusperimus</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gusperimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cepeginterferon alfa-2B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12902</drugbank-id>
+      <name>Trofosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trofosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12947</drugbank-id>
+      <name>Doxifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Doxifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12991</drugbank-id>
+      <name>Deoxyspergualin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Deoxyspergualin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12996</drugbank-id>
+      <name>Acteoside</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Acteoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13014</drugbank-id>
+      <name>Hypericin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hypericin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13068</drugbank-id>
+      <name>9-(N-methyl-L-isoleucine)-cyclosporin A</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with 9-(N-methyl-L-isoleucine)-cyclosporin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13223</drugbank-id>
+      <name>Fluocortin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluocortin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13241</drugbank-id>
+      <name>Begelomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Begelomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13491</drugbank-id>
+      <name>Fluperolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluperolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13843</drugbank-id>
+      <name>Cloprednol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cloprednol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13856</drugbank-id>
+      <name>Fluclorolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluclorolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13867</drugbank-id>
+      <name>Fluticasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluticasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14066</drugbank-id>
+      <name>Tetrandrine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tetrandrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14219</drugbank-id>
+      <name>Monomethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Monomethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14512</drugbank-id>
+      <name>Mometasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mometasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14539</drugbank-id>
+      <name>Hydrocortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hydrocortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14545</drugbank-id>
+      <name>Hydrocortisone succinate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hydrocortisone succinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluocinonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14540</drugbank-id>
+      <name>Hydrocortisone butyrate</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Hydrocortisone butyrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Desoximetasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fluorometholone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Difluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01656</drugbank-id>
+      <name>Roflumilast</name>
+      <description>Roflumilast may increase the immunosuppressive activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06688</drugbank-id>
+      <name>Sipuleucel-T</name>
+      <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>The risk or severity of myelosuppression can be increased when Sulfamethoxazole is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>Conjugated estrogens may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>Ethinylestradiol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>Estrone sulfate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>Esterified estrogens may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>Equol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>Epimestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>Moxestrol may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>Estradiol acetate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>Estradiol benzoate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>Estradiol cypionate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>Estradiol valerate may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>Biochanin A may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>Formononetin may increase the thrombogenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>Efalizumab may increase the immunosuppressive activities of Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the neutropenic activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08868</drugbank-id>
+      <name>Fingolimod</name>
+      <description>Efalizumab may increase the immunosuppressive activities of Fingolimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>Tacrolimus may increase the immunosuppressive activities of Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05144</drugbank-id>
+      <name>PEV3A</name>
+      <description>The therapeutic efficacy of PEV3A can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of Rindopepimut can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06400</drugbank-id>
+      <name>Vitespen</name>
+      <description>The therapeutic efficacy of Vitespen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The therapeutic efficacy of Anthrax immune globulin human can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10062</drugbank-id>
+      <name>Rabies virus inactivated antigen, B</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, B can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10076</drugbank-id>
+      <name>Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10276</drugbank-id>
+      <name>Rotavirus vaccine</name>
+      <description>The therapeutic efficacy of Rotavirus vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies virus inactivated antigen, A</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, A can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10342</drugbank-id>
+      <name>Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10583</drugbank-id>
+      <name>Clostridium tetani toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Clostridium tetani toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10584</drugbank-id>
+      <name>Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10600</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10769</drugbank-id>
+      <name>Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10794</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10803</drugbank-id>
+      <name>Typhoid Vi polysaccharide vaccine</name>
+      <description>The therapeutic efficacy of Typhoid Vi polysaccharide vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10989</drugbank-id>
+      <name>Hepatitis A Vaccine</name>
+      <description>The therapeutic efficacy of Hepatitis A Vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10990</drugbank-id>
+      <name>Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11038</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11040</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11041</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11044</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11603</drugbank-id>
+      <name>Human rabies virus immune globulin</name>
+      <description>The therapeutic efficacy of Human rabies virus immune globulin can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11627</drugbank-id>
+      <name>Hepatitis B Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Hepatitis B Vaccine (Recombinant) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12568</drugbank-id>
+      <name>Tecemotide</name>
+      <description>The therapeutic efficacy of Tecemotide can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14022</drugbank-id>
+      <name>Typhoid vaccine</name>
+      <description>The therapeutic efficacy of Typhoid vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14384</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14385</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14394</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14445</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14449</drugbank-id>
+      <name>Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14619</drugbank-id>
+      <name>Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14620</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14711</drugbank-id>
+      <name>Smallpox (Vaccinia) Vaccine, Live</name>
+      <description>The therapeutic efficacy of Smallpox (Vaccinia) Vaccine, Live can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15274</drugbank-id>
+      <name>Pertussis vaccine</name>
+      <description>The therapeutic efficacy of Pertussis vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15461</drugbank-id>
+      <name>Yersinia pestis 195/p antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Yersinia pestis 195/p antigen (formaldehyde inactivated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13924</drugbank-id>
+      <name>Varicella Zoster Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Varicella Zoster Vaccine (Recombinant) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15483</drugbank-id>
+      <name>Modified vaccinia ankara</name>
+      <description>The therapeutic efficacy of Modified vaccinia ankara can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15654</drugbank-id>
+      <name>Moderna COVID-19 Vaccine</name>
+      <description>The therapeutic efficacy of Moderna COVID-19 Vaccine can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10317</drugbank-id>
+      <name>Rubella virus vaccine</name>
+      <description>The risk or severity of infection can be increased when Rubella virus vaccine is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10318</drugbank-id>
+      <name>Varicella Zoster Vaccine (Live/attenuated)</name>
+      <description>The risk or severity of infection can be increased when Varicella Zoster Vaccine (Live/attenuated) is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10343</drugbank-id>
+      <name>Bacillus calmette-guerin substrain tice live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain tice live antigen is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10804</drugbank-id>
+      <name>Bacillus calmette-guerin substrain connaught live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain connaught live antigen is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10805</drugbank-id>
+      <name>Yellow Fever Vaccine</name>
+      <description>The risk or severity of infection can be increased when Yellow Fever Vaccine is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11003</drugbank-id>
+      <name>Anthrax vaccine</name>
+      <description>The risk or severity of infection can be increased when Anthrax vaccine is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11050</drugbank-id>
+      <name>Typhoid Vaccine Live</name>
+      <description>The risk or severity of infection can be increased when Typhoid Vaccine Live is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12386</drugbank-id>
+      <name>Bacillus calmette-guerin substrain danish 1331 live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain danish 1331 live antigen is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The risk or severity of infection can be increased when BCG vaccine is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14409</drugbank-id>
+      <name>Human adenovirus e serotype 4 strain cl-68578 antigen</name>
+      <description>The risk or severity of infection can be increased when Human adenovirus e serotype 4 strain cl-68578 antigen is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The risk or severity of infection can be increased when Vibrio cholerae CVD 103-HgR strain live antigen is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14685</drugbank-id>
+      <name>Adenovirus type 7 vaccine live</name>
+      <description>The risk or severity of infection can be increased when Adenovirus type 7 vaccine live is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00002</drugbank-id>
+      <name>Cetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00028</drugbank-id>
+      <name>Human immunoglobulin G</name>
+      <description>The risk or severity of adverse effects can be increased when Human immunoglobulin G is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00043</drugbank-id>
+      <name>Omalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Abciximab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00057</drugbank-id>
+      <name>Indium In-111 satumomab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Indium In-111 satumomab pendetide is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00076</drugbank-id>
+      <name>Digoxin Immune Fab (Ovine)</name>
+      <description>The risk or severity of adverse effects can be increased when Digoxin Immune Fab (Ovine) is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00089</drugbank-id>
+      <name>Capromab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00110</drugbank-id>
+      <name>Palivizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00113</drugbank-id>
+      <name>Technetium Tc-99m arcitumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Technetium Tc-99m arcitumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04901</drugbank-id>
+      <name>Galiximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Galiximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04949</drugbank-id>
+      <name>Pexelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pexelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04958</drugbank-id>
+      <name>Epratuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Epratuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04962</drugbank-id>
+      <name>Bectumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bectumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04964</drugbank-id>
+      <name>Oregovomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Oregovomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04988</drugbank-id>
+      <name>IGN311</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with IGN311.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05006</drugbank-id>
+      <name>Adecatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Adecatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05097</drugbank-id>
+      <name>Labetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Labetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05101</drugbank-id>
+      <name>Matuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Matuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05111</drugbank-id>
+      <name>Fontolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fontolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05136</drugbank-id>
+      <name>Bavituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bavituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05139</drugbank-id>
+      <name>CR002</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with CR002.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05209</drugbank-id>
+      <name>Rozrolimupab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rozrolimupab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05304</drugbank-id>
+      <name>Girentuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Girentuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05336</drugbank-id>
+      <name>Obiltoxaximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Obiltoxaximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05405</drugbank-id>
+      <name>XTL-001</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with XTL-001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05437</drugbank-id>
+      <name>NAV 1800</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with NAV 1800.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05496</drugbank-id>
+      <name>Otelixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Otelixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05545</drugbank-id>
+      <name>AMG 108</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with AMG 108.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05550</drugbank-id>
+      <name>Iratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Iratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05555</drugbank-id>
+      <name>Enokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Enokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05595</drugbank-id>
+      <name>Farletuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Farletuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05656</drugbank-id>
+      <name>Veltuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Veltuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05793</drugbank-id>
+      <name>PRO-542</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with PRO-542.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05797</drugbank-id>
+      <name>TNX-901</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with TNX-901.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05889</drugbank-id>
+      <name>Inotuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Inotuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05892</drugbank-id>
+      <name>RI 624</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with RI 624.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05915</drugbank-id>
+      <name>MYO-029</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with MYO-029.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05916</drugbank-id>
+      <name>CT-011</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with CT-011.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05941</drugbank-id>
+      <name>Leronlimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Leronlimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05996</drugbank-id>
+      <name>Glembatumumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Glembatumumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06043</drugbank-id>
+      <name>Olaratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Olaratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06049</drugbank-id>
+      <name>IPH 2101</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with IPH 2101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06050</drugbank-id>
+      <name>TB-402</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with TB-402.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06101</drugbank-id>
+      <name>IMC-1C11</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with IMC-1C11.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06116</drugbank-id>
+      <name>Eldelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Eldelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06162</drugbank-id>
+      <name>Lumiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lumiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06192</drugbank-id>
+      <name>Nimotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nimotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06241</drugbank-id>
+      <name>Clenoliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Clenoliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06304</drugbank-id>
+      <name>BIIB015</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with BIIB015.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06305</drugbank-id>
+      <name>Sonepcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sonepcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06310</drugbank-id>
+      <name>Motavizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Motavizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06317</drugbank-id>
+      <name>Elotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Elotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06318</drugbank-id>
+      <name>AVE9633</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with AVE9633.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06322</drugbank-id>
+      <name>Carotuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carotuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06324</drugbank-id>
+      <name>XmAb 2513</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with XmAb 2513.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06342</drugbank-id>
+      <name>Coltuximab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Coltuximab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06343</drugbank-id>
+      <name>Teprotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Teprotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06360</drugbank-id>
+      <name>Lucatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lucatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06371</drugbank-id>
+      <name>Siplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Siplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06467</drugbank-id>
+      <name>Apolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Apolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06474</drugbank-id>
+      <name>Sibrotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sibrotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06550</drugbank-id>
+      <name>Bivatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bivatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06557</drugbank-id>
+      <name>Lerdelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lerdelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06599</drugbank-id>
+      <name>Lexatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lexatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06602</drugbank-id>
+      <name>Reslizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Reslizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06606</drugbank-id>
+      <name>Teplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Teplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06647</drugbank-id>
+      <name>Volociximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Volociximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08902</drugbank-id>
+      <name>Raxibacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Raxibacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09105</drugbank-id>
+      <name>Asfotase alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Asfotase alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09264</drugbank-id>
+      <name>Idarucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Idarucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09302</drugbank-id>
+      <name>Alirocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Alirocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09303</drugbank-id>
+      <name>Evolocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Evolocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11595</drugbank-id>
+      <name>Atezolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11604</drugbank-id>
+      <name>Tetanus Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tetanus Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11621</drugbank-id>
+      <name>Human Varicella-Zoster Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11646</drugbank-id>
+      <name>Conatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Conatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11657</drugbank-id>
+      <name>Tabalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tabalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11680</drugbank-id>
+      <name>Ficlatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ficlatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11685</drugbank-id>
+      <name>Figitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Figitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11714</drugbank-id>
+      <name>Durvalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Durvalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11715</drugbank-id>
+      <name>Bapineuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bapineuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11731</drugbank-id>
+      <name>Depatuxizumab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Depatuxizumab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11746</drugbank-id>
+      <name>Onartuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Onartuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11756</drugbank-id>
+      <name>Solanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Solanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11771</drugbank-id>
+      <name>Tremelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tremelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11826</drugbank-id>
+      <name>Lampalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lampalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11840</drugbank-id>
+      <name>Dalotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dalotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11849</drugbank-id>
+      <name>Emibetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Emibetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11850</drugbank-id>
+      <name>Ublituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ublituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11856</drugbank-id>
+      <name>Ligelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ligelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11857</drugbank-id>
+      <name>Seribantumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Seribantumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11862</drugbank-id>
+      <name>Landogrozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Landogrozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11866</drugbank-id>
+      <name>Romosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Romosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11884</drugbank-id>
+      <name>Vadastuximab Talirine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vadastuximab Talirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11914</drugbank-id>
+      <name>Lebrikizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lebrikizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11930</drugbank-id>
+      <name>Varlilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Varlilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11945</drugbank-id>
+      <name>Avelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Avelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11959</drugbank-id>
+      <name>Crenezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Crenezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11972</drugbank-id>
+      <name>Rilotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rilotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11976</drugbank-id>
+      <name>Anifrolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Anifrolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12023</drugbank-id>
+      <name>Benralizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Benralizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12034</drugbank-id>
+      <name>Gantenerumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gantenerumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12053</drugbank-id>
+      <name>Visilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Visilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12077</drugbank-id>
+      <name>Urelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Urelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12089</drugbank-id>
+      <name>Lorvotuzumab mertansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lorvotuzumab mertansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12090</drugbank-id>
+      <name>Patritumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Patritumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12102</drugbank-id>
+      <name>Fulranumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fulranumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12104</drugbank-id>
+      <name>Tarextumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tarextumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12118</drugbank-id>
+      <name>Sotatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sotatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12119</drugbank-id>
+      <name>Gevokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gevokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12142</drugbank-id>
+      <name>Duligotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Duligotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12152</drugbank-id>
+      <name>Simtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Simtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12157</drugbank-id>
+      <name>Fasinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fasinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12159</drugbank-id>
+      <name>Dupilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dupilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12169</drugbank-id>
+      <name>Tralokinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tralokinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12189</drugbank-id>
+      <name>Etrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Etrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12202</drugbank-id>
+      <name>Zalutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Zalutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12205</drugbank-id>
+      <name>Ganitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ganitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12213</drugbank-id>
+      <name>Etaracizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Etaracizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12240</drugbank-id>
+      <name>Polatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Polatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12246</drugbank-id>
+      <name>Inclacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Inclacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12250</drugbank-id>
+      <name>Cixutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cixutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12261</drugbank-id>
+      <name>Ascrinvacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ascrinvacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12274</drugbank-id>
+      <name>Aducanumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Aducanumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12281</drugbank-id>
+      <name>Luspatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Luspatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12296</drugbank-id>
+      <name>GS-5745</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with GS-5745.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12317</drugbank-id>
+      <name>Vanucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vanucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12331</drugbank-id>
+      <name>Labetuzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Labetuzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12335</drugbank-id>
+      <name>Tanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12342</drugbank-id>
+      <name>Ensituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ensituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12344</drugbank-id>
+      <name>Fezakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fezakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12363</drugbank-id>
+      <name>Dusigitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dusigitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12396</drugbank-id>
+      <name>Fresolimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fresolimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12413</drugbank-id>
+      <name>Indusatumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Indusatumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12456</drugbank-id>
+      <name>Bococizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bococizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12489</drugbank-id>
+      <name>Mirvetuximab Soravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mirvetuximab Soravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12498</drugbank-id>
+      <name>Mogamulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mogamulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12520</drugbank-id>
+      <name>Plozalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Plozalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12534</drugbank-id>
+      <name>Mavrilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mavrilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12560</drugbank-id>
+      <name>Blosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Blosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12584</drugbank-id>
+      <name>Bimagrumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bimagrumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12589</drugbank-id>
+      <name>Dacetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dacetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12609</drugbank-id>
+      <name>Tovetumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tovetumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12683</drugbank-id>
+      <name>Lumretuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lumretuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12698</drugbank-id>
+      <name>Ibalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ibalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12701</drugbank-id>
+      <name>Intetumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Intetumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12718</drugbank-id>
+      <name>Carlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Carlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12734</drugbank-id>
+      <name>Demcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Demcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12773</drugbank-id>
+      <name>Sifalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sifalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12775</drugbank-id>
+      <name>Abituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Abituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12797</drugbank-id>
+      <name>Ecromeximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ecromeximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12807</drugbank-id>
+      <name>Naptumomab Estafenatox</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Naptumomab Estafenatox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12815</drugbank-id>
+      <name>Crotedumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Crotedumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12820</drugbank-id>
+      <name>Concizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Concizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12826</drugbank-id>
+      <name>Depatuxizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Depatuxizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12844</drugbank-id>
+      <name>Rontalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rontalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12845</drugbank-id>
+      <name>Amatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Amatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12849</drugbank-id>
+      <name>Clazakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Clazakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12891</drugbank-id>
+      <name>Ozanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ozanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12893</drugbank-id>
+      <name>Sacituzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sacituzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12917</drugbank-id>
+      <name>Bimekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bimekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12943</drugbank-id>
+      <name>Milatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Milatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12976</drugbank-id>
+      <name>Robatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Robatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13017</drugbank-id>
+      <name>Rovalpituzumab Tesirine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Rovalpituzumab Tesirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13037</drugbank-id>
+      <name>Namilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Namilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13045</drugbank-id>
+      <name>Racotumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Racotumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13073</drugbank-id>
+      <name>Tregalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tregalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13127</drugbank-id>
+      <name>Olokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Olokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13140</drugbank-id>
+      <name>Bezlotoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bezlotoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13375</drugbank-id>
+      <name>Edrecolomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Edrecolomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13535</drugbank-id>
+      <name>Nebacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nebacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13886</drugbank-id>
+      <name>Human cytomegalovirus immune globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Human cytomegalovirus immune globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13976</drugbank-id>
+      <name>Sulesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sulesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13979</drugbank-id>
+      <name>Besilesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Besilesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14012</drugbank-id>
+      <name>Burosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Burosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14039</drugbank-id>
+      <name>Erenumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Erenumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14040</drugbank-id>
+      <name>Eptinezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Eptinezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14041</drugbank-id>
+      <name>Fremanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fremanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14042</drugbank-id>
+      <name>Galcanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Galcanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14211</drugbank-id>
+      <name>Fanolesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Fanolesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14580</drugbank-id>
+      <name>Lecanemab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lecanemab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14597</drugbank-id>
+      <name>Lanadelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lanadelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14707</drugbank-id>
+      <name>Cemiplimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Cemiplimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14776</drugbank-id>
+      <name>Camrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Camrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14778</drugbank-id>
+      <name>Setrusumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Setrusumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14784</drugbank-id>
+      <name>Gancotamab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gancotamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14809</drugbank-id>
+      <name>Anetumab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Anetumab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14811</drugbank-id>
+      <name>Isatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Isatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14824</drugbank-id>
+      <name>Icrucumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Icrucumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14843</drugbank-id>
+      <name>Codrituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Codrituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14864</drugbank-id>
+      <name>Brolucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Brolucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14871</drugbank-id>
+      <name>Xentuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Xentuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14877</drugbank-id>
+      <name>Lintuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lintuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14891</drugbank-id>
+      <name>Vobarilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vobarilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14897</drugbank-id>
+      <name>Parsatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Parsatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14905</drugbank-id>
+      <name>Emactuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Emactuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14907</drugbank-id>
+      <name>Bevacizumab zirconium Zr-89</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bevacizumab zirconium Zr-89.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14908</drugbank-id>
+      <name>Refanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Refanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14947</drugbank-id>
+      <name>Bermekimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Bermekimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14952</drugbank-id>
+      <name>Pamrevlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pamrevlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14959</drugbank-id>
+      <name>Opicinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Opicinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14962</drugbank-id>
+      <name>Trastuzumab deruxtecan</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Trastuzumab deruxtecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14967</drugbank-id>
+      <name>Margetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Margetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14988</drugbank-id>
+      <name>Dalantercept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Dalantercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14997</drugbank-id>
+      <name>Pateclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pateclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15014</drugbank-id>
+      <name>Gremubamab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gremubamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15022</drugbank-id>
+      <name>Apomab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Apomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15044</drugbank-id>
+      <name>Tafasitamab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tafasitamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15045</drugbank-id>
+      <name>Ipafricept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ipafricept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15076</drugbank-id>
+      <name>Abrilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Abrilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15089</drugbank-id>
+      <name>Frovocimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Frovocimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15090</drugbank-id>
+      <name>Tezepelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tezepelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15101</drugbank-id>
+      <name>Tigatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tigatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15104</drugbank-id>
+      <name>Telisotuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Telisotuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15113</drugbank-id>
+      <name>Utomilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Utomilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15118</drugbank-id>
+      <name>Zolbetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Zolbetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15135</drugbank-id>
+      <name>Ponezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ponezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15160</drugbank-id>
+      <name>Asunercept</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Asunercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15172</drugbank-id>
+      <name>Suvratoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Suvratoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15225</drugbank-id>
+      <name>Mitazalimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Mitazalimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15252</drugbank-id>
+      <name>Nemolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Nemolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15277</drugbank-id>
+      <name>Gedivumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Gedivumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15336</drugbank-id>
+      <name>Valanafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Valanafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15349</drugbank-id>
+      <name>Sofituzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Sofituzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15354</drugbank-id>
+      <name>Evinacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Evinacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15363</drugbank-id>
+      <name>Istiratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Istiratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15383</drugbank-id>
+      <name>Pidilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pidilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15397</drugbank-id>
+      <name>GMA-161</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with GMA-161.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15409</drugbank-id>
+      <name>Ladiratuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ladiratuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15415</drugbank-id>
+      <name>Tomaralimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tomaralimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15428</drugbank-id>
+      <name>Vesencumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Vesencumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15432</drugbank-id>
+      <name>Pinatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Pinatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15441</drugbank-id>
+      <name>Lulizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lulizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15443</drugbank-id>
+      <name>Lorukafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Lorukafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15453</drugbank-id>
+      <name>Naratuximab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Naratuximab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14004</drugbank-id>
+      <name>Tildrakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Tildrakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05679</drugbank-id>
+      <name>Ustekinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Ustekinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15559</drugbank-id>
+      <name>Zenocutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Zenocutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15898</drugbank-id>
+      <name>Atoltivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Atoltivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15899</drugbank-id>
+      <name>Maftivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Maftivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15900</drugbank-id>
+      <name>Odesivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Odesivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15719</drugbank-id>
+      <name>Belantamab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Efalizumab is combined with Belantamab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>Efalizumab may increase the immunosuppressive activities of Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14513</drugbank-id>
+      <name>Magnesium</name>
+      <description>The serum concentration of Magnesium can be decreased when it is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Efalizumab can be increased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of infection can be increased when Efalizumab is combined with Inebilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15258</drugbank-id>
+      <name>Imlifidase</name>
+      <description>The therapeutic efficacy of Efalizumab can be decreased when used in combination with Imlifidase.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Heavy Chain Variable Region
+EVQLVESGGGLVQPGGSLRLSCAASGYSFTGHWMNWVRQAPGKGLEWVGIMIHPSDSETR
+YNQKFKDIRFTISVDKSKNTLYLQMNSLRAEDTAVYYCARIGIYFYGTTYFDYIWGQGTL
+VTVSS</sequence>
+    <sequence format="FASTA">&gt;Light Chain Variable Region
+DIQMTQSPSSLSASVGDRVTITCRASKTISKYLAWXQQKPGKAPKLLIYSGSTLQSGVPS
+RFSGSGSGTDFTLTISSLQPEDFATYYCQQHNEYPLTFGQGTKVEIKR</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>61 °C (FAB fragment), 71 °C (whole mAb)</value>
+      <source>Vermeer, A.W.P. &amp; Norde, W., Biophys. J. 78:394-404 (2000)</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13093</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505252</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748817</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001095</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Efalizumab</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201575</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>356988</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/raptiva.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/efalizumab.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000516</id>
+      <name>Integrin alpha-L</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>antibody</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2114</ref-id>
+            <pubmed-id>19170413</pubmed-id>
+            <citation>Frampton JE, Plosker GL: Efalizumab: a review of its use in the management of chronic moderate-to-severe plaque psoriasis. Am J Clin Dermatol. 2009;10(1):51-72. doi: 10.2165/0128071-200910010-00009.</citation>
+          </article>
+          <article>
+            <ref-id>A146</ref-id>
+            <pubmed-id>17053736</pubmed-id>
+            <citation>Descamps V: [Efalizumab]. Ann Dermatol Venereol. 2006 Aug-Sep;133(8-9 Pt 1):666-78.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+          <article>
+            <ref-id>A199125</ref-id>
+            <pubmed-id>15799683</pubmed-id>
+            <citation>Wellington K, Perry CM: Efalizumab. Am J Clin Dermatol. 2005;6(2):113-8; discussion 119-20. doi: 10.2165/00128071-200506020-00006.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P20701" source="Swiss-Prot">
+        <name>Integrin alpha-L</name>
+        <general-function>Metal ion binding</general-function>
+        <specific-function>Integrin alpha-L/beta-2 is a receptor for ICAM1, ICAM2, ICAM3 and ICAM4. It is involved in a variety of immune phenomena including leukocyte-endothelial cell interaction, cytotoxic T-cell mediated killing, and antibody dependent killing by granulocytes and monocytes.</specific-function>
+        <gene-name>ITGAL</gene-name>
+        <locus>16p11.2</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>1091-1111</transmembrane-regions>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>5.35</theoretical-pi>
+        <molecular-weight>128768.495</molecular-weight>
+        <chromosome-location>16</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6148</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ITGAL</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00796</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31422</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2451</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P20701</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ITAL_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD11 antigen-like family member A</synonym>
+          <synonym>CD11A</synonym>
+          <synonym>Leukocyte adhesion glycoprotein LFA-1 alpha chain</synonym>
+          <synonym>Leukocyte function-associated molecule 1 alpha chain</synonym>
+          <synonym>LFA-1A</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001030|Integrin alpha-L
+MKDSCITVMAMALLSGFFFFAPASSYNLDVRGARSFSPPRAGRHFGYRVLQVGNGVIVGA
+PGEGNSTGSLYQCQSGTGHCLPVTLRGSNYTSKYLGMTLATDPTDGSILACDPGLSRTCD
+QNTYLSGLCYLFRQNLQGPMLQGRPGFQECIKGNVDLVFLFDGSMSLQPDEFQKILDFMK
+DVMKKLSNTSYQFAAVQFSTSYKTEFDFSDYVKRKDPDALLKHVKHMLLLTNTFGAINYV
+ATEVFREELGARPDATKVLIIITDGEATDSGNIDAAKDIIRYIIGIGKHFQTKESQETLH
+KFASKPASEFVKILDTFEKLKDLFTELQKKIYVIEGTSKQDLTSFNMELSSSGISADLSR
+GHAVVGAVGAKDWAGGFLDLKADLQDDTFIGNEPLTPEVRAGYLGYTVTWLPSRQKTSLL
+ASGAPRYQHMGRVLLFQEPQGGGHWSQVQTIHGTQIGSYFGGELCGVDVDQDGETELLLI
+GAPLFYGEQRGGRVFIYQRRQLGFEEVSELQGDPGYPLGRFGEAITALTDINGDGLVDVA
+VGAPLEEQGAVYIFNGRHGGLSPQPSQRIEGTQVLSGIQWFGRSIHGVKDLEGDGLADVA
+VGAESQMIVLSSRPVVDMVTLMSFSPAEIPVHEVECSYSTSNKMKEGVNITICFQIKSLI
+PQFQGRLVANLTYTLQLDGHRTRRRGLFPGGRHELRRNIAVTTSMSCTDFSFHFPVCVQD
+LISPINVSLNFSLWEEEGTPRDQRAQGKDIPPILRPSLHSETWEIPFEKNCGEDKKCEAN
+LRVSFSPARSRALRLTAFASLSVELSLSNLEEDAYWVQLDLHFPPGLSFRKVEMLKPHSQ
+IPVSCEELPEESRLLSRALSCNVSSPIFKAGHSVALQMMFNTLVNSSWGDSVELHANVTC
+NNEDSDLLEDNSATTIIPILYPINILIQDQEDSTLYVSFTPKGPKIHQVKHMYQVRIQPS
+IHDHNIPTLEAVVGVPQPPSEGPITHQWSVQMEPPVPCHYEDLERLPDAAEPCLPGALFR
+CPVVFRQEILVQVIGTLELVGEIEASSMFSLCSSLSISFNSSKHFHLYGSNASLAQVVMK
+VDVVYEKQMLYLYVLSGIGGLLLLLLIFIVLYKVGFFKRNLKEKMEAGRGVPNGIPAEDS
+EQLASGQEAGDPGCLKPLHEKDSESGGGKD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021647|Integrin alpha-L (ITGAL)
+ATGAAGGATTCCTGCATCACTGTGATGGCCATGGCGCTGCTGTCTGGGTTCTTTTTCTTC
+GCGCCGGCCTCGAGCTACAACCTGGACGTGCGGGGCGCGCGGAGCTTCTCCCCACCGCGC
+GCCGGGAGGCACTTTGGATACCGCGTCCTGCAGGTCGGAAACGGGGTCATCGTGGGAGCT
+CCAGGGGAGGGGAACAGCACAGGAAGCCTCTATCAGTGCCAGTCGGGCACAGGACACTGC
+CTGCCAGTCACCCTGAGAGGTTCCAACTATACCTCCAAGTACTTGGGAATGACCTTGGCA
+ACAGACCCCACAGATGGAAGCATTTTGTTTGCTGCTGTTCAGTTTTCCACAAGCTACAAA
+ACAGAATTTGATTTCTCAGATTATGTTAAACGGAAGGACCCTGATGCTCTGCTGAAGCAT
+GTAAAGCACATGTTGCTGTTGACCAATACCTTTGGTGCCATCAATTATGTCGCGACAGAG
+GTGTTCCGGGAGGAGCTGGGGGCCCGGCCAGATGCCACCAAAGTGCTTATCATCATCACG
+GATGGGGAGGCCACTGACAGTGGCAACATCGATGCGGCCAAAGACATCATCCGCTACATC
+ATCGGGATTGGAAAGCATTTTCAGACCAAGGAGAGTCAGGAGACCCTCCACAAATTTGCA
+TCAAAACCCGCGAGCGAGTTTGTGAAAATTCTGGACACATTTGAGAAGCTGAAAGATCTA
+TTCACTGAGCTGCAGAAGAAGATCTATGTCATTGAGGGCACAAGCAAACAGGACCTGACT
+TCCTTCAACATGGAGCTGTCCTCCAGCGGCATCAGTGCTGACCTCAGCAGGGGCCATGCA
+GTCGTGGGGGCAGTAGGAGCCAAGGACTGGGCTGGGGGCTTTCTTGACCTGAAGGCAGAC
+CTGCAGGATGACACATTTATTGGGAATGAACCATTGACACCAGAAGTGAGAGCAGGCTAT
+TTGGGTTACACCGTGACCTGGCTGCCCTCCCGGCAAAAGACTTCGTTGCTGGCCTCGGGA
+GCCCCTCGATACCAGCACATGGGCCGAGTGCTGCTGTTCCAAGAGCCACAGGGCGGAGGA
+CACTGGAGCCAGGTCCAGACAATCCATGGGACCCAGATTGGCTCTTATTTCGGTGGGGAG
+CTGTGTGGCGTCGACGTGGACCAAGATGGGGAGACAGAGCTGCTGCTGATTGGTGCCCCA
+CTGTTCTATGGGGAGCAGAGAGGAGGCCGGGTGTTTATCTACCAGAGAAGACAGTTGGGG
+TTTGAAGAAGTCTCAGAGCTGCAGGGGGACCCCGGCTACCCACTCGGGCGGTTTGGAGAA
+GCCATCACTGCTCTGACAGACATCAACGGCGATGGGCTGGTAGACGTGGCTGTGGGGGCC
+CCTCTGGAGGAGCAGGGGGCTGTGTACATCTTCAATGGGAGGCACGGGGGGCTTAGTCCC
+CAGCCAAGTCAGCGGATAGAAGGGACCCAAGTGCTCTCAGGAATTCAGTGGTTTGGACGC
+TCCATCCATGGGGTGAAGGACCTTGAAGGGGATGGCTTGGCAGATGTGGCTGTGGGGGCT
+GAGAGCCAGATGATCGTGCTGAGCTCCCGGCCCGTGGTGGATATGGTCACCCTGATGTCC
+TTCTCTCCAGCTGAGATCCCAGTGCATGAAGTGGAGTGCTCCTATTCAACCAGTAACAAG
+ATGAAAGAAGGAGTTAATATCACAATCTGTTTCCAGATCAAGTCTCTCATCCCCCAGTTC
+CAAGGCCGCCTGGTTGCCAATCTCACTTACACTCTGCAGCTGGATGGCCACCGGACCAGA
+AGACGGGGGTTGTTCCCAGGAGGGAGACATGAACTCAGAAGGAATATAGCTGTCACCACC
+AGCATGTCATGCACTGACTTCTCATTTCATTTCCCGGTATGTGTTCAAGACCTCATCTCC
+CCCATCAATGTTTCCCTGAATTTCTCTCTTTGGGAGGAGGAAGGGACACCGAGGGACCAA
+AGGGCGGGCAAGGACATACCGCCCATCCTGAGACCCTCCCTGCACTCGGAAACCTGGGAG
+ATCCCTTTTGAGAAGAACTGTGGGGAGGACAAGAAGTGTGAGGCAAACTTGAGAGTGTCC
+TTCTCTCCTGCAAGATCCAGAGCCCTGCGTCTAACTGCTTTTGCCAGCCTCTCTGTGGAG
+CTGAGCCTGAGTAACTTGGAAGAAGATGCTTACTGGGTCCAGCTGGACCTGCACTTCCCC
+CCGGGACTCTCCTTCCGCAAGGTGGAGATGCTGAAGCCCCATAGCCAGATACCTGTGAGC
+TGCGAGGAGCTTCCTGAAGAGTCCAGGCTTCTGTCCAGGGCATTATCTTGCAATGTGAGC
+TCTCCCATCTTCAAAGCAGGCCACTCGGTTGCTCTGCAGATGATGTTTAATACACTGGTA
+AACAGCTCCTGGGGGGACTCGGTTGAATTGCACGCCAATGTGACCTGTAACAATGAGGAC
+TCAGACCTCCTGGAGGACAACTCAGCCACTACCATCATCCCCATCCTGTACCCCATCAAC
+ATCCTCATCCAGGACCAAGAAGACTCCACACTCTATGTCAGTTTCACCCCCAAAGGCCCC
+AAGATCCACCAAGTCAAGCACATGTACCAGGTGAGGATCCAGCCTTCCATCCACGACCAC
+AACATACCCACCCTGGAGGCTGTGGTTGGGGTGCCACAGCCTCCCAGCGAGGGGCCCATC
+ACACACCAGTGGAGCGTGCAGATGGAGCCTCCCGTGCCCTGCCACTATGAGGATCTGGAG
+AGGCTCCCGGATGCAGCTGAGCCTTGTCTCCCCGGAGCCCTGTTCCGCTGCCCTGTTGTC
+TTCAGGCAGGAGATCCTCGTCCAAGTGATCGGGACTCTGGAGCTGGTGGGAGAGATCGAG
+GCCTCTTCCATGTTCAGCCTCTGCAGCTCCCTCTCCATCTCCTTCAACAGCAGCAAGCAT
+TTCCACCTCTATGGCAGCAACGCCTCCCTGGCCCAGGTTGTCATGAAGGTTGACGTGGTG
+TATGAGAAGCAGATGCTCTACCTCTACGTGCTGAGCGGCATCGGGGGGCTGCTGCTGCTG
+CTGCTCATTTTCATAGTGCTGTACAAGGTTGGTTTCTTCAAACGGAACCTGAAGGAGAAG
+ATGGAGGCTGGCAGAGGTGTCCCGAATGGAATCCCTGCAGAAGACTCTGAGCAGCTGGCA
+TCTGGGCAAGAGGCTGGGGATCCCGGCTGCCTGAAGCCCCTCCATGAGAAGGACTCTGAG
+AGTGGTGGTGGCAAGGACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01839</identifier>
+            <name>FG-GAP</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00357</identifier>
+            <name>Integrin_alpha</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08441</identifier>
+            <name>Integrin_alpha2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00092</identifier>
+            <name>VWA</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell-cell junction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>immunological synapse</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integrin alphaL-beta2 complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integrin complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cell adhesion molecule binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ICAM-3 receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activated T cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-matrix adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heterophilic cell-cell adhesion via plasma membrane cell adhesion molecules</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>integrin-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>movement of cell or subcellular component</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of calcium-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of T cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor clustering</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>T cell activation via T cell receptor contact with antigen bound to MHC molecule on antigen presenting cell</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="1">
+      <id>BE0009967</id>
+      <name>Integrin alpha-X</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>antibody</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202904</ref-id>
+            <pubmed-id>25070825</pubmed-id>
+            <citation>Pan WZ, Shi CX, Tian M, Yu JG: Anti-CD11c antibody, Efalizumab attenuate ventilator-induced lung injury. Eur Rev Med Pharmacol Sci. 2014;18(15):2182-90.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P20702" source="Swiss-Prot">
+        <name>Integrin alpha-X</name>
+        <general-function>Integrin alpha-X/beta-2 is a receptor for fibrinogen. It recognizes the sequence G-P-R in fibrinogen. It mediates cell-cell interaction during inflammatory responses. It is especially important in monocyte adhesion and chemotaxis.</general-function>
+        <specific-function>Metal ion binding</specific-function>
+        <gene-name>ITGAX</gene-name>
+        <locus>16p11.2</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>1108-1128</transmembrane-regions>
+        <signal-regions>1-19</signal-regions>
+        <theoretical-pi/>
+        <molecular-weight>127828.18</molecular-weight>
+        <chromosome-location>16</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6152</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P20702</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ITAX_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD11 antigen-like family member C</synonym>
+          <synonym>CD11C</synonym>
+          <synonym>Leu M5</synonym>
+          <synonym>Leukocyte adhesion glycoprotein p150,95 alpha chain</synonym>
+          <synonym>Leukocyte adhesion receptor p150,95</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0052471|Integrin alpha-X
+MTRTRAALLLFTALATSLGFNLDTEELTAFRVDSAGFGDSVVQYANSWVVVGAPQKITAA
+NQTGGLYQCGYSTGACEPIGLQVPPEAVNMSLGLSLASTTSPSQLLACGPTVHHECGRNM
+YLTGLCFLLGPTQLTQRLPVSRQECPRQEQDIVFLIDGSGSISSRNFATMMNFVRAVISQ
+FQRPSTQFSLMQFSNKFQTHFTFEEFRRSSNPLSLLASVHQLQGFTYTATAIQNVVHRLF
+HASYGARRDAAKILIVITDGKKEGDSLDYKDVIPMADAAGIIRYAIGVGLAFQNRNSWKE
+LNDIASKPSQEHIFKVEDFDALKDIQNQLKEKIFAIEGTETTSSSSFELEMAQEGFSAVF
+TPDGPVLGAVGSFTWSGGAFLYPPNMSPTFINMSQENVDMRDSYLGYSTELALWKGVQSL
+VLGAPRYQHTGKAVIFTQVSRQWRMKAEVTGTQIGSYFGASLCSVDVDSDGSTDLVLIGA
+PHYYEQTRGGQVSVCPLPRGWRRWWCDAVLYGEQGHPWGRFGAALTVLGDVNGDKLTDVV
+IGAPGEEENRGAVYLFHGVLGPSISPSHSQRIAGSQLSSRLQYFGQALSGGQDLTQDGLV
+DLAVGARGQVLLLRTRPVLWVGVSMQFIPAEIPRSAFECREQVVSEQTLVQSNICLYIDK
+RSKNLLGSRDLQSSVTLDLALDPGRLSPRATFQETKNRSLSRVRVLGLKAHCENFNLLLP
+SCVEDSVTPITLRLNFTLVGKPLLAFRNLRPMLAADAQRYFTASLPFEKNCGADHICQDN
+LGISFSFPGLKSLLVGSNLELNAEVMVWNDGEDSYGTTITFSHPAGLSYRYVAEGQKQGQ
+LRSLHLTCDSAPVGSQGTWSTSCRINHLIFRGGAQITFLATFDVSPKAVLGDRLLLTANV
+SSENNTPRTSKTTFQLELPVKYAVYTVVSSHEQFTKYLNFSESEEKESHVAMHRYQVNNL
+GQRDLPVSINFWVPVELNQEAVWMDVEVSHPQNPSLRCSSEKIAPPASDFLAHIQKNPVL
+DCSIAGCLRFRCDVPSFSVQEELDFTLKGNLSFGWVRQILQKKVSVVSVAEITFDTSVYS
+QLPGQEAFMRAQTTTVLEKYKVHNPTPLIVGSSIGGLLLLALITAVLYKVGFFKRQYKEM
+MEEANGQIAPENGTQTPSPPSEK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0052472|Integrin alpha-X (ITGAX)
+ATGACCAGGACCAGGGCAGCACTCCTCCTGTTCACAGCCTTAGCAACTTCTCTAGGTTTC
+AACTTGGACACAGAGGAGCTGACAGCCTTCCGTGTGGACAGCGCTGGGTTTGGAGACAGC
+GTGGTCCAGTATGCCAACTCCTGGGTGGTGGTTGGAGCCCCCCAAAAGATAACAGCTGCC
+AACCAAACGGGTGGCCTCTACCAGTGTGGCTACAGCACTGGTGCCTGTGAGCCCATCGGC
+CTGCAGGTGCCCCCGGAGGCCGTGAACATGTCCCTGGGCCTGTCCCTGGCGTCTACCACC
+AGCCCTTCCCAGCTGCTGGCCTGCGGCCCCACCGTGCACCACGAGTGCGGGAGGAACATG
+TACCTCACCGGACTCTGCTTCCTCCTGGGCCCCACCCAGCTCACCCAGAGGCTCCCGGTG
+TCCAGGCAGGAGTGCCCAAGACAGGAGCAGGACATTGTGTTCCTGATCGATGGCTCAGGC
+AGCATCTCCTCCCGCAACTTTGCCACGATGATGAACTTCGTGAGAGCTGTGATAAGCCAG
+TTCCAGAGACCCAGCACCCAGTTTTCCCTGATGCAGTTCTCCAACAAATTCCAAACACAC
+TTCACTTTCGAGGAATTCAGGCGCAGCTCAAACCCCCTCAGCCTGTTGGCTTCTGTTCAC
+CAGCTGCAAGGGTTTACATACACGGCCACCGCCATCCAAAATGTCGTGCACCGATTGTTC
+CATGCCTCATATGGGGCCCGTAGGGATGCCGCCAAAATTCTCATTGTCATCACTGATGGG
+AAGAAAGAAGGCGACAGCCTGGATTATAAGGATGTCATCCCCATGGCTGATGCAGCAGGC
+ATCATCCGCTATGCAATTGGGGTTGGATTAGCTTTTCAAAACAGAAATTCTTGGAAAGAA
+TTAAATGACATTGCATCGAAGCCCTCCCAGGAACACATATTTAAAGTGGAGGACTTTGAT
+GCTCTGAAAGATATTCAAAACCAACTGAAGGAGAAGATCTTTGCCATTGAGGGTACGGAG
+ACCACAAGCAGTAGCTCCTTCGAATTGGAGATGGCACAGGAGGGCTTCAGCGCTGTGTTC
+ACACCTGATGGCCCCGTTCTGGGGGCTGTGGGGAGCTTCACCTGGTCTGGAGGTGCCTTC
+CTGTACCCCCCAAATATGAGCCCTACCTTCATCAACATGTCTCAGGAGAATGTGGACATG
+AGGGACTCTTACCTGGGTTACTCCACCGAGCTGGCCCTCTGGAAAGGGGTGCAGAGCCTG
+GTCCTGGGGGCCCCCCGCTACCAGCACACCGGGAAGGCTGTCATCTTCACCCAGGTGTCC
+AGGCAATGGAGGATGAAGGCCGAAGTCACGGGGACTCAGATCGGCTCCTACTTCGGGGCC
+TCCCTCTGCTCCGTGGACGTAGACAGCGACGGCAGCACCGACCTGGTCCTCATCGGGGCC
+CCCCATTACTACGAGCAGACCCGAGGGGGCCAGGTGTCTGTGTGTCCCTTGCCCAGGGGG
+TGGAGAAGGTGGTGGTGTGATGCTGTTCTCTACGGGGAGCAGGGCCACCCCTGGGGTCGC
+TTTGGGGCGGCTCTGACAGTGCTGGGGGATGTGAATGGGGACAAGCTGACAGACGTGGTC
+ATCGGGGCCCCAGGAGAGGAGGAGAACCGGGGTGCTGTCTACCTGTTTCACGGAGTCTTG
+GGACCCAGCATCAGCCCCTCCCACAGCCAGCGGATCGCGGGCTCCCAGCTCTCCTCCAGG
+CTGCAGTATTTTGGGCAGGCACTGAGCGGGGGTCAAGACCTCACCCAGGATGGACTGGTG
+GACCTGGCTGTGGGGGCCCGGGGCCAGGTGCTCCTGCTCAGGACCAGACCTGTGCTCTGG
+GTGGGGGTGAGCATGCAGTTCATACCTGCCGAGATCCCCAGGTCTGCGTTTGAGTGTCGG
+GAGCAGGTGGTCTCTGAGCAGACCCTGGTACAGTCCAACATCTGCCTTTACATTGACAAA
+CGTTCTAAGAACCTGCTTGGGAGCCGTGACCTCCAAAGCTCTGTGACCTTGGACCTGGCC
+CTCGACCCTGGCCGCCTGAGTCCCCGTGCCACCTTCCAGGAAACAAAGAACCGGAGTCTG
+AGCCGAGTCCGAGTCCTCGGGCTGAAGGCACACTGTGAAAACTTCAACCTGCTGCTCCCG
+AGCTGCGTGGAGGACTCTGTGACCCCCATTACCTTGCGTCTGAACTTCACGCTGGTGGGC
+AAGCCCCTCCTTGCCTTCAGAAACCTGCGGCCTATGCTGGCCGCCGATGCTCAGAGATAC
+TTCACGGCCTCCCTACCCTTTGAGAAGAACTGTGGAGCCGACCATATCTGCCAGGACAAT
+CTCGGCATCTCCTTCAGCTTCCCAGGCTTGAAGTCCCTGCTGGTGGGGAGTAACCTGGAG
+CTGAACGCAGAAGTGATGGTGTGGAATGACGGGGAAGACTCCTACGGAACCACCATCACC
+TTCTCCCACCCCGCAGGACTGTCCTACCGCTACGTGGCAGAGGGCCAGAAACAAGGGCAG
+CTGCGTTCCCTGCACCTGACATGTGACAGCGCCCCAGTTGGGAGCCAGGGCACCTGGAGC
+ACCAGCTGCAGAATCAACCACCTCATCTTCCGTGGCGGCGCCCAGATCACCTTCTTGGCT
+ACCTTTGACGTCTCCCCCAAGGCTGTCCTGGGAGACCGGCTGCTTCTGACAGCCAATGTG
+AGCAGTGAGAACAACACTCCCAGGACCAGCAAGACCACCTTCCAGCTGGAGCTCCCGGTG
+AAGTATGCTGTCTACACTGTGGTTAGCAGCCACGAACAATTCACCAAATACCTCAACTTC
+TCAGAGTCTGAGGAGAAGGAAAGCCATGTGGCCATGCACAGATACCAGGTCAATAACCTG
+GGACAGAGGGACCTGCCTGTCAGCATCAACTTCTGGGTGCCTGTGGAGCTGAACCAGGAG
+GCTGTGTGGATGGATGTGGAGGTCTCCCACCCCCAGAACCCATCCCTTCGGTGCTCCTCA
+GAGAAAATCGCACCCCCAGCATCTGACTTCCTGGCGCACATTCAGAAGAATCCCGTGCTG
+GACTGCTCCATTGCTGGCTGCCTGCGGTTCCGCTGTGACGTCCCCTCCTTCAGCGTCCAG
+GAGGAGCTGGATTTCACCCTGAAGGGCAACCTCAGCTTTGGCTGGGTCCGCCAGATATTG
+CAGAAGAAGGTGTCGGTCGTGAGTGTGGCTGAAATTACGTTCGACACATCCGTGTACTCC
+CAGCTTCCAGGACAGGAGGCATTTATGAGAGCTCAGACGACAACGGTGCTGGAGAAGTAC
+AAGGTCCACAACCCCACCCCCCTCATCGTAGGCAGCTCCATTGGGGGTCTGTTGCTGCTG
+GCACTCATCACAGCGGTACTGTACAAAGTTGGCTTCTTCAAGCGTCAGTACAAGGAAATG
+ATGGAGGAGGCAAATGGACAAATTGCCCCAGAAAACGGGACACAGACCCCCAGCCCGCCC
+AGTGAGAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01839</identifier>
+            <name>FG-GAP</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00357</identifier>
+            <name>Integrin_alpha</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08441</identifier>
+            <name>Integrin_alpha2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00092</identifier>
+            <name>VWA</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>ficolin-1-rich granule membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integrin complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>protein-containing complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>tertiary granule membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor tyrosine kinase binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>animal organ morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heterotypic cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>integrin-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell population proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of endothelial tube morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of myelination</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

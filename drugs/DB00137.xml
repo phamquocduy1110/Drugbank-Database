@@ -1,0 +1,981 @@
+<drug type="small molecule" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00137</drugbank-id>
+  <drugbank-id>NUTR00036</drugbank-id>
+  <drugbank-id>DB11138</drugbank-id>
+  <name>Lutein</name>
+  <description>Lutein is an xanthophyll and one of 600 known naturally occurring carotenoids. Lutein is synthesized only by plants and like other xanthophylls is found in high quantities in green leafy vegetables such as spinach, kale and yellow carrots. In green plants, xanthophylls act to modulate light energy and serve as non-photochemical quenching agents to deal with triplet chlorophyll (an excited form of chlorophyll), which is overproduced at very high light levels, during photosynthesis.</description>
+  <cas-number>127-40-2</cas-number>
+  <unii>X72A60C9MT</unii>
+  <average-mass>568.886</average-mass>
+  <monoisotopic-mass>568.428031043</monoisotopic-mass>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A7302</ref-id>
+        <pubmed-id>20830634</pubmed-id>
+        <citation>Namitha KK, Negi PS: Chemistry and biotechnology of carotenoids. Crit Rev Food Sci Nutr. 2010 Sep;50(8):728-60. doi: 10.1080/10408398.2010.499811.</citation>
+      </article>
+      <article>
+        <ref-id>A7303</ref-id>
+        <pubmed-id>20355006</pubmed-id>
+        <citation>Ma L, Lin XM: Effects of lutein and zeaxanthin on aspects of eye health. J Sci Food Agric. 2010 Jan 15;90(1):2-12. doi: 10.1002/jsfa.3785.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Helmut Auweter, Heribert Bohn, Erik Luddecke, "Stable, aqueous dispersions and stable, water-dispersible dry xanthophyll powder, their production and use." U.S. Patent US6296877, issued September, 1994.</synthesis-reference>
+  <indication>Xanthophylls are taken for nutritional supplementation, and also for treating dietary shortage or imbalance.</indication>
+  <pharmacodynamics>Lutein was found to be present in a concentrated area of the macula, a small area of the retina responsible for central vision. The hypothesis for the natural concentration is that lutein helps protect from oxidative stress and high-energy light. Several studies show that an increase in macula pigmentation decreases the risk for eye diseases such as Age-related Macular Degeneration (AMD).</pharmacodynamics>
+  <mechanism-of-action>Xanthophylls have antioxidant activity and react with active oxygen species, producing biologically active degradation products. They also can inhibit peroxidation of membrane phospholipids and reduce lipofuscin formation, both of which contribute to their antioxidant properties. Lutein is naturally present in the macula of the human retina. It filters out potentially phototoxic blue light and near-ultraviolet radiation from the macula. The protective effect is due in part, to the reactive oxygen species quenching ability of these carotenoids. Lutein is more stable to decomposition by pro-oxidants than are other carotenoids such as beta-carotene and lycopene. Lutein is abundant in the region surrounding the fovea, and lutein is the predominant pigment at the outermost periphery of the macula. Zeaxanthin, which is fully conjugated (lutein is not), may offer somewhat better protection than lutein against phototoxic damage caused by blue and near-ultraviolet light radiation. Lutein is one of only two carotenoids that have been identified in the human lens, may be protective against age-related increases in lens density and cataract formation. Again, the possible protection afforded by lutein may be accounted for, in part, by its reactive oxygen species scavenging abilities. Carotenoids also provide protection from cancer. One of the mechanisms of this is by increasing the expression of the protein connexin-43, thereby stimulating gap junctional communication and preventing unrestrained cell proliferation.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as xanthophylls. These are carotenoids containing an oxygenated carotene backbone. Carotenes are characterized by the presence of two end-groups (mostly cyclohexene rings, but also cyclopentene rings or acyclic groups) linked by a long branched alkyl chain. Carotenes belonging form a subgroup of the carotenoids family. Xanthophylls arise by oxygenation of the carotene backbone.</description>
+    <direct-parent>Xanthophylls</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Prenol lipids</class>
+    <subclass>Tetraterpenoids</subclass>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic homomonocyclic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Secondary alcohol</substituent>
+    <substituent>Xanthophyll</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Xanthophyll</synonym>
+    <synonym language="english" coder="inn">Xantofyl</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>AREDS2 Formula</name>
+      <labeller>Red Wedding LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>77790-009</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Corvita</name>
+      <labeller>Trigen Laboratories, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13811-028</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-03-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Corvite</name>
+      <labeller>Vertical Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68025-011</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-08-15</started-marketing-on>
+      <ended-marketing-on>2017-12-31</ended-marketing-on>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Corvite Free</name>
+      <labeller>Vertical Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68025-030</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-10-01</started-marketing-on>
+      <ended-marketing-on>2020-03-31</ended-marketing-on>
+      <dosage-form>Tablet, coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Doctor Super Lutein</name>
+      <labeller>Health-Love Co.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59091-5001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-01-30</started-marketing-on>
+      <ended-marketing-on>2018-02-12</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength>20 g/100g</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Macuvex</name>
+      <labeller>Sterling-knight Pharmaceuticals,LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>69336-400</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-11-16</started-marketing-on>
+      <ended-marketing-on>2015-07-28</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Macuzin</name>
+      <labeller>Sterling-Knight Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>69336-800</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-04-30</started-marketing-on>
+      <ended-marketing-on>2018-07-30</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ocuvel</name>
+      <labeller>Adler-Stern Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>69054-210</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-11-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ocuvel</name>
+      <labeller>Adler-Stern Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>69054-211</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>RE FAC-x</name>
+      <labeller>River’s Edge Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68032-228</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-07-01</started-marketing-on>
+      <ended-marketing-on>2011-01-13</ended-marketing-on>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Strovite One Caplets</name>
+      <labeller>Exeltis Usa, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0642-0207</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2001-05-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Tozal</name>
+      <labeller>Focus Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>15821-501</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-06-01</started-marketing-on>
+      <ended-marketing-on>2015-07-15</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>RE FAC-x</name>
+      <ingredients>Ascorbic acid + Biotin + Cholecalciferol + Chromium picolinate + Cupric sulfate + Cyanocobalamin + Folic acid + Lutein + Lycopene + Magnesium + Manganese + Nicotinamide + Pantothenic acid + Pyridoxine + Riboflavin + Selenomethionine + Thiamine + Vitamin A + Vitamin E + Zinc</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ocuvel</name>
+      <ingredients>alpha-Tocopherol acetate + Ascorbic acid + Copper + Folic acid + Lutein + Zeaxanthin + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ocuvel</name>
+      <ingredients>alpha-Tocopherol acetate + Ascorbic acid + Copper + Folic acid + Lutein + Zeaxanthin + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Macuvex</name>
+      <ingredients>alpha-Tocopherol acetate + Ascorbic acid + Copper + Folic acid + Lutein + Zeaxanthin + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Tozal</name>
+      <ingredients>Ascorbic acid + Cholecalciferol + Copper + Cyanocobalamin + Folic acid + Lutein + Omega-3 fatty acids + Pyridoxine + Taurine + Vitamin A + Vitamin E + Zeaxanthin + Zinc picolinate</ingredients>
+    </mixture>
+    <mixture>
+      <name>Strovite One Caplets</name>
+      <ingredients>alpha-Tocopherol succinate + Ascorbic acid + Biotin + Cholecalciferol + Chromium + Cupric sulfate + Cyanocobalamin + Folic acid + Lipoic acid + Lutein + Magnesium oxide + Manganese + Nicotinamide + Pantothenic acid + Pyridoxine + Riboflavin + Selenium + Thiamine + Vitamin A + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Doctor Super Lutein</name>
+      <ingredients>Lutein</ingredients>
+    </mixture>
+    <mixture>
+      <name>Corvite Free</name>
+      <ingredients>alpha-Tocopherol succinate + Ascorbic acid + Biotin + Cholecalciferol + Chromic chloride + Copper gluconate + Cyanocobalamin + Folic acid + Lipoic acid + Lutein + Lycopene + Magnesium oxide + Nicotinamide + Pantothenic acid + Pyridoxine + Riboflavin + Selenomethionine + Thiamine + Ubidecarenone + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Macuzin</name>
+      <ingredients>Ascorbic acid + Copper + DL-alpha tocopheryl acetate + Folic acid + Lutein + Zeaxanthin + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Corvite</name>
+      <ingredients>alpha-Tocopherol succinate + Ascorbic acid + Beta carotene + Biotin + Cholecalciferol + Chromium picolinate + Copper gluconate + Cyanocobalamin + Folic acid + Iron + Lipoic acid + Lutein + Lycopene + Magnesium oxide + Nicotinamide + Pantothenic acid + Pyridoxine + Riboflavin + Selenomethionine + Thiamine + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Corvita</name>
+      <ingredients>alpha-Tocopherol succinate + Ascorbic acid + Beta carotene + Biotin + Cholecalciferol + Chromium picolinate + Copper gluconate + Cyanocobalamin + Folic acid + Iron + Lipoic acid + Lutein + Lycopene + Magnesium oxide + Nicotinamide + Pantothenic acid + Pyridoxine + Riboflavin + Selenic acid + Thiamine + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>AREDS2 Formula</name>
+      <ingredients>Ascorbic acid + Copper gluconate + Glutathione + Lutein + Selenium + Vitamin E + Zeaxanthin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alkenes</category>
+      <mesh-id>D000475</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Carotenoids</category>
+      <mesh-id>D002338</mesh-id>
+    </category>
+    <category>
+      <category>Cyclohexanes</category>
+      <mesh-id>D003510</mesh-id>
+    </category>
+    <category>
+      <category>Cyclohexenes</category>
+      <mesh-id>D053138</mesh-id>
+    </category>
+    <category>
+      <category>Cycloparaffins</category>
+      <mesh-id>D003516</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Hydrocarbons, Acyclic</category>
+      <mesh-id>D006839</mesh-id>
+    </category>
+    <category>
+      <category>Pigments, Biological</category>
+      <mesh-id>D010860</mesh-id>
+    </category>
+    <category>
+      <category>Polyenes</category>
+      <mesh-id>D011090</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Terpenes</category>
+      <mesh-id>D013729</mesh-id>
+    </category>
+    <category>
+      <category>Xanthophylls</category>
+      <mesh-id>D024341</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>320 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>6 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>400 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>20 g/100g</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>100 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>4 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>1828 µg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, gelatin coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Tablet</form>
+      <route>Oral</route>
+      <strength>10 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>300 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00137.pdf?1265922740</msds>
+  <patents/>
+  <food-interactions>
+    <food-interaction>Take with foods containing vitamin C. Taking lutein with vitamin C may increase the rate of absorption of lutein. Taking lutein with carotenoids or naringenin may reduce lutein absorption.</food-interaction>
+  </food-interactions>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>8.29</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.9</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>7.32e-04 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>8.55</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1R,4R)-4-[(1E,3E,5E,7E,9E,11E,13E,15E,17E)-18-[(4R)-4-hydroxy-2,6,6-trimethylcyclohex-1-en-1-yl]-3,7,12,16-tetramethyloctadeca-1,3,5,7,9,11,13,15,17-nonaen-1-yl]-3,5,5-trimethylcyclohex-2-en-1-ol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>carotenoid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>568.886</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>568.428031043</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>C\C(\C=C\C=C(/C)\C=C\[C@H]1C(C)=C[C@H](O)CC1(C)C)=C/C=C/C=C(\C)/C=C/C=C(\C)/C=C/C1=C(C)C[C@@H](O)CC1(C)C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C40H56O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C40H56O2/c1-29(17-13-19-31(3)21-23-37-33(5)25-35(41)27-39(37,7)8)15-11-12-16-30(2)18-14-20-32(4)22-24-38-34(6)26-36(42)28-40(38,9)10/h11-25,35-37,41-42H,26-28H2,1-10H3/b12-11+,17-13+,18-14+,23-21+,24-22+,29-15+,30-16+,31-19+,32-20+/t35-,36+,37-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>KBPHJBAIARWVSC-RGZFRNHPSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>40.46</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>195.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>73.81</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>10</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>18.22</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-0.91</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>Insoluble</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>196 °C</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>7.9</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>28838</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>5281243</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46508835</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C08601</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>4444655</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748318</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>LUT</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Xanthophyll</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL173929</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000008221225</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>11359</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>PDRhealth</resource>
+      <url>http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/lut_0164.shtml</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers>
+    <carrier>
+      <id>BE0000530</id>
+      <name>Serum albumin</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11676</ref-id>
+            <pubmed-id>16678417</pubmed-id>
+            <citation>Zsila F, Nadolski G, Lockwood SF: Association studies of aggregated aqueous lutein diphosphate with human serum albumin and alpha1-acid glycoprotein in vitro: evidence from circular dichroism and electronic absorption spectroscopy. Bioorg Med Chem Lett. 2006 Jul 15;16(14):3797-801. Epub 2006 May 5.</citation>
+          </article>
+          <article>
+            <ref-id>A11677</ref-id>
+            <pubmed-id>11273666</pubmed-id>
+            <citation>Yemelyanov AY, Katz NB, Bernstein PS: Ligand-binding characterization of xanthophyll carotenoids to solubilized membrane proteins derived from human retina. Exp Eye Res. 2001 Apr;72(4):381-92.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P02768" source="Swiss-Prot">
+        <name>Serum albumin</name>
+        <general-function>Toxic substance binding</general-function>
+        <specific-function>Serum albumin, the main protein of plasma, has a good binding capacity for water, Ca(2+), Na(+), K(+), fatty acids, hormones, bilirubin and drugs. Its main function is the regulation of the colloidal osmotic pressure of blood. Major zinc transporter in plasma, typically binds about 80% of all plasma zinc.</specific-function>
+        <gene-name>ALB</gene-name>
+        <locus>4q11-q13</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>6.21</theoretical-pi>
+        <molecular-weight>69365.94</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:399</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ALB</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>V00494</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>28590</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02768</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ALBU_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Serum albumin precursor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001058|Serum albumin
+MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPF
+EDHVKLVNEVTEFAKTCVADESAENCDKSLHTLFGDKLCTVATLRETYGEMADCCAKQEP
+ERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPELLF
+FAKRYKAAFTECCQAADKAACLLPKLDELRDEGKASSAKQRLKCASLQKFGERAFKAWAV
+ARLSQRFPKAEFAEVSKLVTDLTKVHTECCHGDLLECADDRADLAKYICENQDSISSKLK
+ECCEKPLLEKSHCIAEVENDEMPADLPSLAADFVESKDVCKNYAEAKDVFLGMFLYEYAR
+RHPDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEEPQNLIKQNCELFE
+QLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHPEAKRMPCAEDYLSVV
+LNQLCVLHEKTPVSDRVTKCCTESLVNRRPCFSALEVDETYVPKEFNAETFTFHADICTL
+SEKERQIKKQTALVELVKHKPKATKEQLKAVMDDFAAFVEKCCKADDKETCFAEEGKKLV
+AASQAALGL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010372|Serum albumin (ALB)
+ATGAAGTGGGTAACCTTTATTTCCCTTCTTTTTCTCTTTAGCTCGGCTTATTCCAGGGGT
+GTGTTTCGTCGAGATGCACACAAGAGTGAGGTTGCTCATCGGTTTAAAGATTTGGGAGAA
+GAAAATTTCAAAGCCTTGGTGTTGATTGCCTTTGCTCAGTATCTTCAGCAGTGTCCATTT
+GAAGATCATGTAAAATTAGTGAATGAAGTAACTGAATTTGCAAAAACATGTGTTGCTGAT
+GAGTCAGCTGAAAATTGTGACAAATCACTTCATACCCTTTTTGGAGACAAATTATGCACA
+GTTGCAACTCTTCGTGAAACCTATGGTGAAATGGCTGACTGCTGTGCAAAACAAGAACCT
+GAGAGAAATGAATGCTTCTTGCAACACAAAGATGACAACCCAAACCTCCCCCGATTGGTG
+AGACCAGAGGTTGATGTGATGTGCACTGCTTTTCATGACAATGAAGAGACATTTTTGAAA
+AAATACTTATATGAAATTGCCAGAAGACATCCTTACTTTTATGCCCCGGAACTCCTTTTC
+TTTGCTAAAAGGTATAAAGCTGCTTTTACAGAATGTTGCCAAGCTGCTGATAAAGCTGCC
+TGCCTGTTGCCAAAGCTCGATGAACTTCGGGATGAAGGGAAGGCTTCGTCTGCCAAACAG
+AGACTCAAGTGTGCCAGTCTCCAAAAATTTGGAGAAAGAGCTTTCAAAGCATGGGCAGTA
+GCTCGCCTGAGCCAGAGATTTCCCAAAGCTGAGTTTGCAGAAGTTTCCAAGTTAGTGACA
+GATCTTACCAAAGTCCACACGGAATGCTGCCATGGAGATCTGCTTGAATGTGCTGATGAC
+AGGGCGGACCTTGCCAAGTATATCTGTGAAAATCAAGATTCGATCTCCAGTAAACTGAAG
+GAATGCTGTGAAAAACCTCTGTTGGAAAAATCCCACTGCATTGCCGAAGTGGAAAATGAT
+GAGATGCCTGCTGACTTGCCTTCATTAGCTGCTGATTTTGTTGAAAGTAAGGATGTTTGC
+AAAAACTATGCTGAGGCAAAGGATGTCTTCCTGGGCATGTTTTTGTATGAATATGCAAGA
+AGGCATCCTGATTACTCTGTCGTGCTGCTGCTGAGACTTGCCAAGACATATGAAACCACT
+CTAGAGAAGTGCTGTGCCGCTGCAGATCCTCATGAATGCTATGCCAAAGTGTTCGATGAA
+TTTAAACCTCTTGTGGAAGAGCCTCAGAATTTAATCAAACAAAATTGTGAGCTTTTTGAG
+CAGCTTGGAGAGTACAAATTCCAGAATGCGCTATTAGTTCGTTACACCAAGAAAGTACCC
+CAAGTGTCAACTCCAACTCTTGTAGAGGTCTCAAGAAACCTAGGAAAAGTGGGCAGCAAA
+TGTTGTAAACATCCTGAAGCAAAAAGAATGCCCTGTGCAGAAGACTATCTATCCGTGGTC
+CTGAACCAGTTATGTGTGTTGCATGAGAAAACGCCAGTAAGTGACAGAGTCACCAAATGC
+TGCACAGAATCCTTGGTGAACAGGCGACCATGCTTTTCAGCTCTGGAAGTCGATGAAACA
+TACGTTCCCAAAGAGTTTAATGCTGAAACATTCACCTTCCATGCAGATATATGCACACTT
+TCTGAGAAGGAGAGACAAATCAAGAAACAAACTGCACTTGTTGAGCTCGTGAAACACAAG
+CCCAAGGCAACAAAAGAGCAACTGAAAGCTGTTATGGATGATTTCGCAGCTTTTGTAGAG
+AAGTGCTGCAAGGCTGACGATAAGGAGACCTGCTTTGCCGAGGAGGGTAAAAAACTTGTT
+GCTGCAAGTCAAGCTGCCTTAGGCTTATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00273</identifier>
+            <name>Serum_albumin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>myelin sheath</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>platelet alpha granule lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>protein complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>antioxidant activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chaperone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>copper ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fatty acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>pyridoxal phosphate binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>toxic substance binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid and bile salt transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to starvation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hemolysis by symbiont of host erythrocytes</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maintenance of mitochondrion location</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of programmed cell death</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retina homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium-independent organic anion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </carrier>
+  </carriers>
+  <transporters/>
+</drug>

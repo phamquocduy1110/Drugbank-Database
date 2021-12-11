@@ -1,0 +1,1558 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00020</drugbank-id>
+  <drugbank-id>BTD00035</drugbank-id>
+  <drugbank-id>BIOD00035</drugbank-id>
+  <name>Sargramostim</name>
+  <description>Sargramostim is a human recombinant granulocyte macrophage colony-stimulating factor (GM-CSF) expressed in yeast. It is a glycoprotein that is 127 residues. Substitution of Leu23 leads to a difference from native protein.</description>
+  <cas-number>123774-72-1</cas-number>
+  <unii>5TAA004E22</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Kaname Sugimoto, "Process for the production of human colony-stimulating factor." U.S. Patent US4621050, issued May, 1983.</synthesis-reference>
+  <indication>For the treatment of cancer and bone marrow transplant</indication>
+  <pharmacodynamics>Sargramostim is used in the treatment of bone marrow transplant recipients or those exposed to chemotherapy an recovering from acut myelogenous leukemia, Leukine or GM-CSF is a hematopoietic growth factor which stimulates the survival, clonal expansion (proliferation) and differentiation of hematopoietic progenitor cells. GM-CSF is also capable of activating mature granulocytes and macrophages. After a bone marrow transplant or chemotherapy, patients have a reduced capacity to produce red and white blood cells. Supplementing them with external sources of GM-CSF helps bring the level of neutrophils back to normal so that they can better fight infections.</pharmacodynamics>
+  <mechanism-of-action>Sargramostim binds to the Granulocyte-macrophage colony stimulating factor receptor (GM-CSF-R-alpha or CSF2R) which stimulates a JAK2 STAT1/STAT3 signal transduction pathway. This leads to the production of hemopoietic cells and neutrophils</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>* 420 mL/min/m2 [Normal people with liquid LEUKINE (IV)]&#13;
+* 431 mL/min/m2 [Normal people with lyophilized LEUKINE (IV)]&#13;
+* 549 mL/min/m2 [Normal people with liquid LEUKINE (SC)]&#13;
+* 529 mL/min/m2 [Normal people with lyophilized LEUKINE (SC)]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Recombinant human granulocyte-macrophage colony stimulating factor</synonym>
+    <synonym language="english" coder="">rGM-CSF</synonym>
+    <synonym language="english" coder="">rHu GM-CSF</synonym>
+    <synonym language="english" coder="inn/jan/usan/usp">Sargramostim</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Leukine</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0181</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-03-15</started-marketing-on>
+      <ended-marketing-on>2013-12-31</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0180</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-03-15</started-marketing-on>
+      <ended-marketing-on>2016-06-30</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>250 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-3188</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-12-01</started-marketing-on>
+      <ended-marketing-on>2012-06-30</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Bayer</labeller>
+      <ndc-id/>
+      <ndc-product-code>50419-050</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-03-05</started-marketing-on>
+      <ended-marketing-on>2012-09-21</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Bayer</labeller>
+      <ndc-id/>
+      <ndc-product-code>50419-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-09-05</started-marketing-on>
+      <ended-marketing-on>2012-09-21</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>250 ug/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-5844</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-12-01</started-marketing-on>
+      <ended-marketing-on>2021-12-30</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-5843</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-05-01</started-marketing-on>
+      <ended-marketing-on>2021-12-30</ended-marketing-on>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>250 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Berlex</labeller>
+      <ndc-id/>
+      <ndc-product-code>50419-595</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-12-06</started-marketing-on>
+      <ended-marketing-on>2007-12-06</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Partner Therapeutics, Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>71837-5843</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-03-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>250 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Leukine</name>
+      <labeller>Partner Therapeutics, Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>71837-5844</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-03-05</started-marketing-on>
+      <ended-marketing-on>2012-05-08</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>500 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103362</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Leucomax</name>
+      <company>Novartis</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Leukine</name>
+      <ingredients>Sargramostim</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Bayer Healthcare</name>
+      <url>http://www.bayerhealthcare.com</url>
+    </packager>
+    <packager>
+      <name>Genzyme Inc.</name>
+      <url>http://www.genzyme.ca</url>
+    </packager>
+    <packager>
+      <name>Hospira Inc.</name>
+      <url>http://www.hospira.com</url>
+    </packager>
+    <packager>
+      <name>Kramer-Novis</name>
+      <url>http://www.kramernovis.com</url>
+    </packager>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+    <packager>
+      <name>Wyeth Pharmaceuticals</name>
+      <url>http://www.wyeth.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Leukine 250 mcg vial</description>
+      <cost currency="USD">204.79</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Bio-immunex capsule</description>
+      <cost currency="USD">0.42</cost>
+      <unit>capsule</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Adjuvants, Immunologic</category>
+      <mesh-id>D000276</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Colony-Stimulating Factors</category>
+      <mesh-id>D003115</mesh-id>
+    </category>
+    <category>
+      <category>Cytokines</category>
+      <mesh-id>D016207</mesh-id>
+    </category>
+    <category>
+      <category>Glycoconjugates</category>
+      <mesh-id>D006001</mesh-id>
+    </category>
+    <category>
+      <category>Glycoproteins</category>
+      <mesh-id>D006023</mesh-id>
+    </category>
+    <category>
+      <category>Granulocyte-Macrophage Colony-Stimulating Factor</category>
+      <mesh-id>D016178</mesh-id>
+    </category>
+    <category>
+      <category>Hematopoietic Cell Growth Factors</category>
+      <mesh-id>D016298</mesh-id>
+    </category>
+    <category>
+      <category>Immunologic Factors</category>
+      <mesh-id>D007155</mesh-id>
+    </category>
+    <category>
+      <category>Increased Myeloid Cell Production</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Intercellular Signaling Peptides and Proteins</category>
+      <mesh-id>D036341</mesh-id>
+    </category>
+    <category>
+      <category>Leukocyte Growth Factor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>250 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>250 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>500 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>500 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Subcutaneous</route>
+      <strength>500 ug/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L03AA09">
+      <level code="L03AA">Colony stimulating factors</level>
+      <level code="L03A">IMMUNOSTIMULANTS</level>
+      <level code="L03">IMMUNOSTIMULANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>1341150</number>
+      <country>Canada</country>
+      <approved>2000-12-05</approved>
+      <expires>2017-12-05</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Sargramostim is combined with Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Cyclophosphamide is combined with Sargramostim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05168</drugbank-id>
+      <name>Vintafolide</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vintafolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11641</drugbank-id>
+      <name>Vinflunine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vinflunine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13374</drugbank-id>
+      <name>Vincamine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Sargramostim is combined with Vincamine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00020 sequence
+APARSPSPSTQPWEHVNAIQEALRLLNLSRDTAAEMNETVEVISEMFDLQEPTCLQTRLE
+LYKQGLRGSLTKLKGPLTMMASHYKQHCPPTPETSCATQIITFESFKENLKDFLLVIPFD
+CWEPVQE</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.05</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>14434.5</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C639H1006N168O196S8</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507000</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M13207</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748631</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P04141</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001053</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sargramostim</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201670</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>69634</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/sargramostim.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/sargramostim.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000628</id>
+      <name>Granulocyte-macrophage colony-stimulating factor receptor subunit alpha</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1804</ref-id>
+            <pubmed-id>17090651</pubmed-id>
+            <citation>Wang Y, Cai D, Brendel C, Barett C, Erben P, Manley PW, Hochhaus A, Neubauer A, Burchert A: Adaptive secretion of granulocyte-macrophage colony-stimulating factor (GM-CSF) mediates imatinib and nilotinib resistance in BCR/ABL+ progenitors via JAK-2/STAT-5 pathway activation. Blood. 2007 Mar 1;109(5):2147-55. Epub 2006 Nov 7.</citation>
+          </article>
+          <article>
+            <ref-id>A1806</ref-id>
+            <pubmed-id>16760463</pubmed-id>
+            <citation>Chen J, Carcamo JM, Golde DW: The alpha subunit of the granulocyte-macrophage colony-stimulating factor receptor interacts with c-Kit and inhibits c-Kit signaling. J Biol Chem. 2006 Aug 4;281(31):22421-6. Epub 2006 Jun 7.</citation>
+          </article>
+          <article>
+            <ref-id>A1808</ref-id>
+            <pubmed-id>17522711</pubmed-id>
+            <citation>Lencz T, Morgan TV, Athanasiou M, Dain B, Reed CR, Kane JM, Kucherlapati R, Malhotra AK: Converging evidence for a pseudoautosomal cytokine receptor gene locus in schizophrenia. Mol Psychiatry. 2007 Jun;12(6):572-80. Epub 2007 Mar 20.</citation>
+          </article>
+          <article>
+            <ref-id>A1809</ref-id>
+            <pubmed-id>16638185</pubmed-id>
+            <citation>Xiao R, Zhang R, Wang YL, Zhu ZL, Chen T, Yang JH: [Expression of soluble GM-CSF-Ralpha in patients with acute myeloid leukemia]. Zhongguo Shi Yan Xue Ye Xue Za Zhi. 2006 Apr;14(2):225-7.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P15509" source="Swiss-Prot">
+        <name>Granulocyte-macrophage colony-stimulating factor receptor subunit alpha</name>
+        <general-function>Receptor activity</general-function>
+        <specific-function>Low affinity receptor for granulocyte-macrophage colony-stimulating factor. Transduces a signal that results in the proliferation, differentiation, and functional activation of hematopoietic cells.</specific-function>
+        <gene-name>CSF2RA</gene-name>
+        <locus>Xp22.32 and Yp11.3</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>321-346</transmembrane-regions>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>7.81</theoretical-pi>
+        <molecular-weight>46206.185</molecular-weight>
+        <chromosome-location>X, Y</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2435</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CSF2RA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X17648</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>32089</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1707</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P15509</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CSF2R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CDw116</synonym>
+          <synonym>CSF2R</synonym>
+          <synonym>CSF2RY</synonym>
+          <synonym>GM-CSF-R-alpha</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001252|Granulocyte-macrophage colony-stimulating factor receptor subunit alpha
+MLLLVTSLLLCELPHPAFLLIPEKSDLRTVAPASSLNVRFDSRTMNLSWDCQENTTFSKC
+FLTDKKNRVVEPRLSNNECSCTFREICLHEGVTFEVHVNTSQRGFQQKLLYPNSGREGTA
+AQNFSCFIYNADLMNCTWARGPTAPRDVQYFLYIRNSKRRREIRCPYYIQDSGTHVGCHL
+DNLSGLTSRNYFLVNGTSREIGIQFFDSLLDTKKIERFNPPSNVTVRCNTTHCLVRWKQP
+RTYQKLSYLDFQYQLDVHRKNTQPGTENLLINVSGDLENRYNFPSSEPRAKHSVKIRAAD
+VRILNWSSWSEAIEFGSDDGNLGSVYIYVLLIVGTLVCGIVLGFLFKRFLRIQRLFPPVP
+QIKDKLNDNHEVEDEIIWEEFTPEEGKGYREEVLTVKEIT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016159|Granulocyte-macrophage colony-stimulating factor receptor subunit alpha (CSF2RA)
+ATGCTTCTCCTGGTGACAAGCCTTCTGCTCTGTGAGTTACCACACCCAGCATTCCTCCTG
+ATCCCAGAGAAATCGGATCTGCGAACAGTGGCACCAGCCTCTAGTCTCAATGTGAGGTTT
+GACTCCAGGACGATGAATTTAAGCTGGGACTGCCAAGAAAACACAACCTTCAGCAAGTGT
+TTCTTAACTGACAAGAAGAACAGAGTCGTGGAACCCAGGCTCAGTAACAACGAATGTTCG
+TGCACATTTCGTGAAATTTGTCTGCATGAAGGAGTCACATTTGAGGTTCACGTGAATACT
+AGTCAAAGAGGATTTCAACAGAAACTGCTTTATCCAAATTCAGGAAGGGAGGGTACCGCT
+GCTCAGAATTTCTCCTGTTTCATCTACAATGCGGATTTAATGAACTGTACCTGGGCGAGG
+GGTCCGACGGCCCCCCGTGACGTCCAGTATTTTTTGTACATACGAAACTCAAAGAGAAGG
+AGGGAGATCCGGTGTCCTTATTACATACAAGACTCAGGAACCCATGTGGGATGTCACCTG
+GATAACCTGTCAGGATTAACGTCTCGCAATTACTTTCTGGTTAACGGAACCAGCCGAGAA
+ATTGGCATCCAATTCTTTGATTCACTTTTGGACACAAAGAAAATAGAACGATTCAACCCT
+CCCAGCAATGTCACCGTACGTTGCAACACGACGCACTGCCTCGTACGGTGGAAACAGCCC
+AGGACCTATCAGAAGCTGTCGTACCTGGACTTTCAGTACCAGCTGGACGTCCACAGAAAG
+AATACCCAGCCTGGCACGGAAAACCTACTGATTAATGTTTCTGGTGATTTGGAAAATAGA
+TACAACTTTCCAAGCTCTGAGCCCAGAGCAAAACACAGTGTGAAGATCAGAGCTGCAGAC
+GTCCGCATCTTGAATTGGAGCTCCTGGAGTGAAGCCATTGAATTTGGTTCTGACGACGGG
+AACCTCGGCTCTGTGTACATTTATGTGCTCCTAATCGTGGGAACCCTTGTCTGTGGCATC
+GTCCTCGGCTTCCTCTTTAAAAGGTTCCTTAGGATACAGCGGCTGTTCCCGCCAGTTCCA
+CAGATCAAAGACAAACTGAATGATAACCATGAGGTGGAAGACGAGATCATCTGGGAGGAA
+TTCACCCCAGAGGAAGGGAAAGGCTACCGCGAAGAGGTCTTGACCGTGAAGGAAATTACC
+TGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF09240</identifier>
+            <name>IL6Ra-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>granulocyte colony-stimulating factor receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to granulocyte macrophage colony-stimulating factor stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0001036</id>
+      <name>Interleukin-3 receptor subunit alpha</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13104</ref-id>
+            <pubmed-id>17562355</pubmed-id>
+            <citation>Eksioglu EA, Mahmood SS, Chang M, Reddy V: GM-CSF promotes differentiation of human dendritic cells and T lymphocytes toward a predominantly type 1 proinflammatory response. Exp Hematol. 2007 Aug;35(8):1163-71. Epub 2007 Jun 11.</citation>
+          </article>
+          <article>
+            <ref-id>A13105</ref-id>
+            <pubmed-id>17500228</pubmed-id>
+            <citation>Sakhno LV, Leplina OIu, Tikhonova MA, Raspai ZhM, Gileva IP, Nikonov SD, Zhdanov OA, Ostanin AA, Chernykh ER: [Characteristics of A-interferon-generated dendritic cells in patients with pulmonary tuberculosis]. Probl Tuberk Bolezn Legk. 2007;(3):42-6.</citation>
+          </article>
+          <article>
+            <ref-id>A13106</ref-id>
+            <pubmed-id>16698686</pubmed-id>
+            <citation>Ward KA, Stewart LA, Schwarer AP: CD34+-derived CD11c+ + + BDCA-1+ + CD123+ + DC: expansion of a phenotypically undescribed myeloid DC1 population for use in adoptive immunotherapy. Cytotherapy. 2006;8(2):130-40.</citation>
+          </article>
+          <article>
+            <ref-id>A1808</ref-id>
+            <pubmed-id>17522711</pubmed-id>
+            <citation>Lencz T, Morgan TV, Athanasiou M, Dain B, Reed CR, Kane JM, Kucherlapati R, Malhotra AK: Converging evidence for a pseudoautosomal cytokine receptor gene locus in schizophrenia. Mol Psychiatry. 2007 Jun;12(6):572-80. Epub 2007 Mar 20.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P26951" source="Swiss-Prot">
+        <name>Interleukin-3 receptor subunit alpha</name>
+        <general-function>Interleukin-3 receptor activity</general-function>
+        <specific-function>This is a receptor for interleukin-3.</specific-function>
+        <gene-name>IL3RA</gene-name>
+        <locus>Xp22.3 or Yp11.3</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>306-325</transmembrane-regions>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>8.32</theoretical-pi>
+        <molecular-weight>43329.585</molecular-weight>
+        <chromosome-location>X, Y</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6012</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>IL3RA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M74782</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>186331</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P26951</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>IL3RA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>IL-3 receptor subunit alpha</synonym>
+          <synonym>IL3R</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002063|Interleukin-3 receptor subunit alpha
+MVLLWLTLLLIALPCLLQTKEDPNPPITNLRMKAKAQQLTWDLNRNVTDIECVKDADYSM
+PAVNNSYCQFGAISLCEVTNYTVRVANPPFSTWILFPENSGKPWAGAENLTCWIHDVDFL
+SCSWAVGPGAPADVQYDLYLNVANRRQQYECLHYKTDAQGTRIGCRFDDISRLSSGSQSS
+HILVRGRSAAFGIPCTDKFVVFSQIEILTPPNMTAKCNKTHSFMHWKMRSHFNRKFRYEL
+QIQKRMQPVITEQVRDRTSFQLLNPGTYTVQIRARERVYEFLSAWSTPQRFECDQEEGAN
+TRAWRTSLLIALGTLLALVCVFVICRRYLVMQRLFPRIPHMKDPIGDSFQNDKLVVWEAG
+KAGLEECLVTEVQVVQKT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020503|Interleukin-3 receptor subunit alpha (IL3RA)
+ATGGTCCTCCTTTGGCTCACGCTGCTCCTGATCGCCCTGCCCTGTCTCCTGCAAACGAAG
+GAAGGTGGGAAGCCTTGGGCAGGTGCGGAGAATCTGACCTGCTGGATTCATGACGTGGAT
+TTCTTGAGCTGCAGCTGGGCGGTAGGCCCGGGGGCCCCCGCGGACGTCCAGTACGACCTG
+TACTTGAACGTTGCCAACAGGCGTCAACAGTACGAGTGTCTTCACTACAAAACGGATGCT
+CAGGGAACACGTATCGGGTGTCGTTTCGATGACATCTCTCGACTCTCCAGCGGTTCTCAA
+AGTTCCCACATCCTGGTGCGGGGCAGGAGCGCAGCCTTCGGTATCCCCTGCACAGATAAG
+TTTGTCGTCTTTTCACAGATTGAGATATTAACTCCACCCAACATGACTGCAAAGTGTAAT
+AAGACACATTCCTTTATGCACTGGAAAATGAGAAGTCATTTCAATCGCAAATTTCGCTAT
+GAGCTTCAGATACAAAAGAGAATGCAGCCTGTAATCACAGAACAGGTCAGAGACAGAACC
+TCCTTCCAGCTACTCAATCCTGGAACGTACACAGTACAAATAAGAGCCCGGGAAAGAGTG
+TATGAATTCTTGAGCGCCTGGAGCACCCCCCAGCGCTTCGAGTGCGACCAGGAGGAGGGC
+GCAAACACACGTGCCTGGCGGACGTCGCTGCTGATCGCGCTGGGGACGCTGCTGGCCCTG
+GTCTGTGTCTTCGTGATCTGCAGAAGGTATCTGGTGATGCAGAGACTCTTTCCCCGCATC
+CCTCACATGAAAGACCCCATCGGTGACAGCTTCCAAAACGACAAGCTGGTGGTCTGGGAG
+GCGGGCAAAGCCGGCCTGGAGGAGTGTCTGGTGACTGAAGTACAGGTCGTGCAGAAAACT
+TGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF09240</identifier>
+            <name>IL6Ra-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>interleukin-3 receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to interleukin-3</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interleukin-3-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0002115</id>
+      <name>Cytokine receptor common subunit beta</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13107</ref-id>
+            <pubmed-id>1424804</pubmed-id>
+            <citation>Shen Y, Baker E, Callen DF, Sutherland GR, Willson TA, Rakar S, Gough NM: Localization of the human GM-CSF receptor beta chain gene (CSF2RB) to chromosome 22q12.2--&gt;q13.1. Cytogenet Cell Genet. 1992;61(3):175-7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P32927" source="Swiss-Prot">
+        <name>Cytokine receptor common subunit beta</name>
+        <general-function>Receptor activity</general-function>
+        <specific-function>High affinity receptor for interleukin-3, interleukin-5 and granulocyte-macrophage colony-stimulating factor.</specific-function>
+        <gene-name>CSF2RB</gene-name>
+        <locus>22q13.1</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>444-460</transmembrane-regions>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>5.21</theoretical-pi>
+        <molecular-weight>97334.89</molecular-weight>
+        <chromosome-location>22</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2436</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CSF2RB</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M59941</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>487425</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P32927</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>IL3RB_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CDw131</synonym>
+          <synonym>GM-CSF/IL-3/IL-5 receptor common beta subunit</synonym>
+          <synonym>IL3RB</synonym>
+          <synonym>IL5RB</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004148|Cytokine receptor common subunit beta
+MVLAQGLLSMALLALCWERSLAGAEETIPLQTLRCYNDYTSHITCRWADTQDAQRLVNVT
+LIRRVNEDLLEPVSCDLSDDMPWSACPHPRCVPRRCVIPCQSFVVTDVDYFSFQPDRPLG
+TRLTVTLTQHVQPPEPRDLQISTDQDHFLLTWSVALGSPQSHWLSPGDLEFEVVYKRLQD
+SWEDAAILLSNTSQATLGPEHLMPSSTYVARVRTRLAPGSRLSGRPSKWSPEVCWDSQPG
+DEAQPQNLECFFDGAAVLSCSWEVRKEVASSVSFGLFYKPSPDAGEEECSPVLREGLGSL
+HTRHHCQIPVPDPATHGQYIVSVQPRRAEKHIKSSVNIQMAPPSLNVTKDGDSYSLRWET
+MKMRYEHIDHTFEIQYRKDTATWKDSKTETLQNAHSMALPALEPSTRYWARVRVRTSRTG
+YNGIWSEWSEARSWDTESVLPMWVLALIVIFLTIAVLLALRFCGIYGYRLRRKWEEKIPN
+PSKSHLFQNGSAELWPPGSMSAFTSGSPPHQGPWGSRFPELEGVFPVGFGDSEVSPLTIE
+DPKHVCDPPSGPDTTPAASDLPTEQPPSPQPGPPAASHTPEKQASSFDFNGPYLGPPHSR
+SLPDILGQPEPPQEGGSQKSPPPGSLEYLCLPAGGQVQLVPLAQAMGPGQAVEVERRPSQ
+GAAGSPSLESGGGPAPPALGPRVGGQDQKDSPVAIPMSSGDTEDPGVASGYVSSADLVFT
+PNSGASSVSLVPSLGLPSDQTPSLCPGLASGPPGAPGPVKSGFEGYVELPPIEGRSPRSP
+RNNPVPPEAKSPVLNPGERPADVSPTSPQPEGLLVLQQVGDYCFLPGLGPGPLSLRSKPS
+SPGPGPEIKNLDQAFQVKKPPGQAVPQVPVIQLFKALKQQDYLSLPPWEVNKPGEVC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011533|Cytokine receptor common subunit beta (CSF2RB)
+ATGGTGCTGGCCCAGGGGCTGCTCTCCATGGCCCTGCTGGCCCTGTGCTGGGAGCGCAGC
+CTGGCAGGGGCAGAAGAAACCATCCCGCTGCAGACCCTGCGCTGCTACAACGACTACACC
+AGCCACATCACCTGCAGGTGGGCAGACACCCAGGATGCCCAGCGGCTCGTCAACGTGACC
+CTCATTCGCCGGGTGAATGAGGACCTCCTGGAGCCAGTGTCCTGTGACCTCAGTGATGAC
+ATGCCCTGGTCAGCCTGCCCCCATCCCCGCTGCGTGCCCAGGAGATGTGTCATTCCCTGC
+CAGAGTTTTGTCGTCACTGACGTTGACTACTTCTCATTCCAACCAGACAGGCCTCTGGGC
+ACCCGGCTCACCGTCACTCTGACCCAGCATGTCCAGCCTCCTGAGCCCAGGGACCTGCAG
+ATCAGCACCGACCAGGACCACTTCCTGCTGACCTGGAGTGTGGCCCTTGGGAGTCCCCAG
+AGCCACTGGTTGTCCCCAGGGGATCTGGAGTTTGAGGTGGTCTACAAGCGGCTTCAGGAC
+TCTTGGGAGGACGCAGCCATCCTCCTCTCCAACACCTCCCAGGCCACCCTGGGGCCAGAG
+CACCTCATGCCCAGCAGCACCTACGTGGCCCGAGTACGGACCCGCCTGGCCCCAGGTTCT
+CGGCTCTCAGGACGTCCCAGCAAGTGGAGCCCAGAGGTTTGCTGGGACTCCCAGCCAGGG
+GATGAGGCCCAGCCCCAGAACCTGGAGTGCTTCTTTGACGGGGCCGCCGTGCTCAGCTGC
+TCCTGGGAGGTGAGGAAGGAGGTGGCCAGCTCGGTCTCCTTTGGCCTATTCTACAAGCCC
+AGCCCAGATGCAGGGGAGGAAGAGTGCTCCCCAGTGCTGAGGGAGGGGCTCGGCAGCCTC
+CACACCAGGCACCACTGCCAGATTCCCGTGCCCGACCCCGCGACCCACGGCCAATACATC
+GTCTCTGTTCAGCCAAGGAGGGCAGAGAAACACATAAAGAGCTCAGTGAACATCCAGATG
+GCCCCTCCATCCCTCAACGTGACCAAGGATGGAGACAGCTACAGCCTGCGCTGGGAAACA
+ATGAAAATGCGATACGAACACATAGACCACACATTTGAGATCCAGTACAGGAAAGACACG
+GCCACGTGGAAGGACAGCAAGACCGAGACCCTCCAGAACGCCCACAGCATGGCCCTGCCA
+GCCCTGGAGCCCTCCACCAGGTACTGGGCCAGGGTGAGGGTCAGGACCTCCCGCACCGGC
+TACAACGGGATCTGGAGCGAGTGGAGTGAGGCGCGCTCCTGGGACACCGAGTCGGTGCTG
+CCTATGTGGGTGCTGGCCCTCATCGTGATCTTCCTCACCATCGCTGTGCTCCTGGCCCTC
+CGCTTCTGTGGCATCTACGGGTACAGGCTGCGCAGAAAGTGGGAGGAGAAGATCCCCAAC
+CCCAGCAAGAGCCACCTGTTCCAGAACGGGAGCGCAGAGCTTTGGCCCCCAGGCAGCATG
+TCGGCCTTCACTAGCGGGAGTCCCCCACACCAGGGGCCGTGGGGCAGCCGCTTCCCTGAG
+CTGGAGGGGGTGTTCCCTGTAGGATTCGGGGACAGCGAGGTGTCACCTCTCACCATAGAG
+GACCCCAAGCATGTCTGTGATCCACCATCTGGGCCTGACACGACTCCAGCTGCCTCAGAT
+CTACCCACAGAGCAGCCCCCCAGCCCCCAGCCAGGCCCGCCTGCCGCCTCCCACACACCT
+GAGAAACAGGCTTCCAGCTTTGACTTCAATGGGCCCTACCTGGGGCCGCCCCACAGCCGC
+TCCCTACCTGACATCCTGGGCCAGCCGGAGCCCCCACAGGAGGGTGGGAGCCAGAAGTCC
+CCACCTCCAGGGTCCCTGGAGTACCTGTGTCTGCCTGCTGGGGGGCAGGTGCAACTGGTC
+CCTCTGGCCCAGGCGATGGGACCAGGACAGGCCGTGGAAGTGGAGAGAAGGCCGAGCCAG
+GGGGCTGCAGGGAGTCCCTCCCTGGAGTCCGGGGGAGGCCCTGCCCCTCCTGCTCTTGGG
+CCAAGGGTGGGAGGACAGGACCAAAAGGACAGCCCTGTGGCTATACCCATGAGCTCTGGG
+GACACTGAGGACCCTGGAGTGGCCTCTGGTTATGTCTCCTCTGCAGACCTGGTATTCACC
+CCAAACTCAGGGGCCTCGTCTGTCTCCCTAGTTCCCTCTCTGGGCCTCCCCTCAGACCAG
+ACCCCCAGCTTATGTCCTGGGCTGGCCAGTGGACCCCCTGGAGCCCCAGGCCCTGTGAAG
+TCAGGGTTTGAGGGCTATGTGGAGCTCCCTCCAATTGAGGGCCGGTCCCCCAGGTCACCA
+AGGAACAATCCTGTCCCCCCTGAGGCCAAAAGCCCTGTCCTGAACCCAGGGGAACGCCCG
+GCAGATGTGTCCCCAACATCCCCACAGCCCGAGGGCCTCCTTGTCCTGCAGCAAGTGGGC
+GACTATTGCTTCCTCCCCGGCCTGGGGCCCGGCCCTCTCTCGCTCCGGAGTAAACCTTCT
+TCCCCGGGACCCGGTCCTGAGATCAAGAACCTAGACCAGGCTTTTCAAGTCAAGAAGCCC
+CCAGGCCAGGCTGTGCCCCAGGTGCCCGTCATTCAGCTCTTCAAAGCCCTGAAGCAGCAG
+GACTACCTGTCTCTGCCCCCTTGGGAGGTCAACAAGCCTGGGGAGGTGTGTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00041</identifier>
+            <name>fn3</name>
+          </pfam>
+          <pfam>
+            <identifier>PF09240</identifier>
+            <name>IL6Ra-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>granulocyte macrophage colony-stimulating factor receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of MAPKK activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to interleukin-3</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermal growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibroblast growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>insulin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interleukin-3-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interleukin-5-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotrophin TRK receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Ras protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>respiratory gaseous exchange</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small GTPase mediated signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular endothelial growth factor receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0002116</id>
+      <name>Syndecan-2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13108</ref-id>
+            <pubmed-id>10734053</pubmed-id>
+            <citation>Modrowski D, Basle M, Lomri A, Marie PJ: Syndecan-2 is involved in the mitogenic activity and signaling of granulocyte-macrophage colony-stimulating factor in osteoblasts. J Biol Chem. 2000 Mar 31;275(13):9178-85.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P34741" source="Swiss-Prot">
+        <name>Syndecan-2</name>
+        <general-function>Pdz domain binding</general-function>
+        <specific-function>Cell surface proteoglycan that bears heparan sulfate. Regulates dendritic arbor morphogenesis (By similarity).</specific-function>
+        <gene-name>SDC2</gene-name>
+        <locus>8q22-q23</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>145-169</transmembrane-regions>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>4.48</theoretical-pi>
+        <molecular-weight>22159.62</molecular-weight>
+        <chromosome-location>8</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:10659</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SDC2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J04621</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>386787</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P34741</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SDC2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Fibroglycan</synonym>
+          <synonym>Heparan sulfate proteoglycan core protein</synonym>
+          <synonym>HSPG</synonym>
+          <synonym>HSPG1</synonym>
+          <synonym>SYND2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037162|Syndecan-2
+MRRAWILLTLGLVACVSAESRAELTSDKDMYLDNSSIEEASGVYPIDDDDYASASGSGAD
+EDVESPELTTSRPLPKILLTSAAPKVETTTLNIQNKIPAQTKSPEETDKEKVHLSDSERK
+MDPAEEDTNVYTEKHSDSLFKRTEVLAAVIAGGVIGFLFAIFLILLLVYRMRKKDEGSYD
+LGERKPSSAAYQKAPTKEFYA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011534|Syndecan-2 (SDC2)
+ATGCGGCGCGCGTGGATCCTGCTCACCTTGGGCTTGGTGGCCTGCGTGTCGGCGGAGTCG
+AGAGCAGAGCTGACATCTGATAAAGACATGTACCTTGACAACAGCTCCATTGAAGAAGCT
+TCAGGAGTGTATCCTATTGATGACGATGACTACGCTTCTGCGTCTGGCTCGGGAGCTGAT
+GAGGATGTAGAGAGTCCAGAGCTGACAACATCTCGACCACTTCCAAAGATACTGTTGACT
+AGTGCTGCTCCAAAAGTGGAAACCACGACGCTGAATATACAGAACAAGATACCTGCTCAG
+ACAAAGTCACCTGAAGAAACTGATAAAGAGAAAGTTCACCTCTCTGACTCAGAAAGGAAA
+ATGGACCCAGCCGAAGAGGATACAAATGTGTATACTGAGAAACACTCAGACAGTCTGTTT
+AAACGGACAGAAGTCCTAGCAGCTGTCATTGCTGGTGGAGTTATTGGCTTTCTCTTTGCA
+ATTTTTCTTATCCTGCTGTTGGTGTATCGCATGAGAAAGAAGGATGAAGGAAGCTATGAC
+CTTGGAGAACGCAAACCATCCAGTGCTGCTTATCAGAAGGCACCTACTAAGGAGTTTTAT
+GCGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01034</identifier>
+            <name>Syndecan</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>PDZ domain binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bioluminescence</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondroitin sulfate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>dendrite morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ephrin receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phototransduction, visible light</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of dendrite morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retinoid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="5">
+      <id>BE0002114</id>
+      <name>Bone marrow proteoglycan</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13101</ref-id>
+            <pubmed-id>17383764</pubmed-id>
+            <citation>Menon K, Wu Y, Haas J, Sahu SK, Yang B, Zaheer A: Diminished degradation of myelin basic protein by anti-sulfatide antibody and interferon-gamma in myelin from glia maturation factor-deficient mice. Neurosci Res. 2007 Jun;58(2):156-63. Epub 2007 Feb 22.</citation>
+          </article>
+          <article>
+            <ref-id>A13102</ref-id>
+            <pubmed-id>16522458</pubmed-id>
+            <citation>Letuve S, Lajoie-Kadoch S, Audusseau S, Rothenberg ME, Fiset PO, Ludwig MS, Hamid Q: IL-17E upregulates the expression of proinflammatory cytokines in lung fibroblasts. J Allergy Clin Immunol. 2006 Mar;117(3):590-6. Epub 2006 Feb 8.</citation>
+          </article>
+          <article>
+            <ref-id>A13103</ref-id>
+            <pubmed-id>17600316</pubmed-id>
+            <citation>Kang JH, Lee da H, Seo H, Park JS, Nam KH, Shin SY, Park CS, Chung IY: Regulation of functional phenotypes of cord blood derived eosinophils by gamma-secretase inhibitor. Am J Respir Cell Mol Biol. 2007 Nov;37(5):571-7. Epub 2007 Jun 28.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P13727" source="Swiss-Prot">
+        <name>Bone marrow proteoglycan</name>
+        <general-function>Heparin binding</general-function>
+        <specific-function>Cytotoxin and helminthotoxin. Also induces non-cytolytic histamine release from human basophils. Involved in antiparasitic defense mechanisms and immune hypersensitivity reactions. The proform acts as a proteinase inhibitor, reducing the activity of PAPPA.</specific-function>
+        <gene-name>PRG2</gene-name>
+        <locus>11q12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>6.64</theoretical-pi>
+        <molecular-weight>25205.345</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9362</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PRG2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00809</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>34476</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P13727</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PRG2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>BMPG</synonym>
+          <synonym>MBP</synonym>
+          <synonym>Proteoglycan 2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037161|Bone marrow proteoglycan
+MKLPLLLALLFGAVSALHLRSETSTFETPLGAKTLPEDEETPEQEMEETPCRELEEEEEW
+GSGSEDASKKDGAVESISVPDMVDKNLTCPEEEDTVKVVGIPGCQTCRYLLVRSLQTFSQ
+AWFTCRRCYRGNLVSIHNFNINYRIQCSVSALNQGQVWIGGRITGSGRCRRFQWVDGSRW
+NFAYWAAHQPWSRGGHCVALCTRGGHWRRAHCLRRLPFICSY</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019238|Bone marrow proteoglycan (PRG2)
+ATGAAACTCCCCTTACTTCTGGCTCTTCTATTTGGGGCAGTTTCTGCTCTTCATCTAAGG
+TCTGAGACTTCCACCTTTGAGACCCCTTTGGGTGCTAAGACGCTGCCTGAGGATGAGGAG
+ACACCAGAGCAGGAGATGGAGGAGACCCCTTGCAGGGAGCTGGAGGAAGAGGAGGAGTGG
+GGCTCTGGAAGTGAAGATGCCTCCAAGAAAGATGGGGCTGTTGAGTCTATCTCAGTGCCA
+GATATGGTGGACAAAAACCTTACGTGTCCTGAGGAAGAGGACACAGTAAAAGTGGTGGGC
+ATCCCTGGGTGCCAGACCTGCCGCTACCTCCTGTTTACTTGCCGGAGGTGCTACAGGGGC
+AACCTGGTTTCCATCCACAACTTCAATATTAATTATCGAATCCAGTGTTCTGTCAGCGCG
+CTCAACCAGGGTCAAGTCTGGATTGGAGGCAGGATCACAGGCTCGGGTCGCTGCAGACGC
+TTTCAGTGGGTTGACGGCAGCCGCTGGAACTTTGCGTACTGGGCTGCTCACCAGCCCTGG
+TCCCGCGGTGGTCACTGCGTGGCCCTGTGTACCCGAGGAGGCCACTGGCGTCGAGCCCAC
+TGCCTCAGAAGACTTCCTTTCATCTGTTCCTACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00059</identifier>
+            <name>Lectin_C</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>transport vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>carbohydrate binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to bacterium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to nematode</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-10 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-4 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cytokine biosynthetic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

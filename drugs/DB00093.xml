@@ -1,0 +1,737 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00093</drugbank-id>
+  <drugbank-id>BTD00114</drugbank-id>
+  <drugbank-id>BIOD00114</drugbank-id>
+  <name>Felypressin</name>
+  <description>A synthetic nonapeptide comprising cysteinyl, phenylalanyl, phenylalanyl, glutaminyl, asparaginyl, cysteinyl, prolyl, lysyl, and glycinamide residues in sequence, with a disulfide bridge joining the two cysteine residues. Its antidiuretic effects are less than those of vasopressin. It is a non-catecholamine vasoconstrictor used in local anaesthetic injections for dental use, and is an ingredient of preparations that have been used for treatment of pain and inflammation of the mouth.</description>
+  <cas-number>56-59-7</cas-number>
+  <unii>17N2918V6G</unii>
+  <average-mass>1040.219</average-mass>
+  <monoisotopic-mass>1039.436791367</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A144</ref-id>
+        <pubmed-id>17177590</pubmed-id>
+        <citation>Cecanho R, De Luca LA Jr, Ranali J: Cardiovascular effects of felypressin. Anesth Prog. 2006 Winter;53(4):119-25.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Boissonnas, R.and Guttmann, S.; U.S. Patent 3,232,923; February 1, 1966: assigned to Sandoz AG, Switzerland.</synthesis-reference>
+  <indication>For use as an alternative to adrenaline as a localising agent, provided that local ischaemia is not essential.</indication>
+  <pharmacodynamics>Felypressin is a synthetic analog of lypressin or vasopressin with a greater vasoconstrictor activity than antidiuretic action. It is used primarily as a hemostatic. </pharmacodynamics>
+  <mechanism-of-action>Felypressin binds to the vasopressin receptor V1a. This causes contraction of the smooth muscle in the vascular bed, especially capillaries, small arterioles and venules.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as oligopeptides. These are organic compounds containing a sequence of between three and ten alpha-amino acids joined by peptide bonds.</description>
+    <direct-parent>Oligopeptides</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzene and substituted derivatives</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Cyclic peptides</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Lactams</alternative-parent>
+    <alternative-parent>Macrolactams</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>N-acyl amines</alternative-parent>
+    <alternative-parent>N-acyl-alpha amino acids and derivatives</alternative-parent>
+    <alternative-parent>N-acylpyrrolidines</alternative-parent>
+    <alternative-parent>Organic disulfides</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Primary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Proline and derivatives</alternative-parent>
+    <alternative-parent>Pyrrolidinecarboxamides</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Alpha-amino acid or derivatives</substituent>
+    <substituent>Alpha-oligopeptide</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid or derivatives</substituent>
+    <substituent>Aromatic heteromonocyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Cyclic alpha peptide</substituent>
+    <substituent>Fatty acyl</substituent>
+    <substituent>Fatty amide</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Lactam</substituent>
+    <substituent>Macrolactam</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-amine</substituent>
+    <substituent>N-acylpyrrolidine</substituent>
+    <substituent>N-substituted-alpha-amino acid</substituent>
+    <substituent>Organic disulfide</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+    <substituent>Primary carboxylic acid amide</substituent>
+    <substituent>Proline or derivatives</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Pyrrolidine carboxylic acid or derivatives</substituent>
+    <substituent>Pyrrolidine-2-carboxamide</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">2-(L-phenylalanine)-8-L-lysinevasopressin</synonym>
+    <synonym language="spanish" coder="inn">Felipresina</synonym>
+    <synonym language="english" coder="inn/ban/usan">Felypressin</synonym>
+    <synonym language="french" coder="inn">Felypressine</synonym>
+    <synonym language="latin" coder="inn">Felypressinum</synonym>
+    <synonym language="english" coder="">PLV-2</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>Colupressine</name>
+      <company>Joullie</company>
+    </international-brand>
+    <international-brand>
+      <name>Octapressin</name>
+      <company>Sandoz</company>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers>
+    <manufacturer generic="false" url="">Novartis pharmaceuticals corp</manufacturer>
+  </manufacturers>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Cardiovascular Agents</category>
+      <mesh-id>D002317</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Nerve Tissue Proteins</category>
+      <mesh-id>D009419</mesh-id>
+    </category>
+    <category>
+      <category>Neuropeptides</category>
+      <mesh-id>D009479</mesh-id>
+    </category>
+    <category>
+      <category>Oligopeptides</category>
+      <mesh-id>D009842</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary Hormones</category>
+      <mesh-id>D010907</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary Hormones, Posterior</category>
+      <mesh-id>D010909</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Vasoconstrictor Agents</category>
+      <mesh-id>D014662</mesh-id>
+    </category>
+    <category>
+      <category>Vasopressin and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Vasopressins</category>
+      <mesh-id>D014667</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.03 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>0.054 IU</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB13967</drugbank-id>
+      <name>Patent Blue</name>
+      <description>The risk or severity of hypotension can be increased when Patent Blue is combined with Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00024</drugbank-id>
+      <name>Thyrotropin alfa</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>Liothyronine may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>Levothyroxine may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>Liotrix may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03604</drugbank-id>
+      <name>Tiratricol</name>
+      <description>Tiratricol may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>Thyroid, porcine may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The risk or severity of hypertension can be increased when Felypressin is combined with Lidocaine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-4.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>4.53e-02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-5.8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S)-6-amino-2-{[(2S)-1-[(4R,7S,10S,13S,16S,19R)-19-amino-13,16-dibenzyl-10-(2-carbamoylethyl)-7-(carbamoylmethyl)-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentaazacycloicosane-4-carbonyl]pyrrolidin-2-yl]formamido}-N-(carbamoylmethyl)hexanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>felypressin</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>1040.219</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>1039.436791367</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>NCCCC[C@H](NC(=O)[C@@H]1CCCN1C(=O)[C@@H]1CSSC[C@H](N)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CC2=CC=CC=C2)C(=O)N[C@@H](CCC(N)=O)C(=O)N[C@@H](CC(N)=O)C(=O)N1)C(=O)NCC(N)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C46H65N13O11S2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C46H65N13O11S2/c47-18-8-7-14-29(40(64)52-23-38(51)62)54-45(69)35-15-9-19-59(35)46(70)34-25-72-71-24-28(48)39(63)55-31(20-26-10-3-1-4-11-26)43(67)56-32(21-27-12-5-2-6-13-27)42(66)53-30(16-17-36(49)60)41(65)57-33(22-37(50)61)44(68)58-34/h1-6,10-13,28-35H,7-9,14-25,47-48H2,(H2,49,60)(H2,50,61)(H2,51,62)(H,52,64)(H,53,66)(H,54,69)(H,55,63)(H,56,67)(H,57,65)(H,58,68)/t28-,29-,30-,31-,32-,33-,34-,35-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>SFKQVVDKFKYTNA-DZCXQCEKSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>405.32</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>264.79</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>103.93</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>19</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>12</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>11.39</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>10.18</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>222</value>
+      <source>Boissonnas, R.and Guttmann, S.; U.S. Patent 3,232,923; February 1, 1966: assigned to Sandoz AG, Switzerland.</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>60564</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>14257662</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507522</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>16736539</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164744374</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000217</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Felypressin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL3185126</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>4319</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000165</id>
+      <name>Vasopressin V1a receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A2112</ref-id>
+            <pubmed-id>18655903</pubmed-id>
+            <citation>Manning M, Stoev S, Chini B, Durroux T, Mouillac B, Guillon G: Peptide and non-peptide agonists and antagonists for the vasopressin and oxytocin V1a, V1b, V2 and OT receptors: research tools and potential therapeutic agents. Prog Brain Res. 2008;170:473-512. doi: 10.1016/S0079-6123(08)00437-8.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P37288" source="Swiss-Prot">
+        <name>Vasopressin V1a receptor</name>
+        <general-function>Vasopressin receptor activity</general-function>
+        <specific-function>Receptor for arginine vasopressin. The activity of this receptor is mediated by G proteins which activate a phosphatidyl-inositol-calcium second messenger system. Has been involved in social behaviors, including affiliation and attachment.</specific-function>
+        <gene-name>AVPR1A</gene-name>
+        <locus>12q14-q15</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>53-76
+89-110
+126-147
+169-190
+219-239
+294-313
+332-351</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.67</theoretical-pi>
+        <molecular-weight>46799.105</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:895</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>AVPR1A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L25615</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>667068</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>366</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>366</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P37288</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>V1AR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Antidiuretic hormone receptor 1a</synonym>
+          <synonym>AVPR V1a</synonym>
+          <synonym>AVPR1</synonym>
+          <synonym>V1aR</synonym>
+          <synonym>Vascular/hepatic-type arginine vasopressin receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0009979|Vasopressin V1a receptor
+MRLSAGPDAGPSGNSSPWWPLATGAGNTSREAEALGEGNGPPRDVRNEELAKLEIAVLAV
+TFAVAVLGNSSVLLALHRTPRKTSRMHLFIRHLSLADLAVAFFQVLPQMCWDITYRFRGP
+DWLCRVVKHLQVFGMFASAYMLVVMTADRYIAVCHPLKTLQQPARRSRLMIAAAWVLSFV
+LSTPQYFVFSMIEVNNVTKARDCWATFIQPWGSRAYVTWMTGGIFVAPVVILGTCYGFIC
+YNIWCNVRGKTASRQSKGAEQAGVAFQKGFLLAPCVSSVKSISRAKIRTVKMTFVIVTAY
+IVCWAPFFIIQMWSVWDPMSVWTESENPTITITALLGSLNSCCNPWIYMFFSGHLLQDCV
+QSFPCCQNMKEKFNKEDTDSMSRRQTFYSNNRSPTNSTGMWKDSPKSSKSIKFIPVST</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0009980|Vasopressin V1a receptor (AVPR1A)
+ATGCGTCTCTCCGCCGGTCCCGACGCGGGGCCCTCGGGCAACTCCAGCCCATGGTGGCCT
+CTGGCCACCGGCGCTGGCAACACAAGCCGGGAGGCCGAAGCCCTCGGGGAGGGCAACGGC
+CCACCGAGGGACGTGCGCAACGAGGAGCTGGCCAAACTGGAGATCGCCGTGCTGGCGGTG
+ACTTTCGCGGTGGCCGTGCTGGGCAACAGCAGCGTACTGCTGGCTCTGCACCGGACGCCG
+CGCAAGACGTCCCGCATGCACCTCTTCATCCGACACCTCAGCCTGGCCGACCTGGCCGTG
+GCATTCTTCCAGGTGCTGCCGCAAATGTGCTGGGACATCACCTACCGCTTCCGCGGCCCC
+GACTGGCTGTGCCGCGTGGTGAAGCACCTGCAGGTGTTCGGCATGTTTGCGTCGGCCTAC
+ATGCTGGTAGTCATGACAGCCGACCGCTACATCGCGGTGTGCCACCCGCTCAAGACTCTG
+CAACAGCCCGCGCGCCGCTCGCGCCTCATGATCGCGGCCGCCTGGGTGCTGAGCTTCGTG
+CTGAGCACGCCGCAGTACTTCGTCTTCTCCATGATCGAGGTGAACAATGTCACCAAGGCC
+CGCGACTGCTGGGCCACCTTCATCCAGCCCTGGGGTTCTCGTGCCTACGTGACCTGGATG
+ACGGGCGGCATCTTTGTGGCGCCCGTGGTCATCTTGGGTACCTGCTACGGCTTCATCTGC
+TACAACATCTGGTGCAACGTCCGCGGGAAGACGGCGTCGCGCCAGAGCAAGGGTGCAGAG
+CAAGCGGGTGTGGCCTTCCAAAAGGGGTTCCTGCTCGCACCCTGTGTCAGCAGCGTGAAG
+TCCATTTCCCGGGCCAAGATCCGCACGGTGAAGATGACTTTTGTGATCGTGACGGCTTAC
+ATCGTCTGCTGGGCGCCTTTCTTCATCATCCAGATGTGGTCTGTCTGGGATCCCATGTCC
+GTCTGGACCGAATCGGAAAACCCTACCATCACCATCACTGCATTACTGGGTTCCTTGAAT
+AGCTGCTGTAATCCCTGGATATACATGTTTTTTAGTGGCCATCTCCTTCAAGACTGTGTT
+CAAAGCTTCCCATGCTGCCAAAACATGAAGGAAAAATTCAACAAAGAAGATACTGACAGT
+ATGAGCAGAAGACAGACTTTTTATTCTAACAATCGAAGCCCAACAAACAGTACGGGTATG
+TGGAAGGACTCGCCTAAATCTTCCAAGTCCATCAAATTCATTCCTGTTTCAACTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08983</identifier>
+            <name>DUF1856</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase C binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vasopressin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood circulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hormone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to water deprivation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>generation of precursor metabolites and energy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>grooming behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal aggressive behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>myotube differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of female receptivity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transmission of nerve impulse</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>penile erection</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cellular pH reduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of glutamate secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of heart rate</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of prostaglandin biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of renal sodium excretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of systemic arterial blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasoconstriction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of systemic arterial blood pressure by vasopressin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to corticosterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>social behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sperm ejaculation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>telencephalon development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

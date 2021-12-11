@@ -1,0 +1,1522 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00138</drugbank-id>
+  <drugbank-id>NUTR00023</drugbank-id>
+  <name>Cystine</name>
+  <description>A covalently linked dimeric nonessential amino acid formed by the oxidation of cysteine. Two molecules of cysteine are joined together by a disulfide bridge to form cystine.</description>
+  <cas-number>56-89-3</cas-number>
+  <unii>48TCX9A1VT</unii>
+  <average-mass>240.3</average-mass>
+  <monoisotopic-mass>240.023848262</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Peter Stehle, Peter Furst, Werner Fekl, "N,N'-bis-L-amino acid-L-cystine-peptide containing amino acid preparations for oral parenteral nutrition." U.S. Patent US4968696, issued February, 1964.</synthesis-reference>
+  <indication>It has been claimed that L-cysteine has anti-inflammatory properties, that it can protect against various toxins, and that it might be helpful in osteoarthritis and rheumatoid arthritis. More research will have to be done before L-cysteine can be indicated for any of these conditions. Research to date has mostly been in animal models.</indication>
+  <pharmacodynamics>L-Cystine is a covalently linked dimeric nonessential amino acid formed by the oxidation of cysteine. Two molecules of cysteine are joined together by a disulfide bridge to form cystine. Cystine is a chemical substance which naturally occurs as a deposit in the urine, and can form a calculus (hard mineral formation) when deposited in the kidney. The compound produced when two cysteine molecules linked by a disulfide (S-S) bond. Cystine is required for proper vitamin B6 utilization and is also helpful in the healing of burns and wounds, breaking down mucus deposits in illnesses such as bronchitis as well as cystic fibrosis. Cysteine also assists in the supply of insulin to the pancreas, which is needed for the assimilation of sugars and starches. It increases the level of glutathione in the lungs, liver, kidneys and bone marrow, and this may have an anti-aging effect on the body by reducing age-spots etc.</pharmacodynamics>
+  <mechanism-of-action>Certain conditions, e.g. an acetaminophen overdose, deplete hepatic glutathione and subject the tissues to oxidative stress resulting in loss of cellular integrity. L-Cystine serves as a major precursor for synthesis of glutathione.</mechanism-of-action>
+  <toxicity>With typical doses of 1 to 1.5 grams daily, the most commonly reported side effects have been gastrointestinal, such as nausea. There are rare reports of cystine renal stone formation, Single injections of L-cysteine (0.6-1.5 g/kg) into 4-day-old pups resulted in massive damage to cortical neurons, permanent retinal dystrophy, atrophy of the brain and hyperactivity.</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as l-cysteine-s-conjugates. These are compounds containing L-cysteine where the thio-group is conjugated.</description>
+    <direct-parent>L-cysteine-S-conjugates</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic acids and derivatives</superclass>
+    <class>Carboxylic acids and derivatives</class>
+    <subclass>Amino acids, peptides, and analogues</subclass>
+    <alternative-parent>Amino acids</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Dialkyldisulfides</alternative-parent>
+    <alternative-parent>Dicarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>L-alpha-amino acids</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Sulfenyl compounds</alternative-parent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Alpha-amino acid</substituent>
+    <substituent>Amine</substituent>
+    <substituent>Amino acid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Dialkyldisulfide</substituent>
+    <substituent>Dicarboxylic acid or derivatives</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>L-alpha-amino acid</substituent>
+    <substituent>L-cysteine-s-conjugate</substituent>
+    <substituent>Organic disulfide</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Organosulfur compound</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+    <substituent>Sulfenyl compound</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">(R,R)-3,3'-dithiobis(2-aminopropanoic acid)</synonym>
+    <synonym language="spanish" coder="">Cistina</synonym>
+    <synonym language="english" coder="">L-alpha-Diamino-beta-dithiolactic acid</synonym>
+    <synonym language="english" coder="">L-Cystine</synonym>
+    <synonym language="english" coder="">L-Dicysteine</synonym>
+    <synonym language="english" coder="">β,β'-dithiodialanine</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Amino-cerv</name>
+      <labeller>Milex, A Coopersurgical Co.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00137464</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1952-12-31</started-marketing-on>
+      <ended-marketing-on>2007-07-26</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Vaginal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Distilpure Msm</name>
+      <labeller>Mbg Inc (Korea Institute of Science Development)</labeller>
+      <ndc-id/>
+      <ndc-product-code>70694-3851</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-09-16</started-marketing-on>
+      <ended-marketing-on>2018-09-16</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Medi Msm (methyl Sulfonyl Methane)</name>
+      <labeller>Mbg Inc (Korea Institute of Science Development)</labeller>
+      <ndc-id/>
+      <ndc-product-code>70694-3850</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-09-16</started-marketing-on>
+      <ended-marketing-on>2016-09-16</ended-marketing-on>
+      <dosage-form>Powder</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Distilpure Msm</name>
+      <ingredients>Biotin + Cysteine + Cystine + Methionine + Thiamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Medi Msm (methyl Sulfonyl Methane)</name>
+      <ingredients>Biotin + Cysteine + Cystine + Methionine + Thiamine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Amino-cerv</name>
+      <ingredients>Cystine + Inositol + Propanoic acid + Racemethionine + Urea</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Mason Distributors</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Tyson &amp; Associates Inc.</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Amino acid capsule</description>
+      <cost currency="USD">0.08</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>A-ketoglut acid 500 mg capsule</description>
+      <cost currency="USD">0.31</cost>
+      <unit>capsule</unit>
+    </price>
+    <price>
+      <description>L-alanine 600 mg capsule</description>
+      <cost currency="USD">0.35</cost>
+      <unit>capsule</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Acids</category>
+      <mesh-id>D000143</mesh-id>
+    </category>
+    <category>
+      <category>Acids, Noncarboxylic</category>
+      <mesh-id>D000148</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids</category>
+      <mesh-id>D000596</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Diamino</category>
+      <mesh-id>D000599</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Dicarboxylic</category>
+      <mesh-id>D000600</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Neutral</category>
+      <mesh-id>D021542</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Sulfur</category>
+      <mesh-id>D000603</mesh-id>
+    </category>
+    <category>
+      <category>Anions</category>
+      <mesh-id>D000838</mesh-id>
+    </category>
+    <category>
+      <category>Cysteine</category>
+      <mesh-id>D003545</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Disulfides</category>
+      <mesh-id>D004220</mesh-id>
+    </category>
+    <category>
+      <category>Electrolytes</category>
+      <mesh-id>D004573</mesh-id>
+    </category>
+    <category>
+      <category>Gases</category>
+      <mesh-id>D005740</mesh-id>
+    </category>
+    <category>
+      <category>Hydrogen Sulfide</category>
+      <mesh-id>D006862</mesh-id>
+    </category>
+    <category>
+      <category>Ions</category>
+      <mesh-id>D007477</mesh-id>
+    </category>
+    <category>
+      <category>Sulfhydryl Compounds</category>
+      <mesh-id>D013438</mesh-id>
+    </category>
+    <category>
+      <category>Sulfides</category>
+      <mesh-id>D013440</mesh-id>
+    </category>
+    <category>
+      <category>Sulfur Compounds</category>
+      <mesh-id>D013457</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Cream</form>
+      <route>Vaginal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>220 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00138.pdf?1265922735</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-3.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-1.2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.68e+01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-5.9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2R)-2-amino-3-{[(2R)-2-amino-2-carboxyethyl]disulfanyl}propanoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>L-cystine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>240.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>240.023848262</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>N[C@@H](CSSC[C@H](N)C(O)=O)C(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C6H12N2O4S2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C6H12N2O4S2/c7-3(5(9)10)1-13-14-2-4(8)6(11)12/h3-4H,1-2,7-8H2,(H,9,10)(H,11,12)/t3-,4-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>LEVWYRKDKASIDU-IMJSIDKUSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>126.64</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>54.87</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>22.77</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>1.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>9.34</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>190 mg/L (at 20 °C)</value>
+      <source>YALKOWSKY,SH &amp; DANNENFELSER,RM (1992)</source>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>260.5 dec °C</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-5.08</value>
+      <source>CHMELIK,J ET AL. (1991)</source>
+    </property>
+    <property>
+      <kind>pKa</kind>
+      <value>1</value>
+      <source>MERCK INDEX (1996)</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>9749</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>16283</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>67678</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506670</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00491</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03636</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>60997</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449176</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Cystine</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL590540</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000001532673</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>3036</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>PDRhealth</resource>
+      <url>http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/lcy_0088.shtml</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000030</id>
+      <name>Cystine/glutamate transporter</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A4161</ref-id>
+            <pubmed-id>11867597</pubmed-id>
+            <citation>Tomi M, Hosoya K, Takanaga H, Ohtsuki S, Terasaki T: Induction of xCT gene expression and L-cystine transport activity by diethyl maleate at the inner blood-retinal barrier. Invest Ophthalmol Vis Sci. 2002 Mar;43(3):774-9.</citation>
+          </article>
+          <article>
+            <ref-id>A4162</ref-id>
+            <pubmed-id>12065721</pubmed-id>
+            <citation>Hosoya K, Tomi M, Ohtsuki S, Takanaga H, Saeki S, Kanai Y, Endou H, Naito M, Tsuruo T, Terasaki T: Enhancement of L-cystine transport activity and its relation to xCT gene induction at the blood-brain barrier by diethyl maleate treatment. J Pharmacol Exp Ther. 2002 Jul;302(1):225-31.</citation>
+          </article>
+          <article>
+            <ref-id>A4163</ref-id>
+            <pubmed-id>12498985</pubmed-id>
+            <citation>Ruiz E, Siow RC, Bartlett SR, Jenner AM, Sato H, Bannai S, Mann GE: Vitamin C inhibits diethylmaleate-induced L-cystine transport in human vascular smooth muscle cells. Free Radic Biol Med. 2003 Jan 1;34(1):103-10.</citation>
+          </article>
+          <article>
+            <ref-id>A4164</ref-id>
+            <pubmed-id>16014042</pubmed-id>
+            <citation>Bridges CC, Zalups RK: Cystine and glutamate transport in renal epithelial cells transfected with human system x(-) (c). Kidney Int. 2005 Aug;68(2):653-64.</citation>
+          </article>
+          <article>
+            <ref-id>A4165</ref-id>
+            <pubmed-id>12898700</pubmed-id>
+            <citation>Tomi M, Funaki T, Abukawa H, Katayama K, Kondo T, Ohtsuki S, Ueda M, Obinata M, Terasaki T, Hosoya K: Expression and regulation of L-cystine transporter, system xc-, in the newly developed rat retinal Muller cell line (TR-MUL). Glia. 2003 Sep;43(3):208-17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9UPY5" source="Swiss-Prot">
+        <name>Cystine/glutamate transporter</name>
+        <general-function>Cystine:glutamate antiporter activity</general-function>
+        <specific-function>Sodium-independent, high-affinity exchange of anionic amino acids with high specificity for anionic form of cystine and glutamate.</specific-function>
+        <gene-name>SLC7A11</gene-name>
+        <locus>4q28-q32</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>44-64
+75-95
+114-134
+159-179
+190-210
+235-255
+266-286
+318-338
+365-385
+388-408
+423-443
+450-470</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.51</theoretical-pi>
+        <molecular-weight>55422.44</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11059</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SLC7A11</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AB026891</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>5668545</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>902</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9UPY5</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>XCT_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Amino acid transport system xc-</synonym>
+          <synonym>Calcium channel blocker resistance protein CCBR1</synonym>
+          <synonym>Solute carrier family 7 member 11</synonym>
+          <synonym>xCT</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0015999|Cystine/glutamate transporter
+MVRKPVVSTISKGGYLQGNVNGRLPSLGNKEPPGQEKVQLKRKVTLLRGVSIIIGTIIGA
+GIFISPKGVLQNTGSVGMSLTIWTVCGVLSLFGALSYAELGTTIKKSGGHYTYILEVFGP
+LPAFVRVWVELLIIRPAATAVISLAFGRYILEPFFIQCEIPELAIKLITAVGITVVMVLN
+SMSVSWSARIQIFLTFCKLTAILIIIVPGVMQLIKGQTQNFKDAFSGRDSSITRLPLAFY
+YGMYAYAGWFYLNFVTEEVENPEKTIPLAICISMAIVTIGYVLTNVAYFTTINAEELLLS
+NAVAVTFSERLLGNFSLAVPIFVALSCFGSMNGGVFAVSRLFYVASREGHLPEILSMIHV
+RKHTPLPAVIVLHPLTMIMLFSGDLDSLLNFLSFARWLFIGLAVAGLIYLRYKCPDMHRP
+FKVPLFIPALFSFTCLFMVALSLYSDPFSTGIGFVITLTGVPAYYLFIIWDKKPRWFRIM
+SEKITRTLQIILEVVPEEDKL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016000|Cystine/glutamate transporter (SLC7A11)
+ATGGTCAGAAAGCCTGTTGTGTCCACCATCTCCAAAGGAGGTTACCTGCAGGGAAATGTT
+AACGGGAGGCTGCCTTCCCTGGGCAACAAGGAGCCACCTGGGCAGGAGAAAGTGCAGCTG
+AAGAGGAAAGTCACTTTACTGAGGGGAGTCTCCATTATCATTGGCACCATCATTGGAGCA
+GGAATCTTCATCTCTCCTAAGGGCGTGCTCCAGAACACGGGCAGCGTGGGCATGTCTCTG
+ACCATCTGGACGGTGTGTGGGGTCCTGTCACTATTTGGAGCTTTGTCTTATGCTGAATTG
+GGAACAACTATAAAGAAATCTGGAGGTCATTACACATATATTTTGGAAGTCTTTGGTCCA
+TTACCAGCTTTTGTACGAGTCTGGGTGGAACTCCTCATAATACGCCCTGCAGCTACTGCT
+GTGATATCCCTGGCATTTGGACGCTACATTCTGGAACCATTTTTTATTCAATGTGAAATC
+CCTGAACTTGCGATCAAGCTCATTACAGCTGTGGGCATAACTGTAGTGATGGTCCTAAAT
+AGCATGAGTGTCAGCTGGAGCGCCCGGATCCAGATTTTCTTAACCTTTTGCAAGCTCACA
+GCAATTCTGATAATTATAGTCCCTGGAGTTATGCAGCTAATTAAAGGTCAAACGCAGAAC
+TTTAAAGACGCCTTTTCAGGAAGAGATTCAAGTATTACGCGGTTGCCACTGGCTTTTTAT
+TATGGAATGTATGCATATGCTGGCTGGTTTTACCTCAACTTTGTTACTGAAGAAGTAGAA
+AACCCTGAAAAAACCATTCCCCTTGCAATATGTATATCCATGGCCATTGTCACCATTGGC
+TATGTGCTGACAAATGTGGCCTACTTTACGACCATTAATGCTGAGGAGCTGCTGCTTTCA
+AATGCAGTGGCAGTGACCTTTTCTGAGCGGCTACTGGGAAATTTCTCATTAGCAGTTCCG
+ATCTTTGTTGCCCTCTCCTGCTTTGGCTCCATGAACGGTGGTGTGTTTGCTGTCTCCAGG
+TTATTCTATGTTGCGTCTCGAGAGGGTCACCTTCCAGAAATCCTCTCCATGATTCATGTC
+CGCAAGCACACTCCTCTACCAGCTGTTATTGTTTTGCACCCTTTGACAATGATAATGCTC
+TTCTCTGGAGACCTCGACAGTCTTTTGAATTTCCTCAGTTTTGCCAGGTGGCTTTTTATT
+GGGCTGGCAGTTGCTGGGCTGATTTATCTTCGATACAAATGCCCAGATATGCATCGTCCT
+TTCAAGGTGCCACTGTTCATCCCAGCTTTGTTTTCCTTCACATGCCTCTTCATGGTTGCC
+CTTTCCCTCTATTCGGACCCATTTAGTACAGGGATTGGCTTCGTCATCACTCTGACTGGA
+GTCCCTGCGTATTATCTCTTTATTATATGGGACAAGAAACCCAGGTGGTTTAGAATAATG
+TCAGAGAAAATAACCAGAACATTACAAATAATACTGGAAGTTGTACCAGAAGAAGATAAG
+TTATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13520</identifier>
+            <name>AA_permease_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoskeleton</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>rough endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cystine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brain development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>L-glutamate transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lens fiber cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet aggregation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to nicotine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to oxidative stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to toxic substance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000035</id>
+      <name>Cystinosin</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9860</ref-id>
+            <pubmed-id>11689434</pubmed-id>
+            <citation>Kalatzis V, Cherqui S, Antignac C, Gasnier B: Cystinosin, the protein defective in cystinosis, is a H(+)-driven lysosomal cystine transporter. EMBO J. 2001 Nov 1;20(21):5940-9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O60931" source="Swiss-Prot">
+        <name>Cystinosin</name>
+        <general-function>L-cystine transmembrane transporter activity</general-function>
+        <specific-function>Cystine/H(+) symporter thought to transport cystine out of lysosomes. Plays an important role in melanin synthesis, possibly by preventing melanosome acidification and subsequent degradation of tyrosinase TYR.</specific-function>
+        <gene-name>CTNS</gene-name>
+        <locus>17p13</locus>
+        <cellular-location>Lysosome membrane</cellular-location>
+        <transmembrane-regions>122-142
+162-182
+206-226
+238-258
+262-282
+298-318
+336-356</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.21</theoretical-pi>
+        <molecular-weight>41737.6</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2518</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CTNS</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y15924</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>3036851</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O60931</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CTNS_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms/>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037667|Cystinosin
+MIRNWLTIFILFPLKLVEKCESSVSLTVPPVVKLENGSSTNVSLTLRPPLNATLVITFEI
+TFRSKNITILELPDEVVVPPGVTNSSFQVTSQNVGQLTVYLHGNHSNQTGPRIRFLVIRS
+SAISIINQVIGWIYFVAWSISFYPQVIMNWRRKSVIGLSFDFVALNLTGFVAYSVFNIGL
+LWVPYIKEQFLLKYPNGVNPVNSNDVFFSLHAVVLTLIIIVQCCLYERGGQRVSWPAIGF
+LVLAWLFAFVTMIVAAVGVTTWLQFLFCFSYIKLAVTLVKYFPQAYMNFYYKSTEGWSIG
+NVLLDFTGGSFSLLQMFLQSYNNDQWTLIFGDPTKFGLGVFSIVFDVVFFIQHFCLYRKR
+PGYDQLN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010137|Cystinosin (CTNS)
+ATGATAAGGAATTGGCTGACTATTTTTATCCTTTTTCCCCTGAAGCTCGTAGAGAAATGT
+GAGTCAAGCGTCAGCCTCACTGTTCCTCCTGTCGTAAAGCTGGAGAACGGCAGCTCGACC
+AACGTCAGCCTCACCCTGCGGCCACCATTAAATGCAACCCTGGTGATCACTTTTGAAATC
+ACATTTCGTTCCAAAAATATTACTATCCTTGAGCTCCCCGATGAAGTTGTGGTGCCTCCT
+GGAGTGACAAACTCCTCTTTTCAAGTGACATCTCAAAATGTTGGACAACTTACTGTTTAT
+CTACATGGAAATCACTCCAATCAGACCGGCCCGAGGATACGCTTTCTTGTGATCCGCAGC
+AGCGCCATTAGCATCATAAACCAGGTGATTGGCTGGATCTACTTTGTGGCCTGGTCCATC
+TCCTTCTACCCTCAGGTGATCATGAATTGGAGGCGGAAAAGTGTCATTGGTCTGAGCTTC
+GACTTCGTGGCTCTGAACCTGACGGGCTTCGTGGCCTACAGTGTATTCAACATCGGCCTC
+CTCTGGGTGCCCTACATCAAGGAGCAGTTTCTCCTCAAATACCCCAACGGAGTGAACCCC
+GTGAACAGCAACGACGTCTTCTTCAGCCTGCACGCGGTTGTCCTCACGCTGATCATCATC
+GTGCAGTGCTGCCTGTATGAGCGCGGTGGCCAGCGCGTGTCCTGGCCTGCCATCGGCTTC
+CTGGTGCTCGCGTGGCTCTTCGCATTTGTCACCATGATCGTGGCTGCAGTGGGAGTGACC
+ACGTGGCTGCAGTTTCTCTTCTGCTTCTCCTACATCAAGCTCGCAGTCACGCTGGTCAAG
+TATTTTCCACAGGCCTACATGAACTTTTACTACAAAAGCACTGAGGGCTGGAGCATTGGC
+AACGTGCTCCTGGACTTCACCGGGGGCAGCTTCAGCCTCCTGCAGATGTTCCTCCAGTCC
+TACAACAACGACCAGTGGACGCTGATCTTCGGAGACCCAACCAAGTTTGGACTCGGGGTC
+TTCTCCATCGTCTTCGACGTCGTCTTCTTCATCCAGCACTTCTGTTTGTACAGAAAGAGA
+CCGGGGCTTCAGGCAGCGCGCACAGGCTCTGGCAGCCGTCTCAGGCAGGACTGGGCACCA
+AGCTTGCAGCCGAAGGCCTTGCCCCAAACTACCAGCGTTTCTGCAAGCAGCTTGAAGGGC
+TGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF04193</identifier>
+            <name>PQ-loop</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intermediate filament cytoskeleton</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>late endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>melanosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>L-cystine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adult walking behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ATP metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brain development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular amino acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cognition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glutathione metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>grooming behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>L-cystine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lens development in camera-type eye</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>long-term memory</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>melanin biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>visual learning</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters>
+    <transporter position="1">
+      <id>BE0003654</id>
+      <name>Monocarboxylate transporter 10</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A16322</ref-id>
+            <pubmed-id>11278508</pubmed-id>
+            <citation>Kim DK, Kanai Y, Chairoungdua A, Matsuo H, Cha SH, Endou H: Expression cloning of a Na+-independent aromatic amino acid transporter with structural similarity to H+/monocarboxylate transporters. J Biol Chem. 2001 May 18;276(20):17221-8. Epub 2001 Feb 20.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q8TF71" source="Swiss-Prot">
+        <name>Monocarboxylate transporter 10</name>
+        <general-function>Transporter activity</general-function>
+        <specific-function>Sodium-independent transporter that mediates the update of aromatic acid. Can function as a net efflux pathway for aromatic amino acids in the basosolateral epithelial cells (By similarity).</specific-function>
+        <gene-name>SLC16A10</gene-name>
+        <locus>6q21-q22</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>67-87
+115-135
+145-165
+172-192
+201-221
+229-249
+292-312
+330-350
+352-372
+397-417
+420-440
+452-472</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>7.77</theoretical-pi>
+        <molecular-weight>55492.07</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:17027</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AB057445</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>18640047</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q8TF71</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>MOT10_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Aromatic amino acid transporter 1</synonym>
+          <synonym>MCT 10</synonym>
+          <synonym>MCT10</synonym>
+          <synonym>Solute carrier family 16 member 10</synonym>
+          <synonym>T-type amino acid transporter 1</synonym>
+          <synonym>TAT1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0007022|Monocarboxylate transporter 10
+MVLSQEEPDSARGTSEAQPLGPAPTGAAPPPGPGPSDSPEAAVEKVEVELAGPATAEPHE
+PPEPPEGGWGWLVMLAAMWCNGSVFGIQNACGVLFVSMLETFGSKDDDKMVFKTAWVGSL
+SMGMIFFCCPIVSVFTDLFGCRKTAVVGAAVGFVGLMSSSFVSSIEPLYLTYGIIFACGC
+SFAYQPSLVILGHYFKKRLGLVNGIVTAGSSVFTILLPLLLRVLIDSVGLFYTLRVLCIF
+MFVLFLAGFTYRPLATSTKDKESGGSGSSLFSRKKFSPPKKIFNFAIFKVTAYAVWAVGI
+PLALFGYFVPYVHLMKHVNERFQDEKNKEVVLMCIGVTSGVGRLLFGRIADYVPGVKKVY
+LQVLSFFFIGLMSMMIPLCSIFGALIAVCLIMGLFDGCFISIMAPIAFELVGAQDVSQAI
+GFLLGFMSIPMTVGPPIAGLLRDKLGSYDVAFYLAGVPPLIGGAVLCFIPWIHSKKQREI
+SKTTGKEKMEKMLENQNSLLSSSSGMFKKESDSII</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020707|Monocarboxylate transporter 10 (SLC16A10)
+ATGGTGCTCTCCCAGGAGGAGCCGGACTCCGCGCGGGGCACGAGCGAGGCGCAGCCGCTC
+GGCCCCGCGCCCACGGGGGCCGCTCCGCCGCCCGGCCCGGGACCCTCGGACAGCCCCGAG
+GCGGCTGTCGAGAAGGTGGAGGTGGAGCTGGCGGGGCCGGCGACCGCGGAGCCCCATGAG
+CCCCCCGAACCCCCCGAGGGCGGCTGGGGCTGGCTGGTGATGCTGGCGGCCATGTGGTGC
+AACGGGTCGGTGTTCGGCATCCAGAACGCTTGCGGGGTGCTCTTCGTGTCCATGCTGGAA
+ACCTTCGGCTCCAAAGACGATGACAAGATGGTCTTTAAGACAGCATGGGTAGGTTCTCTC
+TCCATGGGGATGATTTTCTTTTGCTGCCCAATAGTCAGCGTCTTCACAGACCTATTTGGT
+TGTCGGAAAACAGCTGTCGTGGGTGCTGCTGTTGGATTTGTTGGGCTCATGTCCAGTTCT
+TTTGTAAGTTCCATCGAGCCTCTGTACCTTACCTATGGAATCATATTTGCCTGCGGCTGC
+TCCTTTGCATACCAGCCTTCATTGGTCATTTTGGGACACTATTTCAAGAAGCGCCTTGGA
+CTGGTGAATGGCATTGTCACTGCTGGCAGCAGTGTCTTCACAATCCTGCTGCCTTTGCTC
+TTAAGGGTTCTGATTGACAGCGTGGGCCTCTTTTACACATTGAGGGTGCTCTGCATCTTC
+ATGTTTGTTCTCTTTCTGGCTGGCTTTACTTACCGACCTCTTGCTACCAGTACCAAAGAT
+AAAGAGAGTGGAGGTAGCGGATCCTCCCTCTTTTCCAGGAAAAAGTTCAGTCCTCCAAAA
+AAAATTTTCAATTTTGCCATCTTCAAGGTGACAGCTTATGCAGTGTGGGCAGTTGGAATA
+CCACTTGCACTTTTTGGATACTTTGTGCCTTATGTTCACTTGATGAAACATGTAAATGAA
+AGATTTCAAGATGAAAAAAATAAAGAGGTTGTTCTCATGTGCATTGGCGTCACTTCAGGA
+GTTGGACGACTGCTCTTTGGCCGGATTGCAGATTATGTGCCTGGTGTGAAGAAGGTTTAT
+CTACAGGTACTCTCCTTTTTCTTCATTGGTCTGATGTCCATGATGATTCCTCTGTGTAGC
+ATCTTTGGGGCCCTCATTGCTGTGTGCCTCATCATGGGTCTCTTCGATGGATGCTTCATT
+TCCATTATGGCTCCCATAGCCTTTGAGTTAGTTGGTGCCCAGGATGTCTCCCAAGCAATT
+GGATTTCTGCTCGGATTCATGTCTATACCCATGACTGTTGGCCCACCCATTGCAGGGTTA
+CTTCGTGACAAACTGGGCTCCTATGATGTGGCATTCTACCTCGCTGGAGTCCCTCCCCTT
+ATTGGAGGTGCTGTGCTTTGTTTTATCCCGTGGATCCATAGTAAGAAGCAAAGAGAGATC
+AGTAAAACCACTGGAAAAGAAAAGATGGAGAAAATGTTGGAAAACCAGAACTCTCTGCTG
+TCAAGTTCATCTGGAATGTTCAAGAAAGAATCTGACTCTATTATTTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07690</identifier>
+            <name>MFS_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basolateral plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>aromatic amino acid transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>thyroid hormone transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aromatic amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+    <transporter position="2">
+      <id>BE0002251</id>
+      <name>B(0,+)-type amino acid transporter 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A198954</ref-id>
+            <pubmed-id>26537754</pubmed-id>
+            <citation>Rius M, Sala L, Chillaron J: The role of N-glycans and the C-terminal loop of the subunit rBAT in the biogenesis of the cystinuria-associated transporter. Biochem J. 2016 Feb 1;473(3):233-44. doi: 10.1042/BJ20150846. Epub 2015 Nov 4.</citation>
+          </article>
+          <article>
+            <ref-id>A198951</ref-id>
+            <pubmed-id>20517292</pubmed-id>
+            <citation>Chillaron J, Font-Llitjos M, Fort J, Zorzano A, Goldfarb DS, Nunes V, Palacin M: Pathophysiology and treatment of cystinuria. Nat Rev Nephrol. 2010 Jul;6(7):424-34. doi: 10.1038/nrneph.2010.69. Epub 2010 Jun 1.</citation>
+          </article>
+          <article>
+            <ref-id>A198960</ref-id>
+            <pubmed-id>26739563</pubmed-id>
+            <citation>Nagamori S, Wiriyasermkul P, Guarch ME, Okuyama H, Nakagomi S, Tadagaki K, Nishinaka Y, Bodoy S, Takafuji K, Okuda S, Kurokawa J, Ohgaki R, Nunes V, Palacin M, Kanai Y: Novel cystine transporter in renal proximal tubule identified as a missing partner of cystinuria-related plasma membrane protein rBAT/SLC3A1. Proc Natl Acad Sci U S A. 2016 Jan 19;113(3):775-80. doi: 10.1073/pnas.1519959113. Epub 2016 Jan 6.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P82251" source="Swiss-Prot">
+        <name>b(0,+)-type amino acid transporter 1</name>
+        <general-function>Peptide antigen binding</general-function>
+        <specific-function>Involved in the high-affinity, sodium-independent transport of cystine and neutral and dibasic amino acids (system b(0,+)-like activity). Thought to be responsible for the high-affinity reabsorption of cystine in the kidney tubule.</specific-function>
+        <gene-name>SLC7A9</gene-name>
+        <locus>19q13.1</locus>
+        <cellular-location>Apical cell membrane</cellular-location>
+        <transmembrane-regions>30-50
+61-81
+100-120
+149-169
+179-199
+211-231
+252-272
+297-317
+349-369
+375-395
+410-430
+435-455</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.21</theoretical-pi>
+        <molecular-weight>53480.81</molecular-weight>
+        <chromosome-location>19</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11067</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SLC7A9</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF141289</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>5916108</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P82251</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>BAT1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>b(0,+)AT1</synonym>
+          <synonym>BAT1</synonym>
+          <synonym>Glycoprotein-associated amino acid transporter b0,+AT1</synonym>
+          <synonym>Solute carrier family 7 member 9</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016729|b(0,+)-type amino acid transporter 1
+MGDTGLRKRREDEKSIQSQEPKTTSLQKELGLISGISIIVGTIIGSGIFVSPKSVLSNTE
+AVGPCLIIWAACGVLATLGALCFAELGTMITKSGGEYPYLMEAYGPIPAYLFSWASLIVI
+KPTSFAIICLSFSEYVCAPFYVGCKPPQIVVKCLAAAAILFISTVNSLSVRLGSYVQNIF
+TAAKLVIVAIIIISGLVLLAQGNTKNFDNSFEGAQLSVGAISLAFYNGLWAYDGWNQLNY
+ITEELRNPYRNLPLAIIIGIPLVTACYILMNVSYFTVMTATELLQSQAVAVTFGDRVLYP
+ASWIVPLFVAFSTIGAANGTCFTAGRLIYVAGREGHMLKVLSYISVRRLTPAPAIIFYGI
+IATIYIIPGDINSLVNYFSFAAWLFYGLTILGLIVMRFTRKELERPIKVPVVIPVLMTLI
+SVFLVLAPIISKPTWEYLYCVLFILSGLLFYFLFVHYKFGWAQKISKPITMHLQMLMEVV
+PPEEDPE</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016730|b(0,+)-type amino acid transporter 1 (SLC7A9)
+ATGGGGGATACTGGCCTGAGAAAGCGGAGAGAGGATGAGAAGTCGATCCAGAGCCAAGAG
+CCTAAGACCACCAGTCTCCAAAAGGAGCTGGGCCTCATCAGTGGCATCTCCATCATCGTG
+GGCACCATCATTGGCTCTGGGATCTTCGTTTCCCCCAAGTCTGTGCTCAGCAACACGGAA
+GCTGTGGGGCCCTGCCTCATCATATGGGCGGCTTGCGGGGTCCTCGCGACGCTGGGTGCC
+CTGTGCTTTGCGGAGCTTGGCACAATGATCACCAAGTCAGGGGGAGAGTATCCCTACCTG
+ATGGAGGCCTACGGGCCCATCCCCGCCTACCTCTTCTCCTGGGCCAGCCTGATCGTCATT
+AAGCCCACGTCCTTCGCCATCATCTGCCTCAGCTTCTCCGAGTATGTGTGTGCGCCCTTC
+TATGTGGGCTGCAAGCCTCCTCAAATCGTTGTGAAATGCCTGGCCGCCGCCGCCATCTTG
+TTCATCTCGACAGTGAACTCACTGAGCGTGCGGCTGGGAAGCTACGTCCAGAACATCTTC
+ACCGCGGCCAAGCTGGTGATCGTGGCCATCATCATCATCAGCGGGCTGGTGCTCCTGGCC
+CAAGGAAACACAAAGAATTTTGATAATTCTTTCGAGGGCGCCCAGCTGTCTGTGGGAGCC
+ATCAGCCTGGCGTTTTACAATGGACTCTGGGCCTATGATGGATGGAATCAACTCAATTAC
+ATCACAGAAGAACTTAGAAACCCTTACAGAAACCTGCCTTTGGCCATTATCATCGGGATC
+CCCCTGGTGACGGCGTGCTACATCCTCATGAACGTGTCCTACTTCACCGTGATGACTGCC
+ACCGAACTCCTGCAGTCCCAGGCGGTGGCTGTGACATTTGGTGACCGTGTTCTCTATCCT
+GCTTCTTGGATCGTTCCACTTTTTGTGGCATTTTCAACCATCGGTGCTGCTAACGGGACC
+TGCTTCACAGCGGGCAGACTCATTTACGTGGCGGGCCGGGAGGGTCACATGCTCAAAGTG
+CTTTCTTACATCAGCGTCAGGCGCCTCACTCCAGCCCCCGCCATCATCTTTTATGGTATC
+ATAGCAACGATTTATATCATCCCTGGTGACATAAACTCGTTAGTCAATTATTTCAGCTTT
+GCCGCATGGCTGTTTTATGGCCTGACGATTCTAGGACTCATCGTGATGAGATTTACAAGG
+AAAGAGCTGGAAAGGCCTATCAAGGTGCCCGTAGTCATTCCCGTCTTGATGACACTCATC
+TCTGTGTTTTTGGTTCTGGCTCCAATCATCAGCAAGCCCACCTGGGAGTACCTCTACTGT
+GTGCTGTTTATATTAAGCGGCCTTTTATTTTACTTCCTGTTTGTCCACTACAAGTTTGGA
+TGGGCTCAGAAAATCTCAAAGCCGATTACCATGCACCTTCAGATGCTAATGGAAGTGGTC
+CCACCGGAGGAAGACCCTGAGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13520</identifier>
+            <name>AA_permease_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>brush border membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>antiporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>L-cystine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>neutral amino acid transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide antigen binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>L-cystine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutral amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein complex assembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+    <transporter position="3">
+      <id>BE0001130</id>
+      <name>Neutral and basic amino acid transport protein rBAT</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A198960</ref-id>
+            <pubmed-id>26739563</pubmed-id>
+            <citation>Nagamori S, Wiriyasermkul P, Guarch ME, Okuyama H, Nakagomi S, Tadagaki K, Nishinaka Y, Bodoy S, Takafuji K, Okuda S, Kurokawa J, Ohgaki R, Nunes V, Palacin M, Kanai Y: Novel cystine transporter in renal proximal tubule identified as a missing partner of cystinuria-related plasma membrane protein rBAT/SLC3A1. Proc Natl Acad Sci U S A. 2016 Jan 19;113(3):775-80. doi: 10.1073/pnas.1519959113. Epub 2016 Jan 6.</citation>
+          </article>
+          <article>
+            <ref-id>A198951</ref-id>
+            <pubmed-id>20517292</pubmed-id>
+            <citation>Chillaron J, Font-Llitjos M, Fort J, Zorzano A, Goldfarb DS, Nunes V, Palacin M: Pathophysiology and treatment of cystinuria. Nat Rev Nephrol. 2010 Jul;6(7):424-34. doi: 10.1038/nrneph.2010.69. Epub 2010 Jun 1.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q07837" source="Swiss-Prot">
+        <name>Neutral and basic amino acid transport protein rBAT</name>
+        <general-function>L-cystine transmembrane transporter activity</general-function>
+        <specific-function>Involved in the high-affinity, sodium-independent transport of cystine and neutral and dibasic amino acids (system B(0,+)-like activity). May function as an activator of SLC7A9 and be involved in the high-affinity reabsorption of cystine in the kidney tubule.</specific-function>
+        <gene-name>SLC3A1</gene-name>
+        <locus>2p16.3</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>88-108</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>5.81</theoretical-pi>
+        <molecular-weight>78851.4</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11025</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SLC3A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M95548</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>306442</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q07837</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SLC31_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>b(0,+)-type amino acid transport protein</synonym>
+          <synonym>D2h</synonym>
+          <synonym>NBAT</synonym>
+          <synonym>RBAT</synonym>
+          <synonym>Solute carrier family 3 member 1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002248|Neutral and basic amino acid transport protein rBAT
+MAEDKSKRDSIEMSMKGCQTNNGFVHNEDILEQTPDPGSSTDNLKHSTRGILGSQEPDFK
+GVQPYAGMPKEVLFQFSGQARYRIPREILFWLTVASVLVLIAATIAIIALSPKCLDWWQE
+GPMYQIYPRSFKDSNKDGNGDLKGIQDKLDYITALNIKTVWITSFYKSSLKDFRYGVEDF
+REVDPIFGTMEDFENLVAAIHDKGLKLIIDFIPNHTSDKHIWFQLSRTRTGKYTDYYIWH
+DCTHENGKTIPPNNWLSVYGNSSWHFDEVRNQCYFHQFMKEQPDLNFRNPDVQEEIKEIL
+RFWLTKGVDGFSLDAVKFLLEAKHLRDEIQVNKTQIPDTVTQYSELYHDFTTTQVGMHDI
+VRSFRQTMDQYSTEPGRYRFMGTEAYAESIDRTVMYYGLPFIQEADFPFNNYLSMLDTVS
+GNSVYEVITSWMENMPEGKWPNWMIGGPDSSRLTSRLGNQYVNVMNMLLFTLPGTPITYY
+GEEIGMGNIVAANLNESYDINTLRSKSPMQWDNSSNAGFSEASNTWLPTNSDYHTVNVDV
+QKTQPRSALKLYQDLSLLHANELLLNRGWFCHLRNDSHYVVYTRELDGIDRIFIVVLNFG
+ESTLLNLHNMISGLPAKMRIRLSTNSADKGSKVDTSGIFLDKGEGLIFEHNTKNLLHRQT
+AFRDRCFVSNRACYSSVLNILYTSC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020511|Neutral and basic amino acid transport protein rBAT (SLC3A1)
+ATGGCTGAAGATAAAAGCAAGAGAGACTCCATCGAGATGAGTATGAAGGGATGCCAGACA
+AACAACGGGTTTGTCCATAATGAAGACATTCTGGAGCAGACCCCGGATCCAGGAAGCTCA
+ACAGACAACCTGAAGCACAGCACCAGGGGCATCCTTGGCTCCCAGGAGCCCGACTTCAAG
+GGCGTCCAGCCCTATGCGGGGATGCCCAAGGAGGTGCTGTTCCAGTTCTCTGGCCAGGCC
+CGCTACCGCATACCTCGGGAGATCCTCTTCTGGCTCACAGTGGCTTCTGTGCTGGTGCTC
+ATCGCGGCCACCATAGCCATCATTGCCCTCTCTCCAAAGTGCCTAGACTGGTGGCAGGAG
+GGGCCCATGTACCAGATCTACCCAAGGTCTTTCAAGGACAGTAACAAGGATGGGAACGGA
+GATCTGAAAGGTATTCAAGATAAACTGGACTACATCACAGCTTTAAATATAAAAACTGTT
+TGGATTACTTCATTTTATAAATCGTCCCTTAAAGATTTCAGATATGGTGTTGAAGATTTC
+CGGGAAGTTGATCCCATTTTTGGAACGATGGAAGATTTTGAGAATCTGGTTGCAGCCATA
+CATGATAAAGGTTTAAAATTAATCATCGATTTCATACCAAACCACACGAGTGATAAACAT
+ATTTGGTTTCAATTGAGTCGGACACGGACAGGAAAATATACTGATTATTATATCTGGCAT
+GACTGTACCCATGAAAATGGCAAAACCATTCCACCCAACAACTGGTTAAGTGTGTATGGA
+AACTCCAGTTGGCACTTTGACGAAGTGCGAAACCAATGTTATTTTCATCAGTTTATGAAA
+GAGCAACCTGATTTAAATTTCCGCAATCCTGATGTTCAAGAAGAAATAAAAGAAATTTTA
+CGGTTCTGGCTCACAAAGGGTGTTGATGGTTTTAGTTTGGATGCTGTTAAATTCCTCCTA
+GAAGCAAAGCACCTGAGAGATGAGATCCAAGTAAATAAGACCCAAATCCCGGACACGGTC
+ACACAATACTCGGAGCTGTACCATGACTTCACCACCACGCAGGTGGGAATGCACGACATT
+GTCCGCAGCTTCCGGCAGACCATGGACCAATACAGCACGGAGCCCGGCAGATACAGGTTC
+ATGGGGACTGAAGCCTATGCAGAGAGTATTGACAGGACCGTGATGTACTATGGATTGCCA
+TTTATCCAAGAAGCTGATTTTCCCTTCAACAATTACCTCAGCATGCTAGACACTGTTTCT
+GGGAACAGCGTGTATGAGGTTATCACATCCTGGATGGAAAACATGCCAGAAGGAAAATGG
+CCTAACTGGATGATTGGTGGACCAGACAGTTCACGGCTGACTTCGCGTTTGGGGAATCAG
+TATGTCAACGTGATGAACATGCTTCTTTTCACACTCCCTGGAACTCCTATAACTTACTAT
+GGAGAAGAAATTGGAATGGGAAATATTGTAGCCGCAAATCTCAATGAAAGCTATGATATT
+AATACCCTTCGCTCAAAGTCACCAATGCAGTGGGACAATAGTTCAAATGCTGGTTTTTCT
+GAAGCTAGTAACACCTGGTTACCTACCAATTCAGATTACCACACTGTGAATGTTGATGTC
+CAAAAGACTCAGCCCAGATCGGCTTTGAAGTTATATCAAGATTTAAGTCTACTTCATGCC
+AATGAGCTACTCCTCAACAGGGGCTGGTTTTGCCATTTGAGGAATGACAGCCACTATGTT
+GTGTACACAAGAGAGCTGGATGGCATCGACAGAATCTTTATCGTGGTTCTGAATTTTGGA
+GAATCAACACTGTTAAATCTACATAATATGATTTCGGGCCTTCCCGCTAAAATGAGAATA
+AGGTTAAGTACCAATTCTGCCGACAAAGGCAGTAAAGTTGATACAAGTGGCATTTTTCTG
+GACAAGGGAGAGGGACTCATCTTTGAACACAACACGAAGAATCTCCTTCATCGCCAAACA
+GCTTTCAGAGATAGATGCTTTGTTTCCAATCGAGCATGCTATTCCAGTGTACTGAACATA
+CTGTATACCTCGTGTTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00128</identifier>
+            <name>Alpha-amylase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>brush border membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrial inner membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>vacuolar membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>amino acid transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>basic amino acid transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>catalytic activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cation binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>L-cystine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>basic amino acid transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>basic amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular amino acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>L-cystine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

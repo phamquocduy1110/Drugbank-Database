@@ -1,0 +1,3288 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-11-02">
+  <drugbank-id primary="true">DB00127</drugbank-id>
+  <drugbank-id>NUTR00055</drugbank-id>
+  <drugbank-id>EXPT02947</drugbank-id>
+  <drugbank-id>DB02564</drugbank-id>
+  <name>Spermine</name>
+  <description>Spermine is a spermidine-derived biogenic polyamine found as a polycation at all pH values. Found in various tissues and organisms, it often acts as an essential growth factor in some bacterial species. Spermine is associated with nucleic acids, particularly in viruses, and is thought to stabilize the helical structure.</description>
+  <cas-number>71-44-3</cas-number>
+  <unii>2FZ7Y3VOQX</unii>
+  <average-mass>202.3402</average-mass>
+  <monoisotopic-mass>202.215746852</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>experimental</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Koji Nakanishi, Amira T. Eldefrawi, Mohyee E. Eldefrawi, Peter N. R. Usherwood, "Butyryl-tyrosinyl spermine, analogs thereof and methods of preparing and using same." U.S. Patent US5770625, issued January, 1966.</synthesis-reference>
+  <indication>For nutritional supplementation, also for treating dietary shortage or imbalance</indication>
+  <pharmacodynamics>Spermine is a polyamine. It is an organic molecule that is involved in cellular metabolism.</pharmacodynamics>
+  <mechanism-of-action>Spermine is derived from spermidine by spermine synthase. Spermine is a polyamine, a small organic cations that is absolutely required for eukaryotic cell growth. Spermine, is normally found in millimolar concentrations in the nucleus. Spermine functions directly as a free radical scavenger, and forms a variety of adducts that prevent oxidative damage to DNA. Oxidative damage to DNA by reactive oxygen species is a continual problem that cells must guard against to survive. Hence, spermine is a major natural intracellular compound capable of protecting DNA from free radical attack. Spermine is also implicated in the regulation of gene expression, the stabilization of chromatin, and the prevention of endonuclease-mediated DNA fragmentation.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as dialkylamines. These are organic compounds containing a dialkylamine group, characterized by two alkyl groups bonded to the amino nitrogen.</description>
+    <direct-parent>Dialkylamines</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic nitrogen compounds</superclass>
+    <class>Organonitrogen compounds</class>
+    <subclass>Amines</subclass>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Monoalkylamines</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Primary aliphatic amine</substituent>
+    <substituent>Primary amine</substituent>
+    <substituent>Secondary aliphatic amine</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT000870</drugbank-id>
+      <name>Spermine dihydrate</name>
+      <unii/>
+      <cas-number>403982-64-9</cas-number>
+      <inchikey>MTNRSMVAYLLBAV-UHFFFAOYSA-N</inchikey>
+      <average-mass>238.376</average-mass>
+      <monoisotopic-mass>238.236876222</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="">4,9-diaza-1,12-dodecanediamine</synonym>
+    <synonym language="english" coder="">4,9-diazadodecane-1,12-diamine</synonym>
+    <synonym language="english" coder="">Musculamine</synonym>
+    <synonym language="english" coder="">N,N'-Bis(3-aminopropyl)-1,4-butanediamine</synonym>
+    <synonym language="spanish" coder="">Spermina</synonym>
+    <synonym language="english" coder="">Spermine</synonym>
+  </synonyms>
+  <products/>
+  <international-brands/>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amines</category>
+      <mesh-id>D000588</mesh-id>
+    </category>
+    <category>
+      <category>Biogenic Amines</category>
+      <mesh-id>D001679</mesh-id>
+    </category>
+    <category>
+      <category>Biogenic Polyamines</category>
+      <mesh-id>D015317</mesh-id>
+    </category>
+    <category>
+      <category>Diamines</category>
+      <mesh-id>D003959</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>OCT1 substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Polyamines</category>
+      <mesh-id>D011073</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries>
+    <pdb-entry>100d</pdb-entry>
+    <pdb-entry>131d</pdb-entry>
+    <pdb-entry>198d</pdb-entry>
+    <pdb-entry>1d10</pdb-entry>
+    <pdb-entry>1d12</pdb-entry>
+    <pdb-entry>1d15</pdb-entry>
+    <pdb-entry>1d48</pdb-entry>
+    <pdb-entry>1dcr</pdb-entry>
+    <pdb-entry>1dns</pdb-entry>
+    <pdb-entry>1dpl</pdb-entry>
+    <pdb-entry>1edr</pdb-entry>
+    <pdb-entry>1ei4</pdb-entry>
+    <pdb-entry>1evv</pdb-entry>
+    <pdb-entry>1f6c</pdb-entry>
+    <pdb-entry>1fq2</pdb-entry>
+    <pdb-entry>1fuf</pdb-entry>
+    <pdb-entry>1i0t</pdb-entry>
+    <pdb-entry>1i1p</pdb-entry>
+    <pdb-entry>1i2y</pdb-entry>
+    <pdb-entry>1ick</pdb-entry>
+    <pdb-entry>1j8g</pdb-entry>
+    <pdb-entry>1m69</pdb-entry>
+    <pdb-entry>1n7a</pdb-entry>
+    <pdb-entry>1n7b</pdb-entry>
+    <pdb-entry>1ofx</pdb-entry>
+    <pdb-entry>1pwf</pdb-entry>
+    <pdb-entry>1rff</pdb-entry>
+    <pdb-entry>1rfi</pdb-entry>
+    <pdb-entry>1rg1</pdb-entry>
+    <pdb-entry>1rg2</pdb-entry>
+    <pdb-entry>1rgt</pdb-entry>
+    <pdb-entry>1rgu</pdb-entry>
+    <pdb-entry>1rh0</pdb-entry>
+    <pdb-entry>1s2r</pdb-entry>
+    <pdb-entry>1tn1</pdb-entry>
+    <pdb-entry>1tn2</pdb-entry>
+    <pdb-entry>1vro</pdb-entry>
+    <pdb-entry>1woe</pdb-entry>
+    <pdb-entry>1xl6</pdb-entry>
+    <pdb-entry>1xpf</pdb-entry>
+    <pdb-entry>1xpq</pdb-entry>
+    <pdb-entry>1y84</pdb-entry>
+    <pdb-entry>1y8l</pdb-entry>
+    <pdb-entry>1yb9</pdb-entry>
+    <pdb-entry>1z5t</pdb-entry>
+    <pdb-entry>1z7i</pdb-entry>
+    <pdb-entry>206d</pdb-entry>
+    <pdb-entry>210d</pdb-entry>
+    <pdb-entry>211d</pdb-entry>
+    <pdb-entry>248d</pdb-entry>
+    <pdb-entry>258d</pdb-entry>
+    <pdb-entry>2b2b</pdb-entry>
+    <pdb-entry>2b8j</pdb-entry>
+    <pdb-entry>2c12</pdb-entry>
+    <pdb-entry>2d47</pdb-entry>
+    <pdb-entry>2dcg</pdb-entry>
+    <pdb-entry>2f8w</pdb-entry>
+    <pdb-entry>2gun</pdb-entry>
+    <pdb-entry>2gwa</pdb-entry>
+    <pdb-entry>2o3y</pdb-entry>
+    <pdb-entry>2pl8</pdb-entry>
+    <pdb-entry>2plb</pdb-entry>
+    <pdb-entry>2rf3</pdb-entry>
+    <pdb-entry>2tra</pdb-entry>
+    <pdb-entry>2wlj</pdb-entry>
+    <pdb-entry>2wlk</pdb-entry>
+    <pdb-entry>320d</pdb-entry>
+    <pdb-entry>321d</pdb-entry>
+    <pdb-entry>323d</pdb-entry>
+    <pdb-entry>324d</pdb-entry>
+    <pdb-entry>326d</pdb-entry>
+    <pdb-entry>355d</pdb-entry>
+    <pdb-entry>3b7p</pdb-entry>
+    <pdb-entry>3bj8</pdb-entry>
+    <pdb-entry>3c6m</pdb-entry>
+    <pdb-entry>3eui</pdb-entry>
+    <pdb-entry>3ku9</pdb-entry>
+    <pdb-entry>3kwa</pdb-entry>
+    <pdb-entry>3lp9</pdb-entry>
+    <pdb-entry>3oz5</pdb-entry>
+    <pdb-entry>3p4j</pdb-entry>
+    <pdb-entry>3qj7</pdb-entry>
+    <pdb-entry>3tzo</pdb-entry>
+    <pdb-entry>3vkg</pdb-entry>
+    <pdb-entry>410d</pdb-entry>
+    <pdb-entry>428d</pdb-entry>
+    <pdb-entry>4e8k</pdb-entry>
+    <pdb-entry>4e8m</pdb-entry>
+    <pdb-entry>4e8n</pdb-entry>
+    <pdb-entry>4e8p</pdb-entry>
+    <pdb-entry>4e8q</pdb-entry>
+    <pdb-entry>4e8t</pdb-entry>
+    <pdb-entry>4faq</pdb-entry>
+    <pdb-entry>4far</pdb-entry>
+    <pdb-entry>4fau</pdb-entry>
+    <pdb-entry>4faw</pdb-entry>
+    <pdb-entry>4fb0</pdb-entry>
+    <pdb-entry>4hqi</pdb-entry>
+    <pdb-entry>4mi4</pdb-entry>
+    <pdb-entry>4mj8</pdb-entry>
+    <pdb-entry>4nfo</pdb-entry>
+    <pdb-entry>4p5j</pdb-entry>
+    <pdb-entry>4r0d</pdb-entry>
+    <pdb-entry>4r4a</pdb-entry>
+    <pdb-entry>4r87</pdb-entry>
+    <pdb-entry>5de9</pdb-entry>
+    <pdb-entry>5ob3</pdb-entry>
+    <pdb-entry>5v1l</pdb-entry>
+    <pdb-entry>5vj9</pdb-entry>
+    <pdb-entry>5vjb</pdb-entry>
+    <pdb-entry>5xjz</pdb-entry>
+    <pdb-entry>6af2</pdb-entry>
+    <pdb-entry>6chr</pdb-entry>
+    <pdb-entry>6e1x</pdb-entry>
+    <pdb-entry>6e8s</pdb-entry>
+    <pdb-entry>6gaw</pdb-entry>
+    <pdb-entry>6gaz</pdb-entry>
+    <pdb-entry>6gb2</pdb-entry>
+    <pdb-entry>6gda</pdb-entry>
+    <pdb-entry>6hiv</pdb-entry>
+    <pdb-entry>6hiw</pdb-entry>
+    <pdb-entry>6hiy</pdb-entry>
+    <pdb-entry>6rsj</pdb-entry>
+    <pdb-entry>6rsk</pdb-entry>
+    <pdb-entry>6rsl</pdb-entry>
+    <pdb-entry>6rw4</pdb-entry>
+    <pdb-entry>6rw5</pdb-entry>
+    <pdb-entry>6s7d</pdb-entry>
+    <pdb-entry>6t3k</pdb-entry>
+    <pdb-entry>6t3r</pdb-entry>
+    <pdb-entry>6uej</pdb-entry>
+    <pdb-entry>6vfn</pdb-entry>
+    <pdb-entry>6xxl</pdb-entry>
+    <pdb-entry>6ydp</pdb-entry>
+    <pdb-entry>6ydw</pdb-entry>
+    <pdb-entry>6ywe</pdb-entry>
+    <pdb-entry>6yws</pdb-entry>
+    <pdb-entry>6ywv</pdb-entry>
+    <pdb-entry>6ywx</pdb-entry>
+    <pdb-entry>6ywy</pdb-entry>
+    <pdb-entry>7k00</pdb-entry>
+    <pdb-entry>7ky3</pdb-entry>
+    <pdb-entry>7ky4</pdb-entry>
+  </pdb-entries>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00127.pdf?1265922736</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00122</drugbank-id>
+      <name>Choline</name>
+      <description>The risk or severity of adverse effects can be increased when Choline is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00184</drugbank-id>
+      <name>Nicotine</name>
+      <description>The risk or severity of adverse effects can be increased when Nicotine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00206</drugbank-id>
+      <name>Reserpine</name>
+      <description>The risk or severity of adverse effects can be increased when Reserpine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00220</drugbank-id>
+      <name>Nelfinavir</name>
+      <description>The risk or severity of adverse effects can be increased when Nelfinavir is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00224</drugbank-id>
+      <name>Indinavir</name>
+      <description>The risk or severity of adverse effects can be increased when Indinavir is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00238</drugbank-id>
+      <name>Nevirapine</name>
+      <description>The risk or severity of adverse effects can be increased when Nevirapine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00280</drugbank-id>
+      <name>Disopyramide</name>
+      <description>The risk or severity of adverse effects can be increased when Disopyramide is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00318</drugbank-id>
+      <name>Codeine</name>
+      <description>The risk or severity of adverse effects can be increased when Codeine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00396</drugbank-id>
+      <name>Progesterone</name>
+      <description>The risk or severity of adverse effects can be increased when Progesterone is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00457</drugbank-id>
+      <name>Prazosin</name>
+      <description>The risk or severity of adverse effects can be increased when Prazosin is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The risk or severity of adverse effects can be increased when Quinine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00501</drugbank-id>
+      <name>Cimetidine</name>
+      <description>The risk or severity of adverse effects can be increased when Cimetidine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00536</drugbank-id>
+      <name>Guanidine</name>
+      <description>The risk or severity of adverse effects can be increased when Guanidine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00590</drugbank-id>
+      <name>Doxazosin</name>
+      <description>The risk or severity of adverse effects can be increased when Doxazosin is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The risk or severity of adverse effects can be increased when Efavirenz is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The risk or severity of adverse effects can be increased when Verapamil is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00728</drugbank-id>
+      <name>Rocuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Rocuronium is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>The risk or severity of adverse effects can be increased when Clopidogrel is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00787</drugbank-id>
+      <name>Acyclovir</name>
+      <description>The risk or severity of adverse effects can be increased when Acyclovir is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00908</drugbank-id>
+      <name>Quinidine</name>
+      <description>The risk or severity of adverse effects can be increased when Quinidine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00914</drugbank-id>
+      <name>Phenformin</name>
+      <description>The risk or severity of adverse effects can be increased when Phenformin is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00915</drugbank-id>
+      <name>Amantadine</name>
+      <description>The risk or severity of adverse effects can be increased when Amantadine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00917</drugbank-id>
+      <name>Dinoprostone</name>
+      <description>The risk or severity of adverse effects can be increased when Dinoprostone is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00925</drugbank-id>
+      <name>Phenoxybenzamine</name>
+      <description>The risk or severity of adverse effects can be increased when Phenoxybenzamine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01004</drugbank-id>
+      <name>Ganciclovir</name>
+      <description>The risk or severity of adverse effects can be increased when Ganciclovir is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01032</drugbank-id>
+      <name>Probenecid</name>
+      <description>The risk or severity of adverse effects can be increased when Probenecid is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01035</drugbank-id>
+      <name>Procainamide</name>
+      <description>The risk or severity of adverse effects can be increased when Procainamide is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01114</drugbank-id>
+      <name>Chlorpheniramine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorpheniramine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The risk or severity of adverse effects can be increased when Desipramine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01232</drugbank-id>
+      <name>Saquinavir</name>
+      <description>The risk or severity of adverse effects can be increased when Saquinavir is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01337</drugbank-id>
+      <name>Pancuronium</name>
+      <description>The risk or severity of adverse effects can be increased when Pancuronium is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>The risk or severity of adverse effects can be increased when Linagliptin is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The risk or severity of adverse effects can be increased when Palbociclib is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09555</drugbank-id>
+      <name>Dexchlorpheniramine maleate</name>
+      <description>The risk or severity of adverse effects can be increased when Dexchlorpheniramine maleate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11642</drugbank-id>
+      <name>Pitolisant</name>
+      <description>The risk or severity of adverse effects can be increased when Pitolisant is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11963</drugbank-id>
+      <name>Dacomitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Dacomitinib is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12141</drugbank-id>
+      <name>Gilteritinib</name>
+      <description>The risk or severity of adverse effects can be increased when Gilteritinib is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12332</drugbank-id>
+      <name>Rucaparib</name>
+      <description>The risk or severity of adverse effects can be increased when Rucaparib is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Estradiol acetate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>The risk or severity of adverse effects can be increased when Estradiol benzoate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>The risk or severity of adverse effects can be increased when Estradiol cypionate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13955</drugbank-id>
+      <name>Estradiol dienanthate</name>
+      <description>The risk or severity of adverse effects can be increased when Estradiol dienanthate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>The risk or severity of adverse effects can be increased when Estradiol valerate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14006</drugbank-id>
+      <name>Choline salicylate</name>
+      <description>The risk or severity of adverse effects can be increased when Choline salicylate is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04855</drugbank-id>
+      <name>Dronedarone</name>
+      <description>The risk or severity of adverse effects can be increased when Dronedarone is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00983</drugbank-id>
+      <name>Formoterol</name>
+      <description>The risk or severity of adverse effects can be increased when Formoterol is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01018</drugbank-id>
+      <name>Guanfacine</name>
+      <description>The risk or severity of adverse effects can be increased when Guanfacine is combined with Spermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00938</drugbank-id>
+      <name>Salmeterol</name>
+      <description>The risk or severity of adverse effects can be increased when Salmeterol is combined with Spermine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-0.66</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-2</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.19e+00 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-1.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(3-aminopropyl)({4-[(3-aminopropyl)amino]butyl})amine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>spermine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>202.3402</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>202.215746852</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>NCCCNCCCCNCCCN</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C10H26N4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C10H26N4/c11-5-3-9-13-7-1-2-8-14-10-4-6-12/h13-14H,1-12H2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>PFNFFQXMRSDOHW-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>76.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>62.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>26.69</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>11</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>11.1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>&gt; 100 mg/mL</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>29 °C</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>Boiling Point</kind>
+      <value>150-150 °C</value>
+      <source/>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-0.7</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>15746</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>1103</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507215</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00750</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>1072</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>BindingDB</resource>
+      <identifier>79403</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164781199</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>SPM</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>IUPHAR</resource>
+      <identifier>710</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Guide to Pharmacology</resource>
+      <identifier>710</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Spermine</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL23194</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000001532734</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1483263</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000445</smpdb-id>
+      <name>Spermidine and Spermine Biosynthesis</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00114</drugbank-id>
+          <name>Pyridoxal phosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00118</drugbank-id>
+          <name>Ademetionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00127</drugbank-id>
+          <name>Spermine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00129</drugbank-id>
+          <name>Ornithine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00134</drugbank-id>
+          <name>Methionine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01345</drugbank-id>
+          <name>Potassium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01917</drugbank-id>
+          <name>Putrescine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03566</drugbank-id>
+          <name>Spermidine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03587</drugbank-id>
+          <name>Pyruvaldehyde</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>P31153</uniprot-id>
+        <uniprot-id>Q9NZL9</uniprot-id>
+        <uniprot-id>P19623</uniprot-id>
+        <uniprot-id>P52788</uniprot-id>
+        <uniprot-id>P11926</uniprot-id>
+        <uniprot-id>P17707</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000964</id>
+      <name>Spermine synthase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11657</ref-id>
+            <pubmed-id>11040105</pubmed-id>
+            <citation>Lopatin AN, Shantz LM, Mackintosh CA, Nichols CG, Pegg AE: Modulation of potassium channels in the hearts of transgenic and mutant mice with altered polyamine biosynthesis. J Mol Cell Cardiol. 2000 Nov;32(11):2007-24.</citation>
+          </article>
+          <article>
+            <ref-id>A11658</ref-id>
+            <pubmed-id>11160858</pubmed-id>
+            <citation>Korhonen VP, Niiranen K, Halmekyto M, Pietila M, Diegelman P, Parkkinen JJ, Eloranta T, Porter CW, Alhonen L, Janne J: Spermine deficiency resulting from targeted disruption of the spermine synthase gene in embryonic stem cells leads to enhanced sensitivity to antiproliferative drugs. Mol Pharmacol. 2001 Feb;59(2):231-8.</citation>
+          </article>
+          <article>
+            <ref-id>A11659</ref-id>
+            <pubmed-id>14508504</pubmed-id>
+            <citation>Cason AL, Ikeguchi Y, Skinner C, Wood TC, Holden KR, Lubs HA, Martinez F, Simensen RJ, Stevenson RE, Pegg AE, Schwartz CE: X-linked spermine synthase gene (SMS) defect: the first polyamine deficiency syndrome. Eur J Hum Genet. 2003 Dec;11(12):937-44.</citation>
+          </article>
+          <article>
+            <ref-id>A11660</ref-id>
+            <pubmed-id>15459188</pubmed-id>
+            <citation>Wang X, Ikeguchi Y, McCloskey DE, Nelson P, Pegg AE: Spermine synthesis is required for normal viability, growth, and fertility in the mouse. J Biol Chem. 2004 Dec 3;279(49):51370-5. Epub 2004 Sep 30.</citation>
+          </article>
+          <article>
+            <ref-id>A11661</ref-id>
+            <pubmed-id>21318891</pubmed-id>
+            <citation>Schwartz CE, Wang X, Stevenson RE, Pegg AE: Spermine synthase deficiency resulting in X-linked intellectual disability (Snyder-Robinson syndrome). Methods Mol Biol. 2011;720:437-45. doi: 10.1007/978-1-61779-034-8_28.</citation>
+          </article>
+          <article>
+            <ref-id>A11662</ref-id>
+            <pubmed-id>21318872</pubmed-id>
+            <citation>Wang X, Pegg AE: Use of (Gyro) Gy and spermine synthase transgenic mice to study functions of spermine. Methods Mol Biol. 2011;720:159-70. doi: 10.1007/978-1-61779-034-8_9.</citation>
+          </article>
+          <article>
+            <ref-id>A11663</ref-id>
+            <pubmed-id>11950995</pubmed-id>
+            <citation>Theiss C, Bohley P, Voigt J: Regulation by polyamines of ornithine decarboxylase activity and cell division in the unicellular green alga Chlamydomonas reinhardtii. Plant Physiol. 2002 Apr;128(4):1470-9.</citation>
+          </article>
+          <article>
+            <ref-id>A11664</ref-id>
+            <pubmed-id>16515550</pubmed-id>
+            <citation>Krauss M, Langnaese K, Richter K, Brunk I, Wieske M, Ahnert-Hilger G, Veh RW, Laube G: Spermidine synthase is prominently expressed in the striatal patch compartment and in putative interneurones of the matrix compartment. J Neurochem. 2006 Apr;97(1):174-89. Epub 2006 Mar 3.</citation>
+          </article>
+          <article>
+            <ref-id>A11665</ref-id>
+            <pubmed-id>16651710</pubmed-id>
+            <citation>Kobayashi M, Takao K, Shiota Y, Sugita Y, Takahashi M, Nakae D, Samejima K: Inhibition of putrescine aminopropyltransferase influences rat liver regeneration. Biol Pharm Bull. 2006 May;29(5):863-7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P52788" source="Swiss-Prot">
+        <name>Spermine synthase</name>
+        <general-function>Spermine synthase activity</general-function>
+        <specific-function>Catalyzes the production of spermine from spermidine and decarboxylated S-adenosylmethionine (dcSAM).</specific-function>
+        <gene-name>SMS</gene-name>
+        <locus>Xp22.1</locus>
+        <cellular-location/>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>4.62</theoretical-pi>
+        <molecular-weight>41267.855</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11123</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SMS</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Z49099</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>791051</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P52788</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SPSY_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.5.1.22</synonym>
+          <synonym>Spermidine aminopropyltransferase</synonym>
+          <synonym>SPMSY</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001919|Spermine synthase
+MAAARHSTLDFMLGAKADGETILKGLQSIFQEQGMAESVHTWQDHGYLATYTNKNGSFAN
+LRIYPHGLVLLDLQSYDGDAQGKEEIDSILNKVEERMKELSQDSTGRVKRLPPIVRGGAI
+DRYWPTADGRLVEYDIDEVVYDEDSPYQNIKILHSKQFGNILILSGDVNLAESDLAYTRA
+IMGSGKEDYTGKDVLILGGGDGGILCEIVKLKPKMVTMVEIDQMVIDGCKKYMRKTCGDV
+LDNLKGDCYQVLIEDCIPVLKRYAKEGREFDYVINDLTAVPISTSPEEDSTWEFLRLILD
+LSMKVLKQDGKYFTQGNCVNLTEALSLYEEQLGRLYCPVEFSKEIVCVPSYLELWVFYTV
+WKKAKP</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010676|Spermine synthase (SMS)
+ATGGCAGCAGCACGGCACAGCACGCTCGACTTCATGCTCGGCGCCAAAGCTGATGGTGAG
+ACCATTCTAAAAGGCCTCCAGTCCATTTTCCAGGAGCAGGGGATGGCGGAGTCGGTGCAC
+ACCTGGCAGGACCATGGCTATTTAGCAACCTACACAAACAAGAACGGCAGATTACCACCC
+ATAGTGCGAGGAGGAGCCATCGACAGATACTGGCCCACCGCCGACGGGCGCCTGGTTGAA
+TATGACATAGATGAAGTGGTATATGACGAAGATTCACCTTATCAAAATATAAAAATTCTA
+CACTCGAAGCAGTTTGGAAATATTCTCATCCTTAGTGGGGATGTTAATTTGGCAGAGAGT
+GATTTGGCATATACCCGGGCCATCATGGGCAGTGGCAAAGAAGATTACACTGGCAAAGAT
+GTACTCATTCTGGGAGGTGGAGACGGAGGCATATTGTGTGAAATAGTCAAACTAAAACCA
+AAGATGGTCACTATGGTAGAGATTGACCAAATGGTGATTGATGGGTGTAAGAAATACATG
+CGAAAAACGTGTGGCGATGTCTTAGACAATCTTAAAGGAGACTGCTATCAGGTTCTAATA
+GAAGACTGTATCCCGGTACTGAAGAGGTACGCCAAAGAAGGGAGAGAATTTGATTATGTG
+ATTAATGATTTGACAGCTGTTCCAATCTCCACGTCTCCAGAAGAAGATTCCACATGGGAG
+TTTCTCAGACTGATTCTTGACCTCTCAATGAAAGTGTTGAAACAGGATGGGAAATATTTT
+ACACAGGGGAACTGTGTCAATCTGACAGAAGCACTGTCGCTCTATGAAGAACAGCTGGGG
+CGCCTGTATTGTCCTGTGGAATTTTCAAAGGAGATCGTCTGTGTCCCTTCATACTTGGAA
+TTGTGGGTATTTTACACTGTTTGGAAGAAAGCTAAACCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01564</identifier>
+            <name>Spermine_synth</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>spermine synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular nitrogen compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>methionine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermine biosynthetic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000566</id>
+      <name>Spermine oxidase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9770</ref-id>
+            <pubmed-id>11258887</pubmed-id>
+            <citation>Binda C, Angelini R, Federico R, Ascenzi P, Mattevi A: Structural bases for inhibitor binding and catalysis in polyamine oxidase. Biochemistry. 2001 Mar 6;40(9):2766-76.</citation>
+          </article>
+          <article>
+            <ref-id>A9771</ref-id>
+            <pubmed-id>12141946</pubmed-id>
+            <citation>Vujcic S, Diegelman P, Bacchi CJ, Kramer DL, Porter CW: Identification and characterization of a novel flavin-containing spermine oxidase of mammalian cell origin. Biochem J. 2002 Nov 1;367(Pt 3):665-75.</citation>
+          </article>
+          <article>
+            <ref-id>A9772</ref-id>
+            <pubmed-id>12477380</pubmed-id>
+            <citation>Vujcic S, Liang P, Diegelman P, Kramer DL, Porter CW: Genomic identification and biochemical characterization of the mammalian polyamine oxidase involved in polyamine back-conversion. Biochem J. 2003 Feb 15;370(Pt 1):19-28.</citation>
+          </article>
+          <article>
+            <ref-id>A9773</ref-id>
+            <pubmed-id>12727196</pubmed-id>
+            <citation>Wang Y, Murray-Stewart T, Devereux W, Hacker A, Frydman B, Woster PM, Casero RA Jr: Properties of purified recombinant human polyamine oxidase, PAOh1/SMO. Biochem Biophys Res Commun. 2003 May 16;304(4):605-11.</citation>
+          </article>
+          <article>
+            <ref-id>A9774</ref-id>
+            <pubmed-id>15133083</pubmed-id>
+            <citation>Bacchi CJ, Rattendi D, Faciane E, Yarlett N, Weiss LM, Frydman B, Woster P, Wei B, Marton LJ, Wittner M: Polyamine metabolism in a member of the phylum Microspora (Encephalitozoon cuniculi): effects of polyamine analogues. Microbiology. 2004 May;150(Pt 5):1215-24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q9NWM0" source="Swiss-Prot">
+        <name>Spermine oxidase</name>
+        <general-function>Spermine:oxygen oxidoreductase (spermidine-forming) activity</general-function>
+        <specific-function>Flavoenzyme which catalyzes the oxidation of spermine to spermidine. Can also use N(1)-acetylspermine and spermidine as substrates, with different affinity depending on the isoform (isozyme) and on the experimental conditions. Plays an important role in the regulation of polyamine intracellular concentration and has the potential to act as a determinant of cellular sensitivity to the antitumor polyamine analogs. May contribute to beta-alanine production via aldehyde dehydrogenase conversion of 3-amino-propanal.</specific-function>
+        <gene-name>SMOX</gene-name>
+        <locus>20p13</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.15</theoretical-pi>
+        <molecular-weight>61818.76</molecular-weight>
+        <chromosome-location>20</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:15862</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SMOX</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AY033889</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>14860862</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9NWM0</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SMOX_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.5.3.16</synonym>
+          <synonym>C20orf16</synonym>
+          <synonym>PAO-1</synonym>
+          <synonym>PAOh1</synonym>
+          <synonym>Polyamine oxidase 1</synonym>
+          <synonym>SMO</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001130|Spermine oxidase
+MQSCESSGDSADDPLSRGLRRRGQPRVVVIGAGLAGLAAAKALLEQGFTDVTVLEASSHI
+GGRVQSVKLGHATFELGATWIHGSHGNPIYHLAEANGLLEETTDGERSVGRISLYSKNGV
+ACYLTNHGRRIPKDVVEEFSDLYNEVYNLTQEFFRHDKPVNAESQNSVGVFTREEVRNRI
+RNDPDDPEATKRLKLAMIQQYLKVESCESSSHSMDEVSLSAFGEWTEIPGAHHIIPSGFM
+RVVELLAEGIPAHVIQLGKPVRCIHWDQASARPRGPEIEPRGEGDHNHDTGEGGQGGEEP
+RGGRWDEDEQWSVVVECEDCELIPADHVIVTVSLGVLKRQYTSFFRPGLPTEKVAAIHRL
+GIGTTDKIFLEFEEPFWGPECNSLQFVWEDEAESHTLTYPPELWYRKICGFDVLYPPERY
+GHVLSGWICGEEALVMEKCDDEAVAEICTEMLRQFTGNPNIPKPRRILRSAWGSNPYFRG
+SYSYTQVGSSGADVEKLAKPLPYTESSKTAPMQVLFSGEATHRKYYSTTHGALLSGQREA
+ARLIEMYRDLFQQGT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010393|Spermine oxidase (SMOX)
+ATGCAAAGTTGTGAATCCAGTGGTGACAGTGCGGATGACCCTCTCAGTCGCGGCCTACGG
+AGAAGGGGACAGCCTCGTGTGGTGGTGATCGGCGCCGGCTTGGCTGGCCTGGCTGCAGCC
+AAAGCACTTCTTGAGCAGGGTTTCACGGATGTCACTGTGCTTGAGGCTTCCAGCCACATC
+GGAGGCCGTGTGCAGAGTGTGAAACTTGGACACGCCACCTTTGAGCTGGGAGCCACCTGG
+ATCCATGGCTCCCATGGGAACCCTATCTATCATCTAGCAGAAGCCAACGGCCTCCTGGAA
+GAGACAACCGATGGGGAACGCAGCGTGGGCCGCATCAGCCTCTATTCCAAGAATGGCGTG
+GCCTGCTACCTTACCAACCACGGCCGCAGGATCCCCAAGGACGTGGTTGAGGAATTCAGC
+GATTTATACAACGAGGTCTATAACTTGACCCAGGAGTTCTTCCGGCACGATAAACCAGTC
+AATGCTGAAAGTCAAAATAGCGTGGGGGTGTTCACCCGAGAGGAGGTGCGTAACCGCATC
+AGGAATGACCCTGACGACCCAGAGGCTACCAAGCGCCTGAAGCTCGCCATGATCCAGCAG
+TACCTGAAGGTGGAGAGCTGTGAGAGCAGCTCACACAGCATGGACGAGGTGTCCCTGAGC
+GCCTTCGGGGAGTGGACCGAGATCCCCGGCGCTCACCACATCATCCCCTCGGGCTTCATG
+CGGGTTGTGGAGCTGCTGGCGGAGGGCATCCCTGCCCACGTCATCCAGCTAGGGAAACCT
+GTCCGCTGCATTCACTGGGACCAGGCCTCAGCCCGCCCCAGAGGCCCTGAGATTGAGCCC
+CGGGGTGAGGGCGACCACAATCACGACACTGGGGAGGGTGGCCAGGGTGGAGAGGAGCCC
+CGGGGGGGCAGGTGGGATGAGGATGAGCAGTGGTCGGTGGTGGTGGAGTGCGAGGACTGT
+GAGCTGATCCCGGCGGACCATGTGATTGTGACCGTGTCGCTAGGTGTGCTAAAGAGGCAG
+TACACCAGTTTCTTCCGGCCAGGCCTGCCCACAGAGAAGGTGGCTGCCATCCACCGCCTG
+GGCATTGGCACCACCGACAAGATCTTTCTGGAATTCGAGGAGCCCTTCTGGGGCCCTGAG
+TGCAACAGCCTACAGTTTGTGTGGGAGGACGAAGCAGAGAGCCACACCCTCACCTACCCA
+CCTGAGCTCTGGTACCGCAAGATCTGCGGCTTTGATGTCCTCTACCCGCCTGAGCGCTAC
+GGCCATGTGCTGAGCGGCTGGATCTGCGGGGAGGAGGCCCTCGTCATGGAGAAGTGTGAT
+GACGAGGCAGTGGCCGAGATCTGCACGGAGATGCTGCGTCAGTTCACAGGGAACCCCAAC
+ATTCCAAAACCTCGGCGAATCTTGCGCTCGGCCTGGGGCAGCAACCCTTACTTCCGCGGC
+TCCTATTCATACACGCAGGTGGGCTCCAGCGGGGCGGATGTGGAGAAGCTGGCCAAGCCC
+CTGCCGTACACAGAGAGCTCAAAGACAGCGCATGGAAGCTCCACAAAGCAGCAGCCTGGT
+CACCTTTTCTCTTCCAAGTGCCCAGAACAGCCCCTGGATGCTAACAGGGGCGCCGTAAAG
+CCCATGCAGGTGCTGTTTTCCGGTGAGGCCACCCACCGCAAGTACTATTCCACCACCCAC
+GGTGCTCTGCTGTCCGGCCAGCGTGAGGCTGCCCGCCTCATTGAGATGTACCGAGACCTC
+TTCCAGCAGGGGACCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01593</identifier>
+            <name>Amino_oxidase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N1-acetylspermine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>norspermine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>polyamine oxidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>spermine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular nitrogen compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oxidation-reduction process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermine catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenobiotic metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0004796</id>
+      <name>DNA</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17237</ref-id>
+            <pubmed-id>12547793</pubmed-id>
+            <citation>Trubetskoy VS, Wolff JA, Budker VG: The role of a microscopic colloidally stabilized phase in solubilizing oligoamine-condensed DNA complexes. Biophys J. 2003 Feb;84(2 Pt 1):1124-30.</citation>
+          </article>
+          <article>
+            <ref-id>A17238</ref-id>
+            <pubmed-id>21167887</pubmed-id>
+            <citation>Cho SK, Kwon YJ: Polyamine/DNA polyplexes with acid-degradable polymeric shell as structurally and functionally virus-mimicking nonviral vectors. J Control Release. 2011 Mar 30;150(3):287-97. doi: 10.1016/j.jconrel.2010.12.004. Epub 2010 Dec 16.</citation>
+          </article>
+          <article>
+            <ref-id>A17239</ref-id>
+            <pubmed-id>12202757</pubmed-id>
+            <citation>Saminathan M, Thomas T, Shirahata A, Pillai CK, Thomas TJ: Polyamine structural effects on the induction and stabilization of liquid crystalline DNA: potential applications to DNA packaging, gene therapy and polyamine therapeutics. Nucleic Acids Res. 2002 Sep 1;30(17):3722-31.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+    <target position="5">
+      <id>BE0000404</id>
+      <name>Ornithine decarboxylase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>product of</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13613</ref-id>
+            <pubmed-id>10698696</pubmed-id>
+            <citation>Nilsson J, Grahn B, Heby O: Antizyme inhibitor is rapidly induced in growth-stimulated mouse fibroblasts and releases ornithine decarboxylase from antizyme suppression. Biochem J. 2000 Mar 15;346 Pt 3:699-704.</citation>
+          </article>
+          <article>
+            <ref-id>A13614</ref-id>
+            <pubmed-id>10712236</pubmed-id>
+            <citation>Ray RM, Viar MJ, Yuan Q, Johnson LR: Polyamine depletion delays apoptosis of rat intestinal epithelial cells. Am J Physiol Cell Physiol. 2000 Mar;278(3):C480-9.</citation>
+          </article>
+          <article>
+            <ref-id>A11658</ref-id>
+            <pubmed-id>11160858</pubmed-id>
+            <citation>Korhonen VP, Niiranen K, Halmekyto M, Pietila M, Diegelman P, Parkkinen JJ, Eloranta T, Porter CW, Alhonen L, Janne J: Spermine deficiency resulting from targeted disruption of the spermine synthase gene in embryonic stem cells leads to enhanced sensitivity to antiproliferative drugs. Mol Pharmacol. 2001 Feb;59(2):231-8.</citation>
+          </article>
+          <article>
+            <ref-id>A13615</ref-id>
+            <pubmed-id>11408092</pubmed-id>
+            <citation>Rohn G, Els T, Hell K, Ernestus RI: Regional distribution of ornithine decarboxylase activity and polyamine levels in experimental cat brain tumors. Neurochem Int. 2001 Aug;39(2):135-40.</citation>
+          </article>
+          <article>
+            <ref-id>A13616</ref-id>
+            <pubmed-id>11413269</pubmed-id>
+            <citation>Ernestus RI, Rohn G, Schroder R, Els T, Klekner A, Paschen W, Klug N: Polyamine metabolism in brain tumours: diagnostic relevance of quantitative biochemistry. J Neurol Neurosurg Psychiatry. 2001 Jul;71(1):88-92.</citation>
+          </article>
+          <article>
+            <ref-id>A14607</ref-id>
+            <pubmed-id>21413019</pubmed-id>
+            <citation>Lee NK, MacLean HE: Polyamines, androgens, and skeletal muscle hypertrophy. J Cell Physiol. 2011 Jun;226(6):1453-60. doi: 10.1002/jcp.22569.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P11926" source="Swiss-Prot">
+        <name>Ornithine decarboxylase</name>
+        <general-function>Protein homodimerization activity</general-function>
+        <specific-function>Key enzyme of polyamine biosynthesis that converts ornithine into putrescine, which is the precursor for the polyamines, spermidine and spermine.</specific-function>
+        <gene-name>ODC1</gene-name>
+        <locus>2p25</locus>
+        <cellular-location/>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>4.88</theoretical-pi>
+        <molecular-weight>51147.73</molecular-weight>
+        <chromosome-location/>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:8109</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ODC1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M16650</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29893806</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1276</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P11926</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>DCOR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>4.1.1.17</synonym>
+          <synonym>ODC</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016082|Ornithine decarboxylase
+MNNFGNEEFDCHFLDEGFTAKDILDQKINEVSSSDDKDAFYVADLGDILKKHLRWLKALP
+RVTPFYAVKCNDSKAIVKTLAATGTGFDCASKTEIQLVQSLGVPPERIIYANPCKQVSQI
+KYAANNGVQMMTFDSEVELMKVARAHPKAKLVLRIATDDSKAVCRLSVKFGATLRTSRLL
+LERAKELNIDVVGVSFHVGSGCTDPETFVQAISDARCVFDMGAEVGFSMYLLDIGGGFPG
+SEDVKLKFEEITGVINPALDKYFPSDSGVRIIAEPGRYYVASAFTLAVNIIAKKIVLKEQ
+TGSDDEDESSEQTFMYYVNDGVYGSFNCILYDHAHVKPLLQKRPKPDEKYYSSSIWGPTC
+DGLDRIVERCDLPEMHVGDWMLFENMGAYTVAAASTFNGFQRPTIYYVMSGPAWQLMQQF
+QNPDFPPEVEEQDASTLPVSCAWESGMKRHRAACASASINV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0000804|1386 bp
+ATGAACAACTTTGGTAATGAAGAGTTTGACTGCCACTTCCTCGATGAAGGTTTTACTGCC
+AAGGACATTCTGGACCAGAAAATTAATGAAGTTTCTTCTTCTGATGATAAGGATGCCTTC
+TATGTGGCAGACCTGGGAGACATTCTAAAGAAACATCTGAGGTGGTTAAAAGCTCTCCCT
+CGTGTCACCCCCTTTTATGCAGTCAAATGTAATGATAGCAAAGCCATCGTGAAGACCCTT
+GCTGCTACCGGGACAGGATTTGACTGTGCTAGCAAGACTGAAATACAGTTGGTGCAGAGT
+CTGGGGGTGCCTCCAGAGAGGATTATCTATGCAAATCCTTGTAAACAAGTATCTCAAATT
+AAGTATGCTGCTAATAATGGAGTCCAGATGATGACTTTTGATAGTGAAGTTGAGTTGATG
+AAAGTTGCCAGAGCACATCCCAAAGCAAAGTTGGTTTTGCGGATTGCCACTGATGATTCC
+AAAGCAGTCTGTCGTCTCAGTGTGAAATTCGGTGCCACGCTCAGAACCAGCAGGCTCCTT
+TTGGAACGGGCGAAAGAGCTAAATATCGATGTTGTTGGTGTCAGCTTCCATGTAGGAAGC
+GGCTGTACCGATCCTGAGACCTTCGTGCAGGCAATCTCTGATGCCCGCTGTGTTTTTGAC
+ATGGGGGCTGAGGTTGGTTTCAGCATGTATCTGCTTGATATTGGCGGTGGCTTTCCTGGA
+TCTGAGGATGTGAAACTTAAATTTGAAGAGATCACCGGCGTAATCAACCCAGCGTTGGAC
+AAATACTTTCCGTCAGACTCTGGAGTGAGAATCATAGCTGAGCCCGGCAGATACTATGTT
+GCATCAGCTTTCACGCTTGCAGTTAATATCATTGCCAAGAAAATTGTATTAAAGGAACAG
+ACGGGCTCTGATGACGAAGATGAGTCGAGTGAGCAGACCTTTATGTATTATGTGAATGAT
+GGCGTCTATGGATCATTTAATTGCATACTCTATGACCACGCACATGTAAAGCCCCTTCTG
+CAAAAGAGACCTAAACCAGATGAGAAGTATTATTCATCCAGCATATGGGGACCAACATGT
+GATGGCCTCGATCGGATTGTTGAGCGCTGTGACCTGCCTGAAATGCATGTGGGTGATTGG
+ATGCTCTTTGAAAACATGGGCGCTTACACTGTTGCTGCTGCCTCTACGTTCAATGGCTTC
+CAGAGGCCGACGATCTACTATGTGATGTCAGGGCCTGCGTGGCAACTCATGCAGCAATTC
+CAGAACCCCGACTTCCCACCCGAAGTAGAGGAACAGGATGCCAGCACCCTGCCTGTGTCT
+TGTGCCTGGGAGAGTGGGATGAAACGCCACAGAGCAGCCTGTGCTTCGGCTAGTATTAAT
+GTGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF02784</identifier>
+            <name>Orn_Arg_deC_N</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00278</identifier>
+            <name>Orn_DAP_Arg_deC</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>perinuclear region of cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ornithine decarboxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular nitrogen compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>kidney development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>putrescine biosynthetic process from ornithine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cellular amino acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of protein catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="7">
+      <id>BE0000509</id>
+      <name>Extracellular calcium-sensing receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A20034</ref-id>
+            <pubmed-id>17041782</pubmed-id>
+            <citation>El Hiani Y, Ahidouch A, Roudbaraki M, Guenin S, Brule G, Ouadid-Ahidouch H: Calcium-sensing receptor stimulation induces nonselective cation channel activation in breast cancer cells. J Membr Biol. 2006;211(2):127-37. Epub 2006 Oct 14.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P41180" source="Swiss-Prot">
+        <name>Extracellular calcium-sensing receptor</name>
+        <general-function>Phosphatidylinositol phospholipase c activity</general-function>
+        <specific-function>Senses changes in the extracellular concentration of calcium ions. The activity of this receptor is mediated by a G-protein that activates a phosphatidylinositol-calcium second messenger system.</specific-function>
+        <gene-name>CASR</gene-name>
+        <locus>3q13</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>613-635
+650-670
+682-700
+725-745
+770-792
+806-828
+837-862</transmembrane-regions>
+        <signal-regions>1-19</signal-regions>
+        <theoretical-pi>5.82</theoretical-pi>
+        <molecular-weight>120672.385</molecular-weight>
+        <chromosome-location>3</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1514</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CASR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X81086</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>599820</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>54</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>54</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P41180</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CASR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CaSR</synonym>
+          <synonym>GPRC2A</synonym>
+          <synonym>Parathyroid cell calcium-sensing receptor 1</synonym>
+          <synonym>PCAR1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001016|Extracellular calcium-sensing receptor
+MAFYSCCWVLLALTWHTSAYGPDQRAQKKGDIILGGLFPIHFGVAAKDQDLKSRPESVEC
+IRYNFRGFRWLQAMIFAIEEINSSPALLPNLTLGYRIFDTCNTVSKALEATLSFVAQNKI
+DSLNLDEFCNCSEHIPSTIAVVGATGSGVSTAVANLLGLFYIPQVSYASSSRLLSNKNQF
+KSFLRTIPNDEHQATAMADIIEYFRWNWVGTIAADDDYGRPGIEKFREEAEERDICIDFS
+ELISQYSDEEEIQHVVEVIQNSTAKVIVVFSSGPDLEPLIKEIVRRNITGKIWLASEAWA
+SSSLIAMPQYFHVVGGTIGFALKAGQIPGFREFLKKVHPRKSVHNGFAKEFWEETFNCHL
+QEGAKGPLPVDTFLRGHEESGDRFSNSSTAFRPLCTGDENISSVETPYIDYTHLRISYNV
+YLAVYSIAHALQDIYTCLPGRGLFTNGSCADIKKVEAWQVLKHLRHLNFTNNMGEQVTFD
+ECGDLVGNYSIINWHLSPEDGSIVFKEVGYYNVYAKKGERLFINEEKILWSGFSREVPFS
+NCSRDCLAGTRKGIIEGEPTCCFECVECPDGEYSDETDASACNKCPDDFWSNENHTSCIA
+KEIEFLSWTEPFGIALTLFAVLGIFLTAFVLGVFIKFRNTPIVKATNRELSYLLLFSLLC
+CFSSSLFFIGEPQDWTCRLRQPAFGISFVLCISCILVKTNRVLLVFEAKIPTSFHRKWWG
+LNLQFLLVFLCTFMQIVICVIWLYTAPPSSYRNQELEDEIIFITCHEGSLMALGFLIGYT
+CLLAAICFFFAFKSRKLPENFNEAKFITFSMLIFFIVWISFIPAYASTYGKFVSAVEVIA
+ILAASFGLLACIFFNKIYIILFKPSRNTIEEVRCSTAAHAFKVAARATLRRSNVSRKRSS
+SLGGSTGSTPSSSISSKSNSEDPFPQPERQKQQQPLALTQQEQQQQPLTLPQQQRSQQQP
+RCKQKVIFGSGTVTFSLSFDEPQKNAMAHRNSTHQNSLEAQKSSDTLTRHQPLLPLQCGE
+TDLDLTVQETGLQGPVGGDQRPEVEDPEELSPALVVSSSQSFVISGGGSTVTENVVNS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016113|Extracellular calcium-sensing receptor (CASR)
+ATGGCATTTTATAGCTGCTGCTGGGTCCTCTTGGCACTCACCTGGCACACCTCTGCCTAC
+GGGCCAGACCAGCGAGCCCAAAAGAAGGGGGACATTATCCTTGGGGGGCTCTTTCCTATT
+CATTTTGGAGTAGCAGCTAAAGATCAAGATCTCAAATCAAGGCCGGAGTCTGTGGAATGT
+ATCAGGTATAATTTCCGTGGGTTTCGCTGGTTACAGGCTATGATATTTGCCATAGAGGAG
+ATAAACAGCAGCCCAGCCCTTCTTCCCAACTTGACGCTGGGATACAGGATATTTGACACT
+TGCAACACCGTTTCTAAGGCCTTGGAAGCCACCCTGAGTTTTGTTGCTCAAAACAAAATT
+GATTCTTTGAACCTTGATGAGTTCTGCAACTGCTCAGAGCACATTCCCTCTACGATTGCT
+GTGGTGGGAGCAACTGGCTCAGGCGTCTCCACGGCAGTGGCAAATCTGCTGGGGCTCTTC
+TACATTCCCCAGGTCAGTTATGCCTCCTCCAGCAGACTCCTCAGCAACAAGAATCAATTC
+AAGTCTTTCCTCCGAACCATCCCCAATGATGAGCACCAGGCCACTGCCATGGCAGACATC
+ATCGAGTATTTCCGCTGGAACTGGGTGGGCACAATTGCAGCTGATGACGACTATGGGCGG
+CCGGGGATTGAGAAATTCCGAGAGGAAGCTGAGGAAAGGGATATCTGCATCGACTTCAGT
+GAACTCATCTCCCAGTACTCTGATGAGGAAGAGATCCAGCATGTGGTAGAGGTGATTCAA
+AATTCCACGGCCAAAGTCATCGTGGTTTTCTCCAGTGGCCCAGATCTTGAGCCCCTCATC
+AAGGAGATTGTCCGGCGCAATATCACGGGCAAGATCTGGCTGGCCAGCGAGGCCTGGGCC
+AGCTCCTCCCTGATCGCCATGCCTCAGTACTTCCACGTGGTTGGCGGCACCATTGGATTC
+GCTCTGAAGGCTGGGCAGATCCCAGGCTTCCGGGAATTCCTGAAGAAGGTCCATCCCAGG
+AAGTCTGTCCACAATGGTTTTGCCAAGGAGTTTTGGGAAGAAACATTTAACTGCCACCTC
+CAAGAAGGTGCAAAAGGACCTTTACCTGTGGACACCTTTCTGAGAGGTCACGAAGAAAGT
+GGCGACAGGTTTAGCAACAGCTCGACAGCCTTCCGACCCCTCTGTACAGGGGATGAGAAC
+ATCAGCAGTGTCGAGACCCCTTACATAGATTACACGCATTTACGGATATCCTACAATGTG
+TACTTAGCAGTCTACTCCATTGCCCACGCCTTGCAAGATATATATACCTGCTTACCTGGG
+AGAGGGCTCTTCACCAATGGCTCCTGTGCAGACATCAAGAAAGTTGAGGCGTGGCAGGTC
+CTGAAGCACCTACGGCATCTAAACTTTACAAACAATATGGGGGAGCAGGTGACCTTTGAT
+GAGTGTGGTGACCTGGTGGGGAACTATTCCATCATCAACTGGCACCTCTCCCCAGAGGAT
+GGCTCCATCGTGTTTAAGGAAGTCGGGTATTACAACGTCTATGCCAAGAAGGGAGAAAGA
+CTCTTCATCAACGAGGAGAAAATCCTGTGGAGTGGGTTCTCCAGGGAGGTGCCCTTCTCC
+AACTGCAGCCGAGACTGCCTGGCAGGGACCAGGAAAGGGATCATTGAGGGGGAGCCCACC
+TGCTGCTTTGAGTGTGTGGAGTGTCCTGATGGGGAGTATAGTGATGAGACAGATGCCAGT
+GCCTGTAACAAGTGCCCAGATGACTTCTGGTCCAATGAGAACCACACCTCCTGCATTGCC
+AAGGAGATCGAGTTTCTGTCGTGGACGGAGCCCTTTGGGATCGCACTCACCCTCTTTGCC
+GTGCTGGGCATTTTCCTGACAGCCTTTGTGCTGGGTGTGTTTATCAAGTTCCGCAACACA
+CCCATTGTCAAGGCCACCAACCGAGAGCTCTCCTACCTCCTCCTCTTCTCCCTGCTCTGC
+TGCTTCTCCAGCTCCCTGTTCTTCATCGGGGAGCCCCAGGACTGGACGTGCCGCCTGCGC
+CAGCCGGCCTTTGGCATCAGCTTCGTGCTCTGCATCTCATGCATCCTGGTGAAAACCAAC
+CGTGTCCTCCTGGTGTTTGAGGCCAAGATCCCCACCAGCTTCCACCGCAAGTGGTGGGGG
+CTCAACCTGCAGTTCCTGCTGGTTTTCCTCTGCACCTTCATGCAGATTGTCATCTGTGTG
+ATCTGGCTCTACACCGCGCCCCCCTCAAGCTACCGCAACCAGGAGCTGGAGGATGAGATC
+ATCTTCATCACGTGCCACGAGGGCTCCCTCATGGCCCTGGGCTTCCTGATCGGCTACACC
+TGCCTGCTGGCTGCCATCTGCTTCTTCTTTGCCTTCAAGTCCCGGAAGCTGCCGGAGAAC
+TTCAATGAAGCCAAGTTCATCACCTTCAGCATGCTCATCTTCTTCATCGTCTGGATCTCC
+TTCATTCCAGCCTATGCCAGCACCTATGGCAAGTTTGTCTCTGCCGTAGAGGTGATTGCC
+ATCCTGGCAGCCAGCTTTGGCTTGCTGGCGTGCATCTTCTTCAACAAGATCTACATCATT
+CTCTTCAAGCCATCCCGCAACACCATCGAGGAGGTGCGTTGCAGCACCGCAGCTCACGCT
+TTCAAGGTGGCTGCCCGGGCCACGCTGCGCCGCAGCAACGTCTCCCGCAAGCGGTCCAGC
+AGCCTTGGAGGCTCCACGGGATCCACCCCCTCCTCCTCCATCAGCAGCAAGAGCAACAGC
+GAAGACCCATTCCCACAGCCCGAGAGGCAGAAGCAGCAGCAGCCGCTGGCCCTAACCCAG
+CAAGAGCAGCAGCAGCAGCCCCTGACCCTCCCACAGCAGCAACGATCTCAGCAGCAGCCC
+AGATGCAAGCAGAAGGTCATCTTTGGCAGCGGCACGGTCACCTTCTCACTGAGCTTTGAT
+GAGCCTCAGAAGAACGCCATGGCCCACAGGAATTCTACGCACCAGAACTCCCTGGAGGCC
+CAGAAAAGCAGCGATACGCTGACCCGACACCAGCCATTACTCCCGCTGCAGTGCGGGGAA
+ACGGACTTAGATCTGACCGTCCAGGAAACAGGTCTGCAAGGACCTGTGGGTGGAGACCAG
+CGGCCAGAGGTGGAGGACCCTGAAGAGTTGTCCCCAGCACTTGTAGTGTCCAGTTCACAG
+AGCTTTGTCATCAGTGGTGGAGGCAGCACTGTTACAGAAAACGTAGTGAATTCATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00003</identifier>
+            <name>7tm_3</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01094</identifier>
+            <name>ANF_receptor</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07562</identifier>
+            <name>NCD3G</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phosphatidylinositol phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>anatomical structure morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion import</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chemosensory behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>detection of calcium ion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ossification</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="8">
+      <id>BE0000172</id>
+      <name>Beta-1 adrenergic receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A20149</ref-id>
+            <pubmed-id>20885010</pubmed-id>
+            <citation>Meana C, Bordallo J, Bordallo C, Suarez L, Cantabrana B, Sanchez M: Functional effects of polyamines via activation of human beta1- and beta2-adrenoceptors stably expressed in CHO cells. Pharmacol Rep. 2010 Jul-Aug;62(4):696-706.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08588" source="Swiss-Prot">
+        <name>Beta-1 adrenergic receptor</name>
+        <general-function>Receptor signaling protein activity</general-function>
+        <specific-function>Beta-adrenergic receptors mediate the catecholamine-induced activation of adenylate cyclase through the action of G proteins. This receptor binds epinephrine and norepinephrine with approximately equal affinity. Mediates Ras activation through G(s)-alpha- and cAMP-mediated signaling.</specific-function>
+        <gene-name>ADRB1</gene-name>
+        <locus>10q24-q26</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>56-84
+94-120
+133-154
+173-196
+223-248
+320-349
+355-377</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.03</theoretical-pi>
+        <molecular-weight>51322.1</molecular-weight>
+        <chromosome-location>10</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:285</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ADRB1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J03019</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>178200</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>28</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>28</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08588</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ADRB1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>ADRB1R</synonym>
+          <synonym>B1AR</synonym>
+          <synonym>Beta-1 adrenoceptor</synonym>
+          <synonym>Beta-1 adrenoreceptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010188|Beta-1 adrenergic receptor
+MGAGVLVLGASEPGNLSSAAPLPDGAATAARLLVPASPPASLLPPASESPEPLSQQWTAG
+MGLLMALIVLLIVAGNVLVIVAIAKTPRLQTLTNLFIMSLASADLVMGLLVVPFGATIVV
+WGRWEYGSFFCELWTSVDVLCVTASIETLCVIALDRYLAITSPFRYQSLLTRARARGLVC
+TVWAISALVSFLPILMHWWRAESDEARRCYNDPKCCDFVTNRAYAIASSVVSFYVPLCIM
+AFVYLRVFREAQKQVKKIDSCERRFLGGPARPPSPSPSPVPAPAPPPGPPRPAAAAATAP
+LANGRAGKRRPSRLVALREQKALKTLGIIMGVFTLCWLPFFLANVVKAFHRELVPDRLFV
+FFNWLGYANSAFNPIIYCRSPDFRKAFQRLLCCARRAARRRHATHGDRPRASGCLARPGP
+PPSPGAASDDDDDDVVGATPPARLLEPWAGCNGGAAADSDSSLDEPCRPGFASESKV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010189|Beta-1 adrenergic receptor (ADRB1)
+ATGGGCGCGGGGGTGCTCGTCCTGGGCGCCTCCGAGCCCGGTAACCTGTCGTCGGCCGCA
+CCGCTCCCCGACGGCGCGGCCACCGCGGCGCGGCTGCTGGTGCCCGCGTCGCCGCCCGCC
+TCGTTGCTGCCTCCCGCCAGCGAAAGCCCCGAGCCGCTGTCTCAGCAGTGGACAGCGGGC
+ATGGGTCTGCTGATGGCGCTCATCGTGCTGCTCATCGTGGCGGGCAATGTGCTGGTGATC
+GTGGCCATCGCCAAGACGCCGCGGCTGCAGACGCTCACCAACCTCTTCATCATGTCCCTG
+GCCAGCGCCGACCTGGTCATGGGGCTGCTGGTGGTGCCGTTCGGGGCCACCATCGTGGTG
+TGGGGCCGCTGGGAGTACGGCTCCTTCTTCTGCGAGCTGTGGACCTCAGTGGACGTGCTG
+TGCGTGACGGCCAGCATCGAGACCCTGTGTGTCATTGCCCTGGACCGCTACCTCGCCATC
+ACCTCGCCCTTCCGCTACCAGAGCCTGCTGACGCGCGCGCGGGCGCGGGGCCTCGTGTGC
+ACCGTGTGGGCCATCTCGGCCCTGGTGTCCTTCCTGCCCATCCTCATGCACTGGTGGCGG
+GCGGAGAGCGACGAGGCGCGCCGCTGCTACAACGACCCCAAGTGCTGCGACTTCGTCACC
+AACCGGGCCTACGCCATCGCCTCGTCCGTAGTCTCCTTCTACGTGCCCCTGTGCATCATG
+GCCTTCGTGTACCTGCGGGTGTTCCGCGAGGCCCAGAAGCAGGTGAAGAAGATCGACAGC
+TGCGAGCGCCGTTTCCTCGGCGGCCCAGCGCGGCCGCCCTCGCCCTCGCCCTCGCCCGTC
+CCCGCGCCCGCGCCGCCGCCCGGACCCCCGCGCCCCGCCGCCGCCGCCGCCACCGCCCCG
+CTGGCCAACGGGCGTGCGGGTAAGCGGCGGCCCTCGCGCCTCGTGGCCCTGCGCGAGCAG
+AAGGCGCTCAAGACGCTGGGCATCATCATGGGCGTCTTCACGCTCTGCTGGCTGCCCTTC
+TTCCTGGCCAACGTGGTGAAGGCCTTCCACCGCGAGCTGGTGCCCGACCGCCTCTTCGTC
+TTCTTCAACTGGCTGGGCTACGCCAACTCGGCCTTCAACCCCATCATCTACTGCCGCAGC
+CCCGACTTCCGCAAGGCCTTCCAGGGACTGCTCTGCTGCGCGCGCAGGGCTGCCCGCCGG
+CGCCACGCGACCCACGGAGACCGGCCGCGCGCCTCGGGCTGTCTGGCCCGGCCCGGACCC
+CCGCCATCGCCCGGGGCCGCCTCGGACGACGACGACGACGATGTCGTCGGGGCCACGCCG
+CCCGCGCGCCTGCTGGAGCCCTGGGCCGGCTGCAACGGCGGGGCGGCGGCGGACAGCGAC
+TCGAGCCTGGACGAGCCGTGCCGCCCCGGCTTCGCCTCGGAATCCAAGGTGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>early endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>alpha-2A adrenergic receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>beta-adrenergic receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>beta1-adrenergic receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>epinephrine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>norepinephrine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>PDZ domain binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>Ras guanyl-nucleotide exchange factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor signaling protein activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating adrenergic receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brown fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>diet induced thermogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fear response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heat generation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of multicellular organism growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of GTPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of heart rate by epinephrine-norepinephrine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of the force of heart contraction by epinephrine-norepinephrine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cold</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>temperature homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="9">
+      <id>BE0000694</id>
+      <name>Beta-2 adrenergic receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A20149</ref-id>
+            <pubmed-id>20885010</pubmed-id>
+            <citation>Meana C, Bordallo J, Bordallo C, Suarez L, Cantabrana B, Sanchez M: Functional effects of polyamines via activation of human beta1- and beta2-adrenoceptors stably expressed in CHO cells. Pharmacol Rep. 2010 Jul-Aug;62(4):696-706.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P07550" source="Swiss-Prot">
+        <name>Beta-2 adrenergic receptor</name>
+        <general-function>Protein homodimerization activity</general-function>
+        <specific-function>Beta-adrenergic receptors mediate the catecholamine-induced activation of adenylate cyclase through the action of G proteins. The beta-2-adrenergic receptor binds epinephrine with an approximately 30-fold greater affinity than it does norepinephrine.</specific-function>
+        <gene-name>ADRB2</gene-name>
+        <locus>5q31-q32</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>35-58
+72-95
+107-129
+151-174
+197-220
+275-298
+306-329</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>7.44</theoretical-pi>
+        <molecular-weight>46458.32</molecular-weight>
+        <chromosome-location>5</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:286</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ADRB2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00106</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29371</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>29</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>29</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P07550</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ADRB2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>ADRB2R</synonym>
+          <synonym>B2AR</synonym>
+          <synonym>Beta-2 adrenoceptor</synonym>
+          <synonym>Beta-2 adrenoreceptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037061|Beta-2 adrenergic receptor
+MGQPGNGSAFLLAPNGSHAPDHDVTQERDEVWVVGMGIVMSLIVLAIVFGNVLVITAIAK
+FERLQTVTNYFITSLACADLVMGLAVVPFGAAHILMKMWTFGNFWCEFWTSIDVLCVTAS
+IETLCVIAVDRYFAITSPFKYQSLLTKNKARVIILMVWIVSGLTSFLPIQMHWYRATHQE
+AINCYANETCCDFFTNQAYAIASSIVSFYVPLVIMVFVYSRVFQEAKRQLQKIDKSEGRF
+HVQNLSQVEQDGRTGHGLRRSSKFCLKEHKALKTLGIIMGTFTLCWLPFFIVNIVHVIQD
+NLIRKEVYILLNWIGYVNSGFNPLIYCRSPDFRIAFQELLCLRRSSLKAYGNGYSSNGNT
+GEQSGYHVEQEKENKLLCEDLPGTEDFVGHQGTVPSDNIDSQGRNCSTNDSLL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020478|Beta-2 adrenergic receptor (ADRB2)
+ATGGGGCAACCCGGGAACGGCAGCGCCTTCTTGCTGGCACCCAATAGAAGCCATGCGCCG
+GACCACGACGTCACGCAGCAAAGGGACGAGGTGTGGGTGGTGGGCATGGGCATCGTCATG
+TCTCTCATCGTCCTGGCCATCGTGTTTGGCAATGTGCTGGTCATCACAGCCATTGCCAAG
+TTCGAGCGTCTGCAGACGGTCACCAACTACTTCATCACTTCACTGGCCTGTGCTGATCTG
+GTCATGGGCCTGGCAGTGGTGCCCTTTGGGGCCGCCCATATTCTTATGAAAATGTGGACT
+TTTGGCAACTTCTGGTGCGAGTTTTGGACTTCCATTGATGTGCTGTGCGTCACGGCCAGC
+ATTGAGACCCTGTGCGTGATCGCAGTGGATCGCTACTTTGCCATTACTTCACCTTTCAAG
+TACCAGAGCCTGCTGACCAAGAATAAGGCCCGGGTGATCATTCTGATGGTGTGGATTGTG
+TCAGGCCTTACCTCCTTCTTGCCCATTCAGATGCACTGGTACCGGGCCACCCACCAGGAA
+GCCATCAACTGCTATGCCAATGAGACCTGCTGTGACTTCTTCACGAACCAAGCCTATGCC
+ATTGCCTCTTCCATCGTGTCCTTCTACGTTCCCCTGGTGATCATGGTCTTCGTCTACTCC
+AGGGTCTTTCAGGAGGCCAAAAGGCAGCTCCAGAAGATTGACAAATCTGAGGGCCGCTTC
+CATGTCCAGAACCTTAGCCAGGTGGAGCAGGATGGGCGGACGGGGCATGGACTCCGCAGA
+TCTTCCAAGTTCTGCTTGAAGGAGCACAAAGCCCTCAAGACGTTAGGCATCATCATGGGC
+ACTTTCACCCTCTGCTGGCTGCCCTTCTTCATCGTTAACATTGTGCATGTGATCCAGGAT
+AACCTCATCCGTAAGGAAGTTTACATCCTCCTAAATTGGATAGGCTATGTCAATTCTGGT
+TTCAATCCCCTTATCTACTGCCGGAGCCCAGATTTCAGGATTGCCTTCCAGGAGCTTCTG
+TGCCTGCGCAGGTCTTCTTTGAAGGCCTATGGGAATGGCTACTCCAGCAACGGCAACACA
+GGGGAGCAGAGTGGATATCACGTGGAACAGGAGAAAGAAAATAAACTGCTGTGTGAAGAC
+CTCCCAGGCACGGAAGACTTTGTGGGCCATCAAGGTACTGTGCCTAGCGATAACATTGAT
+TCACAAGGGAGGAATTGTAGTACAAATGACTCACTGCTGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>axon</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendritic spine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>early endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>sarcolemma</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>beta2-adrenergic receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>dopamine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>epinephrine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>norepinephrine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>potassium channel regulator activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of transmembrane receptor protein tyrosine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating adrenergic receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-modulating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>associative learning</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone resorption</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brown fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hypoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>desensitization of G-protein coupled receptor protein signaling pathway by arrestin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>diaphragm contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>diet induced thermogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endosome to lysosome transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>estrous cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>excitatory postsynaptic potential</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female pregnancy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heat generation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>liver regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitophagy in response to mitochondrial depolarization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of multicellular organism growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of platelet aggregation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of smooth muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of urine volume</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ATPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of autophagosome maturation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of lipophagy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of potassium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein ubiquitination</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of skeletal muscle tissue growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of sodium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of the force of heart contraction by epinephrine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasodilation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of calcium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of sensory perception of pain</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cold</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to dexamethasone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to monoamine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to progesterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to testosterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>synaptic transmission, glutamatergic</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vasodilation by norepinephrine-epinephrine involved in regulation of systemic arterial blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme>
+      <id>BE0002204</id>
+      <name>Xanthine dehydrogenase/oxidase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A15033</ref-id>
+            <pubmed-id>1663062</pubmed-id>
+            <citation>Lovaas E, Carlin G: Spermine: an anti-oxidant and anti-inflammatory agent. Free Radic Biol Med. 1991;11(5):455-61.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P47989" source="Swiss-Prot">
+        <name>Xanthine dehydrogenase/oxidase</name>
+        <general-function>Xanthine oxidase activity</general-function>
+        <specific-function>Key enzyme in purine degradation. Catalyzes the oxidation of hypoxanthine to xanthine. Catalyzes the oxidation of xanthine to uric acid. Contributes to the generation of reactive oxygen species. Has also low oxidase activity towards aldehydes (in vitro).</specific-function>
+        <gene-name>XDH</gene-name>
+        <locus>2p23.1</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>7.7</theoretical-pi>
+        <molecular-weight>146422.99</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:12805</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>XDH</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D11456</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>10336525</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2646</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P47989</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>XDH_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>XDHA</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011593|Xanthine dehydrogenase/oxidase
+MTADKLVFFVNGRKVVEKNADPETTLLAYLRRKLGLSGTKLGCGEGGCGACTVMLSKYDR
+LQNKIVHFSANACLAPICSLHHVAVTTVEGIGSTKTRLHPVQERIAKSHGSQCGFCTPGI
+VMSMYTLLRNQPEPTMEEIENAFQGNLCRCTGYRPILQGFRTFARDGGCCGGDGNNPNCC
+MNQKKDHSVSLSPSLFKPEEFTPLDPTQEPIFPPELLRLKDTPRKQLRFEGERVTWIQAS
+TLKELLDLKAQHPDAKLVVGNTEIGIEMKFKNMLFPMIVCPAWIPELNSVEHGPDGISFG
+AACPLSIVEKTLVDAVAKLPAQKTEVFRGVLEQLRWFAGKQVKSVASVGGNIITASPISD
+LNPVFMASGAKLTLVSRGTRRTVQMDHTFFPGYRKTLLSPEEILLSIEIPYSREGEYFSA
+FKQASRREDDIAKVTSGMRVLFKPGTTEVQELALCYGGMANRTISALKTTQRQLSKLWKE
+ELLQDVCAGLAEELHLPPDAPGGMVDFRCTLTLSFFFKFYLTVLQKLGQENLEDKCGKLD
+PTFASATLLFQKDPPADVQLFQEVPKGQSEEDMVGRPLPHLAADMQASGEAVYCDDIPRY
+ENELSLRLVTSTRAHAKIKSIDTSEAKKVPGFVCFISADDVPGSNITGICNDETVFAKDK
+VTCVGHIIGAVVADTPEHTQRAAQGVKITYEELPAIITIEDAIKNNSFYGPELKIEKGDL
+KKGFSEADNVVSGEIYIGGQEHFYLETHCTIAVPKGEAGEMELFVSTQNTMKTQSFVAKM
+LGVPANRIVVRVKRMGGGFGGKETRSTVVSTAVALAAYKTGRPVRCMLDRDEDMLITGGR
+HPFLARYKVGFMKTGTVVALEVDHFSNVGNTQDLSQSIMERALFHMDNCYKIPNIRGTGR
+LCKTNLPSNTAFRGFGGPQGMLIAECWMSEVAVTCGMPAEEVRRKNLYKEGDLTHFNQKL
+EGFTLPRCWEECLASSQYHARKSEVDKFNKENCWKKRGLCIIPTKFGISFTVPFLNQAGA
+LLHVYTDGSVLLTHGGTEMGQGLHTKMVQVASRALKIPTSKIYISETSTNTVPNTSPTAA
+SVSADLNGQAVYAACQTILKRLEPYKKKNPSGSWEDWVTAAYMDTVSLSATGFYRTPNLG
+YSFETNSGNPFHYFSYGVACSEVEIDCLTGDHKNLRTDIVMDVGSSLNPAIDIGQVEGAF
+VQGLGLFTLEELHYSPEGSLHTRGPSTYKIPAFGSIPIEFRVSLLRDCPNKKAIYASKAV
+GEPPLFLAASIFFAIKDAIRAARAQHTGNNVKELFRLDSPATPEKIRNACVDKFTTLCVT
+GVPENCKPWSVRV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011594|Xanthine dehydrogenase/oxidase (XDH)
+ATGACAGCAGACAAATTGGTTTTCTTTGTGAATGGCAGAAAGGTGGTGGAGAAAAATGCA
+GATCCAGAGACAACCCTTTTGGCCTACCTGAGAAGAAAGTTGGGGCTGAGTGGAACCAAG
+CTCGGCTGTGGAGAGGGGGGCTGCGGGGCTTGCACAGTGATGCTCTCCAAGTATGATCGT
+CTGCAGAACAAGATCGTCCACTTTTCTGCCAATGCCTGCCTGGCCCCCATCTGCTCCTTG
+CACCATGTTGCAGTGACAACTGTGGAAGGAATAGGAAGCACCAAGACGAGGCTGCATCCT
+GTGCAGGAGAGAATTGCCAAAAGCCACGGCTCCCAGTGCGGGTTCTGCACCCCTGGCATC
+GTCATGAGTATGTACACACTGCTCCGGAATCAGCCCGAGCCCACCATGGAGGAGATTGAG
+AATGCCTTCCAAGGAAATCTGTGCCGCTGCACAGGCTACAGACCCATCCTCCAGGGCTTC
+CGGACCTTTGCCAGGGATGGTGGATGCTGTGGAGGAGATGGGAATAATCCAAATTGCTGC
+ATGAACCAGAAGAAAGACCACTCAGTCAGCCTCTCGCCATCTTTATTCAAACCAGAGGAG
+TTCACGCCCCTGGATCCAACCCAGGAGCCCATTTTTCCCCCAGAGTTGCTGAGGCTGAAA
+GACACTCCTCGGAAGCAGCTGCGATTTGAAGGGGAGCGTGTGACGTGGATACAGGCCTCA
+ACCCTCAAGGAGCTGCTGGACCTCAAGGCTCAGCACCCTGACGCCAAGCTGGTCGTGGGG
+AACACGGAGATTGGCATTGAGATGAAGTTCAAGAATATGCTGTTTCCTATGATTGTCTGC
+CCAGCCTGGATCCCTGAGCTGAATTCGGTAGAACATGGACCCGACGGTATCTCCTTTGGA
+GCTGCTTGCCCCCTGAGCATTGTGGAAAAAACCCTGGTGGATGCTGTTGCTAAGCTTCCT
+GCCCAAAAGACAGAGGTGTTCAGAGGGGTCCTGGAGCAGCTGCGCTGGTTTGCTGGGAAG
+CAAGTCAAGTCTGTGGCGTCCGTTGGAGGGAACATCATCACTGCCAGCCCCATCTCCGAC
+CTCAACCCCGTGTTCATGGCCAGTGGGGCCAAGCTGACACTTGTGTCCAGAGGCACCAGG
+AGAACTGTCCAGATGGACCACACCTTCTTCCCTGGCTACAGAAAGACCCTGCTGAGCCCG
+GAGGAGATACTGCTCTCCATAGAGATCCCCTACAGCAGGGAGGGGGAGTATTTCTCAGCA
+TTCAAGCAGGCCTCCCGGAGAGAAGATGACATTGCCAAGGTAACCAGTGGCATGAGAGTT
+TTATTCAAGCCAGGAACCACAGAGGTACAGGAGCTGGCCCTTTGCTATGGTGGAATGGCC
+AACAGAACCATCTCAGCCCTCAAGACCACTCAGAGGCAGCTTTCCAAGCTCTGGAAGGAG
+GAGCTGCTGCAGGACGTGTGTGCAGGACTGGCAGAGGAGCTGCATCTGCCTCCCGATGCC
+CCTGGTGGCATGGTGGACTTCCGGTGCACCCTCACCCTCAGCTTCTTCTTCAAGTTCTAC
+CTGACAGTCCTTCAGAAGCTGGGCCAAGAGAACCTGGAAGACAAGTGTGGTAAACTGGAC
+CCCACTTTCGCCAGTGCAACTTTACTGTTTCAGAAAGACCCCCCAGCCGATGTCCAGCTC
+TTCCAAGAGGTGCCCAAGGGTCAGTCTGAGGAGGACATGGTGGGCCGGCCCCTGCCCCAC
+CTGGCAGCGGACATGCAGGCCTCTGGTGAGGCCGTGTACTGTGACGACATTCCTCGCTAC
+GAGAATGAGCTGTCTCTCCGGCTGGTCACCAGCACCCGGGCCCACGCCAAGATCAAGTCC
+ATAGATACATCAGAAGCTAAGAAGGTTCCAGGGTTTGTTTGTTTCATTTCCGCTGATGAT
+GTTCCTGGGAGTAACATAACTGGAATTTGTAATGATGAGACAGTCTTTGCGAAGGATAAG
+GTTACTTGTGTTGGGCATATCATTGGTGCTGTGGTTGCTGACACCCCGGAACACACACAG
+AGAGCTGCCCAAGGGGTGAAAATCACCTATGAAGAACTACCAGCCATTATCACAATTGAG
+GATGCTATAAAGAACAACTCCTTTTATGGACCTGAGCTGAAGATCGAGAAAGGGGACCTA
+AAGAAGGGGTTTTCCGAAGCAGATAATGTTGTGTCAGGGGAGATATACATCGGTGGCCAA
+GAGCACTTCTACCTGGAGACTCACTGCACCATTGCTGTTCCAAAAGGCGAGGCAGGGGAG
+ATGGAGCTCTTTGTGTCTACACAGAACACCATGAAGACCCAGAGCTTTGTTGCAAAAATG
+TTGGGGGTTCCAGCAAACCGGATTGTGGTTCGAGTGAAGAGAATGGGAGGAGGCTTTGGA
+GGCAAGGAGACCCGGAGCACTGTGGTGTCCACGGCAGTGGCCCTGGCTGCATATAAGACC
+GGCCGCCCTGTGCGATGCATGCTGGACCGTGATGAGGACATGCTGATAACTGGTGGCAGA
+CATCCCTTCCTGGCCAGATACAAGGTTGGCTTCATGAAGACTGGGACAGTTGTGGCTCTT
+GAGGTGGACCACTTCAGCAATGTGGGGAACACCCAGGATCTCTCTCAGAGTATTATGGAA
+CGAGCTTTATTCCACATGGACAACTGCTATAAAATCCCCAACATCCGGGGCACTGGGCGG
+CTGTGCAAAACCAACCTTCCCTCCAACACGGCCTTCCGGGGCTTTGGGGGGCCCCAGGGG
+ATGCTCATTGCCGAGTGCTGGATGAGTGAAGTTGCAGTGACCTGTGGGATGCCTGCAGAG
+GAGGTGCGGAGAAAAAACCTGTACAAAGAAGGGGACCTGACACACTTCAACCAGAAGCTT
+GAGGGTTTCACCTTGCCCAGATGCTGGGAAGAATGCCTAGCAAGCTCTCAGTATCATGCT
+CGGAAGAGTGAGGTTGACAAGTTCAACAAGGAGAATTGTTGGAAAAAGAGAGGATTGTGC
+ATAATTCCCACCAAGTTTGGAATAAGCTTTACAGTTCCTTTTCTGAATCAGGCAGGAGCC
+CTACTTCATGTGTACACAGATGGCTCTGTGCTGCTGACCCACGGGGGGACTGAGATGGGC
+CAAGGCCTTCATACCAAAATGGTCCAGGTGGCCAGTAGAGCTCTGAAAATCCCCACCTCT
+AAGATTTATATCAGCGAGACAAGCACTAACACTGTGCCCAACACCTCTCCCACGGCTGCC
+TCTGTCAGCGCTGACCTCAATGGACAGGCCGTCTATGCGGCTTGTCAGACCATCTTGAAA
+AGGCTGGAACCCTACAAGAAGAAGAATCCCAGTGGCTCCTGGGAAGACTGGGTCACAGCT
+GCCTACATGGACACAGTGAGCTTGTCTGCCACTGGGTTTTATAGAACACCCAATCTGGGC
+TACAGCTTTGAGACTAACTCAGGGAACCCCTTCCACTACTTCAGCTATGGGGTGGCTTGC
+TCTGAAGTAGAAATCGACTGCCTAACAGGAGATCATAAGAACCTCCGCACAGATATTGTC
+ATGGATGTTGGCTCCAGTCTAAACCCTGCCATTGATATTGGACAGGTGGAAGGGGCATTT
+GTCCAGGGCCTTGGCCTCTTCACCCTAGAGGAGCTACACTATTCCCCCGAGGGGAGCCTG
+CACACCCGTGGCCCTAGCACCTACAAGATCCCGGCATTTGGCAGCATCCCCATTGAGTTC
+AGGGTGTCCCTGCTCCGCGACTGCCCCAACAAGAAGGCCATCTATGCATCGAAGGCTGTT
+GGAGAGCCGCCCCTCTTCCTGGCTGCTTCTATCTTCTTTGCCATCAAAGATGCCATCCGT
+GCAGCTCGAGCTCAGCACACAGGTAATAACGTGAAGGAACTCTTCCGGCTAGACAGCCCT
+GCCACCCCGGAGAAGATCCGCAATGCCTGCGTGGACAAGTTCACCACCCTGTGTGTCACT
+GGTGTCCCAGAAAACTGCAAACCCTGGTCTGTGAGGGTCTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00111</identifier>
+            <name>Fer2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01315</identifier>
+            <name>Ald_Xan_dh_C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02738</identifier>
+            <name>Ald_Xan_dh_C2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01799</identifier>
+            <name>Fer2_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF03450</identifier>
+            <name>CO_deh_flav_C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00941</identifier>
+            <name>FAD_binding_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>peroxisome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>sarcoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>2 iron, 2 sulfur cluster binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>electron carrier activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>flavin adenine dinucleotide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>iron ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>molybdopterin cofactor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity, acting on CH-OH group of donors</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity, acting on the aldehyde or oxo group of donors</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>xanthine dehydrogenase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>xanthine oxidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lactation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of endothelial cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of endothelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of vascular endothelial growth factor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of vasculogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>nucleobase-containing small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of p38MAPK cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of reactive oxygen species metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>purine nucleobase metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>purine nucleotide catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xanthine catabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength/>
+    </enzyme>
+    <enzyme position="5">
+      <id>BE0000111</id>
+      <name>Diamine acetyltransferase 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17359</ref-id>
+            <pubmed-id>10978316</pubmed-id>
+            <citation>Vujcic S, Halmekyto M, Diegelman P, Gan G, Kramer DL, Janne J, Porter CW: Effects of conditional overexpression of spermidine/spermine N1-acetyltransferase on polyamine pool dynamics, cell growth, and sensitivity to polyamine analogs. J Biol Chem. 2000 Dec 8;275(49):38319-28.</citation>
+          </article>
+          <article>
+            <ref-id>A17360</ref-id>
+            <pubmed-id>11114236</pubmed-id>
+            <citation>Hegardt C, Andersson G, Oredsson SM: Changes in polyamine metabolism during glucocorticoid-induced programmed cell death in mouse thymus. Cell Biol Int. 2000;24(12):871-80.</citation>
+          </article>
+          <article>
+            <ref-id>A17361</ref-id>
+            <pubmed-id>11166157</pubmed-id>
+            <citation>Marverti G, Bettuzzi S, Astancolle S, Pinna C, Monti MG, Moruzzi MS: Differential induction of spermidine/spermine N1-acetyltransferase activity in cisplatin-sensitive and -resistant ovarian cancer cells in response to N1,N12-bis(ethyl)spermine involves transcriptional and post-transcriptional regulation. Eur J Cancer. 2001 Jan;37(2):281-9.</citation>
+          </article>
+          <article>
+            <ref-id>A17362</ref-id>
+            <pubmed-id>11171097</pubmed-id>
+            <citation>Scorcioni F, Corti A, Davalli P, Astancolle S, Bettuzzi S: Manipulation of the expression of regulatory genes of polyamine metabolism results in specific alterations of the cell-cycle progression. Biochem J. 2001 Feb 15;354(Pt 1):217-23.</citation>
+          </article>
+          <article>
+            <ref-id>A17363</ref-id>
+            <pubmed-id>11709547</pubmed-id>
+            <citation>Min SH, Simmen RC, Alhonen L, Halmekyto M, Porter CW, Janne J, Simmen FA: Altered levels of growth-related and novel gene transcripts in reproductive and other tissues of female mice overexpressing spermidine/spermine N1-acetyltransferase (SSAT). J Biol Chem. 2002 Feb 1;277(5):3647-57. Epub 2001 Nov 14.</citation>
+          </article>
+          <article>
+            <ref-id>A17364</ref-id>
+            <pubmed-id>10986239</pubmed-id>
+            <citation>Limsuwun K, Jones PG: Spermidine acetyltransferase is required to prevent spermidine toxicity at low temperatures in Escherichia coli. J Bacteriol. 2000 Oct;182(19):5373-80.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P21673" source="Swiss-Prot">
+        <name>Diamine acetyltransferase 1</name>
+        <general-function>Diamine n-acetyltransferase activity</general-function>
+        <specific-function>Enzyme which catalyzes the acetylation of polyamines. Substrate specificity: norspermidine = spermidine &gt;&gt; spermine &gt; N(1)-acetylspermine &gt; putrescine. This highly regulated enzyme allows a fine attenuation of the intracellular concentration of polyamines. Also involved in the regulation of polyamine transport out of cells. Acts on 1,3-diaminopropane, 1,5-diaminopentane, putrescine, spermidine (forming N(1)- and N(8)-acetylspermidine), spermine, N(1)-acetylspermidine and N(8)-acetylspermidine.</specific-function>
+        <gene-name>SAT1</gene-name>
+        <locus>Xp22.1</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>4.82</theoretical-pi>
+        <molecular-weight>20023.8</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:10540</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SAT1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M77693</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>338392</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P21673</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SAT1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.3.1.57</synonym>
+          <synonym>Polyamine N-acetyltransferase 1</synonym>
+          <synonym>Putrescine acetyltransferase</synonym>
+          <synonym>SAT</synonym>
+          <synonym>Spermidine/spermine N(1)-acetyltransferase 1</synonym>
+          <synonym>SSAT</synonym>
+          <synonym>SSAT-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0009942|Diamine acetyltransferase 1
+MAKFVIRPATAADCSDILRLIKELAKYEYMEEQVILTEKDLLEDGFGEHPFYHCLVAEVP
+KEHWTPEGHSIVGFAMYYFTYDPWIGKLLYLEDFFVMSDYRGFGIGSEILKNLSQVAMRC
+RCSSMHFLVAEWNEPSINFYKRRGASDLSSEEGWRLFKIDKEYLLKMATEE</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0009943|Diamine acetyltransferase 1 (SAT1)
+ATGGCTAAATTCGTGATCCGCCCAGCCACTGCCGCCGACTGCAGTGACATACTGCGGCTG
+ATCAAGGAGCTGGCTAAATATGAATACATGGAAGAACAAGTAATCTTAACTGAAAAAGAT
+CTGCTAGAAGATGGTTTTGGAGAGCACCCCTTTTACCACTGCCTGGTTGCAGAAGTGCCG
+AAAGAGCACTGGACTCCGGAAGGACACAGCATTGTTGGTTTTGCCATGTACTATTTTACC
+TATGACCCGTGGATTGGCAAGTTATTGTATCTTGAGGACTTCTTCGTGATGAGTGATTAT
+AGAGGCTTTGGCATAGGATCAGAAATTCTGAAGAATCTAAGCCAGGTTGCAATGAGGTGT
+CGCTGCAGCAGCATGCACTTCTTGGTAGCAGAATGGAATGAACCATCCATCAACTTCTAT
+AAAAGAAGAGGTGCTTCTGATCTGTCCAGTGAAGAGGGTTGGAGACTGTTCAAGATCGAC
+AAGGAGTACTTGCTAAAAATGGCAACAGAGGAGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00583</identifier>
+            <name>Acetyltransf_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diamine N-acetyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular nitrogen compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>polyamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>putrescine catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+    <enzyme position="6">
+      <id>BE0000275</id>
+      <name>Diamine acetyltransferase 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A17365</ref-id>
+            <pubmed-id>12803540</pubmed-id>
+            <citation>Chen Y, Vujcic S, Liang P, Diegelman P, Kramer DL, Porter CW: Genomic identification and biochemical characterization of a second spermidine/spermine N1-acetyltransferase. Biochem J. 2003 Aug 1;373(Pt 3):661-7.</citation>
+          </article>
+          <article>
+            <ref-id>A17366</ref-id>
+            <pubmed-id>15283699</pubmed-id>
+            <citation>Coleman CS, Stanley BA, Jones AD, Pegg AE: Spermidine/spermine-N1-acetyltransferase-2 (SSAT2) acetylates thialysine and is not involved in polyamine metabolism. Biochem J. 2004 Nov 15;384(Pt 1):139-48.</citation>
+          </article>
+          <article>
+            <ref-id>A17367</ref-id>
+            <pubmed-id>17011643</pubmed-id>
+            <citation>Vogel NL, Boeke M, Ashburner BP: Spermidine/Spermine N1-Acetyltransferase 2 (SSAT2) functions as a coactivator for NF-kappaB and cooperates with CBP and P/CAF to enhance NF-kappaB-dependent transcription. Biochim Biophys Acta. 2006 Oct;1759(10):470-7. Epub 2006 Aug 30.</citation>
+          </article>
+          <article>
+            <ref-id>A17364</ref-id>
+            <pubmed-id>10986239</pubmed-id>
+            <citation>Limsuwun K, Jones PG: Spermidine acetyltransferase is required to prevent spermidine toxicity at low temperatures in Escherichia coli. J Bacteriol. 2000 Oct;182(19):5373-80.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q96F10" source="Swiss-Prot">
+        <name>Diamine acetyltransferase 2</name>
+        <general-function>Diamine n-acetyltransferase activity</general-function>
+        <specific-function>Enzyme which catalyzes the acetylation of polyamines. Substrate specificity: norspermidine &gt; spermidine = spermine &gt;&gt; N(1)acetylspermine = putrescine.</specific-function>
+        <gene-name>SAT2</gene-name>
+        <locus>17p13.1</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.84</theoretical-pi>
+        <molecular-weight>19154.905</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:23160</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SAT2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF348524</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>19070527</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q96F10</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>SAT2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.3.1.57</synonym>
+          <synonym>Polyamine N-acetyltransferase 2</synonym>
+          <synonym>Spermidine/spermine N(1)-acetyltransferase 2</synonym>
+          <synonym>SSAT2</synonym>
+          <synonym>Thialysine N-epsilon-acetyltransferase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010054|Diamine acetyltransferase 2
+MASVRIREAKEGDCGDILRLIRELAEFEKLSDQVKISEEALRADGFGDNPFYHCLVAEIL
+PAPGKLLGPCVVGYGIYYFIYSTWKGRTIYLEDIYVMPEYRGQGIGSKIIKKVAEVALDK
+GCSQFRLAVLDWNQRAMDLYKALGAQDLTEAEGWHFFCFQGEATRKLAGK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010055|Diamine acetyltransferase 2 (SAT2)
+ATGGCTTCCGTGCGGATCCGAGAGGCCAAGGAGGGAGACTGTGGAGATATCCTGAGGCTG
+ATTCGGGAGCTAGCCGAATTCGAAAAACTCTCGGATCAGGTGAAGATCAGTGAAGAAGCC
+CTGAGAGCAGATGGCTTTGGAGACAATCCTTTCTATCACTGTTTGGTAGCAGAGATTCTT
+CCAGCGCCCGGGAAGCTACTGGGGCCCTGCGTGGTGGGCTATGGGATATACTATTTCATC
+TACAGTACATGGAAGGGACGCACCATTTATCTGGAGGATATCTATGTGATGCCGGAATAT
+CGGGGTCAAGGGATTGGTTCCAAAATAATCAAAAAGGTGGCTGAGGTGGCCTTGGATAAG
+GGCTGCTCCCAATTCCGCCTGGCCGTCCTGGACTGGAACCAGAGGGCCATGGACTTGTAC
+AAGGCCCTAGGAGCCCAAGATCTGACGGAAGCTGAGGGCTGGCACTTCTTCTGCTTTCAA
+GGAGAGGCAACGAGAAAGTTGGCAGGAAAGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00583</identifier>
+            <name>Acetyltransf_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diamine N-acetyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>nor-spermidine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>putrescine acetylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>putrescine catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermidine acetylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermine acetylation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters>
+    <transporter position="1">
+      <id>BE0000757</id>
+      <name>Solute carrier family 22 member 4</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A16346</ref-id>
+            <pubmed-id>10215651</pubmed-id>
+            <citation>Yabuuchi H, Tamai I, Nezu J, Sakamoto K, Oku A, Shimane M, Sai Y, Tsuji A: Novel membrane transporter OCTN1 mediates multispecific, bidirectional, and pH-dependent transport of organic cations. J Pharmacol Exp Ther. 1999 May;289(2):768-73.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9H015" source="Swiss-Prot">
+        <name>Solute carrier family 22 member 4</name>
+        <general-function>Symporter activity</general-function>
+        <specific-function>Sodium-ion dependent, low affinity carnitine transporter. Probably transports one sodium ion with one molecule of carnitine. Also transports organic cations such as tetraethylammonium (TEA) without the involvement of sodium. Relative uptake activity ratio of carnitine to TEA is 1.78. A key substrate of this transporter seems to be ergothioneine (ET).</specific-function>
+        <gene-name>SLC22A4</gene-name>
+        <locus>5q31.1</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>21-41
+142-162
+172-192
+198-218
+233-253
+258-278
+338-358
+372-392
+400-420
+427-447
+461-481
+487-507</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>7.27</theoretical-pi>
+        <molecular-weight>62154.48</molecular-weight>
+        <chromosome-location>5</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:10968</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SLC22A4</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AB007448</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>2605501</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9H015</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>S22A4_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Ergothioneine transporter</synonym>
+          <synonym>ET transporter</synonym>
+          <synonym>ETT</synonym>
+          <synonym>OCTN1</synonym>
+          <synonym>Organic cation/carnitine transporter 1</synonym>
+          <synonym>UT2H</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010533|Solute carrier family 22 member 4
+MRDYDEVIAFLGEWGPFQRLIFFLLSASIIPNGFNGMSVVFLAGTPEHRCRVPDAANLSS
+AWRNNSVPLRLRDGREVPHSCSRYRLATIANFSALGLEPGRDVDLGQLEQESCLDGWEFS
+QDVYLSTVVTEWNLVCEDNWKVPLTTSLFFVGVLLGSFVSGQLSDRFGRKNVLFATMAVQ
+TGFSFLQIFSISWEMFTVLFVIVGMGQISNYVVAFILGTEILGKSVRIIFSTLGVCTFFA
+VGYMLLPLFAYFIRDWRMLLLALTVPGVLCVPLWWFIPESPRWLISQRRFREAEDIIQKA
+AKMNNIAVPAVIFDSVEELNPLKQQKAFILDLFRTRNIAIMTIMSLLLWMLTSVGYFALS
+LDAPNLHGDAYLNCFLSALIEIPAYITAWLLLRTLPRRYIIAAVLFWGGGVLLFIQLVPV
+DYYFLSIGLVMLGKFGITSAFSMLYVFTAELYPTLVRNMAVGVTSTASRVGSIIAPYFVY
+LGAYNRMLPYIVMGSLTVLIGILTLFFPESLGMTLPETLEQMQKVKWFRSGKKTRDSMET
+EENPKVLITAF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010534|Solute carrier family 22 member 4 (SLC22A4)
+ATGCGGGACTACGACGAGGTGATCGCCTTCCTGGGCGAGTGGGGGCCCTTCCAGCGCCTC
+ATCTTCTTCCTGCTCAGCGCCAGCATCATCCCCAATGGCTTCAATGGTATGTCAGTCGTG
+TTCCTGGCGGGGACCCCGGAGCACCGCTGTCGAGTGCCGGACGCCGCGAACCTGAGCAGC
+GCCTGGCGCAACAACAGTGTCCCGCTGCGGCTGCGGGACGGCCGCGAGGTGCCCCACAGC
+TGCAGCCGCTACCGGCTCGCCACCATCGCCAACTTCTCGGCGCTCGGGCTGGAGCCGGGG
+CGCGACGTGGACCTGGGGCAGCTGGAGCAGGAGAGCTGCCTGGATGGCTGGGAGTTCAGC
+CAGGACGTCTACCTGTCCACCGTCGTGACCGAGTGGAATCTGGTGTGTGAGGACAACTGG
+AAGGTGCCCCTCACCACCTCCCTGTTCTTCGTAGGCGTGCTCCTCGGCTCCTTCGTGTCC
+GGGCAGCTGTCAGACAGGTTTGGCAGGAAGAACGTTCTCTTCGCAACCATGGCTGTACAG
+ACTGGCTTCAGCTTCCTGCAGATTTTCTCCATCAGCTGGGAGATGTTCACTGTGTTATTT
+GTCATCGTGGGCATGGGCCAGATCTCCAACTATGTGGTAGCCTTCATACTAGGAACAGAA
+ATTCTTGGCAAGTCAGTTCGTATTATATTCTCTACATTAGGAGTGTGCACATTTTTTGCA
+GTTGGCTATATGCTGCTGCCACTGTTTGCTTACTTCATCAGAGACTGGCGGATGCTGCTG
+CTGGCGCTGACGGTGCCGGGAGTGCTGTGTGTCCCGCTGTGGTGGTTCATTCCTGAATCT
+CCCCGATGGCTGATATCCCAGAGAAGATTTAGAGAGGCTGAAGATATCATCCAAAAAGCT
+GCAAAAATGAACAACATAGCTGTACCAGCAGTGATATTTGATTCTGTGGAGGAGCTAAAT
+CCCCTGAAGCAGCAGAAAGCTTTCATTCTGGACCTGTTCAGGACTCGGAATATTGCCATA
+ATGACCATTATGTCTTTGCTGCTATGGATGCTGACCTCAGTGGGTTACTTTGCTCTGTCT
+CTGGATGCTCCTAATTTACATGGAGATGCCTACCTGAACTGTTTCCTCTCTGCCTTGATT
+GAAATTCCAGCTTACATTACAGCCTGGCTGCTATTGCGAACCCTGCCCAGGCGTTATATC
+ATAGCTGCAGTACTGTTCTGGGGAGGAGGTGTGCTTCTCTTCATTCAACTGGTACCTGTG
+GATTATTACTTCTTATCCATTGGTCTGGTCATGCTGGGAAAATTTGGGATCACCTCTGCT
+TTCTCCATGCTGTATGTCTTCACTGCTGAGCTCTACCCAACCCTGGTCAGGAACATGGCG
+GTGGGGGTCACATCCACGGCCTCCAGAGTGGGCAGCATCATTGCCCCCTACTTTGTTTAC
+CTCGGTGCTTACAACAGAATGCTGCCCTACATCGTCATGGGTAGTCTGACTGTCCTGATT
+GGAATCCTCACCCTTTTTTTCCCTGAAAGTTTGGGAATGACTCTTCCAGAAACCTTAGAG
+CAGATGCAGAAAGTGAAATGGTTCAGATCTGGGAAAAAAACAAGAGACTCAATGGAGACA
+GAAGAAAATCCCAAGGTTCTAATAACTGCATTCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00083</identifier>
+            <name>Sugar_tr</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>carnitine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>nucleotide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>PDZ domain binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>quaternary ammonium group transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>secondary active organic cation transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>symporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>body fluid secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carnitine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carnitine transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carnitine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>modified amino acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organic cation transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>quaternary ammonium group transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>triglyceride metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+    <transporter position="2">
+      <id>BE0003648</id>
+      <name>Solute carrier family 22 member 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A16055</ref-id>
+            <pubmed-id>8955087</pubmed-id>
+            <citation>Busch AE, Quester S, Ulzheimer JC, Waldegger S, Gorboulev V, Arndt P, Lang F, Koepsell H: Electrogenic properties and substrate specificity of the polyspecific rat cation transporter rOCT1. J Biol Chem. 1996 Dec 20;271(51):32599-604.</citation>
+          </article>
+          <article>
+            <ref-id>A39846</ref-id>
+            <pubmed-id>26405039</pubmed-id>
+            <citation>Li DC, Nichols CG, Sala-Rabanal M: Role of a Hydrophobic Pocket in Polyamine Interactions with the Polyspecific Organic Cation Transporter OCT3. J Biol Chem. 2015 Nov 13;290(46):27633-43. doi: 10.1074/jbc.M115.668913. Epub 2015 Sep 24.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O15245" source="Swiss-Prot">
+        <name>Solute carrier family 22 member 1</name>
+        <general-function>Secondary active organic cation transmembrane transporter activity</general-function>
+        <specific-function>Translocates a broad array of organic cations with various structures and molecular weights including the model compounds 1-methyl-4-phenylpyridinium (MPP), tetraethylammonium (TEA), N-1-methylnicotinamide (NMN), 4-(4-(dimethylamino)styryl)-N-methylpyridinium (ASP), the endogenous compounds choline, guanidine, histamine, epinephrine, adrenaline, noradrenaline and dopamine, and the drugs quinine, and metformin. The transport of organic cations is inhibited by a broad array of compounds like tetramethylammonium (TMA), cocaine, lidocaine, NMDA receptor antagonists, atropine, prazosin, cimetidine, TEA and NMN, guanidine, cimetidine, choline, procainamide, quinine, tetrabutylammonium, and tetrapentylammonium. Translocates organic cations in an electrogenic and pH-independent manner. Translocates organic cations across the plasma membrane in both directions. Transports the polyamines spermine and spermidine. Transports pramipexole across the basolateral membrane of the proximal tubular epithelial cells. The choline transport is activated by MMTS. Regulated by various intracellular signaling pathways including inhibition by protein kinase A activation, and endogenously activation by the calmodulin complex, the calmodulin-dependent kinase II and LCK tyrosine kinase.</specific-function>
+        <gene-name>SLC22A1</gene-name>
+        <locus>6q26</locus>
+        <cellular-location>Basolateral cell membrane</cellular-location>
+        <transmembrane-regions>22-42
+150-170
+177-197
+207-229
+236-256
+263-283
+348-368
+377-397
+403-423
+432-452
+465-485
+493-513</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>6.81</theoretical-pi>
+        <molecular-weight>61153.345</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:10963</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X98332</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>2511670</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1019</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O15245</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>S22A1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>hOCT1</synonym>
+          <synonym>OCT1</synonym>
+          <synonym>Organic cation transporter 1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037862|Solute carrier family 22 member 1
+MPTVDDILEQVGESGWFQKQAFLILCLLSAAFAPICVGIVFLGFTPDHHCQSPGVAELSQ
+RCGWSPAEELNYTVPGLGPAGEAFLGQCRRYEVDWNQSALSCVDPLASLATNRSHLPLGP
+CQDGWVYDTPGSSIVTEFNLVCADSWKLDLFQSCLNAGFLFGSLGVGYFADRFGRKLCLL
+GTVLVNAVSGVLMAFSPNYMSMLLFRLLQGLVSKGNWMAGYTLITEFVGSGSRRTVAIMY
+QMAFTVGLVALTGLAYALPHWRWLQLAVSLPTFLFLLYYWCVPESPRWLLSQKRNTEAIK
+IMDHIAQKNGKLPPADLKMLSLEEDVTEKLSPSFADLFRTPRLRKRTFILMYLWFTDSVL
+YQGLILHMGATSGNLYLDFLYSALVEIPGAFIALITIDRVGRIYPMAMSNLLAGAACLVM
+IFISPDLHWLNIIIMCVGRMGITIAIQMICLVNAELYPTFVRNLGVMVCSSLCDIGGIIT
+PFIVFRLREVWQALPLILFAVLGLLAAGVTLLLPETKGVALPETMKDAENLGRKAKPKEN
+TIYLKVQTSEPSGT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0017170|Solute carrier family 22 member 1 (SLC22A1)
+ATGCCCACCGTGGATGACATTCTGGAGCAGGTTGGGGAGTCTGGCTGGTTCCAGAAGCAA
+GCCTTCCTCATCTTATGCCTGCTGTCGGCTGCCTTTGCGCCCATCTGTGTGGGCATCGTC
+TTCCTGGGTTTCACACCTGACCACCACTGCCAGAGTCCTGGGGTGGCTGAGCTGAGCCAG
+CGCTGTGGCTGGAGCCCTGCGGAGGAGCTGAACTATACAGTGCCAGGCCTGGGGCCCGCG
+GGCGAGGCCTTCCTTGGCCAGTGCAGGCGCTATGAAGTGGACTGGAACCAGAGCGCCCTC
+AGCTGTGTAGACCCCCTGGCTAGCCTGGCCACCAACAGGAGCCACCTGCCGCTGGGTCCC
+TGCCAGGATGGCTGGGTGTATGACACGCCCGGCTCTTCCATCGTCACTGAGTTCAACCTG
+GTGTGTGCTGACTCCTGGAAGCTGGACCTCTTTCAGTCCTGTTTGAATGCGGGCTTCTTG
+TTTGGCTCTCTCGGTGTTGGCTACTTTGCAGACAGGTTTGGCCGTAAGCTGTGTCTCCTG
+GGAACTGTGCTGGTCAACGCGGTGTCGGGCGTGCTCATGGCCTTCTCGCCCAACTACATG
+TCCATGCTGCTCTTCCGCCTGCTGCAGGGCCTGGTCAGCAAGGGCAACTGGATGGCTGGC
+TACACCCTAATCACAGAATTTGTTGGCTCGGGCTCCAGAAGAACGGTGGCGATCATGTAC
+CAGATGGCCTTCACGGTGGGGCTGGTGGCGCTTACCGGGCTGGCCTACGCCCTGCCTCAC
+TGGCGCTGGCTGCAGCTGGCAGTCTCCCTGCCCACCTTCCTCTTCCTGCTCTACTACTGG
+TGTGTGCCGGAGTCCCCTCGGTGGCTGTTATCACAAAAAAGAAACACTGAAGCAATAAAG
+ATAATGGACCACATCGCTCAAAAGAATGGGAAGTTGCCTCCTGCTGATTTAAAGATGCTT
+TCCCTCGAAGAGGATGTCACCGAAAAGCTGAGCCCTTCATTTGCAGACCTGTTCCGCACG
+CCGCGCCTGAGGAAGCGCACCTTCATCCTGATGTACCTGTGGTTCACGGACTCTGTGCTC
+TATCAGGGGCTCATCCTGCACATGGGCGCCACCAGCGGGAACCTCTACCTGGATTTCCTT
+TACTCCGCTCTGGTCGAAATCCCGGGGGCCTTCATAGCCCTCATCACCATTGACCGCGTG
+GGCCGCATCTACCCCATGGCCATGTCAAATTTGTTGGCGGGGGCAGCCTGCCTCGTCATG
+ATTTTTATCTCACCTGACCTGCACTGGTTAAACATCATAATCATGTGTGTTGGCCGAATG
+GGAATCACCATTGCAATACAAATGATCTGCCTGGTGAATGCTGAGCTGTACCCCACATTC
+GTCAGGAACCTCGGAGTGATGGTGTGTTCCTCCCTGTGTGACATAGGTGGGATAATCACC
+CCCTTCATAGTCTTCAGGCTGAGGGAGGTCTGGCAAGCCTTGCCCCTCATTTTGTTTGCG
+GTGTTGGGCCTGCTTGCCGCGGGAGTGACGCTACTTCTTCCAGAGACCAAGGGGGTCGCT
+TTGCCAGAGACCATGAAGGACGCCGAGAACCTTGGGAGAAAAGCAAAGCCCAAAGAAAAC
+ACGATTTACCTTAAGGTCCAAACCTCAGAACCCTCGGGCACCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00083</identifier>
+            <name>Sugar_tr</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basolateral plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>acetylcholine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>dopamine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>norepinephrine transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>organic cation transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>quaternary ammonium group transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>secondary active organic cation transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ammonium transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>dopamine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drug transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epinephrine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>establishment or maintenance of transmembrane electrochemical gradient</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurotransmitter transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>norepinephrine transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organic cation transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein homooligomerization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>quaternary ammonium group transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

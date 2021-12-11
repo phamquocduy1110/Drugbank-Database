@@ -1,0 +1,1519 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00058</drugbank-id>
+  <drugbank-id>BTD00002</drugbank-id>
+  <drugbank-id>BIOD00002</drugbank-id>
+  <name>Alpha-1-proteinase inhibitor</name>
+  <description>Human alpha-1 proteinase inhibitor or alpha-1-antitrypsin, prepared from human plasma via Cohn alcohol fractionation followed by PEG and zinc chloride fractionation.</description>
+  <cas-number>9041-92-3</cas-number>
+  <unii>F43I396OIS</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A102</ref-id>
+        <pubmed-id>16773239</pubmed-id>
+        <citation>Karnaukhova E, Ophir Y, Golding B: Recombinant human alpha-1 proteinase inhibitor: towards therapeutic use. Amino Acids. 2006 Jun;30(4):317-32. Epub 2006 May 26.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Michael H. Coan, William J. Brockway, "Method of preparing alpha-1-proteinase inhibitor." U.S. Patent US4379087, issued December, 1968.</synthesis-reference>
+  <indication>For chronic augmentation and maintenance therapy in individuals with alpha1-proteinase inhibitor (A1-PI) deficiency and clinical evidence of emphysema.</indication>
+  <pharmacodynamics>Prevents excessive accumulation of active neutrophil elastase and consequent proteolysis of elastin tissues in alveolar lung structures. This prevents the development of emphysema.</pharmacodynamics>
+  <mechanism-of-action>Alpha-1 proteinase inhibitor is a serine protease inhibitor (Serpin). Its primary mechanism is inhibiting the action of the serine protease called elastase (also plasmin and thrombin) in the lungs. The reactive center loop (RCL) of alpha-1 proteinase inhibitor extends out from the body of the protein and directs binding to the target protease. The protease cleaves the serpin at the reactive site, establishing a covalent linkage between the carboxyl group of the serpin reactive site and the serine hydroxyl of the protease. The resulting inactive serpin-protease complex is highly stable.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>* 5632 ± 2006 mL [ARALAST NP]&#13;
+* 5618 ± 1618 mL [Aralast]</volume-of-distribution>
+  <clearance>* 940 +/- 275 mL/day [Patients with congenital α1-PI deficiency with single IV infusion of 60 mg/kg]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Alfa 1-proteinase inhibitor (human)</synonym>
+    <synonym language="spanish" coder="">Alfa-1-antitripsina</synonym>
+    <synonym language="english" coder="">Alfa1 antitrypsin</synonym>
+    <synonym language="english" coder="">Alpha 1-antitrypsin</synonym>
+    <synonym language="english" coder="">Alpha 1-Proteinase Inhibitor</synonym>
+    <synonym language="english" coder="">Alpha 1-proteinase inhibitor (human)</synonym>
+    <synonym language="english" coder="">Alpha 1-proteinase inhibitor, human</synonym>
+    <synonym language="english" coder="">Alpha-1 protease inhibitor</synonym>
+    <synonym language="english" coder="">Alpha-1 proteinase inhibitor (human)</synonym>
+    <synonym language="english" coder="">Alpha-1-antiproteinase</synonym>
+    <synonym language="english" coder="">Alpha-1-antitrypsin</synonym>
+    <synonym language="english" coder="">Alpha-1-proteinase Inhibitor (human)</synonym>
+    <synonym language="english" coder="">Alpha-1-proteinase inhibitor human</synonym>
+    <synonym language="english" coder="">Alpha-1-proteinase Inhibitor, Human</synonym>
+    <synonym language="english" coder="">Alpha-1-proteinase inhibitor,human</synonym>
+    <synonym language="english" coder="">Alpha1-proteinase Inhibitor</synonym>
+    <synonym language="english" coder="">Alpha1-proteinase inhibitor (human)</synonym>
+    <synonym language="english" coder="">alpha1-proteinase inhibitor human</synonym>
+    <synonym language="english" coder="">API</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Alpha1-proteinase Inhibitor (human)</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223643</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alpha1-proteinase Inhibitor (human)</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223651</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Aralast NP</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2812</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-09-01</started-marketing-on>
+      <ended-marketing-on>2014-11-09</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>16 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aralast NP</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2822</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-09-01</started-marketing-on>
+      <ended-marketing-on>2014-11-09</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>16 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aralast NP</name>
+      <labeller>Baxter Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2802</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-04-19</started-marketing-on>
+      <ended-marketing-on>2014-11-09</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>16 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aralast NP</name>
+      <labeller>Baxalta u.s. Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2814</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>16 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aralast NP</name>
+      <labeller>Baxalta u.s. Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2815</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>16 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Glassia</name>
+      <labeller>Baxalta Usa Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-2884</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-07-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125325</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolastin Inj 25.0mg/ml</name>
+      <labeller>Cutter Biological, Division Of Miles Lab Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00803529</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Prolastin-C</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-700</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1000 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103174</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolastin-C</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-701</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-02</started-marketing-on>
+      <ended-marketing-on>2018-08-03</ended-marketing-on>
+      <dosage-form/>
+      <strength>1000 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103174</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolastin-C</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-703</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1000 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103174</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolastin-C</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02204606</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-11-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>1000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Prolastin-C Liquid</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-705</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>1000 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103174</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Prolastin-C Liquid</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02488787</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Respreeza</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002739</ema-product-code>
+      <ema-ma-number>EU/1/15/1006/001</ema-ma-number>
+      <started-marketing-on>2015-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>1000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Respreeza</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002739</ema-product-code>
+      <ema-ma-number>EU/1/15/1006/002</ema-ma-number>
+      <started-marketing-on>2015-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Respreeza</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002739</ema-product-code>
+      <ema-ma-number>EU/1/15/1006/003</ema-ma-number>
+      <started-marketing-on>2015-08-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7201</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-07-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1000 mg/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125078</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7202</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-04-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>4000 mg/76mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125078</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7203</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-04-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>5000 mg/95mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125078</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02457911</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02494760</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>4000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Zemaira</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02494779</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>5000 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Aralast</name>
+      <company>Baxter</company>
+    </international-brand>
+    <international-brand>
+      <name>Prolastin</name>
+      <company>Talecris Biotherapeutics C formerly Bayer</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Respreeza</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aralast NP</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aralast NP</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aralast NP</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Glassia</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aralast NP</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aralast NP</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C Liquid</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Respreeza</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Respreeza</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin Inj 25.0mg/ml</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alpha1-proteinase Inhibitor (human)</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alpha1-proteinase Inhibitor (human)</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Prolastin-C Liquid</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zemaira</name>
+      <ingredients>Alpha-1-proteinase inhibitor</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>CSL Behring LLC</name>
+      <url>http://www.cslbehring.com</url>
+    </packager>
+    <packager>
+      <name>Talecris Biotherapeutics</name>
+      <url>http://www.talecris.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Prolastin 1000 mg vial</description>
+      <cost currency="USD">0.46</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Prolastin 500 mg vial</description>
+      <cost currency="USD">0.46</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Prolastin c 1000 mg vial</description>
+      <cost currency="USD">0.46</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Aralast 500 mg vial</description>
+      <cost currency="USD">0.5</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Zemaira 1000 mg vial</description>
+      <cost currency="USD">0.5</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Aralast 1000 mg vial</description>
+      <cost currency="USD">0.52</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Aralast np 1000 mg vial</description>
+      <cost currency="USD">0.52</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Aralast np 500 mg vial</description>
+      <cost currency="USD">0.52</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Acute-Phase Proteins</category>
+      <mesh-id>D000209</mesh-id>
+    </category>
+    <category>
+      <category>Alpha-Globulins</category>
+      <mesh-id>D000510</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antifibrinolytic Agents</category>
+      <mesh-id>D000933</mesh-id>
+    </category>
+    <category>
+      <category>Blood and Blood Forming Organs</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Enzyme Inhibitors</category>
+      <mesh-id>D004791</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Glycoconjugates</category>
+      <mesh-id>D006001</mesh-id>
+    </category>
+    <category>
+      <category>Glycoproteins</category>
+      <mesh-id>D006023</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+    <category>
+      <category>Human alpha-1 Proteinase Inhibitor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Protease Inhibitors</category>
+      <mesh-id>D011480</mesh-id>
+    </category>
+    <category>
+      <category>Proteinase Inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serine Protease Inhibitors</category>
+      <mesh-id>D015842</mesh-id>
+    </category>
+    <category>
+      <category>Serpins</category>
+      <mesh-id>D015843</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+    <category>
+      <category>Trypsin Inhibitors</category>
+      <mesh-id>D014361</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>16 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>1 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Parenteral</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>1000 mg/20mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>1000 mg/20mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>1000 mg/20mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>4000 mg/76mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>5000 mg/95mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>4000 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>5000 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="B02AB02">
+      <level code="B02AB">Proteinase inhibitors</level>
+      <level code="B02A">ANTIFIBRINOLYTICS</level>
+      <level code="B02">ANTIHEMORRHAGICS</level>
+      <level code="B">BLOOD AND BLOOD FORMING ORGANS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00058.pdf?1460131779</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00170</drugbank-id>
+      <name>Menadione</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Menadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00302</drugbank-id>
+      <name>Tranexamic acid</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Tranexamic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00513</drugbank-id>
+      <name>Aminocaproic acid</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Aminocaproic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Aprotinin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11091</drugbank-id>
+      <name>Hydrogen peroxide</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Hydrogen peroxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13244</drugbank-id>
+      <name>Aminomethylbenzoic acid</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Aminomethylbenzoic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13729</drugbank-id>
+      <name>Camostat</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Camostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09222</drugbank-id>
+      <name>Fibrinogen human</name>
+      <description>The therapeutic efficacy of Fibrinogen human can be increased when used in combination with Alpha-1-proteinase inhibitor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The risk or severity of Thrombosis can be increased when Tretinoin is combined with Alpha-1-proteinase inhibitor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00025</drugbank-id>
+      <name>Antihemophilic factor, human recombinant</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Antihemophilic factor, human recombinant.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00036</drugbank-id>
+      <name>Coagulation factor VIIa Recombinant Human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation factor VIIa Recombinant Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00100</drugbank-id>
+      <name>Coagulation Factor IX (Recombinant)</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium acetate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium chloride</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium chloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01783</drugbank-id>
+      <name>Pantothenic acid</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Pantothenic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01942</drugbank-id>
+      <name>Formic acid</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Formic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02261</drugbank-id>
+      <name>Platelet Activating Factor</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Platelet Activating Factor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09109</drugbank-id>
+      <name>Turoctocog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Turoctocog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09310</drugbank-id>
+      <name>Catridecacog</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Catridecacog.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09329</drugbank-id>
+      <name>Antihemophilic Factor (Recombinant), PEGylated</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Antihemophilic Factor (Recombinant), PEGylated.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11168</drugbank-id>
+      <name>Calcium threonate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium threonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11311</drugbank-id>
+      <name>Prothrombin</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Prothrombin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11330</drugbank-id>
+      <name>Factor IX Complex (Human)</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Factor IX Complex (Human).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11348</drugbank-id>
+      <name>Calcium Phosphate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium Phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11606</drugbank-id>
+      <name>Susoctocog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Susoctocog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11668</drugbank-id>
+      <name>Rusalatide acetate</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Rusalatide acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12409</drugbank-id>
+      <name>Vatreptacog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Vatreptacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12909</drugbank-id>
+      <name>Factor XIII (human)</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Factor XIII (human).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13133</drugbank-id>
+      <name>Von Willebrand Factor Human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Von Willebrand Factor Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13148</drugbank-id>
+      <name>Coagulation factor X human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation factor X human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13150</drugbank-id>
+      <name>Coagulation factor VII human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation factor VII human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13151</drugbank-id>
+      <name>Anti-inhibitor coagulant complex</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Anti-inhibitor coagulant complex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13152</drugbank-id>
+      <name>Coagulation Factor IX Human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation Factor IX Human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13192</drugbank-id>
+      <name>Antihemophilic factor human</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Antihemophilic factor human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13197</drugbank-id>
+      <name>Kallidinogenase</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Kallidinogenase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13201</drugbank-id>
+      <name>Trenonacog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Trenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13884</drugbank-id>
+      <name>Albutrepenonacog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Albutrepenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13933</drugbank-id>
+      <name>Nonacog beta pegol</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Nonacog beta pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13999</drugbank-id>
+      <name>Moroctocog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Moroctocog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14473</drugbank-id>
+      <name>Beroctocog alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Beroctocog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14562</drugbank-id>
+      <name>Andexanet alfa</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Andexanet alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14577</drugbank-id>
+      <name>Calcium cation</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Calcium cation.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14700</drugbank-id>
+      <name>Damoctocog alfa pegol</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Damoctocog alfa pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14738</drugbank-id>
+      <name>Turoctocog alfa pegol</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Turoctocog alfa pegol.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00058 sequence
+EDPQGDAAQKTDTSHHDQDHPTFNKITPNLAEFAFSLYRQLAHQSNSTNIFFSPVSIATA
+FAMLSLGTKADTHDEILEGLNFNLTEIPEAQIHEGFQELLRTLNQPDSQLQLTTGNGLFL
+SEGLKLVDKFLEDVKKLYHSEAFTVNFGDTEEAKKQINDYVEKGTQGKIVDLVKELDRDT
+VFALVNYIFFKGKWERPFEVKDTEEEDFHVDQVTTVKVPMMKRLGMFNIQHCKKLSSWVL
+LMKYLGNATAIFFLPDEGKLQHLENELTHDIITKFLENEDRRSASLHLPKLSITGTYDLK
+SVLGQLGITKVFSNGADLSGVTEEAPLKLSKAVHKAVLTIDEKGTEAAGAMFLEAIPMSI
+PPEVKFNKPFVFLMIEQNTKSPLFMGKVVNPTQK</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>59 °C at pH 7.8</value>
+      <source>Tew D.J., Bottomley, S.P. J. Mol. Biol. 313:1161-1169 (2001)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.302</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.37</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>44324.5</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2001H3130N514O601S10</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7762</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506364</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>K01396</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA10308</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01009</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001102</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Alpha-1_antitrypsin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>535</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/zemaira.htm</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000394</id>
+      <name>Neutrophil elastase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A14064</ref-id>
+            <pubmed-id>20521180</pubmed-id>
+            <citation>Topic A, Ljujic M, Nikolic A, Petrovic-Stanojevic N, Dopudja-Pantic V, Mitic-Milikic M, Radojkovic D: Alpha-1-antitrypsin phenotypes and neutrophil elastase gene promoter polymorphisms in lung cancer. Pathol Oncol Res. 2011 Mar;17(1):75-80. doi: 10.1007/s12253-010-9283-5. Epub 2010 Jun 3.</citation>
+          </article>
+          <article>
+            <ref-id>A102</ref-id>
+            <pubmed-id>16773239</pubmed-id>
+            <citation>Karnaukhova E, Ophir Y, Golding B: Recombinant human alpha-1 proteinase inhibitor: towards therapeutic use. Amino Acids. 2006 Jun;30(4):317-32. Epub 2006 May 26.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P08246" source="Swiss-Prot">
+        <name>Neutrophil elastase</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Modifies the functions of natural killer cells, monocytes and granulocytes. Inhibits C5a-dependent neutrophil enzyme release and chemotaxis.</specific-function>
+        <gene-name>ELANE</gene-name>
+        <locus>19p13.3</locus>
+        <cellular-location>Cytoplasmic</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>9.41</theoretical-pi>
+        <molecular-weight>28517.81</molecular-weight>
+        <chromosome-location>19</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3309</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ELA2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00477</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>296665</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2358</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08246</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ELNE_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.37</synonym>
+          <synonym>Bone marrow serine protease</synonym>
+          <synonym>ELA2</synonym>
+          <synonym>Elastase-2</synonym>
+          <synonym>HLE</synonym>
+          <synonym>Human leukocyte elastase</synonym>
+          <synonym>Medullasin</synonym>
+          <synonym>PMN elastase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000785|Neutrophil elastase
+MTLGRRLACLFLACVLPALLLGGTALASEIVGGRRARPHAWPFMVSLQLRGGHFCGATLI
+APNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVI
+LQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSL
+CRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGLYPDAFAPVAQFVN
+WIDSIIQRSEDNPCPHPRDPDPASRTH</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010273|Neutrophil elastase (ELANE)
+ATGACCCTCGGCCGCCGACTCGCGTGTCTTTTCCTCGCCTGTGTCCTGCCGGCCTTGCTG
+CTGGGGGGCACCGCGCTGGCCTCGGAGATTGTGGGGGGCCGGCGAGCGCGGCCCCACGCG
+TGGCCCTTCATGGTGTCCCTGCAGCTGCGCGGAGGCCACTTCTGCGGCGCCACCCTGATT
+GCGCCCAACTTCGTCATGTCGGCCGCGCACTGCGTGGCGAATGTAAACGTCCGCGCGGTG
+CGGGTGGTCCTGGGAGCCCATAACCTCTCGCGGCGGGAGCCCACCCGGCAGGTGTTCGCC
+GTGCAGCGCATCTTCGAAAACGGCTACGACCCCGTAAACTTGCTCAACGACATCGTGATT
+CTCCAGCTCAACGGGTCGGCCACCATCAACGCCAACGTGCAGGTGGCCCAGCTGCCGGCT
+CAGGGACGCCGCCTGGGCAACGGGGTGCAGTGCCTGGCCATGGGCTGGGGCCTTCTGGGC
+AGGAACCGTGGGATCGCCAGCGTCCTGCAGGAGCTCAACGTGACGGTGGTGACGTCCCTC
+TGCCGTCGCAGCAACGTCTGCACTCTCGTGAGGGGCCGGCAGGCCGGCGTCTGTTTCGGG
+GACTCCGGCAGCCCCTTGGTCTGCAACGGGCTAATCCACGGAATTGCCTCCTTCGTCCGG
+GGAGGCTGCGCCTCAGGGCTCTACCCCGATGCCTTTGCCCCGGTGGCACAGTTTGTAAAC
+TGGATCGACTCTATCATCCAACGCTCCGAGGACAACCCCTGTCCCCACCCCCGGGACCCG
+GACCCGGCCAGCAGGACCCACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>transcriptional repressor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protease binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription corepressor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute inflammatory response to antigenic stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to bacterium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemokine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of growth of symbiont in host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil mediated killing of fungus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to UV</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to yeast</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

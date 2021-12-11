@@ -1,0 +1,2548 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00059</drugbank-id>
+  <drugbank-id>BTD00079</drugbank-id>
+  <drugbank-id>BIOD00079</drugbank-id>
+  <name>Pegaspargase</name>
+  <description>Pegylated L-asparagine amidohydrolase from E. coli. Pegylation substantially (by a factor of 4) extends the protein half life.</description>
+  <cas-number>130167-69-0</cas-number>
+  <unii>7D96IR0PPM</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A103</ref-id>
+        <pubmed-id>14499708</pubmed-id>
+        <citation>Graham ML: Pegaspargase: a review of clinical studies. Adv Drug Deliv Rev. 2003 Sep 26;55(10):1293-302.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For treatment of acute lymphoblastic leukemia</indication>
+  <pharmacodynamics>In a significant number of patients with acute leukemia, the malignant cells are dependent on an exogenous source of asparagine for survival. Normal cells, however, are able to synthesize asparagine and thus are affected less by the rapid depletion produced by treatment with the enzyme asparaginase. Oncaspar exploits a metabolic defect in asparagine synthesis of some malignant cells.</pharmacodynamics>
+  <mechanism-of-action>Pegaspargase, more effective than asparaginase, converts asparagine to aspartic acid and ammonia. It facilitates production of oxaloacetate which is needed for general cellular metabolism. Some malignant cells lose the ability to produce asparagine and so the loss of exogenous sources of asparagine leads to cell death.</mechanism-of-action>
+  <toxicity>Adverse effects that occur more than 10% of the time include hepatotoxicity as it is known to increase serum transaminases (ALT, AST). Also known to induce hypersensitivity reactions including anaphylaxis, erythema and bronchospasm. </toxicity>
+  <metabolism/>
+  <absorption>Onset of Asparagine depletion by IM is within 4 days &#13;
+Time to peak: IM: 3 to 4 days</absorption>
+  <half-life>IM: ~6 days; half-life decreased to ~3 days (range: 1.4 to 5 days) in patients with previous hypersensitivity to native L-asparaginase; IV: Adults (asparaginase naive): 7 days</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution> IV: Adults (asparaginase naive): 2.4 L/m2&#13;
+Distributes into CSF (reportedly reducing CSF asparagine concentrations to a similar extent as asparaginase</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Peg-asparaginase</synonym>
+    <synonym language="english" coder="">Peg/L-asparaginase</synonym>
+    <synonym language="spanish" coder="">Pegaspargasa</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Lyophilized Pegaspargase</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3922</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-02-07</started-marketing-on>
+      <ended-marketing-on>2020-05-16</ended-marketing-on>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>750 U/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Lyophilized Pegaspargase</name>
+      <labeller>Servier Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>72694-313</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>750 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Baxalta Innovations Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003789</ema-product-code>
+      <ema-ma-number>EU/1/15/1070/001</ema-ma-number>
+      <started-marketing-on>2016-01-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>750 U/ml</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Sigma Tau Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54482-301</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-02-01</started-marketing-on>
+      <ended-marketing-on>2016-11-30</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>750 [iU]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>BLA103411</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3810</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-02-01</started-marketing-on>
+      <ended-marketing-on>2020-05-16</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>750 [iU]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>BLA103411</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Servier Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>72694-954</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-01-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>750 [iU]/1mL</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number>BLA103411</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Les Laboratoires Servier</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003789</ema-product-code>
+      <ema-ma-number>EU/1/15/1070/002</ema-ma-number>
+      <started-marketing-on>2016-01-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength/>
+      <route/>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Servier</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02461900</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>750 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Oncaspar</name>
+      <labeller>Aventis Pharma Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02236849</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-10-13</started-marketing-on>
+      <ended-marketing-on>2004-01-02</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength>750 unit</strength>
+      <route>Intramuscular; Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lyophilized Pegaspargase</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lyophilized Pegaspargase</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Oncaspar</name>
+      <ingredients>Pegaspargase</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Ben Venue Laboratories Inc.</name>
+      <url>http://www.benvenue.com</url>
+    </packager>
+    <packager>
+      <name>Enzon Inc.</name>
+      <url>http://www.enzon.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Oncaspar 750 unit/ml vial</description>
+      <cost currency="USD">656.0</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alcohols</category>
+      <mesh-id>D000438</mesh-id>
+    </category>
+    <category>
+      <category>Amidohydrolases</category>
+      <mesh-id>D000581</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic Agents</category>
+      <mesh-id>D000970</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Asparaginase</category>
+      <mesh-id>D001215</mesh-id>
+    </category>
+    <category>
+      <category>Asparagine-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Compounds used in a research, industrial, or household setting</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Delayed-Action Preparations</category>
+      <mesh-id>D003692</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes, Immobilized</category>
+      <mesh-id>D004800</mesh-id>
+    </category>
+    <category>
+      <category>Ethylene Glycols</category>
+      <mesh-id>D005026</mesh-id>
+    </category>
+    <category>
+      <category>Glycols</category>
+      <mesh-id>D006018</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Macromolecular Substances</category>
+      <mesh-id>D046911</mesh-id>
+    </category>
+    <category>
+      <category>Pegylated agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Polymers</category>
+      <mesh-id>D011108</mesh-id>
+    </category>
+    <category>
+      <category>Thyroxine-binding globulin inhibitors</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular</route>
+      <strength>750 U/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>750 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route/>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 U/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 U/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous</route>
+      <strength>750 IU</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L01XX24">
+      <level code="L01XX">Other antineoplastic agents</level>
+      <level code="L01X">OTHER ANTINEOPLASTIC AGENTS</level>
+      <level code="L01">ANTINEOPLASTIC AGENTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>10:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00059.pdf?1265922801</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n1 is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n3 is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2b is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00026</drugbank-id>
+      <name>Anakinra</name>
+      <description>The risk or severity of adverse effects can be increased when Anakinra is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon gamma-1b is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon alfa-2a, Recombinant</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-2a, Recombinant is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The risk or severity of adverse effects can be increased when Aldesleukin is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Gemtuzumab ozogamicin is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Infliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Interferon beta-1b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Interferon alfacon-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Basiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Muromonab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00092</drugbank-id>
+      <name>Alefacept</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Interferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00120</drugbank-id>
+      <name>Phenylalanine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Phenylalanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Flunisolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Beclomethasone dipropionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00432</drugbank-id>
+      <name>Trifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Trifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00446</drugbank-id>
+      <name>Chloramphenicol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Chloramphenicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Zidovudine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluticasone propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone acetonide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluocinolone acetonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Linezolid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fludrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mycophenolate mofetil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Penicillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Azathioprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01099</drugbank-id>
+      <name>Flucytosine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Flucytosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Estramustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Budesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01281</drugbank-id>
+      <name>Abatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Abatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01285</drugbank-id>
+      <name>Corticotropin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Corticotropin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Colchicine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ciclesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01423</drugbank-id>
+      <name>Stepronin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Stepronin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01611</drugbank-id>
+      <name>Hydroxychloroquine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hydroxychloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Castanospermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02806</drugbank-id>
+      <name>2-Methoxyethanol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with 2-Methoxyethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03523</drugbank-id>
+      <name>Brequinar</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Brequinar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pirfenidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05259</drugbank-id>
+      <name>Glatiramer</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Glatiramer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05260</drugbank-id>
+      <name>Gallium nitrate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Gallium nitrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05472</drugbank-id>
+      <name>Human interferon omega-1</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Human interferon omega-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Apremilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06372</drugbank-id>
+      <name>Rilonacept</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Rilonacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Panobinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06662</drugbank-id>
+      <name>Abetimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Abetimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06681</drugbank-id>
+      <name>Belatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Belatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06813</drugbank-id>
+      <name>Pralatrexate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pralatrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08059</drugbank-id>
+      <name>Wortmannin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Wortmannin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Teriflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluticasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08908</drugbank-id>
+      <name>Dimethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dimethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09082</drugbank-id>
+      <name>Vilanterol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Vilanterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tixocortol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tepoxalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Melengestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11616</drugbank-id>
+      <name>Pirarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11693</drugbank-id>
+      <name>Voclosporin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Voclosporin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11708</drugbank-id>
+      <name>Peficitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Peficitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11817</drugbank-id>
+      <name>Baricitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Baricitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11921</drugbank-id>
+      <name>Deflazacort</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Deflazacort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12025</drugbank-id>
+      <name>Triptolide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Triptolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12371</drugbank-id>
+      <name>Siponimod</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Siponimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12612</drugbank-id>
+      <name>Ozanimod</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Ozanimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mizoribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12692</drugbank-id>
+      <name>Gusperimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Gusperimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cepeginterferon alfa-2B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12902</drugbank-id>
+      <name>Trofosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Trofosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12947</drugbank-id>
+      <name>Doxifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Doxifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12991</drugbank-id>
+      <name>Deoxyspergualin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Deoxyspergualin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12996</drugbank-id>
+      <name>Acteoside</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Acteoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13014</drugbank-id>
+      <name>Hypericin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hypericin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13068</drugbank-id>
+      <name>9-(N-methyl-L-isoleucine)-cyclosporin A</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with 9-(N-methyl-L-isoleucine)-cyclosporin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13223</drugbank-id>
+      <name>Fluocortin</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluocortin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13241</drugbank-id>
+      <name>Begelomab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Begelomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13491</drugbank-id>
+      <name>Fluperolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluperolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13843</drugbank-id>
+      <name>Cloprednol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Cloprednol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13856</drugbank-id>
+      <name>Fluclorolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluclorolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13867</drugbank-id>
+      <name>Fluticasone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluticasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14066</drugbank-id>
+      <name>Tetrandrine</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Tetrandrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14219</drugbank-id>
+      <name>Monomethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Monomethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14512</drugbank-id>
+      <name>Mometasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mometasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14539</drugbank-id>
+      <name>Hydrocortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hydrocortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14545</drugbank-id>
+      <name>Hydrocortisone succinate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hydrocortisone succinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluocinonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14540</drugbank-id>
+      <name>Hydrocortisone butyrate</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Hydrocortisone butyrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Desoximetasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Fluorometholone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Difluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01656</drugbank-id>
+      <name>Roflumilast</name>
+      <description>Roflumilast may increase the immunosuppressive activities of Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06688</drugbank-id>
+      <name>Sipuleucel-T</name>
+      <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08894</drugbank-id>
+      <name>Peginesatide</name>
+      <description>The risk or severity of Thrombosis can be increased when Pegaspargase is combined with Peginesatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09107</drugbank-id>
+      <name>Methoxy polyethylene glycol-epoetin beta</name>
+      <description>The risk or severity of Thrombosis can be increased when Pegaspargase is combined with Methoxy polyethylene glycol-epoetin beta.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00012</drugbank-id>
+      <name>Darbepoetin alfa</name>
+      <description>The risk or severity of Thrombosis can be increased when Darbepoetin alfa is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00016</drugbank-id>
+      <name>Erythropoietin</name>
+      <description>The risk or severity of Thrombosis can be increased when Erythropoietin is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>The risk or severity of myelosuppression can be increased when Sulfamethoxazole is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>Pegaspargase may increase the immunosuppressive activities of Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the neutropenic activities of Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00019</drugbank-id>
+      <name>Pegfilgrastim</name>
+      <description>The therapeutic efficacy of Pegaspargase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00061</drugbank-id>
+      <name>Pegademase</name>
+      <description>The therapeutic efficacy of Pegademase can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00082</drugbank-id>
+      <name>Pegvisomant</name>
+      <description>The therapeutic efficacy of Pegvisomant can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01839</drugbank-id>
+      <name>Propylene glycol</name>
+      <description>The therapeutic efficacy of Propylene glycol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03394</drugbank-id>
+      <name>Heptaethylene glycol</name>
+      <description>The therapeutic efficacy of Heptaethylene glycol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04895</drugbank-id>
+      <name>Pegaptanib</name>
+      <description>The therapeutic efficacy of Pegaptanib can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05202</drugbank-id>
+      <name>Egaptivon pegol</name>
+      <description>The therapeutic efficacy of Egaptivon pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05321</drugbank-id>
+      <name>PEG-uricase</name>
+      <description>The therapeutic efficacy of PEG-uricase can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05860</drugbank-id>
+      <name>Peginterferon alfacon-1</name>
+      <description>The therapeutic efficacy of Peginterferon alfacon-1 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06022</drugbank-id>
+      <name>GlycoPEG-GCSF</name>
+      <description>The therapeutic efficacy of GlycoPEG-GCSF can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06293</drugbank-id>
+      <name>Pegnivacogin</name>
+      <description>The therapeutic efficacy of Pegnivacogin can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06325</drugbank-id>
+      <name>Pegpleranib</name>
+      <description>The therapeutic efficacy of Pegpleranib can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06611</drugbank-id>
+      <name>Pegsunercept</name>
+      <description>The therapeutic efficacy of Pegsunercept can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06811</drugbank-id>
+      <name>Polidocanol</name>
+      <description>The therapeutic efficacy of Polidocanol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09208</drugbank-id>
+      <name>Pegloticase</name>
+      <description>The therapeutic efficacy of Pegloticase can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09287</drugbank-id>
+      <name>Polyethylene glycol</name>
+      <description>The therapeutic efficacy of Polyethylene glycol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09329</drugbank-id>
+      <name>Antihemophilic Factor (Recombinant), PEGylated</name>
+      <description>The therapeutic efficacy of Antihemophilic Factor (Recombinant), PEGylated can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11077</drugbank-id>
+      <name>Polyethylene glycol 400</name>
+      <description>The therapeutic efficacy of Polyethylene glycol 400 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11567</drugbank-id>
+      <name>Insulin peglispro</name>
+      <description>The therapeutic efficacy of Insulin peglispro can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11661</drugbank-id>
+      <name>Eptacog alfa pegol (activated)</name>
+      <description>The therapeutic efficacy of Eptacog alfa pegol (activated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11707</drugbank-id>
+      <name>Olaptesed Pegol</name>
+      <description>The therapeutic efficacy of Olaptesed Pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12258</drugbank-id>
+      <name>Abicipar Pegol</name>
+      <description>The therapeutic efficacy of Abicipar Pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12578</drugbank-id>
+      <name>Lexaptepid Pegol</name>
+      <description>The therapeutic efficacy of Lexaptepid Pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12839</drugbank-id>
+      <name>Pegvaliase</name>
+      <description>The therapeutic efficacy of Pegvaliase can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12842</drugbank-id>
+      <name>Pegamotecan</name>
+      <description>The therapeutic efficacy of Pegamotecan can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13200</drugbank-id>
+      <name>Lipegfilgrastim</name>
+      <description>The therapeutic efficacy of Lipegfilgrastim can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13933</drugbank-id>
+      <name>Nonacog beta pegol</name>
+      <description>The therapeutic efficacy of Nonacog beta pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14700</drugbank-id>
+      <name>Damoctocog alfa pegol</name>
+      <description>The therapeutic efficacy of Damoctocog alfa pegol can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14712</drugbank-id>
+      <name>Elapegademase</name>
+      <description>The therapeutic efficacy of Elapegademase can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08868</drugbank-id>
+      <name>Fingolimod</name>
+      <description>Pegaspargase may increase the immunosuppressive activities of Fingolimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>Tacrolimus may increase the immunosuppressive activities of Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The serum concentration of Dexamethasone can be increased when it is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05144</drugbank-id>
+      <name>PEV3A</name>
+      <description>The therapeutic efficacy of PEV3A can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of Rindopepimut can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06400</drugbank-id>
+      <name>Vitespen</name>
+      <description>The therapeutic efficacy of Vitespen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The therapeutic efficacy of Anthrax immune globulin human can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10062</drugbank-id>
+      <name>Rabies virus inactivated antigen, B</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, B can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10076</drugbank-id>
+      <name>Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10276</drugbank-id>
+      <name>Rotavirus vaccine</name>
+      <description>The therapeutic efficacy of Rotavirus vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies virus inactivated antigen, A</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, A can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10342</drugbank-id>
+      <name>Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10583</drugbank-id>
+      <name>Clostridium tetani toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Clostridium tetani toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10584</drugbank-id>
+      <name>Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10600</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10769</drugbank-id>
+      <name>Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10794</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10803</drugbank-id>
+      <name>Typhoid Vi polysaccharide vaccine</name>
+      <description>The therapeutic efficacy of Typhoid Vi polysaccharide vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10989</drugbank-id>
+      <name>Hepatitis A Vaccine</name>
+      <description>The therapeutic efficacy of Hepatitis A Vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10990</drugbank-id>
+      <name>Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11038</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11040</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11041</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11044</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11603</drugbank-id>
+      <name>Human rabies virus immune globulin</name>
+      <description>The therapeutic efficacy of Human rabies virus immune globulin can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11627</drugbank-id>
+      <name>Hepatitis B Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Hepatitis B Vaccine (Recombinant) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12568</drugbank-id>
+      <name>Tecemotide</name>
+      <description>The therapeutic efficacy of Tecemotide can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14022</drugbank-id>
+      <name>Typhoid vaccine</name>
+      <description>The therapeutic efficacy of Typhoid vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14384</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14385</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14394</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14445</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14449</drugbank-id>
+      <name>Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14619</drugbank-id>
+      <name>Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14620</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14711</drugbank-id>
+      <name>Smallpox (Vaccinia) Vaccine, Live</name>
+      <description>The therapeutic efficacy of Smallpox (Vaccinia) Vaccine, Live can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15274</drugbank-id>
+      <name>Pertussis vaccine</name>
+      <description>The therapeutic efficacy of Pertussis vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15461</drugbank-id>
+      <name>Yersinia pestis 195/p antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Yersinia pestis 195/p antigen (formaldehyde inactivated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13924</drugbank-id>
+      <name>Varicella Zoster Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Varicella Zoster Vaccine (Recombinant) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15483</drugbank-id>
+      <name>Modified vaccinia ankara</name>
+      <description>The therapeutic efficacy of Modified vaccinia ankara can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15654</drugbank-id>
+      <name>Moderna COVID-19 Vaccine</name>
+      <description>The therapeutic efficacy of Moderna COVID-19 Vaccine can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>Ocrelizumab may increase the immunosuppressive activities of Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10317</drugbank-id>
+      <name>Rubella virus vaccine</name>
+      <description>The risk or severity of infection can be increased when Rubella virus vaccine is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10318</drugbank-id>
+      <name>Varicella Zoster Vaccine (Live/attenuated)</name>
+      <description>The risk or severity of infection can be increased when Varicella Zoster Vaccine (Live/attenuated) is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10343</drugbank-id>
+      <name>Bacillus calmette-guerin substrain tice live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain tice live antigen is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10804</drugbank-id>
+      <name>Bacillus calmette-guerin substrain connaught live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain connaught live antigen is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10805</drugbank-id>
+      <name>Yellow Fever Vaccine</name>
+      <description>The risk or severity of infection can be increased when Yellow Fever Vaccine is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11003</drugbank-id>
+      <name>Anthrax vaccine</name>
+      <description>The risk or severity of infection can be increased when Anthrax vaccine is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11050</drugbank-id>
+      <name>Typhoid Vaccine Live</name>
+      <description>The risk or severity of infection can be increased when Typhoid Vaccine Live is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12386</drugbank-id>
+      <name>Bacillus calmette-guerin substrain danish 1331 live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain danish 1331 live antigen is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The risk or severity of infection can be increased when BCG vaccine is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14409</drugbank-id>
+      <name>Human adenovirus e serotype 4 strain cl-68578 antigen</name>
+      <description>The risk or severity of infection can be increased when Human adenovirus e serotype 4 strain cl-68578 antigen is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The risk or severity of infection can be increased when Vibrio cholerae CVD 103-HgR strain live antigen is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14685</drugbank-id>
+      <name>Adenovirus type 7 vaccine live</name>
+      <description>The risk or severity of infection can be increased when Adenovirus type 7 vaccine live is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The therapeutic efficacy of Methotrexate can be decreased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The risk or severity of liver damage can be increased when Pegaspargase is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>Pegaspargase may increase the immunosuppressive activities of Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The therapeutic efficacy of Phenytoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>The therapeutic efficacy of Liothyronine can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>The therapeutic efficacy of Levothyroxine can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00532</drugbank-id>
+      <name>Mephenytoin</name>
+      <description>The therapeutic efficacy of Mephenytoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00695</drugbank-id>
+      <name>Furosemide</name>
+      <description>The therapeutic efficacy of Furosemide can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00698</drugbank-id>
+      <name>Nitrofurantoin</name>
+      <description>The therapeutic efficacy of Nitrofurantoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00754</drugbank-id>
+      <name>Ethotoin</name>
+      <description>The therapeutic efficacy of Ethotoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00939</drugbank-id>
+      <name>Meclofenamic acid</name>
+      <description>The therapeutic efficacy of Meclofenamic acid can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The therapeutic efficacy of Heparin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01219</drugbank-id>
+      <name>Dantrolene</name>
+      <description>The therapeutic efficacy of Dantrolene can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The therapeutic efficacy of Fosphenytoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>The therapeutic efficacy of Liotrix can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08899</drugbank-id>
+      <name>Enzalutamide</name>
+      <description>The therapeutic efficacy of Enzalutamide can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08984</drugbank-id>
+      <name>Etofenamate</name>
+      <description>The therapeutic efficacy of Etofenamate can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12425</drugbank-id>
+      <name>Liothyronine I-131</name>
+      <description>The therapeutic efficacy of Liothyronine I-131 can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13396</drugbank-id>
+      <name>Neocitrullamon</name>
+      <description>The therapeutic efficacy of Neocitrullamon can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11100</drugbank-id>
+      <name>Allantoin</name>
+      <description>The therapeutic efficacy of Allantoin can be increased when used in combination with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14513</drugbank-id>
+      <name>Magnesium</name>
+      <description>The serum concentration of Magnesium can be decreased when it is combined with Pegaspargase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Pegaspargase can be increased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of infection can be increased when Pegaspargase is combined with Inebilizumab.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00059 sequence
+MEFFKKTALAALVMGFSGAALALPNITILATGGTIAGGGDSATKSNYTVGKVGVENLVNA
+VPQLKDIANVKGEQVVNIGSQDMNDNVWLTLAKKINTDCDKTDGFVITHGTDTMEETAYF
+LDLTVKCDKPVVMVGAMRPSTSMSADGPFNLYNAVVTAADKASANRGVLVVMNDTVLDGR
+DVTKTNTTDVATFKSVNYGPLGYIHNGKIDYQRTPARKHTSDTPFDVSKLNELPKVGIVY
+NYANASDLPAKALVDAGYDGIVSAGVGNGNLYKSVFDTLATAAKTGTAVVRSSRVPTGAT
+TQDAEVDDAKYGFVASGTLNPQKARVLLQLALTQTKDPQQIQQIFNQY</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>0.059</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>4.67</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>31731.9</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1377H2208N382O442S17</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11706</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505366</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>U00096</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164760860</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P37595</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Pegaspargase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2108546</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>34132</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/pegaspargase.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/pegaspargase.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0004798</id>
+      <name>L-asparagine</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A6673</ref-id>
+            <pubmed-id>17132721</pubmed-id>
+            <citation>Douer D, Yampolsky H, Cohen LJ, Watkins K, Levine AM, Periclou AP, Avramis VI: Pharmacodynamics and safety of intravenous pegaspargase during remission induction in adults aged 55 years or younger with newly diagnosed acute lymphoblastic leukemia. Blood. 2007 Apr 1;109(7):2744-50.</citation>
+          </article>
+          <article>
+            <ref-id>A6670</ref-id>
+            <pubmed-id>17264295</pubmed-id>
+            <citation>Wetzler M, Sanford BL, Kurtzberg J, DeOliveira D, Frankel SR, Powell BL, Kolitz JE, Bloomfield CD, Larson RA: Effective asparagine depletion with pegylated asparaginase results in improved outcomes in adult acute lymphoblastic leukemia: Cancer and Leukemia Group B Study 9511. Blood. 2007 May 15;109(10):4164-7. Epub 2007 Jan 30.</citation>
+          </article>
+          <article>
+            <ref-id>A6674</ref-id>
+            <pubmed-id>17766659</pubmed-id>
+            <citation>Dinndorf PA, Gootenberg J, Cohen MH, Keegan P, Pazdur R: FDA drug approval summary: pegaspargase (oncaspar) for the first-line treatment of children with acute lymphoblastic leukemia (ALL). Oncologist. 2007 Aug;12(8):991-8.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers>
+    <carrier position="1">
+      <id>BE0000537</id>
+      <name>Thyroxine-binding globulin</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles/>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P05543" source="Swiss-Prot">
+        <name>Thyroxine-binding globulin</name>
+        <general-function>Serine-type endopeptidase inhibitor activity</general-function>
+        <specific-function>Major thyroid hormone transport protein in serum.</specific-function>
+        <gene-name>SERPINA7</gene-name>
+        <locus>Xq22.2</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-20</signal-regions>
+        <theoretical-pi>6.27</theoretical-pi>
+        <molecular-weight>46324.12</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11583</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SERPINA7</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M14091</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>338697</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P05543</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>THBG_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Serpin A7</synonym>
+          <synonym>T4-binding globulin</synonym>
+          <synonym>TBG</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016123|Thyroxine-binding globulin
+MSPFLYLVLLVLGLHATIHCASPEGKVTACHSSQPNATLYKMSSINADFAFNLYRRFTVE
+TPDKNIFFSPVSISAALVMLSFGACCSTQTEIVETLGFNLTDTPMVEIQHGFQHLICSLN
+FPKKELELQIGNALFIGKHLKPLAKFLNDVKTLYETEVFSTDFSNISAAKQEINSHVEMQ
+TKGKVVGLIQDLKPNTIMVLVNYIHFKAQWANPFDPSKTEDSSSFLIDKTTTVQVPMMHQ
+MEQYYHLVDMELNCTVLQMDYSKNALALFVLPKEGQMESVEAAMSSKTLKKWNRLLQKGW
+VDLFVPKFSISATYDLGATLLKMGIQHAYSENADFSGLTEDNGLKLSNAAHKAVLHIGEK
+GTEAAAVPEVELSDQPENTFLHPIIQIDRSFMLLILERSTRSILFLGKVVNPTEA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016124|Thyroxine-binding globulin (SERPINA7)
+ATGTCACCATTCCTGTATCTGGTTCTCTTGGTACTTGGGCTTCATGCTACAATCCACTGT
+GCATCACCTGAAGGCAAAGTAACAGCCTGCCATTCATCCCAACCAAATGCCACTCTCTAC
+AAGATGTCATCCATTAATGCTGACTTTGCATTCAATCTGTACCGGAGGTTCACTGTGGAG
+ACCCCAGATAAGAACATCTTCTTTTCCCCTGTGAGCATTTCTGCAGCTTTGGTTATGCTT
+TCCTTTGGGGCCTGCTGCAGCACCCAAACTGAGATTGTGGAGACCTTGGGGTTCAACCTC
+ACAGACACTCCAATGGTAGAGATCCAGCATGGCTTCCAGCATCTGATCTGTTCACTGAAT
+TTTCCAAAGAAGGAACTGGAATTGCAGATAGGAAATGCCCTCTTCATTGGCAAGCATCTG
+AAACCACTGGCAAAGTTCTTGAATGATGTCAAGACCCTCTATGAGACTGAAGTCTTTTCT
+ACCGACTTCTCCAACATTTCTGCAGCCAAGCAGGAGATTAACAGTCATGTGGAGATGCAA
+ACCAAAGGGAAAGTTGTGGGTCTAATTCAAGACCTCAAGCCAAACACCATCATGGTCTTA
+GTGAACTATATTCACTTTAAAGCCCAGTGGGCAAATCCTTTTGATCCATCCAAGACAGAA
+GACAGTTCCAGCTTCTTAATAGACAAGACCACCACTGTTCAAGTGCCCATGATGCACCAG
+ATGGAACAATACTATCACCTAGTGGATATGGAATTGAACTGCACAGTTCTGCAAATGGAC
+TACAGCAAGAATGCTCTGGCACTCTTTGTTCTTCCCAAGGAGGGACAGATGGAGTCAGTG
+GAAGCTGCCATGTCATCTAAAACACTGAAGAAGTGGAACCGCTTACTACAGAAGGGATGG
+GTTGACTTGTTTGTTCCAAAGTTTTCCATTTCTGCCACATATGACCTTGGAGCCACACTT
+TTGAAGATGGGCATTCAGCATGCCTATTCTGAAAATGCTGATTTTTCTGGACTCACAGAG
+GACAATGGTCTGAAACTTTCCAATGCTGCCCATAAGGCTGTGCTGCACATTGGTGAAAAG
+GGAACTGAAGCTGCAGCTGTCCCTGAAGTTGAACTTTCGGATCAGCCTGAAAACACTTTC
+CTACACCCTATTATCCAAATTGATAGATCTTTCATGTTGTTGATTTTGGAGAGAAGCACA
+AGGAGTATTCTCTTTCTAGGGAAAGTTGTGAACCCAACGGAAGCGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00079</identifier>
+            <name>Serpin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase inhibitor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to corticosterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to prostaglandin E</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin A</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>thyroid hormone transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </carrier>
+  </carriers>
+  <transporters/>
+</drug>

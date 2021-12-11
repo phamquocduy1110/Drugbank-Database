@@ -1,0 +1,1057 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00097</drugbank-id>
+  <drugbank-id>BTD00034</drugbank-id>
+  <drugbank-id>BIOD00034</drugbank-id>
+  <name>Choriogonadotropin alfa</name>
+  <description>Recombinant human chorionic gonadotropin with 2 subunits, alpha = 92 residues, beta = 145 residues, each with N-and O-linked carbohydrate moieties linked to ASN-52 and ASN-78 (on alpha subunit) and ASN-13, ASN-30, SER-121, SER-127, SER-132 and SER-138 (on beta subunit). The primary structure of the alpha-chain of r-hCG is identical to that of the alpha-chain of hCG, FSH and LH.</description>
+  <cas-number>177073-44-8</cas-number>
+  <unii>6413W06WR3</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A148</ref-id>
+        <pubmed-id>12928375</pubmed-id>
+        <citation>Kayisli UA, Selam B, Guzeloglu-Kayisli O, Demir R, Arici A: Human chorionic gonadotropin contributes to maternal immunotolerance and endometrial apoptosis by regulating Fas-Fas ligand system. J Immunol. 2003 Sep 1;171(5):2305-13.</citation>
+      </article>
+      <article>
+        <ref-id>A149</ref-id>
+        <pubmed-id>10636378</pubmed-id>
+        <citation>Askling J, Erlandsson G, Kaijser M, Akre O, Ekbom A: Sickness in pregnancy and sex of child. Lancet. 1999 Dec 11;354(9195):2053.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of female infertility</indication>
+  <pharmacodynamics>Choriogonadotropin alfa is used to treat female infertility, Choriogonadotropin alfa stimulates late follicular maturation and resumption of oocyte meiosis, and initiates rupture of the pre-ovulatory ovarian follicle. Ovidrel is an analogue of Luteinizing Hormone (LH) and binds to the LH/hCG receptor of the granulosa and theca cells of the ovary to effect these changes in the absence of an endogenous LH surge.</pharmacodynamics>
+  <mechanism-of-action>Choriogonadotropin alfa binds to the Follicle stimulating hormone receptor which results in ovulation in the absence of sufficient endogenous Luteinizing hormone.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption>The mean absolute bioavailability following a single subcutaneous injection to healthy female volunteers is about 40%.</absorption>
+  <half-life>The mean terminal half-life is about 29 ± 6 hours (initial half-life is 4.5 ± 0.5 hours).</half-life>
+  <protein-binding/>
+  <route-of-elimination>One-tenth of the dose is excreted in the urine.</route-of-elimination>
+  <volume-of-distribution>* 5.9 ± 1.0 L</volume-of-distribution>
+  <clearance>* 0.29 +/- 0.04 L/h [healthy down-regulated females]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Choriogonadotropin alpha</synonym>
+    <synonym language="english" coder="">Chorionic gonadotropin (recombinant)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Chorionic Gonadotropin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-4121</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-07-13</started-marketing-on>
+      <ended-marketing-on>2008-06-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>10000 [USP'U]/10mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>NDA017067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Chorionic Gonadotropin</name>
+      <labeller>APP Pharmaceuticals, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-025</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-04-21</started-marketing-on>
+      <ended-marketing-on>2011-04-20</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>10000 [USP'U]/10mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>NDA017067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Chorionic Gonadotropin</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-030</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-04-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>10000 [USP'U]/10mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA017067</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ovidrel</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-1150</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-10-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>250 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA021149</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ovidrel</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02262088</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-12-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>250 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovidrel</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02371588</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-05-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>250 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ovitrelle</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000320</ema-product-code>
+      <ema-ma-number>EU/1/00/165/008</ema-ma-number>
+      <started-marketing-on>2001-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>250 micrograms</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ovitrelle</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000320</ema-product-code>
+      <ema-ma-number>EU/1/00/165/007</ema-ma-number>
+      <started-marketing-on>2001-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>250 micrograms/0.5ml</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pregnyl</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-4997</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>10000 [USP'U]/10mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>NDA017692</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pregnyl</name>
+      <labeller>Organon USA Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0052-0315</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1976-10-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>10000 [USP'U]/10mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA017692</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Profasi</name>
+      <company>Serono S.A.</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Ovitrelle</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovitrelle</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pregnyl</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Chorionic Gonadotropin</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Chorionic Gonadotropin</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Chorionic Gonadotropin</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pregnyl</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovidrel</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovidrel</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ovidrel</name>
+      <ingredients>Choriogonadotropin alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>EMD Canada Inc.</name>
+      <url>http://www.emdcanada.com</url>
+    </packager>
+    <packager>
+      <name>Ferring Pharmaceuticals Inc.</name>
+      <url>http://www.ferring.com</url>
+    </packager>
+    <packager>
+      <name>Merck KGaA</name>
+      <url>http://www.merck.de</url>
+    </packager>
+    <packager>
+      <name>Organon Pharmaceuticals</name>
+      <url>http://www.organonshop.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Emd serono inc</manufacturer>
+    <manufacturer generic="false" url="">Ferring pharmaceuticals inc</manufacturer>
+    <manufacturer generic="false" url="">App pharmaceuticals llc</manufacturer>
+    <manufacturer generic="false" url="">Bel mar laboratories inc</manufacturer>
+    <manufacturer generic="false" url="">Bristol myers squibb</manufacturer>
+    <manufacturer generic="false" url="">Organon usa inc</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Pregnyl 10000 unit vial</description>
+      <cost currency="USD">57.23</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Pregnyl 10000 unit Solution</description>
+      <cost currency="USD">60.7</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Ovidrel 250 mcg/0.5ml Injectable 0.5ml Syringe</description>
+      <cost currency="USD">93.22</cost>
+      <unit>syringe</unit>
+    </price>
+    <price>
+      <description>Novarel 10000 unit vial</description>
+      <cost currency="USD">113.99</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Novarel 10000 unit/10ml Solution 1 Vial = 10ml</description>
+      <cost currency="USD">118.55</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Gonadotropins</category>
+      <mesh-id>D006062</mesh-id>
+    </category>
+    <category>
+      <category>Gonadotropins and Antigonadotropins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Sex Hormones and Modulators of the Genital System</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 mcg/500mcL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 mcg/0.5 mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 MCG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 micrograms/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 micrograms</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular</route>
+      <strength>10000 [USP'U]/10mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="G03GA08">
+      <level code="G03GA">Gonadotropins</level>
+      <level code="G03G">GONADOTROPINS AND OTHER OVULATION STIMULANTS</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>68:18.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00097.pdf?1265922795</fda-label>
+  <patents>
+    <patent>
+      <number>5767251</number>
+      <country>United States</country>
+      <approved>1998-06-16</approved>
+      <expires>2015-06-16</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6706681</number>
+      <country>United States</country>
+      <approved>2004-03-16</approved>
+      <expires>2021-03-16</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;Alpha chain
+APDVQDCPECTLQENPFFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCC
+VAKSYNRVTVMGGFKVENHTACHCSTCYYHKS</sequence>
+    <sequence format="FASTA">&gt;Beta chain
+SKEPLRPRCRPINATLAVEKEGCPVCITVNTTICAGYCPTMTRVLQGVLPALPQVVCNYR
+DVRFESIRLPGCPRGVNPVVSYAVALSCQCALCRRSTTDCGGPKDHPLTCDDPRFQDSSS
+SKAPPPSLPSPSRLPGPSDTPILPQ</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>55 °C</value>
+      <source>Forastieri, H., Ingham, K.C. J. Biol. Chem. 257:7976-7981 (1982)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.258</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>8.61</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>25719.7</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1105H1770N318O336S26</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12389</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>14798</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506863</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>J00117</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164783947</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01233</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001030</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Human_chorionic_gonadotropin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201464</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>283550</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/ovidrel.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/choriogonadotropin-alfa.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000134</id>
+      <name>Lutropin-choriogonadotropic hormone receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13299</ref-id>
+            <pubmed-id>15967102</pubmed-id>
+            <citation>Bodek G, Vierre S, Rivero-Muller A, Huhtaniemi I, Ziecik AJ, Rahman NA: A novel targeted therapy of Leydig and granulosa cell tumors through the luteinizing hormone receptor using a hecate-chorionic gonadotropin beta conjugate in transgenic mice. Neoplasia. 2005 May;7(5):497-508.</citation>
+          </article>
+          <article>
+            <ref-id>A13300</ref-id>
+            <pubmed-id>12606382</pubmed-id>
+            <citation>Gromoll J, Wistuba J, Terwort N, Godmann M, Muller T, Simoni M: A new subclass of the luteinizing hormone/chorionic gonadotropin receptor lacking exon 10 messenger RNA in the New World monkey (Platyrrhini) lineage. Biol Reprod. 2003 Jul;69(1):75-80. Epub 2003 Feb 19.</citation>
+          </article>
+          <article>
+            <ref-id>A2119</ref-id>
+            <pubmed-id>17059863</pubmed-id>
+            <citation>Lin W, Bernard MP, Cao D, Myers RV, Kerrigan JE, Moyle WR: Follitropin receptors contain cryptic ligand binding sites. Mol Cell Endocrinol. 2007 Jan 2;260-262:83-92. Epub 2006 Oct 23.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P22888" source="Swiss-Prot">
+        <name>Lutropin-choriogonadotropic hormone receptor</name>
+        <general-function>Luteinizing hormone receptor activity</general-function>
+        <specific-function>Receptor for lutropin-choriogonadotropic hormone. The activity of this receptor is mediated by G proteins which activate adenylate cyclase.</specific-function>
+        <gene-name>LHCGR</gene-name>
+        <locus>2p21</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>364-385
+396-416
+440-462
+483-505
+526-549
+571-594
+606-627</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi>8.58</theoretical-pi>
+        <molecular-weight>78642.01</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6585</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>LHCGR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M73746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>903746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P22888</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>LSHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>LCGR</synonym>
+          <synonym>LGR2</synonym>
+          <synonym>LH/CG-R</synonym>
+          <synonym>LHR</synonym>
+          <synonym>LHRHR</synonym>
+          <synonym>LSH-R</synonym>
+          <synonym>Luteinizing hormone receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036957|Lutropin-choriogonadotropic hormone receptor
+MKQRFSALQLLKLLLLLQPPLPRALREALCPEPCNCVPDGALRCPGPTAGLTRLSLAYLP
+VKVIPSQAFRGLNEVIKIEISQIDSLERIEANAFDNLLNLSEILIQNTKNLRYIEPGAFI
+NLPRLKYLSICNTGIRKFPDVTKVFSSESNFILEICDNLHITTIPGNAFQGMNNESVTLK
+LYGNGFEEVQSHAFNGTTLTSLELKENVHLEKMHNGAFRGATGPKTLDISSTKLQALPSY
+GLESIQRLIATSSYSLKKLPSRETFVNLLEATLTYPSHCCAFRNLPTKEQNFSHSISENF
+SKQCESTVRKVNNKTLYSSMLAESELSGWDYEYGFCLPKTPRCAPEPDAFNPCEDIMGYD
+FLRVLIWLINILAIMGNMTVLFVLLTSRYKLTVPRFLMCNLSFADFCMGLYLLLIASVDS
+QTKGQYYNHAIDWQTGSGCSTAGFFTVFASELSVYTLTVITLERWHTITYAIHLDQKLRL
+RHAILIMLGGWLFSSLIAMLPLVGVSNYMKVSICFPMDVETTLSQVYILTILILNVVAFF
+IICACYIKIYFAVRNPELMATNKDTKIAKKMAILIFTDFTCMAPISFFAISAAFKVPLIT
+VTNSKVLLVLFYPINSCANPFLYAIFTKTFQRDFFLLLSKFGCCKRRAELYRRKDFSAYT
+SNCKNGFTGSNKPSQSTLKLSTLHCQGTALLDKTRYTEC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010174|Lutropin-choriogonadotropic hormone receptor (LHCGR)
+ATGAAGCAGCGGTTCTCGGCGCTGCAGCTGCTGAAGCTGCTGCTGCTGCTGCAGCCGCCG
+CTGCCACGAGCGCTGCGCGAGGCGCTCTGCCCTGAGCCCTGCAACTGCGTGCCCGACGGC
+GCCCTGCGCTGCCCCGGCCCCACGGCCGGTCTCACTCGACTATCACTTGCCTACCTCCCT
+GTCAAAGTGATCCCATCTCAAGCTTTCAGAGGACTTAATGAGGTCATAAAAATTGAAATC
+TCTCAGATTGATTCCCTGGAAAGGATAGAAGCTAATGCCTTTGACAACCTCCTCAATTTG
+TCTGAAATACTGATCCAGAACACCAAAAATCTGAGATACATTGAGCCCGGAGCATTTATA
+AATCTTCCCCGATTAAAATACTTGAGCATCTGTAACACAGGCATCAGAAAGTTTCCAGAT
+GTTACGAAGGTCTTCTCCTCTGAATCAAATTTCATTCTGGAAATTTGTGATAACTTACAC
+ATAACCACCATACCAGGAAATGCTTTTCAAGGGATGAATAATGAATCTGTAACACTCAAA
+CTATATGGAAATGGATTTGAAGAAGTACAAAGTCATGCATTCAATGGGACGACACTGACT
+TCACTGGAGCTAAAGGAAAACGTACATCTGGAGAAGATGCACAATGGAGCCTTCCGTGGG
+GCCACAGGGCCGAAAACCTTGGATATTTCTTCCACCAAATTGCAGGCCCTGCCGAGCTAT
+GGCCTAGAGTCCATTCAGAGGCTAATTGCCACGTCATCCTATTCTCTAAAAAAATTGCCA
+TCAAGAGAAACATTTGTCAATCTCCTGGAGGCCACGTTGACTTACCCCAGCCACTGCTGT
+GCTTTTAGAAACTTGCCAACAAAAGAACAGAATTTTTCACATTCCATTTCTGAAAACTTT
+TCCAAACAATGTGAAAGCACAGTAAGGAAAGTGAATAACAAAACACTTTATTCTTCCATG
+CTTGCTGAGAGTGAACTGAGTGGCTGGGACTATGAATATGGTTTCTGCTTACCCAAGACA
+CCCCGATGTGCTCCTGAACCAGATGCTTTTAATCCCTGTGAAGATATTATGGGCTATGAC
+TTCCTTAGGGTCCTGATTTGGCTGATTAATATTCTAGCCATCATGGGAAACATGACTGTT
+CTTTTTGTTCTCCTGACAAGTCGTTACAAACTTACAGTGCCTCGTTTTCTCATGTGCAAT
+CTCTCCTTTGCAGACTTTTGCATGGGGCTCTATCTGCTGCTCATAGCCTCAGTTGATTCC
+CAAACCAAGGGCCAGTACTATAACCATGCCATAGACTGGCAGACAGGGAGTGGGTGCAGC
+ACTGCTGGCTTTTTCACTGTATTCGCAAGTGAACTTTCTGTCTACACCCTCACCGTCATC
+ACTCTAGAAAGATGGCACACCATCACCTATGCTATTCACCTGGACCAAAAGCTGCGATTA
+AGACATGCCATTCTGATTATGCTTGGAGGATGGCTCTTTTCTTCTCTAATTGCTATGTTG
+CCCCTTGTCGGTGTCAGCAATTACATGAAGGTCAGTATTTGCTTCCCCATGGATGTGGAA
+ACCACTCTCTCACAAGTCTATATATTAACCATCCTGATTCTCAATGTGGTGGCCTTCTTC
+ATAATTTGTGCTTGCTACATTAAAATTTATTTTGCAGTTCGAAACCCAGAATTAATGGCT
+ACCAATAAAGATACAAAGATTGCTAAGAAAATGGCAATCCTCATCTTCACCGATTTCACC
+TGCATGGCACCTATCTCTTTTTTTGCCATCTCAGCTGCCTTCAAAGTACCTCTTATCACA
+GTAACCAACTCTAAAGTTTTACTGGTTCTTTTTTATCCCATCAATTCTTGTGCCAATCCA
+TTTCTGTATGCAATATTCACTAAGACATTCCAAAGAGATTTCTTTCTTTTGCTGAGCAAA
+TTTGGCTGCTGTAAACGTCGGGCTGAACTTTATAGAAGGAAAGATTTTTCAGCTTACACC
+TCCAACTGCAAAAATGGCTTCACTGGATCAAATAAGCCTTCTCAATCCACCTTGAAGTTG
+TCCACATTGCACTGTCAAGGTACAGCTCTCCTAGACAAGACTCGCTACACAGAGTGTTAA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13306</identifier>
+            <name>LRR_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled peptide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>luteinizing hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to gonadotropin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cognition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>luteinizing hormone signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male genitalia development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ovulation cycle process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of inositol trisphosphate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermatogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>uterus development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000387</id>
+      <name>Follicle-stimulating hormone receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2116</ref-id>
+            <pubmed-id>9027352</pubmed-id>
+            <citation>Jameson JL: Inherited disorders of the gonadotropin hormones. Mol Cell Endocrinol. 1996 Dec 20;125(1-2):143-9.</citation>
+          </article>
+          <article>
+            <ref-id>A2119</ref-id>
+            <pubmed-id>17059863</pubmed-id>
+            <citation>Lin W, Bernard MP, Cao D, Myers RV, Kerrigan JE, Moyle WR: Follitropin receptors contain cryptic ligand binding sites. Mol Cell Endocrinol. 2007 Jan 2;260-262:83-92. Epub 2006 Oct 23.</citation>
+          </article>
+          <article>
+            <ref-id>A2120</ref-id>
+            <pubmed-id>20374735</pubmed-id>
+            <citation>Tao YX, Segaloff DL: Follicle stimulating hormone receptor mutations and reproductive disorders. Prog Mol Biol Transl Sci. 2009;89:115-31. doi: 10.1016/S1877-1173(09)89005-4. Epub 2009 Oct 7.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P23945" source="Swiss-Prot">
+        <name>Follicle-stimulating hormone receptor</name>
+        <general-function>G-protein coupled peptide receptor activity</general-function>
+        <specific-function>Receptor for follicle-stimulating hormone. The activity of this receptor is mediated by G proteins which activate adenylate cyclase. Induces cAMP production through the activation of PI3K-AKT and SRC-ERK1/2 signaling pathways.</specific-function>
+        <gene-name>FSHR</gene-name>
+        <locus>2p21-p16</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>367-387
+399-421
+444-465
+486-508
+529-550
+574-597
+609-630</transmembrane-regions>
+        <signal-regions>1-17</signal-regions>
+        <theoretical-pi>7.19</theoretical-pi>
+        <molecular-weight>78264.07</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3969</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FSHR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M65085</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182771</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>253</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>253</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P23945</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FSHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Follitropin receptor</synonym>
+          <synonym>FSH-R</synonym>
+          <synonym>LGR1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037007|Follicle-stimulating hormone receptor
+MALLLVSLLAFLSLGSGCHHRICHCSNRVFLCQESKVTEIPSDLPRNAIELRFVLTKLRV
+IQKGAFSGFGDLEKIEISQNDVLEVIEADVFSNLPKLHEIRIEKANNLLYINPEAFQNLP
+NLQYLLISNTGIKHLPDVHKIHSLQKVLLDIQDNINIHTIERNSFVGLSFESVILWLNKN
+GIQEIHNCAFNGTQLDELNLSDNNNLEELPNDVFHGASGPVILDISRTRIHSLPSYGLEN
+LKKLRARSTYNLKKLPTLEKLVALMEASLTYPSHCCAFANWRRQISELHPICNKSILRQE
+VDYMTQARGQRSSLAEDNESSYSRGFDMTYTEFDYDLCNEVVDVTCSPKPDAFNPCEDIM
+GYNILRVLIWFISILAITGNIIVLVILTTSQYKLTVPRFLMCNLAFADLCIGIYLLLIAS
+VDIHTKSQYHNYAIDWQTGAGCDAAGFFTVFASELSVYTLTAITLERWHTITHAMQLDCK
+VQLRHAASVMVMGWIFAFAAALFPIFGISSYMKVSICLPMDIDSPLSQLYVMSLLVLNVL
+AFVVICGCYIHIYLTVRNPNIVSSSSDTRIAKRMAMLIFTDFLCMAPISFFAISASLKVP
+LITVSKAKILLVLFHPINSCANPFLYAIFTKNFRRDFFILLSKCGCYEMQAQIYRTETSS
+TVHNTHPRNGHCSSAPRVTNGSTYILVPLSHLAQN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018946|Follicle-stimulating hormone receptor (FSHR)
+ATGGCCCTGCTCCTGGTCTCTTTGCTGGCATTCCTGAGCTTGGGCTCAGGATGTCATCAT
+CGGATCTGTCACTGCTCTAACAGGGTTTTTCTCTGCCAAGAGAGCAAGGTGACAGAGATT
+CCTTCTGACCTCCCGAGGAATGCCATTGAACTGAGGTTTGTCCTCACCAAGCTTCGAGTC
+ATCCAAAAAGGTGCATTTTCAGGATTTGGGGACCTGGAGAAAATAGAGATCTCTCAGAAT
+GATGTCTTGGAGGTGATAGAGGCAGATGTGTTCTCCAACCTTCCCAAATTACATGAAATT
+AGAATTGAAAAGGCCAACAACCTGCTCTACATCAACCCTGAGGCCTTCCAGAACCTTCCC
+AACCTTCAATATCTGTTAATATCCAACACAGGTATTAAGCACCTTCCAGATGTTCACAAG
+ATTCATTCTCTCCAAAAAGTTTTACTTGACATTCAAGATAACATAAACATCCACACAATT
+GAAAGAAATTCTTTCGTGGGGCTGAGCTTTGAAAGTGTGATTCTATGGCTGAATAAGAAT
+GGGATTCAAGAAATACACAACTGTGCATTCAATGGAACCCAACTAGATGAGCTGAATCTA
+AGCGATAATAATAATTTAGAAGAATTGCCTAATGATGTTTTCCACGGAGCCTCTGGACCA
+GTCATTCTAGATATTTCAAGAACAAGGATCCATTCCCTGCCTAGCTATGGCTTAGAAAAT
+CTTAAGAAGCTGAGGGCCAGGTCGACTTACAACTTAAAAAAGCTGCCTACTCTGGAAAAG
+CTTGTCGCCCTCATGGAAGCCAGCCTCACCTATCCCAGCCATTGCTGTGCCTTTGCAAAC
+TGGAGACGGCAAATCTCTGAGCTTCATCCAATTTGCAACAAATCTATTTTAAGGCAAGAA
+GTTGATTATATGACTCAGGCTAGGGGTCAGAGATCCTCTCTGGCAGAAGACAATGAGTCC
+AGCTACAGCAGAGGATTTGACATGACGTACACTGAGTTTGACTATGACTTATGCAATGAA
+GTGGTTGACGTGACCTGCTCCCCTAAGCCAGATGCATTCAACCCATGTGAAGATATCATG
+GGGTACAACATCCTCAGAGTCCTGATATGGTTTATCAGCATCCTGGCCATCACTGGGAAC
+ATCATAGTGCTAGTGATCCTAACTACCAGCCAATATAAACTCACAGTCCCCAGGTTCCTT
+ATGTGCAACCTGGCCTTTGCTGATCTCTGCATTGGAATCTACCTGCTGCTCATTGCATCA
+GTTGATATCCATACCAAGAGCCAATATCACAACTATGCCATTGACTGGCAAACTGGGGCA
+GGCTGTGATGCTGCTGGCTTTTTCACTGTCTTTGCCAGTGAGCTGTCAGTCTACACTCTG
+ACAGCTATCACCTTGGAAAGATGGCATACCATCACGCATGCCATGCAGCTGGACTGCAAG
+GTGCAGCTCCGCCATGCTGCCAGTGTCATGGTGATGGGCTGGATTTTTGCTTTTGCAGCT
+GCCCTCTTTCCCATCTTTGGCATCAGCAGCTACATGAAGGTGAGCATCTGCCTGCCCATG
+GATATTGACAGCCCTTTGTCACAGCTGTATGTCATGTCCCTCCTTGTGCTCAATGTCCTG
+GCCTTTGTGGTCATCTGTGGCTGCTATATCCACATCTACCTCACAGTGCGGAACCCCAAC
+ATCGTGTCCTCCTCTAGTGACACCAGGATCGCCAAGCGCATGGCCATGCTCATCTTCACT
+GACTTCCTCTGCATGGCACCCATTTCTTTCTTTGCCATTTCTGCCTCCCTCAAGGTGCCC
+CTCATCACTGTGTCCAAAGCAAAGATTCTGCTGGTTCTGTTTCACCCCATCAACTCCTGT
+GCCAACCCCTTCCTCTATGCCATCTTTACCAAAAACTTTCGCAGAGATTTCTTCATTCTG
+CTGAGCAAGTGTGGCTGCTATGAAATGCAAGCCCAAATTTATAGGACAGAAACTTCATCC
+ACTGTCCACAACACCCATCCAAGGAATGGCCACTGCTCTTCAGCTCCCAGAGTCACCAGT
+GGTTCCACTTACATACTTGTCCCTCTAAGTCATTTAGCCCAAAACTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01462</identifier>
+            <name>LRRNT</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13306</identifier>
+            <name>LRR_5</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12369</identifier>
+            <name>GnHR_trans</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>follicle-stimulating hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled peptide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female gamete generation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>follicle-stimulating hormone signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ERK1 and ERK2 cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphatidylinositol 3-kinase signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>primary ovarian follicle growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of osteoclast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of protein kinase A signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermatogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>uterus development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

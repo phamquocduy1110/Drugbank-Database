@@ -1,0 +1,3627 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00099</drugbank-id>
+  <drugbank-id>BTD00072</drugbank-id>
+  <drugbank-id>BIOD00072</drugbank-id>
+  <drugbank-id>DB09560</drugbank-id>
+  <name>Filgrastim</name>
+  <description>Chemotherapy-induced neutropenia (CIN) is a common and serious complication of myelosuppressive chemotherapy. It is associated with significant morbidity and mortality and can increase the cost of cancer therapy. In these cases, colony stimulating factor is necessary to restore important cells for immune function [A35591].&#13;
+&#13;
+For over twenty years, granulocyte colony-stimulating factors (G-CSFs; filgrastims) have been a pillar of treatment and prevention of CIN, and have been found to reduce the risk of neutropenia across various patient settings, decrease the incidence of febrile neutropenia, reduce the incidence of infection, reduce the requirement for treatment with antibiotics, and accelerate neutrophil recovery [A35591].&#13;
+&#13;
+Filgrastim is a recombinant, non-pegylated human granulocyte colony stimulating factor (G-CSF) analog. It is marketed as the brand name _Neupogen_ by Amgen (initially approved in 1998) and as _Nivestym_, a biosimilar agent by Pfizer. Nivestym was approved by the FDA on July 20th, 2018 [L3735].  Between 1998 and the present, Neupogen/filgrastim has been approved for various indications [L3744].&#13;
+&#13;
+ _Tbo-filgrastim_, which is marketed by Sicor Biotech and FDA approved on August 29, 2012, contains the same active ingredient as Neupogen and is biologically similar, but it is formulated to be short-acting [F719]. On March 6, 2015, the FDA approved the biosimilar Zarxio (filgrastim-sndz) and is indicated for use in the same conditions as Neupogen. Zarxio is marketed by Sandoz [L3742].</description>
+  <cas-number>121181-53-1</cas-number>
+  <unii>PVI5M0M1GW</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A150</ref-id>
+        <pubmed-id>11677930</pubmed-id>
+        <citation>Wang B, Ludden TM, Cheung EN, Schwab GG, Roskos LK: Population pharmacokinetic-pharmacodynamic modeling of filgrastim (r-metHuG-CSF) in healthy volunteers. J Pharmacokinet Pharmacodyn. 2001 Aug;28(4):321-42.</citation>
+      </article>
+      <article>
+        <ref-id>A35586</ref-id>
+        <pubmed-id>20881223</pubmed-id>
+        <citation>Krzyzanski W, Wiczling P, Lowe P, Pigeolet E, Fink M, Berghout A, Balser S: Population modeling of filgrastim PK-PD in healthy adults following intravenous and subcutaneous administrations. J Clin Pharmacol. 2010 Sep;50(9 Suppl):101S-112S. doi: 10.1177/0091270010376966.</citation>
+      </article>
+      <article>
+        <ref-id>A35591</ref-id>
+        <pubmed-id>24237790</pubmed-id>
+        <citation>Kamioner D, Fruehauf S, Maloisel F, Cals L, Lepretre S, Berthou C: Study design: two long-term observational studies of the biosimilar filgrastim Nivestim (Hospira filgrastim) in the treatment and prevention of chemotherapy-induced neutropenia. BMC Cancer. 2013 Nov 16;13:547. doi: 10.1186/1471-2407-13-547.</citation>
+      </article>
+      <article>
+        <ref-id>A35605</ref-id>
+        <pubmed-id>18400509</pubmed-id>
+        <citation>Panopoulos AD, Watowich SS: Granulocyte colony-stimulating factor: molecular mechanisms of action during steady state and 'emergency' hematopoiesis. Cytokine. 2008 Jun;42(3):277-88. doi: 10.1016/j.cyto.2008.03.002. Epub 2008 Apr 8.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L3735</ref-id>
+        <title>FDA Approves Second Neupogen Biosimilar, Nivestym</title>
+        <url>https://www.centerforbiosimilars.com/news/fda-approves-second-neupogen-biosimilar-nivestym</url>
+      </link>
+      <link>
+        <ref-id>L3739</ref-id>
+        <title>FDA Approves Radiation Medical Countermeasure</title>
+        <url>https://www.fda.gov/emergencypreparedness/counterterrorism/medicalcountermeasures/aboutmcmi/ucm443245.htm</url>
+      </link>
+      <link>
+        <ref-id>L3742</ref-id>
+        <title>Zarxio</title>
+        <url>http://www.zarxio.com/patient/</url>
+      </link>
+      <link>
+        <ref-id>L3744</ref-id>
+        <title>Drugs Approved by the FDA document</title>
+        <url>https://www.accessdata.fda.gov/scripts/cder/daf/index.cfm?event=overview.process&amp;ApplNo=103353</url>
+      </link>
+    </links>
+    <attachments>
+      <attachment>
+        <ref-id>F714</ref-id>
+        <title>EMA label</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/714/original/nivestim_EMA.pdf?1532118975</url>
+      </attachment>
+      <attachment>
+        <ref-id>F719</ref-id>
+        <title>TBO filgrastim</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/719/original/TBO_filgrastim.pdf?1532124628</url>
+      </attachment>
+    </attachments>
+  </general-references>
+  <synthesis-reference>Tetsuro Kuga, Hiromasa Miyaji, Moriyuki Sato, Masami Okabe, Makoto Morimoto, Seiga Itoh, Motoo Yamasaki, Yoshiharu Yokoo, Kazuo Yamaguchi, Hajime Yoshida, Yoshinori Komatsu, "Method of producing a polypeptide having human granulocyte colony stimulating factor activity." U.S. Patent US5994518, issued February, 1988.</synthesis-reference>
+  <indication>This drug is a leucocyte growth factor [FDA label] indicated to:&#13;
+&#13;
+Decrease the incidence of infection‚ as manifested by febrile neutropenia‚&#13;
+in patients with nonmyeloid malignancies receiving myelosuppressive anti-cancer drugs associated with a significant incidence of severe neutropenia with fever [FDA label]. &#13;
+&#13;
+Reduce the time to neutrophil recovery and the duration of fever, following induction or consolidation chemotherapy treatment in patients with acute myeloid leukemia (AML) [FDA label]&#13;
+&#13;
+Reduce the duration of neutropenia and neutropenia-related clinical sequelae‚ e.g.‚ febrile neutropenia, in patients with nonmyeloid malignancies undergoing myeloablative chemotherapy followed by bone marrow transplantation (BMT) [FDA label]&#13;
+&#13;
+Mobilize autologous hematopoietic progenitor cells into the peripheral blood for collection by leukapheresis [FDA label]&#13;
+&#13;
+Reduce the incidence and duration of sequelae of severe neutropenia (e.g.‚ fever‚ infections‚ oropharyngeal ulcers) in symptomatic patients with congenital neutropenia‚ cyclic neutropenia‚ or idiopathic neutropenia [FDA label].&#13;
+&#13;
+Neupogen is approved for treatment of patients with radiation-induced myelosuppression following a radiological/nuclear incident [L3739].</indication>
+  <pharmacodynamics>Filgrastim binds to the G-CSF receptor and stimulates the production of neutrophils in the bone marrow [FDA label].&#13;
+Colony-stimulating factors are glycoproteins which act on hematopoietic cells by binding to specific cell surface receptors, in turn, stimulating proliferation and differentiation [F714].&#13;
+&#13;
+G-CSF and its receptor are necessary for basal and stress-induced granulopoiesis, which forms neutrophils. Mice deficient in G-CSF or G-CSFR have severe neutropenia and reduced levels (~50%) of late-stage neutrophil precursors in the bone marrow under normal, resting conditions [A35605].&#13;
+&#13;
+&#13;
+Endogenous G-CSF is a lineage-specific colony-stimulating factor that is produced by monocytes‚ fibroblasts, and endothelial cells. G-CSF regulates the production of neutrophils within the bone marrow and enhances neutrophil progenitor proliferation‚ differentiation, and selected end-cell functions (including enhanced phagocytic ability‚ priming of the cellular metabolism associated with respiratory burst‚ antibody-dependent killing, and enhanced expression of certain cell surface antigens). G-CSF is not species-specific and has demonstrated to have negligible direct in vivo or in vitro effects on the production or action of hematopoietic cell types other than the neutrophil and its lineage[F714].</pharmacodynamics>
+  <mechanism-of-action>As a G-CSF analog, this drug controls the proliferation of committed progenitor cells and influences their maturation into mature neutrophils. Filgrastim also stimulates the release of neutrophils from bone marrow storage pools and decreases their time to maturation. Filgrastim acts to increase the phagocytic activity of mature neutrophils, thus allowing them to prevent infection. In patients receiving cytotoxic chemotherapy, filgrastim may accelerate neutrophil recovery, leading to a reduction in the duration of the neutropenic phase post chemotherapy [FDA label].&#13;
+&#13;
+Used in the treatment of chemotherapy-induced neutropenia by enhancing the production of neutrophils, filgrastim acts on hematopoietic cells by binding to specific cell surface receptors, thereby stimulating proliferation, differentiation, commitment, and end cell functional activation. In one efficacy study, levels of neutrophils returned to baseline by 21 days following completion of chemotherapy and the administration of tbo-filgrastim (fast-acting) [F719].&#13;
+&#13;
+In phase 1 studies involving 96 patients with various non-myeloid malignancies‚ filgrastim administration resulted in a dose-dependent increase in circulating neutrophil counts over the dose range of 1 to 70 mcg/kg/day. &#13;
+&#13;
+This increase in neutrophil counts was seen whether filgrastim was administered intravenous (1 to 70 mcg/kg twice daily)‚ subcutaneous (1 to 3 mcg/kg once daily)‚ or by continuous subcutaneous (SC) infusion (3 to 11 mcg/kg/day). After the discontinuation of filgrastim therapy‚ neutrophil counts returned to baseline in most cases within only 4 days after Nevistym was used [FDA label].</mechanism-of-action>
+  <toxicity>There are numerous adverse effects associated with Filgastrim.  They are organized by organ system as follows:&#13;
+&#13;
+**Generalized effects**&#13;
+&#13;
+Serious allergic reactions, including anaphylaxis: Permanently discontinue NIVESTYM in patients with serious allergic reactions. &#13;
+With non-myeloid malignancies receiving myelosuppressive anti-cancer drugs (≥ 5% difference in incidence compared to placebo) are pyrexia, pain, rash, cough, and dyspnea [FDA label]. With AML (≥ 2% difference in incidence) are pain, epistaxis and rash [FDA label]. With severe chronic neutropenia (SCN) (≥ 5% difference in incidence) are pain, anemia, epistaxis, diarrhea, hypoesthesia, and alopecia [FDA label].&#13;
+&#13;
+**Musculoskeletal system**&#13;
+&#13;
+Exacerbation of arthritic symptoms has been uncommonly observed [F714].&#13;
+&#13;
+**Spleen**&#13;
+&#13;
+Fatal splenic rupture: Evaluate patients who report left upper abdominal or shoulder pain for an enlarged spleen or splenic rupture. Cases of splenomegaly and splenic rupture have been reported uncommonly following administration of filgrastim. Some cases of splenic rupture were fatal [FDA label].&#13;
+&#13;
+**Respiratory system**&#13;
+&#13;
+Acute respiratory distress syndrome (ARDS): Evaluate patients who develop fever and lung infiltrates or respiratory distress for ARDS. Discontinue filgrastim in patients with ARDS [FDA label]. Pulmonary adverse effects, in particular interstitial lung disease, have been reported after G-CSF administration. Patients with a recent history of lung infiltrates or pneumonia may be at higher risk. The onset of pulmonary signs, such as cough, fever and dyspnea in association with radiological signs of pulmonary infiltrates and deterioration in pulmonary function may be preliminary signs of acute respiratory distress syndrome (ARDS). Filgrastim should be discontinued and appropriate treatment should be given [F714].&#13;
+&#13;
+**Hematological system**&#13;
+&#13;
+Fatal sickle cell crises have occurred. &#13;
+&#13;
+The granulocyte-colony stimulating factor can promote the malignant growth of myeloid cells in vitro and the same effects may be seen on some non-myeloid cells in vitro. The safety and efficacy of filgrastim administration in patients with myelodysplastic syndrome, or chronic myelogenous leukemia have not been established. Filgrastim is not indicated for use in these conditions. Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukemia from acute myeloid leukemia [F714].&#13;
+&#13;
+Capillary leak syndrome has been reported after granulocyte colony-stimulating factor administration, and is characterised by hypotension, hypoalbuminaemia, edema and hemoconcentration. Patients who show symptoms of capillary leak syndrome must be closely monitored and receive standard symptomatic treatment, which may include a need for intensive care [F714].&#13;
+&#13;
+Leukocytosis (white blood cell (WBC) &gt; 50 x 109/l) was seen in 41% of donors and transient thrombocytopenia (platelets &lt; 100 x 109/l) following filgrastim and leukapheresis was observed in 35% of donors [F714].&#13;
+&#13;
+**Renal system**&#13;
+&#13;
+This drug increases the risk of glomerulonephritis. Evaluate and consider dose-reduction or interruption&#13;
+of filgrastim if causality is likely [FDA label].</toxicity>
+  <metabolism/>
+  <absorption>Absorption and clearance of Neupogen follows first-order pharmacokinetics without concentration dependence. &#13;
+Subcutaneous administration of 3.45 mcg/kg and 11.5 mcg/kg of filgrastim resulted in maximum serum concentrations of 4 and 49 ng/mL‚ respectively‚ within 2-8 hours [FDA label]. Filgrastim does not accumulate. It is estimated that when filgrastim is subcutaneously administered, the absolute bioavailability is approximately 62% and 71% for 375 mcg and 750 mcg doses respectively. When 5 mcg/kg tbo-filgrastim is subcutaneously administered, the absolute bioavailability is 33%. It takes 4-6 hours for tho-filgrastim to reach maximum concentration [F719].</absorption>
+  <half-life> Elimination half-life was approximately 3.5 hours in both normal subjects and cancer subjects [FDA label]</half-life>
+  <protein-binding/>
+  <route-of-elimination>Filgrastim products demonstrate nonlinear pharmacokinetics. The clearance is dependent on filgrastim product concentration in addition to neutrophil count. G-CSF receptor-mediated clearance is saturated by a high concentration of filgrastim products and is diminished by neutropenia. In addition, filgrastim products are cleared by the kidney [F714].</route-of-elimination>
+  <volume-of-distribution>150 mL/kg [FDA label]</volume-of-distribution>
+  <clearance>0.5 - 0.7 mL/minute/kg  after SC administration of 3.45 mcg/kg and 11.5 mcg/kg in both normal subjects and cancer patients [FDA label]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Filgrastim-aafi</synonym>
+    <synonym language="english" coder="">Filgrastim-sndz</synonym>
+    <synonym language="english" coder="">G-CSF </synonym>
+    <synonym language="english" coder="">Granulocyte Colony Stimulating Factor </synonym>
+    <synonym language="english" coder="">Tbo-filgrastim</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/001</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/002</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/003</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/004</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/005</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/006</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/007</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/008</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/009</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/010</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/011</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/012</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/013</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/014</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/015</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/016</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/017</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Accofil</name>
+      <labeller>Accord Healthcare Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003956</ema-product-code>
+      <ema-ma-number>EU/1/14/946/018</ema-ma-number>
+      <started-marketing-on>2014-09-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/001</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/002</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/003</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/004</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/005</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/006</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/007</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/008</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/009</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Biograstim</name>
+      <labeller>Ab Z Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000826</ema-product-code>
+      <ema-ma-number>EU/1/08/450/010</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2016-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/001</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/002</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/003</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/004</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/005</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/006</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/007</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Filgrastim Ratiopharm</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000824</ema-product-code>
+      <ema-ma-number>EU/1/08/449/008</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on>2011-07-20</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Granix</name>
+      <labeller>Cephalon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63459-910</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-11-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125294</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Granix</name>
+      <labeller>Cephalon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63459-912</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-11-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125294</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Granix</name>
+      <labeller>Cephalon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63459-918</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-11-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125294</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Granix</name>
+      <labeller>Cephalon, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>63459-920</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-11-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/1.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125294</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002150</ema-product-code>
+      <ema-ma-number>EU/1/13/877/001</ema-ma-number>
+      <started-marketing-on>2013-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002150</ema-product-code>
+      <ema-ma-number>EU/1/13/877/002</ema-ma-number>
+      <started-marketing-on>2013-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002150</ema-product-code>
+      <ema-ma-number>EU/1/13/877/003</ema-ma-number>
+      <started-marketing-on>2013-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002150</ema-product-code>
+      <ema-ma-number>EU/1/13/877/004</ema-ma-number>
+      <started-marketing-on>2013-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02441489</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-03-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Grastofil</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02454548</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-11-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-2522</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5020</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-3050</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-530</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-05-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-546</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-04-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/1.6mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-924</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-10-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-209</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-10-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA103353</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Amgen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01968017</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>300 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Amgen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02420104</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-01-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>600 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neupogen</name>
+      <labeller>Amgen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02420112</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-02-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>600 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/001</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12000000 [units of filgrastim]/0.2mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/002</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12000000 [units of filgrastim]/0.2mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/003</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12000000 [units of filgrastim]/0.2mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/004</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/005</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/006</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/007</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/008</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/009</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/010</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12000000 [units of filgrastim]/0.2mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/011</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestim</name>
+      <labeller>Hospira, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/001142</ema-product-code>
+      <ema-ma-number>EU/1/10/631/012</ema-ma-number>
+      <started-marketing-on>2010-06-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48000000 [units of filgrastim]/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0069-0293</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA761080</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0069-0294</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-03-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/1.6mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA761080</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0069-0291</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761080</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0069-0292</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-09-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761080</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02485575</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-05-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>300 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02485583</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-05-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>480 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02485591</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-06-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>300 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Nivestym</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02485656</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-06-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>480 mcg</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/001</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/002</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/003</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/004</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/005</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/006</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/007</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/008</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/009</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/010</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/011</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ratiograstim</name>
+      <labeller>Ratiopharm Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000825</ema-product-code>
+      <ema-ma-number>EU/1/08/444/012</ema-ma-number>
+      <started-marketing-on>2008-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>48 MIU</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Zarxio</name>
+      <labeller>Sandoz Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61314-318</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA125553</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zarxio</name>
+      <labeller>Sandoz Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61314-326</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-03-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA125553</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zarxio</name>
+      <labeller>Sandoz Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61314-304</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-03-06</started-marketing-on>
+      <ended-marketing-on>2021-02-28</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>300 ug/0.5mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA125553</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Zarxio</name>
+      <labeller>Sandoz Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>61314-312</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-03-06</started-marketing-on>
+      <ended-marketing-on>2021-02-28</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>480 ug/0.8mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number>BLA125553</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Biocilin</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Biofigran</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Biofilgran</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Endufil</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Filatil</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Filgen</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Gran</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Granulokine</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Grimatin</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Inmunef</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Jiexin</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Leucogen</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Leucostim</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Macroleuco</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Neukine</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Neutromax</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Neutroval </name>
+      <company>Sicor Biotech</company>
+    </international-brand>
+    <international-brand>
+      <name>Recombicyte</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>SciLocyte</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Tevagastrim</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>White-C</name>
+      <company/>
+    </international-brand>
+    <international-brand>
+      <name>Zarzio</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Accofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Biograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Filgrastim Ratiopharm</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ratiograstim</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zarxio</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zarxio</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zarxio</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Zarxio</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Granix</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Granix</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Granix</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Granix</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupogen</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grastofil</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nivestym</name>
+      <ingredients>Filgrastim</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Amgen Inc.</name>
+      <url>http://www.amgen.com</url>
+    </packager>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Neupogen 300 mcg/ml vial</description>
+      <cost currency="USD">286.04</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Neupogen 480 mcg/1.6 ml vial</description>
+      <cost currency="USD">437.94</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Neupogen 300 mcg/0.5ml Solution 1 Box Contains Ten 0.5ml Syringes</description>
+      <cost currency="USD">3138.1</cost>
+      <unit>box</unit>
+    </price>
+    <price>
+      <description>Neupogen 480 mcg/1.6ml Solution 1 Box Contains Ten 1.6ml Syringes</description>
+      <cost currency="USD">4554.58</cost>
+      <unit>box</unit>
+    </price>
+    <price>
+      <description>Neupogen 480 mcg/0.8ml Solution 1 Box Contains Ten 0.8ml Syringes</description>
+      <cost currency="USD">4998.24</cost>
+      <unit>box</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Colony-Stimulating Factors</category>
+      <mesh-id>D003115</mesh-id>
+    </category>
+    <category>
+      <category>Glycoconjugates</category>
+      <mesh-id>D006001</mesh-id>
+    </category>
+    <category>
+      <category>Glycoproteins</category>
+      <mesh-id>D006023</mesh-id>
+    </category>
+    <category>
+      <category>Granulocyte Colony-Stimulating Factors</category>
+      <mesh-id>D016179</mesh-id>
+    </category>
+    <category>
+      <category>Hematologic Agents</category>
+      <mesh-id>D006401</mesh-id>
+    </category>
+    <category>
+      <category>Hematopoietic Cell Growth Factors</category>
+      <mesh-id>D016298</mesh-id>
+    </category>
+    <category>
+      <category>Increased Myeloid Cell Production</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Leukocyte Growth Factor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30000000 [units of filgrastim]/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48000000 [units of filgrastim]/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>30 MIO.E./0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>0.5 ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>30 MIO E/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>48 MIO.E./0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>48 MIO E/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>480 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 MIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48 MIU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>480 mcg/1.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>0.3 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>0.48 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>30 miu/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>300 mcg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>300 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>480 ug/1.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 MU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Subcutaneous</route>
+      <strength>300 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Subcutaneous</route>
+      <strength>480 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>48 MU/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>300 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>480 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>300 mcg/1.2mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>75 mcg/0.3mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>300 MCG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>15 miu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 miu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 miu/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>30 MU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>48 MU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>480 mcg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>300 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>300 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>480 ug/0.8mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>600 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>0.3 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>300 µg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>480 µg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>480 UG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>480 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>480 UG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 MU/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection; solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 miu/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection; solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48 miu/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 millions of units</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>300 mcg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>12 MU/0.2ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>12000000 [units of filgrastim]/0.2mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48 MU/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>12 MIO E/0.2ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>120 mcg/0.2ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>30 MU/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>05 ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>48 MU/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>480 ug/1.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>300 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>480 ug/0.8mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 cg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>30 M UI/0.5 ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>48 M UI/0.8 ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>0.8 ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 MUI/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48 MUI/0.8ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 MIU/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>48 MIU/0.8mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>480 ug/0.8mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>30 MIO E./0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>300 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Parenteral</route>
+      <strength>48 MIO E./0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>480 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>30 million IU</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L03AA02">
+      <level code="L03AA">Colony stimulating factors</level>
+      <level code="L03A">IMMUNOSTIMULANTS</level>
+      <level code="L03">IMMUNOSTIMULANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>20:16.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00099.pdf?1532117029</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00099.pdf?1370764327</msds>
+  <patents>
+    <patent>
+      <number>1341537</number>
+      <country>Canada</country>
+      <approved>2007-07-31</approved>
+      <expires>2024-07-31</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>1339071</number>
+      <country>Canada</country>
+      <approved>1997-07-29</approved>
+      <expires>2014-07-29</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>The risk or severity of pulmonary toxicity can be increased when Filgrastim is combined with Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of pulmonary toxicity can be increased when Filgrastim is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of neutropenia can be increased when Filgrastim is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05168</drugbank-id>
+      <name>Vintafolide</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vintafolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11641</drugbank-id>
+      <name>Vinflunine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vinflunine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13374</drugbank-id>
+      <name>Vincamine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Filgrastim is combined with Vincamine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Amino acid sequence for filgrastim
+MTPLGPASSLPQSFLLKCLEQVRKIQGDGAALQEKLCATYKLCHPEELVLLGHSLGIPWA
+PLSSCPSQALQLAGCLSQLHSGLFLYQGLLQALEGISPELGPTLDTLQLDVADFATTIWQ
+QMEELGMAPALQPTQGAMPAFASAFQRRAGGVLVASHLQSFLEVSYRVLRHLAQP</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>4</value>
+      <source>MSDS</source>
+    </property>
+    <property>
+      <kind>Boiling Point</kind>
+      <value>100</value>
+      <source>MSDS</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>0.209</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.65</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>18800.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C845H1343N223O243S9</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7657</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>23013</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505833</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D03235</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X03438</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449626</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P09919</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000113</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Filgrastim</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201567</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1433764</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/filgrastim.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/filgrastim.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000793</id>
+      <name>Granulocyte colony-stimulating factor receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>stimulator</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1792</ref-id>
+            <pubmed-id>17001306</pubmed-id>
+            <citation>Erkeland SJ, Aarts LH, Irandoust M, Roovers O, Klomp A, Valkhof M, Gits J, Eyckerman S, Tavernier J, Touw IP: Novel role of WD40 and SOCS box protein-2 in steady-state distribution of granulocyte colony-stimulating factor receptor and G-CSF-controlled proliferation and differentiation signaling. Oncogene. 2007 Mar 29;26(14):1985-94. Epub 2006 Sep 25.</citation>
+          </article>
+          <article>
+            <ref-id>A2123</ref-id>
+            <pubmed-id>17494858</pubmed-id>
+            <citation>Link DC, Kunter G, Kasai Y, Zhao Y, Miner T, McLellan MD, Ries RE, Kapur D, Nagarajan R, Dale DC, Bolyard AA, Boxer LA, Welte K, Zeidler C, Donadieu J, Bellanne-Chantelot C, Vardiman JW, Caligiuri MA, Bloomfield CD, DiPersio JF, Tomasson MH, Graubert TA, Westervelt P, Watson M, Shannon W, Baty J, Mardis ER, Wilson RK, Ley TJ: Distinct patterns of mutations occurring in de novo AML versus AML arising in the setting of severe congenital neutropenia. Blood. 2007 Sep 1;110(5):1648-55. Epub 2007 May 9.</citation>
+          </article>
+          <article>
+            <ref-id>A1800</ref-id>
+            <pubmed-id>15949269</pubmed-id>
+            <citation>Cao YR, Shao ZH, Liu H, Shi J, Bai J, Tu MF, Wang HQ, Xing LM, Cui ZZ, Sun J, Jia HR, Yang TY: [The response of bone marrow hematopoietic cells to G-CSF in paroxysmal nocturnal hemoglobinuria patients]. Zhonghua Xue Ye Xue Za Zhi. 2005 Apr;26(4):235-8.</citation>
+          </article>
+          <article>
+            <ref-id>A1797</ref-id>
+            <pubmed-id>17127322</pubmed-id>
+            <citation>Ward AC: The role of the granulocyte colony-stimulating factor receptor (G-CSF-R) in disease. Front Biosci. 2007 Jan 1;12:608-18.</citation>
+          </article>
+          <article>
+            <ref-id>A1798</ref-id>
+            <pubmed-id>16033816</pubmed-id>
+            <citation>Zhuang D, Qiu Y, Haque SJ, Dong F: Tyrosine 729 of the G-CSF receptor controls the duration of receptor signaling: involvement of SOCS3 and SOCS1. J Leukoc Biol. 2005 Oct;78(4):1008-15. Epub 2005 Jul 20.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments>
+          <attachment>
+            <ref-id>F714</ref-id>
+            <title>EMA label</title>
+            <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/714/original/nivestim_EMA.pdf?1532118975</url>
+          </attachment>
+          <attachment>
+            <ref-id>F719</ref-id>
+            <title>TBO filgrastim</title>
+            <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/719/original/TBO_filgrastim.pdf?1532124628</url>
+          </attachment>
+        </attachments>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q99062" source="Swiss-Prot">
+        <name>Granulocyte colony-stimulating factor receptor</name>
+        <general-function>Receptor activity</general-function>
+        <specific-function>Receptor for granulocyte colony-stimulating factor (CSF3), essential for granulocytic maturation. Plays a crucial role in the proliferation, differientation and survival of cells along the neutrophilic lineage. In addition it may function in some adhesion or recognition events at the cell surface.</specific-function>
+        <gene-name>CSF3R</gene-name>
+        <locus>1p35-p34.3</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions>628-650</transmembrane-regions>
+        <signal-regions>1-24</signal-regions>
+        <theoretical-pi>6.14</theoretical-pi>
+        <molecular-weight>92155.615</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2439</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CSF3R</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X55721</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31697</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q99062</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CSF3R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>G-CSF receptor</synonym>
+          <synonym>GCSFR</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001582|Granulocyte colony-stimulating factor receptor
+MARLGNCSLTWAALIILLLPGSLEECGHISVSAPIVHLGDPITASCIIKQNCSHLDPEPQ
+ILWRLGAELQPGGRQQRLSDGTQESIITLPHLNHTQAFLSCCLNWGNSLQILDQVELRAG
+YPPAIPHNLSCLMNLTTSSLICQWEPGPETHLPTSFTLKSFKSRGNCQTQGDSILDCVPK
+DGQSHCCIPRKHLLLYQNMGIWVQAENALGTSMSPQLCLDPMDVVKLEPPMLRTMDPSPE
+AAPPQAGCLQLCWEPWQPGLHINQKCELRHKPQRGEASWALVGPLPLEALQYELCGLLPA
+TAYTLQIRCIRWPLPGHWSDWSPSLELRTTERAPTVRLDTWWRQRQLDPRTVQLFWKPVP
+LEEDSGRIQGYVVSWRPSGQAGAILPLCNTTELSCTFHLPSEAQEVALVAYNSAGTSRPT
+PVVFSESRGPALTRLHAMARDPHSLWVGWEPPNPWPQGYVIEWGLGPPSASNSNKTWRME
+QNGRATGFLLKENIRPFQLYEIIVTPLYQDTMGPSQHVYAYSQEMAPSHAPELHLKHIGK
+TWAQLEWVPEPPELGKSPLTHYTIFWTNAQNQSFSAILNASSRGFVLHGLEPASLYHIHL
+MAASQAGATNSTVLTLMTLTPEGSELHIILGLFGLLLLLTCLCGTAWLCCSPNRKNPLWP
+SVPDPAHSSLGSWVPTIMEEDAFQLPGLGTPPITKLTVLEEDEKKPVPWESHNSSETCGL
+PTLVQTYVLQGDPRAVSTQPQSQSGTSDQVLYGQLLGSPTSPGPGHYLRCDSTQPLLAGL
+TPSPKSYENLWFQASPLGTLVTPAPSQEDDCVFGPLLNFPLLQGIRVHGMEALGSF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010560|Granulocyte colony-stimulating factor receptor (CSF3R)
+ATGGCAAGGCTGGGAAACTGCAGCCTGACTTGGGCTGCCCTGATCATCCTGCTGCTCCCC
+GGAAGTCTGGAGGAGTGCGGGCACATCAGTGTCTCAGCCCCCATCGTCCACCTGGGGGAT
+CCCATCACAGCCTCCTGCATCATCAAGCAGAACTGCAGCCATCTGGACCCGGAGCCACAG
+ATTCTGTGGAGACTGGGAGCAGAGCTTCAGCCCGGGGGCAGGCAGCAGCGTCTGTCTGAT
+GGGACCCAGGAATCTATCATCACCCTGCCCCACCTCAACCACACTCAGGCCTTTCTCTCC
+TGCTGCCTGAACTGGGGCAACAGCCTGCAGATCCTGGACCAGGTTGAGCTGCGCGCAGGC
+TACCCTCCAGCCATACCCCACAACCTCTCCTGCCTCATGAACCTCACAACCAGCAGCCTC
+ATCTGCCAGTGGGAGCCAGGACCTGAGACCCACCTACCCACCAGCTTCACTCTGAAGAGT
+TTCAAGAGCCGGGGCAACTGTCAGACCCAAGGGGACTCCATCCTGGACTGCGTGCCCAAG
+GACGGGCAGAGCCACTGCTGCATCCCACGCAAACACCTGCTGTTGTACCAGAATATGGGC
+ATCTGGGTGCAGGCAGAGAATGCGCTGGGGACCAGCATGTCCCCACAACTGTGTCTTGAT
+CCCATGGATGTTGTGAAACTGGAGCCCCCCATGCTGCGGACCATGGACCCCAGCCCTGAA
+GCGGCCCCTCCCCAGGCAGGCTGCCTACAGCTGTGCTGGGAGCCATGGCAGCCAGGCCTG
+CACATAAATCAGAAGTGTGAGCTGCGCCACAAGCCGCAGCGTGGAGAAGCCAGCTGGGCA
+CTGGTGGGCCCCCTCCCCTTGGAGGCCCTTCAGTATGAGCTCTGCGGGCTCCTCCCAGCC
+ACGGCCTACACCCTGCAGATACGCTGCATCCGCTGGCCCCTGCCTGGCCACTGGAGCGAC
+TGGAGCCCCAGCCTGGAGCTGAGAACTACCGAACGGGCCCCCACTGTCAGACTGGACACA
+TGGTGGCGGCAGAGGCAGCTGGACCCCAGGACAGTGCAGCTGTTCTGGAAGCCAGTGCCC
+CTGGAGGAAGACAGCGGACGGATCCAAGGTTATGTGGTTTCTTGGAGACCCTCAGGCCAG
+GCTGGGGCCATCCTGCCCCTCTGCAACACCACAGAGCTCAGCTGCACCTTCCACCTGCCT
+TCAGAAGCCCAGGAGGTGGCCCTTGTGGCCTATAACTCAGCCGGGACCTCTCGTCCCACT
+CCGGTGGTCTTCTCAGAAAGCAGAGGCCCAGCTCTGACCAGACTCCATGCCATGGCCCGA
+GACCCTCACAGCCTCTGGGTAGGCTGGGAGCCCCCCAATCCATGGCCTCAGGGCTATGTG
+ATTGAGTGGGGCCTGGGCCCCCCCAGCGCGAGCAATAGCAACAAGACCTGGAGGATGGAA
+CAGAATGGGAGAGCCACGGGGTTTCTGCTGAAGGAGAACATCAGGCCCTTTCAGCTCTAT
+GAGATCATCGTGACTCCCTTGTACCAGGACACCATGGGACCCTCCCAGCATGTCTATGCC
+TACTCTCAAGAAATGGCTCCCTCCCATGCCCCAGAGCTGCATCTAAAGCACATTGGCAAG
+ACCTGGGCACAGCTGGAGTGGGTGCCTGAGCCCCCTGAGCTGGGGAAGAGCCCCCTTACC
+CACTACACCATCTTCTGGACCAACGCTCAGAACCAGTCCTTCTCCGCCATCCTGAATGCC
+TCCTCCCGTGGCTTTGTCCTCCATGGCCTGGAGCCCGCCAGTCTGTATCACATCCACCTC
+ATGGCTGCCAGCCAGGCTGGGGCCACCAACAGTACAGTCCTCACCCTGATGACCTTGACC
+CCAGAGGGGTCGGAGCTACACATCATCCTGGGCCTGTTCGGCCTCCTGCTGTTGCTCACC
+TGCCTCTGTGGAACTGCCTGGCTCTGTTGCAGCCCCAACAGGAAGAATCCCCTCTGGCCA
+AGTGTCCCAGACCCAGCTCACAGCAGCCTGGGCTCCTGGGTGCCCACAATCATGGAGGAG
+GATGCCTTCCAGCTGCCCGGCCTTGGCACGCCACCCATCACCAAGCTCACAGTGCTGGAG
+GAGGATGAAAAGAAGCCGGTGCCCTGGGAGTCCCATAACAGCTCAGAGACCTGTGGCCTC
+CCCACTCTGGTCCAGACCTATGTGCTCCAGGGGGACCCAAGAGCAGTTTCCACCCAGCCC
+CAATCCCAGTCTGGCACCAGCGATCAGGTCCTTTATGGGCAGCTGCTGGGCAGCCCCACA
+AGCCCAGGGCCAGGGCACTATCTCCGCTGTGACTCCACTCAGCCCCTCTTGGCGGGCCTC
+ACCCCCAGCCCCAAGTCCTATGAGAACCTCTGGTTCCAGGCCAGCCCCTTGGGGACCCTG
+GTAACCCCAGCCCCAAGCCAGGAGGACGACTGTGTCTTTGGGCCACTGCTCAACTTCCCC
+CTCCTGCAGGGGATCCGGGTCCATGGGATGGAGGCGCTGGGGAGCTTCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00041</identifier>
+            <name>fn3</name>
+          </pfam>
+          <pfam>
+            <identifier>PF06328</identifier>
+            <name>Lep_receptor_Ig</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amelogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of myeloid cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000394</id>
+      <name>Neutrophil elastase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13096</ref-id>
+            <pubmed-id>14657210</pubmed-id>
+            <citation>Carter CR, Whitmore KM, Thorpe R: The significance of carbohydrates on G-CSF: differential sensitivity of G-CSFs to human neutrophil elastase degradation. J Leukoc Biol. 2004 Mar;75(3):515-22. Epub 2003 Dec 4.</citation>
+          </article>
+          <article>
+            <ref-id>A13097</ref-id>
+            <pubmed-id>16245075</pubmed-id>
+            <citation>Jian MY, Koizumi T, Tsushima K, Fujimoto K, Kubo K: Effects of granulocyte colony-stimulating factor (G-CSF) and neutrophil elastase inhibitor (ONO-5046) on acid-induced lung injury in rats. Inflammation. 2004 Dec;28(6):327-36.</citation>
+          </article>
+          <article>
+            <ref-id>A13301</ref-id>
+            <pubmed-id>17311988</pubmed-id>
+            <citation>Donini M, Fontana S, Savoldi G, Vermi W, Tassone L, Gentili F, Zenaro E, Ferrari D, Notarangelo LD, Porta F, Facchetti F, Notarangelo LD, Dusi S, Badolato R: G-CSF treatment of severe congenital neutropenia reverses neutropenia but does not correct the underlying functional deficiency of the neutrophil in defending against microorganisms. Blood. 2007 Jun 1;109(11):4716-23. Epub 2007 Feb 20.</citation>
+          </article>
+          <article>
+            <ref-id>A13100</ref-id>
+            <pubmed-id>17475913</pubmed-id>
+            <citation>Schepers H, Wierenga AT, van Gosliga D, Eggen BJ, Vellenga E, Schuringa JJ: Reintroduction of C/EBPalpha in leukemic CD34+ stem/progenitor cells impairs self-renewal and partially restores myelopoiesis. Blood. 2007 Aug 15;110(4):1317-25. Epub 2007 May 2.</citation>
+          </article>
+          <article>
+            <ref-id>A13099</ref-id>
+            <pubmed-id>15353486</pubmed-id>
+            <citation>Druhan LJ, Ai J, Massullo P, Kindwall-Keller T, Ranalli MA, Avalos BR: Novel mechanism of G-CSF refractoriness in patients with severe congenital neutropenia. Blood. 2005 Jan 15;105(2):584-91. Epub 2004 Sep 7.</citation>
+          </article>
+          <article>
+            <ref-id>A13302</ref-id>
+            <pubmed-id>12393522</pubmed-id>
+            <citation>El Ouriaghli F, Fujiwara H, Melenhorst JJ, Sconocchia G, Hensel N, Barrett AJ: Neutrophil elastase enzymatically antagonizes the in vitro action of G-CSF: implications for the regulation of granulopoiesis. Blood. 2003 Mar 1;101(5):1752-8. Epub 2002 Oct 17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08246" source="Swiss-Prot">
+        <name>Neutrophil elastase</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Modifies the functions of natural killer cells, monocytes and granulocytes. Inhibits C5a-dependent neutrophil enzyme release and chemotaxis.</specific-function>
+        <gene-name>ELANE</gene-name>
+        <locus>19p13.3</locus>
+        <cellular-location>Cytoplasmic</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>9.41</theoretical-pi>
+        <molecular-weight>28517.81</molecular-weight>
+        <chromosome-location>19</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3309</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ELA2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00477</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>296665</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2358</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08246</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ELNE_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.37</synonym>
+          <synonym>Bone marrow serine protease</synonym>
+          <synonym>ELA2</synonym>
+          <synonym>Elastase-2</synonym>
+          <synonym>HLE</synonym>
+          <synonym>Human leukocyte elastase</synonym>
+          <synonym>Medullasin</synonym>
+          <synonym>PMN elastase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000785|Neutrophil elastase
+MTLGRRLACLFLACVLPALLLGGTALASEIVGGRRARPHAWPFMVSLQLRGGHFCGATLI
+APNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVI
+LQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSL
+CRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGLYPDAFAPVAQFVN
+WIDSIIQRSEDNPCPHPRDPDPASRTH</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010273|Neutrophil elastase (ELANE)
+ATGACCCTCGGCCGCCGACTCGCGTGTCTTTTCCTCGCCTGTGTCCTGCCGGCCTTGCTG
+CTGGGGGGCACCGCGCTGGCCTCGGAGATTGTGGGGGGCCGGCGAGCGCGGCCCCACGCG
+TGGCCCTTCATGGTGTCCCTGCAGCTGCGCGGAGGCCACTTCTGCGGCGCCACCCTGATT
+GCGCCCAACTTCGTCATGTCGGCCGCGCACTGCGTGGCGAATGTAAACGTCCGCGCGGTG
+CGGGTGGTCCTGGGAGCCCATAACCTCTCGCGGCGGGAGCCCACCCGGCAGGTGTTCGCC
+GTGCAGCGCATCTTCGAAAACGGCTACGACCCCGTAAACTTGCTCAACGACATCGTGATT
+CTCCAGCTCAACGGGTCGGCCACCATCAACGCCAACGTGCAGGTGGCCCAGCTGCCGGCT
+CAGGGACGCCGCCTGGGCAACGGGGTGCAGTGCCTGGCCATGGGCTGGGGCCTTCTGGGC
+AGGAACCGTGGGATCGCCAGCGTCCTGCAGGAGCTCAACGTGACGGTGGTGACGTCCCTC
+TGCCGTCGCAGCAACGTCTGCACTCTCGTGAGGGGCCGGCAGGCCGGCGTCTGTTTCGGG
+GACTCCGGCAGCCCCTTGGTCTGCAACGGGCTAATCCACGGAATTGCCTCCTTCGTCCGG
+GGAGGCTGCGCCTCAGGGCTCTACCCCGATGCCTTTGCCCCGGTGGCACAGTTTGTAAAC
+TGGATCGACTCTATCATCCAACGCTCCGAGGACAACCCCTGTCCCCACCCCCGGGACCCG
+GACCCGGCCAGCAGGACCCACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>transcriptional repressor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protease binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription corepressor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute inflammatory response to antigenic stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to bacterium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemokine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of growth of symbiont in host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil mediated killing of fungus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to UV</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to yeast</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

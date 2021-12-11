@@ -1,0 +1,747 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00103</drugbank-id>
+  <drugbank-id>BTD00075</drugbank-id>
+  <drugbank-id>BIOD00075</drugbank-id>
+  <name>Agalsidase beta</name>
+  <description>Agalsidase beta is a recombinant human α-galactosidase A similar to [agalsidase alfa]. While patients generally do not experience a clinically significant difference in outcomes between the two drugs, some patients may experience greater benefit with agalsidase beta.[A220228,A220233] Use of agalsidase beta has decreased in Europe, in favor of agalsidase alfa, after a contamination event in 2009.[A220343]&#13;
+&#13;
+Agalsidase beta was granted FDA approval on 24 April 2003.[L16383]</description>
+  <cas-number/>
+  <unii>RZD65TSM9U</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A220228</ref-id>
+        <pubmed-id>30775256</pubmed-id>
+        <citation>Germain DP, Elliott PM, Falissard B, Fomin VV, Hilz MJ, Jovanovic A, Kantola I, Linhart A, Mignani R, Namdar M, Nowak A, Oliveira JP, Pieroni M, Viana-Baptista M, Wanner C, Spada M: The effect of enzyme replacement therapy on clinical outcomes in male patients with Fabry disease: A systematic literature review by a European panel of experts. Mol Genet Metab Rep. 2019 Feb 6;19:100454. doi: 10.1016/j.ymgmr.2019.100454. eCollection 2019 Jun.</citation>
+      </article>
+      <article>
+        <ref-id>A220233</ref-id>
+        <pubmed-id>28510034</pubmed-id>
+        <citation>Wilcox WR, Feldt-Rasmussen U, Martins AM, Ortiz A, Lemay RM, Jovanovic A, Germain DP, Varas C, Nicholls K, Weidemann F, Hopkin RJ: Improvement of Fabry Disease-Related Gastrointestinal Symptoms in a Significant Proportion of Female Patients Treated with Agalsidase Beta: Data from the Fabry Registry. JIMD Rep. 2018;38:45-51. doi: 10.1007/8904_2017_28. Epub 2017 May 17.</citation>
+      </article>
+      <article>
+        <ref-id>A220323</ref-id>
+        <pubmed-id>22768187</pubmed-id>
+        <citation>Prabakaran T, Nielsen R, Satchell SC, Mathieson PW, Feldt-Rasmussen U, Sorensen SS, Christensen EI: Mannose 6-phosphate receptor and sortilin mediated endocytosis of alpha-galactosidase A in kidney endothelial cells. PLoS One. 2012;7(6):e39975. doi: 10.1371/journal.pone.0039975. Epub 2012 Jun 29.</citation>
+      </article>
+      <article>
+        <ref-id>A182009</ref-id>
+        <pubmed-id>21698655</pubmed-id>
+        <citation>Katsila T, Siskos AP, Tamvakopoulos C: Peptide and protein drugs: the study of their metabolism and catabolism by mass spectrometry. Mass Spectrom Rev. 2012 Jan-Feb;31(1):110-33. doi: 10.1002/mas.20340. Epub 2011 Jun 22.</citation>
+      </article>
+      <article>
+        <ref-id>A220343</ref-id>
+        <pubmed-id>25010055</pubmed-id>
+        <citation>Pisani A, Riccio E, Sabbatini M: Agalsidase alfa and agalsidase beta in the treatment of Fabry disease: does the dose really matter? Genet Med. 2015 Jan;17(1):21-3. doi: 10.1038/gim.2014.79. Epub 2014 Jul 10.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L16383</ref-id>
+        <title>FDA Approved Drug Products: Fabrazyme Agalsidase Beta Intravenous Injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103979s5303lbl.pdf</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Agalsidase beta is indicated in the treatment of Fabry disease.[L16383]</indication>
+  <pharmacodynamics>Agalsidase beta is a recombinant human α-galactosidase A used as enzyme replacement therapy in the treatment of Fabry disease.[L16398] It has a long duration of action and a wide therapeutic index.[L16383] Patients should be counselled regarding the risk of infusion related reactions and hypersensitivity.[L16383]</pharmacodynamics>
+  <mechanism-of-action>α-galactosidase A is uptaken by cells via the mannose 6 phosphate receptor.[A220323] Agalsidase beta hydrolyzes globotriaosylceramide and other glycosphingolipids that would normally be hydrolyzed by endogenous α-galactosidase A.[L16383] Preventing the accumulation of glycosphingolipids prevents or reduces the severity of manifestations of Fabry disease such as renal failure, cardiomyopathy, or cerebrovascular events.[L16383]</mechanism-of-action>
+  <toxicity>Data regarding overdoses of agalsidase beta are not readily available.[L16383] Patients experiencing an overdose of agalsidase beta may experience an increased incidence and severity of adverse effects.[L16383] Overdose can be managed through the use of symptomatic and supportive measures.</toxicity>
+  <metabolism>Data regarding the metabolism of agalsidase beta is not readily available.[L16383] However, protein drugs are expected to be degraded by proteases and other catalytic enzymes to smaller peptides and amino acids.[A182009]</metabolism>
+  <absorption>A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes reaches a C&lt;sub&gt;max&lt;/sub&gt; 5.0 ± 1.1 µg/mL with an AUC of 496 ± 137 µg\*min/mL.[L16383]</absorption>
+  <half-life>agalsidase beta has a half like of 67 ± 12 min for a 1 mg/kg dose with a mean infusion length of 115 minutes.[L16383]</half-life>
+  <protein-binding>Data regarding the protein binding of agalsidase beta is not readily available.[L16383]</protein-binding>
+  <route-of-elimination>After nonspecific proteolysis, the amino acids from protein drugs are reused for protein synthesis or further broken down and eliminated by the kidneys.[A182009]</route-of-elimination>
+  <volume-of-distribution>A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes has a V&lt;sub&gt;SS&lt;/sub&gt; of 112 ± 13 mL/kg.[L16383]</volume-of-distribution>
+  <clearance>A 1 mg/kg dose of agalsidase beta with a mean infusion length of 115 minutes has a clearance of 2.1 ± 0.7 mL/min/kg.[L16383]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="spanish" coder="inn">Agalsidasa beta</synonym>
+    <synonym language="english" coder="jan">Agalsidase beta (genetical recombination)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/001</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>35 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/002</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>35 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/003</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>35 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/004</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>5 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/005</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>5 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000370</ema-product-code>
+      <ema-ma-number>EU/1/01/188/006</ema-ma-number>
+      <started-marketing-on>2001-08-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>5 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0041</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-12-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>5 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103979</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0040</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-12-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>5 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103979</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248965</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-09-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>5 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Fabrazyme</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248966</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-04-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>35 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fabrazyme</name>
+      <ingredients>Agalsidase beta</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Genzyme Inc.</name>
+      <url>http://www.genzyme.ca</url>
+    </packager>
+    <packager>
+      <name>Shire Inc.</name>
+      <url>http://www.shire.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Fabrazyme 5 mg vial</description>
+      <cost currency="USD">771.6</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Fabrazyme 35 mg vial</description>
+      <cost currency="USD">5403.6</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Galactosidases</category>
+      <mesh-id>D005696</mesh-id>
+    </category>
+    <category>
+      <category>Glycoside Hydrolases</category>
+      <mesh-id>D006026</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolytic Lysosomal Neutral Glycosphingolipid-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Protein Isoforms</category>
+      <mesh-id>D020033</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>35 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>35 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>35 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>35 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>35 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>37 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>5.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>35 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A16AB04">
+      <level code="A16AB">Enzymes</level>
+      <level code="A16A">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A16">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00103.pdf?1265922797</fda-label>
+  <patents>
+    <patent>
+      <number>2265464</number>
+      <country>Canada</country>
+      <approved>2007-06-26</approved>
+      <expires>2017-09-12</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00608</drugbank-id>
+      <name>Chloroquine</name>
+      <description>The therapeutic efficacy of Agalsidase beta can be decreased when used in combination with Chloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00798</drugbank-id>
+      <name>Gentamicin</name>
+      <description>The therapeutic efficacy of Agalsidase beta can be decreased when used in combination with Gentamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The therapeutic efficacy of Agalsidase beta can be decreased when used in combination with Amiodarone.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00103 sequence
+LDNGLARTPTMGWLHWERFMCNLDCQEEPDSCISEKLFMEMAELMVSEGWKDAGYEYLCI
+DDCWMAPQRDSEGRLQADPQRFPHGIRQLANYVHSKGLKLGIYADVGNKTCAGFPGSFGY
+YDIDAQTFADWGVDLLKFDGCYCDSLENLADGYKHMSLALNRTGRSIVYSCEWPLYMWPF
+QKPNYTEIRQYCNHWRNFADIDDSWKSIKSILDWTSFNQERIVDVAGPGGWNDPDMLVIG
+NFGLSWNQQVTQMALWAIMAAPLFMSNDLRHISPQAKALLQDKDVIAINQDPLGKQGYQL
+RQGDNFEVWERPLSGLAWAVAMINRQEIGGPRSYTIAVASLGKGVACNPACFITQLLPVK
+RKLGFYEWTSRLRSHINPTGTVLLQLENTMQMSLKDLL</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>45351.6</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2029H3080N544O587S27</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13296</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13300</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46508538</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X14448</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164746527</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P06280</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Alpha-galactosidase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2108888</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>338817</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/fabrazyme.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/agalsidase-beta.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0004830</id>
+      <name>Globotriaosylceramide</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>metabolizer</action>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A153</ref-id>
+            <pubmed-id>19852524</pubmed-id>
+            <citation>Schaefer RM, Tylki-Szymanska A, Hilz MJ: Enzyme replacement therapy for Fabry disease: a systematic review of available evidence. Drugs. 2009 Nov 12;69(16):2179-205. doi: 10.2165/11318300-000000000-00000.</citation>
+          </article>
+          <article>
+            <ref-id>A154</ref-id>
+            <pubmed-id>20464743</pubmed-id>
+            <citation>El Dib RP, Pastores GM: Enzyme replacement therapy for Anderson-Fabry disease. Cochrane Database Syst Rev. 2010 May 12;(5):CD006663. doi: 10.1002/14651858.CD006663.pub2.</citation>
+          </article>
+          <article>
+            <ref-id>A155</ref-id>
+            <pubmed-id>19725195</pubmed-id>
+            <citation>Lim-Melia ER, Kronn DF: Current enzyme replacement therapy for the treatment of lysosomal storage diseases. Pediatr Ann. 2009 Aug;38(8):448-55.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links>
+          <link>
+            <ref-id>L16383</ref-id>
+            <title>FDA Approved Drug Products: Fabrazyme Agalsidase Beta Intravenous Injection</title>
+            <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103979s5303lbl.pdf</url>
+          </link>
+        </links>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters>
+    <transporter position="2">
+      <id>BE0004494</id>
+      <name>Cation-dependent mannose-6-phosphate receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A220323</ref-id>
+            <pubmed-id>22768187</pubmed-id>
+            <citation>Prabakaran T, Nielsen R, Satchell SC, Mathieson PW, Feldt-Rasmussen U, Sorensen SS, Christensen EI: Mannose 6-phosphate receptor and sortilin mediated endocytosis of alpha-galactosidase A in kidney endothelial cells. PLoS One. 2012;7(6):e39975. doi: 10.1371/journal.pone.0039975. Epub 2012 Jun 29.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links>
+          <link>
+            <ref-id>L16398</ref-id>
+            <title>EMA Summary of Product Characteristics: Replagal Agalsidase Alfa Intravenous Injection</title>
+            <url>https://www.ema.europa.eu/en/documents/product-information/replagal-epar-product-information_en.pdf</url>
+          </link>
+          <link>
+            <ref-id>L16383</ref-id>
+            <title>FDA Approved Drug Products: Fabrazyme Agalsidase Beta Intravenous Injection</title>
+            <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/103979s5303lbl.pdf</url>
+          </link>
+        </links>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P20645" source="Swiss-Prot">
+        <name>Cation-dependent mannose-6-phosphate receptor</name>
+        <general-function>Transmembrane signaling receptor activity</general-function>
+        <specific-function>Transport of phosphorylated lysosomal enzymes from the Golgi complex and the cell surface to lysosomes. Lysosomal enzymes bearing phosphomannosyl residues bind specifically to mannose-6-phosphate receptors in the Golgi apparatus and the resulting receptor-ligand complex is transported to an acidic prelyosomal compartment where the low pH mediates the dissociation of the complex.</specific-function>
+        <gene-name>M6PR</gene-name>
+        <locus/>
+        <cellular-location>Lysosome membrane</cellular-location>
+        <transmembrane-regions>186-210</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi/>
+        <molecular-weight>30993.06</molecular-weight>
+        <chromosome-location/>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6752</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P20645</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>MPRD_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>46 kDa mannose 6-phosphate receptor</synonym>
+          <synonym>CD Man-6-P receptor</synonym>
+          <synonym>MPR 46</synonym>
+          <synonym>MPR46</synonym>
+          <synonym>MPRD</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0013144|Cation-dependent mannose-6-phosphate receptor
+MFPFYSCWRTGLLLLLLAVAVRESWQTEEKTCDLVGEKGKESEKELALVKRLKPLFNKSF
+ESTVGQGSDTYIYIFRVCREAGNHTSGAGLVQINKSNGKETVVGRLNETHIFNGSNWIML
+IYKGGDEYDNHCGKEQRRAVVMISCNRHTLADNFNPVSEERGKVQDCFYLFEMDSSLACS
+PEISHLSVGSILLVTFASLVAVYVVGGFLYQRLVVGAKGMEQFPHLAFWQDLGNLVADGC
+DFVCRSKPRNVPAAYRGVGDDQLGEESEERDDHLLPM</amino-acid-sequence>
+        <gene-sequence format="FASTA"/>
+        <pfams>
+          <pfam>
+            <identifier>PF02157</identifier>
+            <name>Man-6-P_recep</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>late endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>perinuclear region of cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>mannose binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>mannose transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endosome to lysosome transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

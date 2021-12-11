@@ -1,0 +1,2094 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00146</drugbank-id>
+  <drugbank-id>NUTR00006</drugbank-id>
+  <drugbank-id>APRD00428</drugbank-id>
+  <name>Calcifediol</name>
+  <description>The major circulating metabolite of vitamin D3 (cholecalciferol). It is produced in the liver and is the best indicator of the body's vitamin D stores. It is effective in the treatment of rickets and osteomalacia, both in azotemic and non-azotemic patients. Calcifediol also has mineralizing properties.</description>
+  <cas-number>19356-17-3</cas-number>
+  <unii>T0WXW8F54E</unii>
+  <average-mass>400.6371</average-mass>
+  <monoisotopic-mass>400.334130652</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Dae-Jung Kang, Jong-Hyuk Im, Hyun-Jung Jung, Jae-Hoon Kang, "BUFFER COMPOSITION FOR CATALYZING THE PREPARATION OF CALCITRIOL OR CALCIFEDIOL AND METHOD FOR PREPARING CALCITRIOL OR CALCIFEDIOL USING SAME." U.S. Patent US20120064584, issued March 15, 2012.</synthesis-reference>
+  <indication>Used to treat vitamin D deficiency or insufficiency, refractory rickets (vitamin D resistant rickets), familial hypophosphatemia and hypoparathyroidism, and in the management of hypocalcemia and renal osteodystrophy in patients with chronic renal failure undergoing dialysis. Also used in conjunction with calcium in the management and prevention of primary or corticosteroid-induced osteoporosis.</indication>
+  <pharmacodynamics>Calcidiol is the precursor of vitamin D3. Vitamin D3 is a steroid hormone that has long been known for its important role in regulating body levels of calcium and phosphorus, in mineralization of bone, and for the assimilation of vitamin A. The classical manifestations of vitamin D deficiency is rickets, which is seen in children and results in bony deformaties including bowed long bones. Deficiency in adults leads to the disease osteomalacia. Both rickets and osteomalacia reflect impaired mineralization of newly synthesized bone matrix, and usually result from a combination of inadequate exposure to sunlight and decreased dietary intake of vitamin D. Common causes of vitamin D deficiency include genetic defects in the vitamin D receptor, severe liver or kidney disease, and insufficient exposure to sunlight. Vitamin D plays an important role in maintaining calcium balance and in the regulation of parathyroid hormone (PTH). It promotes renal reabsorption of calcium, increases intestinal absorption of calcium and phosphorus, and increases calcium and phosphorus mobilization from bone to plasma.</pharmacodynamics>
+  <mechanism-of-action>Calcidiol is transformed in the kidney by 25-hydroxyvitamin D3-1-(alpha)-hydroxylase to calcitriol, the active form of vitamin D3. Calcitriol binds to intracellular receptors that then function as transcription factors to modulate gene expression. Like the receptors for other steroid hormones and thyroid hormones, the vitamin D receptor has hormone-binding and DNA-binding domains. The vitamin D receptor forms a complex with another intracellular receptor, the retinoid-X receptor, and that heterodimer is what binds to DNA. In most cases studied, the effect is to activate transcription, but situations are also known in which vitamin D suppresses transcription. Calcitriol increases the serum calcium concentrations by: increasing GI absorption of phosphorus and calcium, increasing osteoclastic resorption, and increasing distal renal tubular reabsorption of calcium. Calcitriol appears to promote intestinal absorption of calcium through binding to the vitamin D receptor in the mucosal cytoplasm of the intestine. Subsequently, calcium is absorbed through formation of a calcium-binding protein.</mechanism-of-action>
+  <toxicity>Bone pain, constipation (especially in children or adolescents), diarrhea, drowsiness, dryness of mouth; headache (continuing), increased thirst, increase in frequency of urination, especially at night, or in amount of urine, irregular heartbeat, itching skin, loss of appetite, metallic taste, muscle pain, nausea or vomiting (especially in children or adolescents), unusual tiredness or weakness.</toxicity>
+  <metabolism>Calcidiol undergoes hydroxylation in the mitochondria of kidney tissue, and this reaction is activated by the renal 25-hydroxyvitamin D3-1-(alpha)-hydroxylase to produce calcitriol (1,25- dihydroxycholecalciferol), the active form of vitamin D3.</metabolism>
+  <absorption>Readily absorbed.</absorption>
+  <half-life>288 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as vitamin d and derivatives. These are compounds containing a secosteroid backbone, usually secoergostane or secocholestane.</description>
+    <direct-parent>Vitamin D and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Steroids and steroid derivatives</class>
+    <subclass>Vitamin D and derivatives</subclass>
+    <alternative-parent>Cyclic alcohols and derivatives</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <alternative-parent>Tertiary alcohols</alternative-parent>
+    <alternative-parent>Triterpenoids</alternative-parent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aliphatic homopolycyclic compound</substituent>
+    <substituent>Cyclic alcohol</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Secondary alcohol</substituent>
+    <substituent>Tertiary alcohol</substituent>
+    <substituent>Triterpenoid</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002443</drugbank-id>
+      <name>Calcifediol hydrate</name>
+      <unii>P6YZ13C99Q</unii>
+      <cas-number>63283-36-3</cas-number>
+      <inchikey>WRLFSJXJGJBFJQ-WPUCQFJDSA-N</inchikey>
+      <average-mass>418.662</average-mass>
+      <monoisotopic-mass>418.344695341</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="">(3S,5Z,7E)-9,10-secocholesta-5,7,10-triene-3,25-diol</synonym>
+    <synonym language="english" coder="">(3β,5Z,7E)-9,10-secocholesta-5,7,10(19)-triene-3,25-diol</synonym>
+    <synonym language="english" coder="">(5Z,7E)-(3S)-9,10-secocholesta-5,7,10(19)-triene-3,25-diol</synonym>
+    <synonym language="english" coder="">25-hydroxycholecalciferol</synonym>
+    <synonym language="english" coder="">25-Hydroxyvitamin D3</synonym>
+    <synonym language="english" coder="">Calcidiol</synonym>
+    <synonym language="french" coder="inn">Calcifédiol</synonym>
+    <synonym language="english/spanish" coder="inn">Calcifediol</synonym>
+    <synonym language="english" coder="">Calcifediol anhydrous</synonym>
+    <synonym language="latin" coder="inn">Calcifediolum</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Rayaldee</name>
+      <labeller>Opko Pharmaceuticals Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70301-1001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2016-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule, extended release</dosage-form>
+      <strength>30 ug/1</strength>
+      <route>Oral</route>
+      <fda-application-number>NDA208010</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rayaldee</name>
+      <labeller>Vifor Fresenius Medical Care Renal Pharma Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02478498</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength>30 mcg</strength>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Calderol</name>
+      <company>Upjohn</company>
+    </international-brand>
+    <international-brand>
+      <name>Caldiol</name>
+      <company>Medica</company>
+    </international-brand>
+    <international-brand>
+      <name>De Kai</name>
+      <company>China Otsuka</company>
+    </international-brand>
+    <international-brand>
+      <name>Dedrogyl</name>
+      <company>Desma</company>
+    </international-brand>
+    <international-brand>
+      <name>Dédrogyl</name>
+      <company>DB</company>
+    </international-brand>
+    <international-brand>
+      <name>Didrogyl</name>
+      <company>Bruno Farm.</company>
+    </international-brand>
+    <international-brand>
+      <name>Hidroferol</name>
+      <company>Faes</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Rayaldee</name>
+      <ingredients>Calcifediol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rayaldee</name>
+      <ingredients>Calcifediol</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Organon Pharmaceuticals</name>
+      <url>http://www.organonshop.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Organon usa inc</manufacturer>
+  </manufacturers>
+  <prices/>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Bone Density Conservation Agents</category>
+      <mesh-id>D050071</mesh-id>
+    </category>
+    <category>
+      <category>Cholestanes</category>
+      <mesh-id>D002776</mesh-id>
+    </category>
+    <category>
+      <category>Cholestenes</category>
+      <mesh-id>D002782</mesh-id>
+    </category>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Fused-Ring Compounds</category>
+      <mesh-id>D000072473</mesh-id>
+    </category>
+    <category>
+      <category>Growth Substances</category>
+      <mesh-id>D006133</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Lipids</category>
+      <mesh-id>D008563</mesh-id>
+    </category>
+    <category>
+      <category>Micronutrients</category>
+      <mesh-id>D018977</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Secosteroids</category>
+      <mesh-id>D012632</mesh-id>
+    </category>
+    <category>
+      <category>Steroids</category>
+      <mesh-id>D013256</mesh-id>
+    </category>
+    <category>
+      <category>Sterols</category>
+      <mesh-id>D013261</mesh-id>
+    </category>
+    <category>
+      <category>Vitamin D and Analogues</category>
+      <mesh-id>D004100</mesh-id>
+    </category>
+    <category>
+      <category>Vitamins</category>
+      <mesh-id>D014815</mesh-id>
+    </category>
+    <category>
+      <category>Vitamins (Fat Soluble)</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Oral</route>
+      <strength>0.15 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, liquid filled</form>
+      <route>Oral</route>
+      <strength>0.266 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>0.266 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>30 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>30 MICROGRAMMI</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule, extended release</form>
+      <route>Oral</route>
+      <strength>30 ug/1</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A11CC06">
+      <level code="A11CC">Vitamin D and analogues</level>
+      <level code="A11C">VITAMIN A AND D, INCL. COMBINATIONS OF THE TWO</level>
+      <level code="A11">VITAMINS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries>
+    <pdb-entry>1j78</pdb-entry>
+    <pdb-entry>1mz9</pdb-entry>
+    <pdb-entry>3a51</pdb-entry>
+    <pdb-entry>5ien</pdb-entry>
+    <pdb-entry>5ieo</pdb-entry>
+    <pdb-entry>5iep</pdb-entry>
+  </pdb-entries>
+  <patents>
+    <patent>
+      <number>8906410</number>
+      <country>United States</country>
+      <approved>2014-12-09</approved>
+      <expires>2027-02-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6582727</number>
+      <country>United States</country>
+      <approved>2003-06-24</approved>
+      <expires>2020-08-22</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8361488</number>
+      <country>United States</country>
+      <approved>2013-01-29</approved>
+      <expires>2028-07-19</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9408858</number>
+      <country>United States</country>
+      <approved>2016-08-09</approved>
+      <expires>2028-04-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9498486</number>
+      <country>United States</country>
+      <approved>2016-11-22</approved>
+      <expires>2028-04-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8778373</number>
+      <country>United States</country>
+      <approved>2014-07-15</approved>
+      <expires>2028-04-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8426391</number>
+      <country>United States</country>
+      <approved>2013-04-23</approved>
+      <expires>2028-08-27</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>8207149</number>
+      <country>United States</country>
+      <approved>2012-06-26</approved>
+      <expires>2028-04-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9861644</number>
+      <country>United States</country>
+      <approved>2018-01-09</approved>
+      <expires>2034-03-14</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9943530</number>
+      <country>United States</country>
+      <approved>2018-04-17</approved>
+      <expires>2027-02-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9925147</number>
+      <country>United States</country>
+      <approved>2018-03-27</approved>
+      <expires>2028-04-25</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>10213442</number>
+      <country>United States</country>
+      <approved>2019-02-26</approved>
+      <expires>2027-02-02</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>10300078</number>
+      <country>United States</country>
+      <approved>2019-05-28</approved>
+      <expires>2034-03-14</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>10357502</number>
+      <country>United States</country>
+      <approved>2019-07-23</approved>
+      <expires>2034-03-14</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions>
+    <food-interaction>Take with or without food. A high-fat, high-calorie meal may increase the AUC and Cmax of calcifediol by up to 3.5 and 5 fold, respectively.</food-interaction>
+  </food-interactions>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06723</drugbank-id>
+      <name>Aluminum hydroxide</name>
+      <description>The serum concentration of Aluminum hydroxide can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01406</drugbank-id>
+      <name>Danazol</name>
+      <description>Danazol may increase the hypercalcemic activities of Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00364</drugbank-id>
+      <name>Sucralfate</name>
+      <description>The serum concentration of Sucralfate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01083</drugbank-id>
+      <name>Orlistat</name>
+      <description>Orlistat can cause a decrease in the absorption of Calcifediol resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00653</drugbank-id>
+      <name>Magnesium sulfate</name>
+      <description>The serum concentration of Magnesium sulfate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01377</drugbank-id>
+      <name>Magnesium oxide</name>
+      <description>The serum concentration of Magnesium oxide can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01397</drugbank-id>
+      <name>Magnesium salicylate</name>
+      <description>The serum concentration of Magnesium salicylate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08938</drugbank-id>
+      <name>Magaldrate</name>
+      <description>The serum concentration of Magaldrate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09104</drugbank-id>
+      <name>Magnesium hydroxide</name>
+      <description>The serum concentration of Magnesium hydroxide can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09281</drugbank-id>
+      <name>Magnesium trisilicate</name>
+      <description>The serum concentration of Magnesium trisilicate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09407</drugbank-id>
+      <name>Magnesium chloride</name>
+      <description>The serum concentration of Magnesium chloride can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09481</drugbank-id>
+      <name>Magnesium carbonate</name>
+      <description>The serum concentration of Magnesium carbonate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09511</drugbank-id>
+      <name>Talc</name>
+      <description>The serum concentration of Talc can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11110</drugbank-id>
+      <name>Magnesium citrate</name>
+      <description>The serum concentration of Magnesium citrate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13249</drugbank-id>
+      <name>Magnesium silicate</name>
+      <description>The serum concentration of Magnesium silicate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13322</drugbank-id>
+      <name>Hydrotalcite</name>
+      <description>The serum concentration of Hydrotalcite can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13359</drugbank-id>
+      <name>Magnesium aspartate</name>
+      <description>The serum concentration of Magnesium aspartate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13486</drugbank-id>
+      <name>Magnesium peroxide</name>
+      <description>The serum concentration of Magnesium peroxide can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13749</drugbank-id>
+      <name>Magnesium gluconate</name>
+      <description>The serum concentration of Magnesium gluconate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13786</drugbank-id>
+      <name>Magnesium orotate</name>
+      <description>The serum concentration of Magnesium orotate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14513</drugbank-id>
+      <name>Magnesium</name>
+      <description>The serum concentration of Magnesium can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14514</drugbank-id>
+      <name>Magnesium levulinate</name>
+      <description>The serum concentration of Magnesium levulinate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14515</drugbank-id>
+      <name>Magnesium lactate</name>
+      <description>The serum concentration of Magnesium lactate can be increased when it is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Digoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00511</drugbank-id>
+      <name>Acetyldigitoxin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Acetyldigitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01078</drugbank-id>
+      <name>Deslanoside</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Deslanoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01092</drugbank-id>
+      <name>Ouabain</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Ouabain.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01396</drugbank-id>
+      <name>Digitoxin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Digitoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12843</drugbank-id>
+      <name>Oleandrin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Oleandrin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13240</drugbank-id>
+      <name>Cymarin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Cymarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13307</drugbank-id>
+      <name>Proscillaridin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Proscillaridin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13401</drugbank-id>
+      <name>Metildigoxin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Metildigoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13467</drugbank-id>
+      <name>Lanatoside C</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Lanatoside C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13537</drugbank-id>
+      <name>Gitoformate</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Gitoformate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13691</drugbank-id>
+      <name>Acetyldigoxin</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Acetyldigoxin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13756</drugbank-id>
+      <name>Peruvoside</name>
+      <description>The risk or severity of ventricular arrhythmias and Cardiac Arrhythmia can be increased when Calcifediol is combined with Peruvoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11057</drugbank-id>
+      <name>Mineral oil</name>
+      <description>Mineral oil can cause a decrease in the absorption of Calcifediol resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Methyclothiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Bendroflumethiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00562</drugbank-id>
+      <name>Benzthiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Benzthiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00606</drugbank-id>
+      <name>Cyclothiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Cyclothiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Hydroflumethiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Chlorothiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Hydrochlorothiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Trichlormethiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Polythiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13430</drugbank-id>
+      <name>Mebutizide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Mebutizide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13532</drugbank-id>
+      <name>Cyclopenthiazide</name>
+      <description>The risk or severity of hypercalcemia can be increased when Cyclopenthiazide is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00136</drugbank-id>
+      <name>Calcitriol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcitriol is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00153</drugbank-id>
+      <name>Ergocalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Ergocalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00169</drugbank-id>
+      <name>Cholecalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Cholecalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00910</drugbank-id>
+      <name>Paricalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Paricalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01070</drugbank-id>
+      <name>Dihydrotachysterol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Dihydrotachysterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01436</drugbank-id>
+      <name>Alfacalcidol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Alfacalcidol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04258</drugbank-id>
+      <name>Seocalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Seocalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04796</drugbank-id>
+      <name>Inecalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Inecalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04891</drugbank-id>
+      <name>Becocalcidiol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Becocalcidiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05295</drugbank-id>
+      <name>Eldecalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Eldecalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06117</drugbank-id>
+      <name>1alpha,24S-Dihydroxyvitamin D2</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with 1alpha,24S-Dihydroxyvitamin D2.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06194</drugbank-id>
+      <name>Elocalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Elocalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06272</drugbank-id>
+      <name>Maxacalcitol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Maxacalcitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06410</drugbank-id>
+      <name>Doxercalciferol</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Doxercalciferol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11094</drugbank-id>
+      <name>Vitamin D</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Vitamin D.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13097</drugbank-id>
+      <name>1alpha-Hydroxyvitamin D5</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with 1alpha-Hydroxyvitamin D5.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium acetate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00326</drugbank-id>
+      <name>Calcium glucoheptonate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium glucoheptonate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium chloride</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium chloride is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium carbonate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium citrate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium gluconate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11348</drugbank-id>
+      <name>Calcium Phosphate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium Phosphate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13142</drugbank-id>
+      <name>Calcium glubionate anhydrous</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium glubionate anhydrous is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13231</drugbank-id>
+      <name>Calcium lactate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium lactate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13365</drugbank-id>
+      <name>Calcium lactate gluconate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium lactate gluconate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13590</drugbank-id>
+      <name>Calcium pangamate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium pangamate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13800</drugbank-id>
+      <name>Calcium levulinate</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium levulinate is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14577</drugbank-id>
+      <name>Calcium cation</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium cation is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14684</drugbank-id>
+      <name>Calcium polycarbophil</name>
+      <description>The risk or severity of adverse effects can be increased when Calcium polycarbophil is combined with Calcifediol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00375</drugbank-id>
+      <name>Colestipol</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Colestipol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00658</drugbank-id>
+      <name>Sevelamer</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Sevelamer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00930</drugbank-id>
+      <name>Colesevelam</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Colesevelam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01432</drugbank-id>
+      <name>Cholestyramine</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Cholestyramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Flunisolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Beclomethasone dipropionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone propionate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluticasone propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone acetonide</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluocinolone acetonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fludrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00741</drugbank-id>
+      <name>Hydrocortisone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Hydrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Budesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01285</drugbank-id>
+      <name>Corticotropin</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Corticotropin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Ciclesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluticasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Tixocortol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Melengestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11921</drugbank-id>
+      <name>Deflazacort</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Deflazacort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13223</drugbank-id>
+      <name>Fluocortin</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluocortin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13491</drugbank-id>
+      <name>Fluperolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluperolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13843</drugbank-id>
+      <name>Cloprednol</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Cloprednol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13856</drugbank-id>
+      <name>Fluclorolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluclorolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13867</drugbank-id>
+      <name>Fluticasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluticasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14512</drugbank-id>
+      <name>Mometasone furoate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Mometasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14539</drugbank-id>
+      <name>Hydrocortisone acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Hydrocortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14541</drugbank-id>
+      <name>Hydrocortisone cypionate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Hydrocortisone cypionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14545</drugbank-id>
+      <name>Hydrocortisone succinate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Hydrocortisone succinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14631</drugbank-id>
+      <name>Prednisolone phosphate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisolone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14633</drugbank-id>
+      <name>Prednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14644</drugbank-id>
+      <name>Methylprednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Methylprednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14646</drugbank-id>
+      <name>Prednisone acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14652</drugbank-id>
+      <name>Clocortolone acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Clocortolone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14659</drugbank-id>
+      <name>Melengestrol acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Melengestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14669</drugbank-id>
+      <name>Betamethasone phosphate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Betamethasone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14681</drugbank-id>
+      <name>Cortisone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Cortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluocinonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14540</drugbank-id>
+      <name>Hydrocortisone butyrate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Hydrocortisone butyrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Desoximetasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15566</drugbank-id>
+      <name>Prednisolone acetate</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Prednisolone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Fluorometholone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The therapeutic efficacy of Calcifediol can be decreased when used in combination with Difluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00310</drugbank-id>
+      <name>Chlorthalidone</name>
+      <description>The risk or severity of hypokalemia can be increased when Calcifediol is combined with Chlorthalidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00524</drugbank-id>
+      <name>Metolazone</name>
+      <description>The risk or severity of hypokalemia can be increased when Calcifediol is combined with Metolazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00808</drugbank-id>
+      <name>Indapamide</name>
+      <description>The risk or severity of hypokalemia can be increased when Calcifediol is combined with Indapamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01325</drugbank-id>
+      <name>Quinethazone</name>
+      <description>The risk or severity of hypokalemia can be increased when Calcifediol is combined with Quinethazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13989</drugbank-id>
+      <name>Epitizide</name>
+      <description>The risk or severity of hypokalemia can be increased when Calcifediol is combined with Epitizide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12147</drugbank-id>
+      <name>Erdafitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Calcifediol is combined with Erdafitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00252</drugbank-id>
+      <name>Phenytoin</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Phenytoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01320</drugbank-id>
+      <name>Fosphenytoin</name>
+      <description>The serum concentration of Calcifediol can be decreased when it is combined with Fosphenytoin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>6.71</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.20e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>5.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(1S,3Z)-3-{2-[(1R,3aS,4E,7aR)-1-[(2R)-6-hydroxy-6-methylheptan-2-yl]-7a-methyl-octahydro-1H-inden-4-ylidene]ethylidene}-4-methylidenecyclohexan-1-ol</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>25-hydroxyvitamin D3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>400.6371</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>400.334130652</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>C[C@H](CCCC(C)(C)O)[C@@]1([H])CC[C@@]2([H])\C(CCC[C@]12C)=C\C=C1\C[C@@H](O)CCC1=C</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C27H44O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C27H44O2/c1-19-10-13-23(28)18-22(19)12-11-21-9-7-17-27(5)24(14-15-25(21)27)20(2)8-6-16-26(3,4)29/h11-12,20,23-25,28-29H,1,6-10,13-18H2,2-5H3/b21-11+,22-12-/t20-,23+,24-,25+,27-/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>JWUBBDSIWDLEOM-DTOXIADCSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>40.46</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>125.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>50.32</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>18.38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-0.98</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>Insoluble</value>
+      <source/>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>6</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22965</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>17933</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>5283731</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505690</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C01561</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>4446820</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164745614</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>VDY</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000290</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Calcifediol</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1040</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000004474414</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1855064</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>PDRhealth</resource>
+      <url>http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/vit_0265.shtml</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000779</id>
+      <name>Vitamin D3 receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9859</ref-id>
+            <pubmed-id>15503649</pubmed-id>
+            <citation>Reinhart GA: Vitamin D analogs: novel therapeutic agents for cardiovascular disease? Curr Opin Investig Drugs. 2004 Sep;5(9):947-51.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P11473" source="Swiss-Prot">
+        <name>Vitamin D3 receptor</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Nuclear hormone receptor. Transcription factor that mediates the action of vitamin D3 by controlling the expression of hormone sensitive genes. Recruited to promoters via its interaction with BAZ1B/WSTF which mediates the interaction with acetylated histones, an essential step for VDR-promoter association. Plays a central role in calcium homeostasis.</specific-function>
+        <gene-name>VDR</gene-name>
+        <locus>12q13.11</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.5</theoretical-pi>
+        <molecular-weight>48288.64</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:12679</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>VDR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J03258</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>340203</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>605</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>605</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P11473</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>VDR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1,25-dihydroxyvitamin D3 receptor</synonym>
+          <synonym>NR1I1</synonym>
+          <synonym>Nuclear receptor subfamily 1 group I member 1</synonym>
+          <synonym>VDR</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001554|Vitamin D3 receptor
+MEAMAASTSLPDPGDFDRNVPRICGVCGDRATGFHFNAMTCEGCKGFFRRSMKRKALFTC
+PFNGDCRITKDNRRHCQACRLKRCVDIGMMKEFILTDEEVQRKREMILKRKEEEALKDSL
+RPKLSEEQQRIIAILLDAHHKTYDPTYSDFCQFRPPVRVNDGGGSHPSRPNSRHTPSFSG
+DSSSSCSDHCITSSDMMDSSSFSNLDLSEEDSDDPSVTLELSQLSMLPHLADLVSYSIQK
+VIGFAKMIPGFRDLTSEDQIVLLKSSAIEVIMLRSNESFTMDDMSWTCGNQDYKYRVSDV
+TKAGHSLELIEPLIKFQVGLKKLNLHEEEHVLLMAICIVSPDRPGVQDAALIEAIQDRLS
+NTLQTYIRCRHPPPGSHLLYAKMIQKLADLRSLNEEHSKQYRCLSFQPECSMKLTPLVLE
+VFGNEIS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010550|Vitamin D3 receptor (VDR)
+ATGGAGGCAATGGCGGCCAGCACTTCCCTGCCTGACCCTGGAGACTTTGACCGGAACGTG
+CCCCGGATCTGTGGGGTGTGTGGAGACCGAGCCACTGGCTTTCACTTCAATGCTATGACC
+TGTGAAGGCTGCAAAGGCTTCTTCAGGCGAAGCATGAAGCGGAAGGCACTATTCACCTGC
+CCCTTCAACGGGGACTGCCGCATCACCAAGGACAACCGACGCCACTGCCAGGCCTGCCGG
+CTCAAACGCTGTGTGGACATCGGCATGATGAAGGAGTTCATTCTGACAGATGAGGAAGTG
+CAGAGGAAGCGGGAGATGATCCTGAAGCGGAAGGAGGAGGAGGCCTTGAAGGACAGTCTG
+CGGCCCAAGCTGTCTGAGGAGCAGCAGCGCATCATTGCCATACTGCTGGACGCCCACCAT
+AAGACCTACGACCCCACCTACTCCGACTTCTGCCAGTTCCGGCCTCCAGTTCGTGTGAAT
+GATGGTGGAGGGAGCCATCCTTCCAGGCCCAACTCCAGACACACTCCCAGCTTCTCTGGG
+GACTCCTCCTCCTCCTGCTCAGATCACTGTATCACCTCTTCAGACATGATGGACTCGTCC
+AGCTTCTCCAATCTGGATCTGAGTGAAGAAGATTCAGATGACCCTTCTGTGACCCTAGAG
+CTGTCCCAGCTCTCCATGCTGCCCCACCTGGCTGACCTGGTCAGTTACAGCATCCAAAAG
+GTCATTGGCTTTGCTAAGATGATACCAGGATTCAGAGACCTCACCTCTGAGGACCAGATC
+GTACTGCTGAAGTCAAGTGCCATTGAGGTCATCATGTTGCGCTCCAATGAGTCCTTCACC
+ATGGACGACATGTCCTGGACCTGTGGCAACCAAGACTACAAGTACCGCGTCAGTGACGTG
+ACCAAAGCCGGACACAGCCTGGAGCTGATTGAGCCCCTCATCAAGTTCCAGGTGGGACTG
+AAGAAGCTGAACTTGCATGAGGAGGAGCATGTCCTGCTCATGGCCATCTGCATCGTCTCC
+CCAGATCGTCCTGGGGTGCAGGACGCCGCGCTGATTGAGGCCATCCAGGACCGCCTGTCC
+AACACACTGCAGACGTACATCCGCTGCCGCCACCCGCCCCCGGGCAGCCACCTGCTCTAT
+GCCAAGATGATCCAGAAGCTAGCCGACCTGCGCAGCCTCAATGAGGAGCACTCCAAGCAG
+TACCGCTGCCTCTCCTTCCAGCCTGAGTGCAGCATGAAGCTAACGCCCCTTGTGCTCGAA
+GTGTTTGGCAATGAGATCTCCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>RNA polymerase II transcription factor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcitriol binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcitriol receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lithocholic acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lithocholic acid receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>retinoid X receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>decidualization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intestinal absorption</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lactation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mammary gland branching involved in pregnancy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of keratinocyte proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of apoptotic process involved in mammary gland involution</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of keratinocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vitamin D 24-hydroxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of calcidiol 1-monooxygenase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D receptor signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0000443</id>
+      <name>25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A14709</ref-id>
+            <pubmed-id>20619365</pubmed-id>
+            <citation>Schuster I: Cytochromes P450 are essential players in the vitamin D signaling system. Biochim Biophys Acta. 2011 Jan;1814(1):186-99. doi: 10.1016/j.bbapap.2010.06.022. Epub 2010 Jul 7.</citation>
+          </article>
+          <article>
+            <ref-id>A15412</ref-id>
+            <pubmed-id>10374186</pubmed-id>
+            <citation>Bernad M, Jaramillo G, Aguado P, del Campo T, Coya J, Martin Mola E, Gijon Banos J, Saldana Barrera H, Martinez ME: [Polymorphism of the gene of vitamin D receptor and bone mineral density in postmenopausal women]. Med Clin (Barc). 1999 May 15;112(17):651-5.</citation>
+          </article>
+          <article>
+            <ref-id>A15413</ref-id>
+            <pubmed-id>16061850</pubmed-id>
+            <citation>Diesel B, Radermacher J, Bureik M, Bernhardt R, Seifert M, Reichrath J, Fischer U, Meese E: Vitamin D(3) metabolism in human glioblastoma multiforme: functionality of CYP27B1 splice variants, metabolism of calcidiol, and effect of calcitriol. Clin Cancer Res. 2005 Aug 1;11(15):5370-80.</citation>
+          </article>
+          <article>
+            <ref-id>A15414</ref-id>
+            <pubmed-id>9527847</pubmed-id>
+            <citation>Eto TA, Nakamura Y, Taniguchi T, Miyamoto K, Nagatomo J, Maeda Y, Higashi S, Okuda K, Setoguchi T: Assay of 25-hydroxyvitamin D3 1 alpha-hydroxylase in rat kidney mitochondria. Anal Biochem. 1998 Apr 10;258(1):53-8.</citation>
+          </article>
+          <article>
+            <ref-id>A15415</ref-id>
+            <pubmed-id>16955631</pubmed-id>
+            <citation>Hart GR, Furniss JL, Laurie D, Durham SK: Measurement of vitamin D status: background, clinical use, and methodologies. Clin Lab. 2006;52(7-8):335-43.</citation>
+          </article>
+          <article>
+            <ref-id>A15416</ref-id>
+            <pubmed-id>15887856</pubmed-id>
+            <citation>Vigo Gago E, Cadarso-Suarez C, Perez-Fernandez R, Romero Burgos R, Devesa Mugica J, Segura Iglesias C: Association between vitamin D receptor FokI. Polymorphism and serum parathyroid hormone level in patients with chronic renal failure. J Endocrinol Invest. 2005 Feb;28(2):117-21.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O15528" source="Swiss-Prot">
+        <name>25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial</name>
+        <general-function>Iron ion binding</general-function>
+        <specific-function>Catalyzes the conversion of 25-hydroxyvitamin D3 (25(OH)D) to 1-alpha,25-dihydroxyvitamin D3 (1,25(OH)2D) plays an important role in normal bone growth, calcium metabolism, and tissue differentiation.</specific-function>
+        <gene-name>CYP27B1</gene-name>
+        <locus>12q13.1-q13.3</locus>
+        <cellular-location>Mitochondrion membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>9.39</theoretical-pi>
+        <molecular-weight>56503.475</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2606</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CYP27B1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF027152</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>2612976</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1370</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O15528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CP27B_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.14.13.13</synonym>
+          <synonym>25-hydroxyvitamin D(3) 1-alpha-hydroxylase</synonym>
+          <synonym>25-OHD-1 alpha-hydroxylase</synonym>
+          <synonym>Calcidiol 1-monooxygenase</synonym>
+          <synonym>CYP1ALPHA</synonym>
+          <synonym>CYP27B</synonym>
+          <synonym>Cytochrome p450 27B1</synonym>
+          <synonym>Cytochrome P450 subfamily XXVIIB polypeptide 1</synonym>
+          <synonym>Cytochrome P450C1 alpha</synonym>
+          <synonym>Cytochrome P450VD1-alpha</synonym>
+          <synonym>VD3 1A hydroxylase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010308|25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial
+MTQTLKYASRVFHRVRWAPELGASLGYREYHSARRSLADIPGPSTPSFLAELFCKGGLSR
+LHELQVQGAAHFGPVWLASFGTVRTVYVAAPALVEELLRQEGPRPERCSFSPWTEHRRCR
+QRACGLLTAEGEEWQRLRSLLAPLLLRPQAAARYAGTLNNVVCDLVRRLRRQRGRGTGPP
+ALVRDVAGEFYKFGLEGIAAVLLGSRLGCLEAQVPPDTETFIRAVGSVFVSTLLTMAMPH
+WLRHLVPGPWGRLCRDWDQMFAFAQRHVERREAEAAMRNGGQPEKDLESGAHLTHFLFRE
+ELPAQSILGNVTELLLAGVDTVSNTLSWALYELSRHPEVQTALHSEITAALSPGSSAYPS
+ATVLSQLPLLKAVVKEVLRLYPVVPGNSRVPDKDIHVGDYIIPKNTLVTLCHYATSRDPA
+QFPEPNSFRPARWLGEGPTPHPFASLPFGFGKRSCMGRRLAELELQMALAQILTHFEVQP
+EPGAAPVRPKTRTVLVPERSINLQFLDR</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010309|25-hydroxyvitamin D-1 alpha hydroxylase, mitochondrial (CYP27B1)
+ATGACCCAGACCCTCAAGTACGCCTCCAGAGTGTTCCATCGCGTCCGCTGGGCGCCCGAG
+TTGGGCGCCTCCCTAGGCTACCGAGAGTACCACTCAGCACGCCGGAGCTTGGCAGACATC
+CCAGGCCCCTCTACGCCCAGCTTTCTGGCCGAACTTTTCTGCAAGGGGGGGCTGTCGAGG
+CTACACGAGCTGCAGGTGCAGGGCGCCGCGCACTTCGGGCCGGTGTGGCTAGCCAGCTTT
+GGGACAGTGCGCACCGTGTACGTGGCTGCCCCTGCACTCGTCGAGGAGCTGCTGCGACAG
+GAGGGACCCCGGCCCGAGCGCTGCAGCTTCTCGCCCTGGACGGAGCACCGCCGCTGCCGC
+CAGCGGGCTTGCGGACTGCTCACTGCGGAAGGCGAAGAATGGCAAAGGCTCCGCAGTCTC
+CTGGCCCCGCTCCTCCTCCGGCCTCAAGCGGCCGCCCGCTACGCCGGAACCCTGAACAAC
+GTAGTCTGCGACCTTGTGCGGCGTCTGAGGCGCCAGCGGGGACGTGGCACGGGGCCGCCC
+GCCCTGGTTCGGGACGTGGCGGGGGAATTTTACAAGTTCGGACTGGAAGGCATCGCCGCG
+GTTCTGCTCGGCTCGCGCTTGGGCTGCCTGGAGGCTCAAGTGCCACCCGACACGGAGACC
+TTCATCCGCGCTGTGGGCTCGGTGTTTGTGTCCACGCTGTTGACCATGGCGATGCCCCAC
+TGGCTGCGCCACCTTGTGCCTGGGCCCTGGGGCCGCCTCTGCCGAGACTGGGACCAGATG
+TTTGCATTTGCTCAGAGGCACGTGGAGCGGCGAGAGGCAGAGGCAGCCATGAGGAACGGA
+GGACAGCCCGAGAAGGACCTGGAGTCTGGGGCGCACCTGACCCACTTCCTGTTCCGGGAA
+GAGTTGCCTGCCCAGTCCATCCTGGGAAATGTGACAGAGTTGCTATTGGCGGGAGTGGAC
+ACGGTGTCCAACACGCTCTCTTGGGCTCTGTATGAGCTCTCCCGGCACCCCGAAGTCCAG
+ACAGCACTCCACTCAGAGATCACAGCTGCCCTGAGCCCTGGCTCCAGTGCCTACCCCTCA
+GCCACTGTTCTGTCCCAGCTGCCCCTGCTGAAGGCGGTGGTCAAGGAAGTGCTAAGACTG
+TACCCTGTGGTACCTGGAAATTCTCGTGTCCCAGACAAAGACATTCATGTGGGTGACTAT
+ATTATCCCCAAAAATACGCTGGTCACTCTGTGTCACTATGCCACTTCAAGGGACCCTGCC
+CAGTTCCCAGAGCCAAATTCTTTTCGTCCAGCTCGCTGGCTGGGGGAGGGTCCCACCCCC
+CACCCATTTGCATCTCTTCCCTTTGGCTTTGGCAAGCGCAGCTGTATGGGGAGACGCCTG
+GCAGAGCTTGAATTGCAAATGGCTTTGGCCCAGATCCTAACACATTTTGAGGTGCAGCCT
+GAGCCAGGTGCGGCCCCAGTTAGACCCAAGACCCGGACTGTCCTGGTACCTGAAAGGAGC
+ATCAACCTACAGTTTTTGGACAGATAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00067</identifier>
+            <name>p450</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrial outer membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcidiol 1-monooxygenase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>iron ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcitriol biosynthetic process from calciol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>decidualization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G1 to G0 transition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of calcidiol 1-monooxygenase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of keratinocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vitamin D 24-hydroxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vitamin D receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to interferon-gamma</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin D</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>steroid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenobiotic metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+    <enzyme position="2">
+      <id>BE0002250</id>
+      <name>1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A182627</ref-id>
+            <pubmed-id>16600026</pubmed-id>
+            <citation>Wjst M, Altmuller J, Faus-Kessler T, Braig C, Bahnweg M, Andre E: Asthma families show transmission disequilibrium of gene variants in the vitamin D metabolism and signalling pathway. Respir Res. 2006 Apr 6;7:60. doi: 10.1186/1465-9921-7-60.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links>
+          <link>
+            <ref-id>L8003</ref-id>
+            <title>CYP24A1 gene - Genetics Home Reference - NIH</title>
+            <url>https://ghr.nlm.nih.gov/gene/CYP24A1</url>
+          </link>
+        </links>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q07973" source="Swiss-Prot">
+        <name>1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial</name>
+        <general-function>Oxidoreductase activity</general-function>
+        <specific-function>Has a role in maintaining calcium homeostasis. Catalyzes the NADPH-dependent 24-hydroxylation of calcidiol (25-hydroxyvitamin D(3)) and calcitriol (1-alpha,25-dihydroxyvitamin D(3)). The enzyme can perform up to 6 rounds of hydroxylation of calcitriol leading to calcitroic acid. It also shows 23-hydroxylating activity leading to 1-alpha,25-dihydroxyvitamin D(3)-26,23-lactone as end product.</specific-function>
+        <gene-name>CYP24A1</gene-name>
+        <locus>20q13</locus>
+        <cellular-location>Mitochondrion</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>8.99</theoretical-pi>
+        <molecular-weight>58874.695</molecular-weight>
+        <chromosome-location>20</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2602</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CYP24A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L13286</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>306704</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1365</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q07973</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CP24A_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.14.13.126</synonym>
+          <synonym>24-OHase</synonym>
+          <synonym>CYP24</synonym>
+          <synonym>Cytochrome P450 24A1</synonym>
+          <synonym>Cytochrome P450-CC24</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004416|1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial
+MSSPISKSRSLAAFLQQLRSPRQPPRLVTSTAYTSPQPREVPVCPLTAGGETQNAAALPG
+PTSWPLLGSLLQILWKGGLKKQHDTLVEYHKKYGKIFRMKLGSFESVHLGSPCLLEALYR
+TESAYPQRLEIKPWKAYRDYRKEGYGLLILEGEDWQRVRSAFQKKLMKPGEVMKLDNKIN
+EVLADFMGRIDELCDERGHVEDLYSELNKWSFESICLVLYEKRFGLLQKNAGDEAVNFIM
+AIKTMMSTFGRMMVTPVELHKSLNTKVWQDHTLAWDTIFKSVKACIDNRLEKYSQQPSAD
+FLCDIYHQNRLSKKELYAAVTELQLAAVETTANSLMWILYNLSRNPQVQQKLLKEIQSVL
+PENQVPRAEDLRNMPYLKACLKESMRLTPSVPFTTRTLDKATVLGEYALPKGTVLMLNTQ
+VLGSSEDNFEDSSQFRPERWLQEKEKINPFAHLPFGVGKRMCIGRRLAELQLHLALCWIV
+RKYDIQATDNEPVEMLHSGTLVPSRELPIAFCQR</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016728|1,25-dihydroxyvitamin D(3) 24-hydroxylase, mitochondrial (CYP24A1)
+ATGAGCTCCCCCATCAGCAAGAGCCGCTCGCTTGCCGCCTTCCTGCAGCAGCTGCGCAGT
+CCGAGGCAGCCCCCGAGACTGGTGACATCTACGGCGTACACGTCCCCTCAGCCGCGAGAG
+GTGCCAGTCTGCCCGCTGACAGCTGGTGGCGAGACTCAGAACGCGGCCGCCCTGCCGGGC
+CCCACCAGCTGGCCACTGCTGGGCAGCCTGCTGCAGATTCTCTGGAAAGGGGGTCTCAAG
+AAACAGCACGACACCCTGGTGGAGTACCACAAGAAGTATGGCAAGATTTTCCGCATGAAG
+TTGGGTTCCTTTGAGTCGGTGCACCTGGGCTCGCCATGCCTGCTGGAAGCGCTGTACCGC
+ACCGAGAGCGCGTACCCGCAGCGGCTGGAGATCAAACCGTGGAAGGCCTATCGCGACTAC
+CGCAAAGAAGGCTACGGGCTGCTGATCCTGGAAGGGGAAGACTGGCAGCGGGTCCGGAGT
+GCCTTTCAAAAGAAACTAATGAAACCAGGGGAAGTGATGAAGCTGGACAACAAAATCAAT
+GAGGTCTTGGCCGATTTTATGGGCAGAATAGATGAGCTCTGTGATGAAAGAGGCCACGTT
+GAAGACTTGTACAGCGAACTGAACAAATGGTCGTTTGAAAGTATCTGCCTCGTGTTGTAT
+GAGAAGAGATTTGGGCTTCTCCAGAAGAATGCAGGGGATGAAGCTGTGAACTTCATCATG
+GCCATCAAAACAATGATGAGCACGTTTGGGAGGATGATGGTCACTCCAGTCGAGCTGCAC
+AAGAGCCTCAACACCAAGGTCTGGCAGGACCACACTCTGGCCTGGGACACCATTTTCAAA
+TCAGTCAAAGCTTGTATCGACAACCGGTTAGAGAAGTATTCTCAGCAGCCTAGTGCAGAT
+TTCCTTTGTGACATTTATCACCAGAATCGGCTTTCAAAGAAAGAATTGTATGCTGCTGTC
+ACAGAGCTCCAGCTGGCTGCGGTGGAAACGACAGCAAACAGTCTAATGTGGATTCTCTAC
+AATTTATCCCGTAATCCCCAAGTGCAACAAAAGCTTCTTAAGGAAATTCAAAGTGTATTA
+CCTGAGAATCAGGTGCCACGGGCAGAAGATTTGAGGAATATGCCGTATTTAAAAGCCTGT
+CTGAAAGAATCTATGAGGCTTACGCCGAGTGTACCATTTACAACTCGGACTCTTGACAAG
+GCAACAGTTCTGGGTGAATATGCTTTACCCAAAGGAACAGTGCTCATGCTAAATACCCAG
+GTGTTGGGATCCAGTGAAGACAATTTTGAAGATTCAAGTCAGTTTAGACCTGAACGTTGG
+CTTCAGGAGAAGGAAAAAATTAATCCTTTTGCGCATCTTCCATTTGGCGTTGGAAAAAGA
+ATGTGCATTGGTCGCCGATTAGCAGAGCTTCAACTGCATTTGGCTCTTTGTTGGATTGTC
+CGCAAATACGACATCCAGGCCACAGACAATGAGCCTGTTGAGATGCTACACTCAGGCACC
+CTGGTGCCCAGCCGGGAACTCCCCATCGCGTTTTGCCAGCGATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00067</identifier>
+            <name>p450</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrial inner membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>1-alpha,25-dihydroxyvitamin D3 24-hydroxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>25-hydroxycholecalciferol-24-hydroxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>iron ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>osteoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oxidation-reduction process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin D</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>steroid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin D receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenobiotic metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

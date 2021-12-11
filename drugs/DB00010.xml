@@ -1,0 +1,512 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00010</drugbank-id>
+  <drugbank-id>BTD00033</drugbank-id>
+  <drugbank-id>BIOD00033</drugbank-id>
+  <name>Sermorelin</name>
+  <description>Sermorelin acetate is the acetate salt of an amidated synthetic 29-amino acid peptide (GRF 1-29 NH 2 ) that corresponds to the amino-terminal segment of the naturally occurring human growth hormone-releasing hormone (GHRH or GRF) consisting of 44 amino acid residues</description>
+  <cas-number>86168-78-7</cas-number>
+  <unii>89243S03TE</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>withdrawn</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of dwarfism, prevention of HIV-induced weight loss</indication>
+  <pharmacodynamics>Sermorelin is used in the treatment of children with growth hormone deficiency or growth failure. Geref increases plasma growth hormone (GH) concentration by stimulating the pituitary gland to release GH. Geref is similar to the full-length native hormone (44 residues) in its ability to stimulate GH secretion in humans.</pharmacodynamics>
+  <mechanism-of-action>Sermorelin binds to the growth hormone releasing hormone receptor and mimics native GRF in its ability to stimulate growth hormone secretion.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>11-12 min</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT001439</drugbank-id>
+      <name>Sermorelin acetate</name>
+      <unii>00IBG87IQW</unii>
+      <cas-number>114466-38-5</cas-number>
+      <inchikey/>
+    </salt>
+  </salts>
+  <synonyms/>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>Geref</name>
+      <company>Serono Pharma</company>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers>
+    <packager>
+      <name>Chengdu Shengnuo Bio Pharmaceutical Co. Ltd.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Letco Medical Inc.</name>
+      <url>http://www.letcomedical.com</url>
+    </packager>
+    <packager>
+      <name>Live Well Drugstore LLC</name>
+      <url>http://www.livewelldrugstore.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Emd serono inc</manufacturer>
+  </manufacturers>
+  <prices/>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anterior Pituitary Lobe Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Diagnostic Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Growth Hormone-Releasing Hormone</category>
+      <mesh-id>D013007</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Hypothalamic Hormones</category>
+      <mesh-id>D007028</mesh-id>
+    </category>
+    <category>
+      <category>Nerve Tissue Proteins</category>
+      <mesh-id>D009419</mesh-id>
+    </category>
+    <category>
+      <category>Neuropeptides</category>
+      <mesh-id>D009479</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary and Hypothalamic Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pituitary Hormone-Releasing Hormones</category>
+      <mesh-id>D010906</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Somatropin and Somatropin Agonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Tests for Pituitary Function</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>50 MICROGRAMMI/1ML</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="V04CD03">
+      <level code="V04CD">Tests for pituitary function</level>
+      <level code="V04C">OTHER DIAGNOSTIC AGENTS</level>
+      <level code="V04">DIAGNOSTIC AGENTS</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+    <atc-code code="H01AC04">
+      <level code="H01AC">Somatropin and somatropin agonists</level>
+      <level code="H01A">ANTERIOR PITUITARY LOBE HORMONES AND ANALOGUES</level>
+      <level code="H01">PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00010 sequence
+YADAIFTNSYRKVLGQLSARKLLQDIMSRQ</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.330</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>9.99</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>3357.882</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C149H246N44O42S</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507399</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C08192</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164749110</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001055</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Sermorelin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>56188</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/sermorelin.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/sermorelin-acetate.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000625</id>
+      <name>Growth hormone-releasing hormone receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1760</ref-id>
+            <pubmed-id>14499707</pubmed-id>
+            <citation>Esposito P, Barbero L, Caccia P, Caliceti P, D'Antonio M, Piquet G, Veronese FM: PEGylation of growth hormone-releasing hormone (GRF) analogues. Adv Drug Deliv Rev. 2003 Sep 26;55(10):1279-91.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q02643" source="Swiss-Prot">
+        <name>Growth hormone-releasing hormone receptor</name>
+        <general-function>Peptide hormone binding</general-function>
+        <specific-function>Receptor for GRF, coupled to G proteins which activate adenylyl cyclase. Stimulates somatotroph cell growth, growth hormone gene transcription and growth hormone secretion.</specific-function>
+        <gene-name>GHRHR</gene-name>
+        <locus>7p14</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>133-152
+163-181
+205-227
+241-262
+281-304
+330-348
+362-381</transmembrane-regions>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>6.73</theoretical-pi>
+        <molecular-weight>47401.53</molecular-weight>
+        <chromosome-location>7</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4266</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GHRHR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L01406</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>183173</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>247</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q02643</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>GHRHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GHRH receptor</synonym>
+          <synonym>GRF receptor</synonym>
+          <synonym>GRFR</synonym>
+          <synonym>Growth hormone-releasing factor receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016157|Growth hormone-releasing hormone receptor
+MDRRMWGAHVFCVLSPLPTVLGHMHPECDFITQLREDESACLQAAEEMPNTTLGCPATWD
+GLLCWPTAGSGEWVTLPCPDFFSHFSSESGAVKRDCTITGWSEPFPPYPVACPVPLELLA
+EEESYFSTVKIIYTVGHSISIVALFVAITILVALRRLHCPRNYVHTQLFTTFILKAGAVF
+LKDAALFHSDDTDHCSFSTVLCKVSVAASHFATMTNFSWLLAEAVYLNCLLASTSPSSRR
+AFWWLVLAGWGLPVLFTGTWVSCKLAFEDIACWDLDDTSPYWWIIKGPIVLSVGVNFGLF
+LNIIRILVRKLEPAQGSLHTQSQYWRLSKSTLFLIPLFGIHYIIFNFLPDNAGLGIRLPL
+ELGLGSFQGFIVAILYCFLNQEVRTEISRKWHGHDPELLPAWRTRAKWTTPSRSAAKVLT
+SMC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016158|Growth hormone-releasing hormone receptor (GHRHR)
+ATGGACCGCCGGATGTGGGGGGCCCACGTCTTCTGCGTGTTGAGCCCGTTACCGACCGTA
+TTGGGCCACATGCACCCAGAATGTGACTTCATCACCCAGCTGAGAGAGGATGAGAGTGCC
+TGTCTACAAGCAGCAGAGGAGATGCCCAACACCACCCTGGGCTGCCCTGCGACCTGGGAT
+GGGCTGCTGTGCTGGCCAACGGCAGGCTCTGGCGAGTGGGTCACCCTCCCCTGCCCGGAT
+TTCTTCTCTCACTTCAGCTCAGAGTCAGGGGCTGTGAAACGGGATTGTACTATCACTGGC
+TGGTCTGAGCCCTTTCCACCTTACCCTGTGGCCTGCCCTGTGCCTCTGGAGCTGCTGGCT
+GAGGAGGAATCTTACTTCTCCACAGTGAAGATTATCTACACCGTGGGCCATAGCATCTCT
+ATTGTAGCCCTCTTCGTGGCCATCACCATCCTGGTTGCTCTCAGGAGGCTCCACTGCCCC
+CGGAACTACGTCCACACCCAGCTGTTCACCACTTTTATCCTCAAGGCGGGAGCTGTGTTC
+CTGAAGGATGCTGCCCTTTTCCACAGCGACGACACTGACCACTGCAGCTTCTCCACTGTT
+CTATGCAAGGTCTCTGTGGCCGCCTCCCATTTCGCCACCATGACCAACTTCAGCTGGCTG
+TTGGCAGAAGCCGTCTACCTGAACTGCCTCCTGGCCTCCACCTCCCCCAGCTCAAGGAGA
+GCCTTCTGGTGGCTGGTTCTCGCTGGCTGGGGGCTGCCCGTGCTCTTCACTGGCACGTGG
+GTGAGCTGCAAACTGGCCTTCGAGGACATCGCGTGCTGGGACCTGGACGACACCTCCCCC
+TACTGGTGGATCATCAAAGGGCCCATTGTCCTCTCGGTCGGGGTGAACTTTGGGCTTTTT
+CTCAATATTATCCGCATCCTGGTGAGGAAACTGGAGCCAGCTCAGGGCAGCCTCCATACC
+CAGTCTCAGTATTGGCGTCTCTCCAAGTCGACACTTTTCCTGATCCCACTCTTTGGAATT
+CACTACATCATCTTCAACTTCCTGCCAGACAATGCTGGCCTGGGCATCCGCCTCCCCCTG
+GAGCTGGGACTGGGTTCCTTCCAGGGCTTCATTGTTGCCATCCTCTACTGCTTCCTCAAC
+CAAGAGGTGAGGACTGAGATCTCACGGAAGTGGCATGGCCATGACCCTGAGCTTCTGCCA
+GCCTGGAGGACCCGTGCTAAGTGGACCACGCCTTCCCGCTCGGCGGCAAAGGTGCTGACA
+TCTATGTGCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00002</identifier>
+            <name>7tm_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF02793</identifier>
+            <name>HRM</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear inner membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear outer membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>growth hormone-releasing hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell maturation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to insulin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>determination of adult lifespan</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>growth hormone secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lactation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organismal reproductive process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of growth hormone secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of insulin-like growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of multicellular organism growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of intracellular steroid hormone receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to glucocorticoid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to insulin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>somatotropin secreting cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>water homeostasis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

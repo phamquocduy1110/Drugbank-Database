@@ -1,0 +1,910 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00044</drugbank-id>
+  <drugbank-id>BTD00056</drugbank-id>
+  <drugbank-id>BIOD00056</drugbank-id>
+  <name>Lutropin alfa</name>
+  <description>Lutropin alfa is a recombinant human luteinizing hormone produced in yeast with 2 subunits, alpha = 92 residues, beta = 121 residues. It is a heterodimeric glycoprotein made up of monomeric units. Lutropin alfa was the first and only recombinant human form of luteinizing hormone (LH) developed for use in the stimulation of follicular development. Its pharmacological action mimics the biological activity of endogenous LH; an acute rise of LH, or LH surge, in females triggers ovulation and the development of the corpous luteum. In males, LH stimulates Leydig cell to produce testosterone.</description>
+  <cas-number>152923-57-4</cas-number>
+  <unii>3JGY52XJNA</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A74</ref-id>
+        <pubmed-id>3972</pubmed-id>
+        <citation>Blanchard J: Gastrointestinal absorption. I. Mechanisms. Am J Pharm Sci Support Public Health. 1975 Sep-Oct;147(5):135-46.</citation>
+      </article>
+      <article>
+        <ref-id>A75</ref-id>
+        <pubmed-id>1122882</pubmed-id>
+        <citation>Louvet JP, Harman SM, Ross GT: Effects of human chorionic gonadotropin, human interstitial cell stimulating hormone and human follicle-stimulating hormone on ovarian weights in estrogen-primed hypophysectomized immature female rats. Endocrinology. 1975 May;96(5):1179-86.</citation>
+      </article>
+      <article>
+        <ref-id>A76</ref-id>
+        <pubmed-id>11476792</pubmed-id>
+        <citation>Nielsen MS, Barton SD, Hatasaka HH, Stanford JB: Comparison of several one-step home urinary luteinizing hormone detection test kits to OvuQuick. Fertil Steril. 2001 Aug;76(2):384-7.</citation>
+      </article>
+      <article>
+        <ref-id>A77</ref-id>
+        <pubmed-id>20161981</pubmed-id>
+        <citation>Gibreel A, Bhattacharya S: Recombinant follitropin alfa/lutropin alfa in fertility treatment. Biologics. 2010 Feb 4;4:5-17.</citation>
+      </article>
+      <article>
+        <ref-id>A78</ref-id>
+        <pubmed-id>18627209</pubmed-id>
+        <citation>Dhillon S, Keating GM: Lutropin alfa. Drugs. 2008;68(11):1529-40.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For treatment of infertility in women with hypothalamic or pituitary insufficiency (hypogonadotropic hypogonadism) and profound LH deficiency (LH &lt;1.2 international units [IU]/L)</indication>
+  <pharmacodynamics>Used to facilitate female conception, lutropin alfa performs the same actions as luteinizing hormone (LH), which is normally produced in the pituitary gland. Lutropin is usually given in combination with follitropin alfa. Together they stimulate the development of a follicle to prepare the reproductive tract for implementation and pregnancy. Lutropin alfa also stimulates the theca cells to produce androgens and the secretion of estradiol by the follicles. Lutropin alfa and follitropin alfa are discontinued once ultrasound assessment and serum estradiol concentrations show sufficient follicular maturation. hCG is then administered to complete follicular maturation and induce ovulation. In females, a LH surge about halfway through the menstrual cycle triggers the onset of ovulation. Lutropin alfa substitutes for endogenous LH and induces rupture of the preovulatory ovarian follicle and oocyte expulsion. Lutropin alfa induces and maintains the corpus luteum, which then secretes progesterone.</pharmacodynamics>
+  <mechanism-of-action>Luteinizing hormone binds to a receptor shared with the human chorionic gonadotropin hormone (hCG) on the ovarian theca (and granulosa) cells and testicular Leydig cells. This LH/CG transmembrane receptor is a member of the super-family of G protein-coupled receptors. Adenylate cyclase then activates many other pathways leading to steroid hormone production and other follicle maturation processes. </mechanism-of-action>
+  <toxicity>Lutropin alfa is not indicated for people under 16 and over 60, pregnant and lactating women, patients with uncontrolled thyroid and adrenal failure, patients with active, untreated tumours of the hypothalamus and pituitary gland, and in any patient with a condition that makes a normal pregnancy possible such as primary ovarian failure or fibroid tumors of the uterus. </toxicity>
+  <metabolism>&lt;5% of dose excreted renally as unchanged drug.</metabolism>
+  <absorption>Mean absolute bioavailability is 56%, following sub-Q administration, maximum serum concentrations reached after 4–16 hours. Time to peak, serum: 9 hours </absorption>
+  <half-life>Biphasic; terminal half-life is approximately 18 hours.</half-life>
+  <protein-binding/>
+  <route-of-elimination>Total body clearance is approximately 2 to 3 L/h with less than 5 percent of the dose being excreted unchanged renally.</route-of-elimination>
+  <volume-of-distribution>The steady state volume of distribution is around 10-14 L.</volume-of-distribution>
+  <clearance>* 2 – 3 L/h [healthy female following subcutaneous administration]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="inn/usan">Lutropin alfa</synonym>
+    <synonym language="english" coder="">Lutropin alpha</synonym>
+    <synonym language="spanish" coder="">Lutropina alfa</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Luveris</name>
+      <labeller>Emd Serono</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-1375</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-10-08</started-marketing-on>
+      <ended-marketing-on>2014-11-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>82.5 [iU]/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA021322</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Luveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02269066</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>75 unit</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Luveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02339757</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>450 unit</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/001</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/002</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/003</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/004</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/005</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Merck Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000714</ema-product-code>
+      <ema-ma-number>EU/1/07/396/006</ema-ma-number>
+      <started-marketing-on>2007-06-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02445301</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-10-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02470640</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02470659</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pergoveris</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02470667</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Luveris</name>
+      <ingredients>Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Luveris</name>
+      <ingredients>Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Luveris</name>
+      <ingredients>Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pergoveris</name>
+      <ingredients>Follitropin + Lutropin alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>EMD Canada Inc.</name>
+      <url>http://www.emdcanada.com</url>
+    </packager>
+    <packager>
+      <name>Merck Serono SPA</name>
+      <url>http://www.merckserono.net</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Emd serono inc</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Luveris 75 unit vial</description>
+      <cost currency="USD">38.88</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Genito Urinary System and Sex Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Gonadotropins</category>
+      <mesh-id>D006062</mesh-id>
+    </category>
+    <category>
+      <category>Gonadotropins and Antigonadotropins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Sex Hormones and Modulators of the Genital System</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Cutaneous; Parenteral</route>
+      <strength>25 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Cutaneous; Parenteral</route>
+      <strength>75 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>75 IU/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength>82.5 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>450 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>300 IU/0.48ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>900 IU/1.44ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>300 UI</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>450 UI</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>900 UI</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>150 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>150 UI</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>150 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 IU</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="G03GA07">
+      <level code="G03GA">Gonadotropins</level>
+      <level code="G03G">GONADOTROPINS AND OTHER OVULATION STIMULANTS</level>
+      <level code="G03">SEX HORMONES AND MODULATORS OF THE GENITAL SYSTEM</level>
+      <level code="G">GENITO URINARY SYSTEM AND SEX HORMONES</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>68:18.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00044.pdf?1265922800</fda-label>
+  <patents>
+    <patent>
+      <number>5767251</number>
+      <country>United States</country>
+      <approved>1998-06-16</approved>
+      <expires>2015-06-16</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;Alpha Chain
+APDVQDCPECTLQENPFFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCC
+VAKSYNRVTVMGGFKVENHTACHCSTCYYHKS</sequence>
+    <sequence format="FASTA">&gt;Beta Chain (LH)
+SREPLRPWCHPINAILAVEKEGCPVCITVNTTICAGYCPTMMRVLQAVLPPLPQVVCTYR
+DVRFESIRLPGCPRGVDPVVSFPVALSCRCGPCRRSTSDCGGPKDHPLTCDHPQLSGLLF
+L</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>55 °C</value>
+      <source>Forastieri, H., Ingham, K.C. J. Biol. Chem. 257:7976-7981 (1982)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.063</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>8.44</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>30000.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1014H1609N287O294S27</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>15875</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7347</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507624</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X00264</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164750539</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01229</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001103</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Luteinizing_hormone</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201419</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>388084</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/lutropin-alfa.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000134</id>
+      <name>Lutropin-choriogonadotropic hormone receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A77</ref-id>
+            <pubmed-id>20161981</pubmed-id>
+            <citation>Gibreel A, Bhattacharya S: Recombinant follitropin alfa/lutropin alfa in fertility treatment. Biologics. 2010 Feb 4;4:5-17.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P22888" source="Swiss-Prot">
+        <name>Lutropin-choriogonadotropic hormone receptor</name>
+        <general-function>Luteinizing hormone receptor activity</general-function>
+        <specific-function>Receptor for lutropin-choriogonadotropic hormone. The activity of this receptor is mediated by G proteins which activate adenylate cyclase.</specific-function>
+        <gene-name>LHCGR</gene-name>
+        <locus>2p21</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>364-385
+396-416
+440-462
+483-505
+526-549
+571-594
+606-627</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi>8.58</theoretical-pi>
+        <molecular-weight>78642.01</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6585</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>LHCGR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M73746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>903746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P22888</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>LSHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>LCGR</synonym>
+          <synonym>LGR2</synonym>
+          <synonym>LH/CG-R</synonym>
+          <synonym>LHR</synonym>
+          <synonym>LHRHR</synonym>
+          <synonym>LSH-R</synonym>
+          <synonym>Luteinizing hormone receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036957|Lutropin-choriogonadotropic hormone receptor
+MKQRFSALQLLKLLLLLQPPLPRALREALCPEPCNCVPDGALRCPGPTAGLTRLSLAYLP
+VKVIPSQAFRGLNEVIKIEISQIDSLERIEANAFDNLLNLSEILIQNTKNLRYIEPGAFI
+NLPRLKYLSICNTGIRKFPDVTKVFSSESNFILEICDNLHITTIPGNAFQGMNNESVTLK
+LYGNGFEEVQSHAFNGTTLTSLELKENVHLEKMHNGAFRGATGPKTLDISSTKLQALPSY
+GLESIQRLIATSSYSLKKLPSRETFVNLLEATLTYPSHCCAFRNLPTKEQNFSHSISENF
+SKQCESTVRKVNNKTLYSSMLAESELSGWDYEYGFCLPKTPRCAPEPDAFNPCEDIMGYD
+FLRVLIWLINILAIMGNMTVLFVLLTSRYKLTVPRFLMCNLSFADFCMGLYLLLIASVDS
+QTKGQYYNHAIDWQTGSGCSTAGFFTVFASELSVYTLTVITLERWHTITYAIHLDQKLRL
+RHAILIMLGGWLFSSLIAMLPLVGVSNYMKVSICFPMDVETTLSQVYILTILILNVVAFF
+IICACYIKIYFAVRNPELMATNKDTKIAKKMAILIFTDFTCMAPISFFAISAAFKVPLIT
+VTNSKVLLVLFYPINSCANPFLYAIFTKTFQRDFFLLLSKFGCCKRRAELYRRKDFSAYT
+SNCKNGFTGSNKPSQSTLKLSTLHCQGTALLDKTRYTEC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010174|Lutropin-choriogonadotropic hormone receptor (LHCGR)
+ATGAAGCAGCGGTTCTCGGCGCTGCAGCTGCTGAAGCTGCTGCTGCTGCTGCAGCCGCCG
+CTGCCACGAGCGCTGCGCGAGGCGCTCTGCCCTGAGCCCTGCAACTGCGTGCCCGACGGC
+GCCCTGCGCTGCCCCGGCCCCACGGCCGGTCTCACTCGACTATCACTTGCCTACCTCCCT
+GTCAAAGTGATCCCATCTCAAGCTTTCAGAGGACTTAATGAGGTCATAAAAATTGAAATC
+TCTCAGATTGATTCCCTGGAAAGGATAGAAGCTAATGCCTTTGACAACCTCCTCAATTTG
+TCTGAAATACTGATCCAGAACACCAAAAATCTGAGATACATTGAGCCCGGAGCATTTATA
+AATCTTCCCCGATTAAAATACTTGAGCATCTGTAACACAGGCATCAGAAAGTTTCCAGAT
+GTTACGAAGGTCTTCTCCTCTGAATCAAATTTCATTCTGGAAATTTGTGATAACTTACAC
+ATAACCACCATACCAGGAAATGCTTTTCAAGGGATGAATAATGAATCTGTAACACTCAAA
+CTATATGGAAATGGATTTGAAGAAGTACAAAGTCATGCATTCAATGGGACGACACTGACT
+TCACTGGAGCTAAAGGAAAACGTACATCTGGAGAAGATGCACAATGGAGCCTTCCGTGGG
+GCCACAGGGCCGAAAACCTTGGATATTTCTTCCACCAAATTGCAGGCCCTGCCGAGCTAT
+GGCCTAGAGTCCATTCAGAGGCTAATTGCCACGTCATCCTATTCTCTAAAAAAATTGCCA
+TCAAGAGAAACATTTGTCAATCTCCTGGAGGCCACGTTGACTTACCCCAGCCACTGCTGT
+GCTTTTAGAAACTTGCCAACAAAAGAACAGAATTTTTCACATTCCATTTCTGAAAACTTT
+TCCAAACAATGTGAAAGCACAGTAAGGAAAGTGAATAACAAAACACTTTATTCTTCCATG
+CTTGCTGAGAGTGAACTGAGTGGCTGGGACTATGAATATGGTTTCTGCTTACCCAAGACA
+CCCCGATGTGCTCCTGAACCAGATGCTTTTAATCCCTGTGAAGATATTATGGGCTATGAC
+TTCCTTAGGGTCCTGATTTGGCTGATTAATATTCTAGCCATCATGGGAAACATGACTGTT
+CTTTTTGTTCTCCTGACAAGTCGTTACAAACTTACAGTGCCTCGTTTTCTCATGTGCAAT
+CTCTCCTTTGCAGACTTTTGCATGGGGCTCTATCTGCTGCTCATAGCCTCAGTTGATTCC
+CAAACCAAGGGCCAGTACTATAACCATGCCATAGACTGGCAGACAGGGAGTGGGTGCAGC
+ACTGCTGGCTTTTTCACTGTATTCGCAAGTGAACTTTCTGTCTACACCCTCACCGTCATC
+ACTCTAGAAAGATGGCACACCATCACCTATGCTATTCACCTGGACCAAAAGCTGCGATTA
+AGACATGCCATTCTGATTATGCTTGGAGGATGGCTCTTTTCTTCTCTAATTGCTATGTTG
+CCCCTTGTCGGTGTCAGCAATTACATGAAGGTCAGTATTTGCTTCCCCATGGATGTGGAA
+ACCACTCTCTCACAAGTCTATATATTAACCATCCTGATTCTCAATGTGGTGGCCTTCTTC
+ATAATTTGTGCTTGCTACATTAAAATTTATTTTGCAGTTCGAAACCCAGAATTAATGGCT
+ACCAATAAAGATACAAAGATTGCTAAGAAAATGGCAATCCTCATCTTCACCGATTTCACC
+TGCATGGCACCTATCTCTTTTTTTGCCATCTCAGCTGCCTTCAAAGTACCTCTTATCACA
+GTAACCAACTCTAAAGTTTTACTGGTTCTTTTTTATCCCATCAATTCTTGTGCCAATCCA
+TTTCTGTATGCAATATTCACTAAGACATTCCAAAGAGATTTCTTTCTTTTGCTGAGCAAA
+TTTGGCTGCTGTAAACGTCGGGCTGAACTTTATAGAAGGAAAGATTTTTCAGCTTACACC
+TCCAACTGCAAAAATGGCTTCACTGGATCAAATAAGCCTTCTCAATCCACCTTGAAGTTG
+TCCACATTGCACTGTCAAGGTACAGCTCTCCTAGACAAGACTCGCTACACAGAGTGTTAA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13306</identifier>
+            <name>LRR_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled peptide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>luteinizing hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to gonadotropin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cognition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>luteinizing hormone signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male genitalia development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ovulation cycle process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of inositol trisphosphate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermatogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>uterus development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

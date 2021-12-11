@@ -1,0 +1,2966 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00024</drugbank-id>
+  <drugbank-id>BTD00020</drugbank-id>
+  <drugbank-id>BIOD00020</drugbank-id>
+  <name>Thyrotropin alfa</name>
+  <description>Thyrotropin alfa is a recombinant form of thyroid stimulating hormone used in performing certain tests in patients who have or have had thyroid cancer. It is also used along with a radioactive agent to destroy remaining thyroid tissue in certain patients who have had their thyroid gland removed because of thyroid cancer. It is a heterodimeric glycoprotein comprised of two non-covalently linked subunits, an alpha subunit of 92 amino acid residues containing two N-linked glycosylation sites and a beta subunit of 112 residues containing one N-linked glycosylation site. The alpha subunit of thyrotropin alfa, which is the effector region responsible for the stimulation of adenylate cyclase, displays close structural similarity with the alpha subunit of human chorionic gonadotropin (hCG), luteinizing hormone (LH), and follicle-stimulating hormone (FSH). The beta subunit (TSHB) bestows its receptor specificity due to the uniqueness to TSH. The amino acid sequence of thyrotropin alfa is identical to that of human pituitary thyroid stimulating hormone.</description>
+  <cas-number>194100-83-9</cas-number>
+  <unii>AVX3D5A4LM</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>vet_approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>19366632</synthesis-reference>
+  <indication>For detection of residueal or recurrent thyroid cancer</indication>
+  <pharmacodynamics>Binding of thyrotropin alfa to TSH receptors on normal thyroid epithelial cells or on well-differentiated thyroid cancer tissue stimulates iodine uptake and organification. Thyrogen is an exogenous source of human TSH that offers an additional diagnostic tool in the follow-up of patients with a history of well-differentiated thyroid cancer.</pharmacodynamics>
+  <mechanism-of-action>Thyrotropin Alfa binds to the thyrotropin receptors found on any residual thyroid cells or tissues. This stimulates radioactive iodine uptake for better radiodiagnostic imaging.</mechanism-of-action>
+  <toxicity>No difference in efficacy and toxicity between adult and geriatric patients. No studies in lactating women, pregnant women and pediatrics. Cautionary administration is advised. </toxicity>
+  <metabolism/>
+  <absorption>Time to peak: Median: 10 hours (range: 3-24 hours)&#13;
+After a single intramuscular injection of 0.9 mg of thyrotropin alfa: Cmax= 116+38mU/L, Tmax=22+8.5 hours. AUC=5088+1728 mU·hr/L.</absorption>
+  <half-life>25 ± 10 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination>kidney and liver</route-of-elimination>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Recombinant Human Thyroid Stimulating Hormone</synonym>
+    <synonym language="english" coder="">Recombinant thyrotropin alfa</synonym>
+    <synonym language="english" coder="">rhTSH</synonym>
+    <synonym language="english" coder="">rTSH</synonym>
+    <synonym language="english" coder="">Thyrotropin alpha</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Thyrogen</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0030</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-11-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>0.9 mg/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA020898</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Thyrogen</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-1849</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-11-30</started-marketing-on>
+      <ended-marketing-on>2019-05-30</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>0.9 mg/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA020898</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Thyrogen</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000220</ema-product-code>
+      <ema-ma-number>EU/1/99/122/001</ema-ma-number>
+      <started-marketing-on>2000-03-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Thyrogen</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000220</ema-product-code>
+      <ema-ma-number>EU/1/99/122/002</ema-ma-number>
+      <started-marketing-on>2000-03-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Thyrogen</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02246016</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-08-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>0.9 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Thyrogen</name>
+      <ingredients>Thyrotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thyrogen</name>
+      <ingredients>Thyrotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thyrogen</name>
+      <ingredients>Thyrotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thyrogen</name>
+      <ingredients>Thyrotropin alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Thyrogen</name>
+      <ingredients>Thyrotropin alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Genzyme Inc.</name>
+      <url>http://www.genzyme.ca</url>
+    </packager>
+    <packager>
+      <name>Organon Pharmaceuticals</name>
+      <url>http://www.organonshop.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Sanofi aventis us llc</manufacturer>
+    <manufacturer generic="false" url="">Genzyme corp</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Thyrogen 1.1 mg vial</description>
+      <cost currency="USD">1196.4</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Agents used to treat hypothyroidism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anterior Pituitary Lobe Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary and Hypothalamic Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pituitary Hormones</category>
+      <mesh-id>D010907</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary Hormones, Anterior</category>
+      <mesh-id>D010908</mesh-id>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Thyroid Products</category>
+      <mesh-id>D013972</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>0.9 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>0.9 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>1.1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>0.9 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>0.9 mg/1.08ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular</route>
+      <strength>1.1 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="H01AB01">
+      <level code="H01AB">Thyrotropin</level>
+      <level code="H01A">ANTERIOR PITUITARY LOBE HORMONES AND ANALOGUES</level>
+      <level code="H01">PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>36:60.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00024.pdf?1265922804</fda-label>
+  <patents>
+    <patent>
+      <number>5840566</number>
+      <country>United States</country>
+      <approved>1998-11-24</approved>
+      <expires>2015-11-24</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB01344</drugbank-id>
+      <name>Tolevamer</name>
+      <description>Tolevamer can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Diethylstilbestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Chlorotrianisene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Conjugated estrogens.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ethinylestradiol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Mestranol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estrone sulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Quinestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Hexestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Tibolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Synthetic Conjugated Estrogens, A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Synthetic Conjugated Estrogens, B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Polyestradiol phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Esterified estrogens.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Zeranol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Equol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Methallenestril.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Epimestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Moxestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estradiol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estradiol benzoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estradiol cypionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estradiol valerate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Biochanin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Formononetin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Estriol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluvoxamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00215</drugbank-id>
+      <name>Citalopram</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Citalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Duloxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00656</drugbank-id>
+      <name>Trazodone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Trazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Paroxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01104</drugbank-id>
+      <name>Sertraline</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sertraline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01105</drugbank-id>
+      <name>Sibutramine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sibutramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01149</drugbank-id>
+      <name>Nefazodone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Nefazodone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01175</drugbank-id>
+      <name>Escitalopram</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Escitalopram.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04832</drugbank-id>
+      <name>Zimelidine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Zimelidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04884</drugbank-id>
+      <name>Dapoxetine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dapoxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04896</drugbank-id>
+      <name>Milnacipran</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Milnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06700</drugbank-id>
+      <name>Desvenlafaxine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Desvenlafaxine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06731</drugbank-id>
+      <name>Seproxetine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Seproxetine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08918</drugbank-id>
+      <name>Levomilnacipran</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Levomilnacipran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08953</drugbank-id>
+      <name>Indalpine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Indalpine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12693</drugbank-id>
+      <name>Ritanserin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ritanserin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13233</drugbank-id>
+      <name>Alaproclate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Alaproclate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00930</drugbank-id>
+      <name>Colesevelam</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Colesevelam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00258</drugbank-id>
+      <name>Calcium acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00326</drugbank-id>
+      <name>Calcium glucoheptonate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium glucoheptonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01164</drugbank-id>
+      <name>Calcium chloride</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium chloride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01373</drugbank-id>
+      <name>Calcium</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06724</drugbank-id>
+      <name>Calcium carbonate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11093</drugbank-id>
+      <name>Calcium citrate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11126</drugbank-id>
+      <name>Calcium gluconate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11348</drugbank-id>
+      <name>Calcium Phosphate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium Phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13142</drugbank-id>
+      <name>Calcium glubionate anhydrous</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium glubionate anhydrous.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13231</drugbank-id>
+      <name>Calcium lactate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium lactate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13365</drugbank-id>
+      <name>Calcium lactate gluconate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium lactate gluconate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13590</drugbank-id>
+      <name>Calcium pangamate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium pangamate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13800</drugbank-id>
+      <name>Calcium levulinate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium levulinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14577</drugbank-id>
+      <name>Calcium cation</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium cation.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14684</drugbank-id>
+      <name>Calcium polycarbophil</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Calcium polycarbophil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06792</drugbank-id>
+      <name>Lanthanum carbonate</name>
+      <description>Lanthanum carbonate can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09210</drugbank-id>
+      <name>Piracetam</name>
+      <description>The risk or severity of confusion, irritability, and sleep disorders can be increased when Thyrotropin alfa is combined with Piracetam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00331</drugbank-id>
+      <name>Metformin</name>
+      <description>The therapeutic efficacy of Metformin can be decreased when used in combination with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00067</drugbank-id>
+      <name>Vasopressin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00093</drugbank-id>
+      <name>Felypressin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Felypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00247</drugbank-id>
+      <name>Methysergide</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Methysergide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00320</drugbank-id>
+      <name>Dihydroergotamine</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Dihydroergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00669</drugbank-id>
+      <name>Sumatriptan</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Sumatriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00696</drugbank-id>
+      <name>Ergotamine</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Ergotamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00907</drugbank-id>
+      <name>Cocaine</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Cocaine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00952</drugbank-id>
+      <name>Naratriptan</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Naratriptan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02234</drugbank-id>
+      <name>S-Ethylisothiourea</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of S-Ethylisothiourea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02638</drugbank-id>
+      <name>Terlipressin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Terlipressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02860</drugbank-id>
+      <name>Calyculin A</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Calyculin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06694</drugbank-id>
+      <name>Xylometazoline</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Xylometazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06707</drugbank-id>
+      <name>Levonordefrin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Levonordefrin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06711</drugbank-id>
+      <name>Naphazoline</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Naphazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09202</drugbank-id>
+      <name>Cirazoline</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Cirazoline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11842</drugbank-id>
+      <name>Angiotensin II</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Angiotensin II.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13251</drugbank-id>
+      <name>Octopamine</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Octopamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13394</drugbank-id>
+      <name>Adrenalone</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Adrenalone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13464</drugbank-id>
+      <name>Ornipressin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Ornipressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13517</drugbank-id>
+      <name>Angiotensinamide</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Angiotensinamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14642</drugbank-id>
+      <name>Lypressin</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Lypressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00233</drugbank-id>
+      <name>Aminosalicylic acid</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Aminosalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00244</drugbank-id>
+      <name>Mesalazine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Mesalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00861</drugbank-id>
+      <name>Diflunisal</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Diflunisal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00936</drugbank-id>
+      <name>Salicylic acid</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Salicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Acetylsalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01014</drugbank-id>
+      <name>Balsalazide</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Balsalazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01250</drugbank-id>
+      <name>Olsalazine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Olsalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01294</drugbank-id>
+      <name>Bismuth subsalicylate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Bismuth subsalicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06251</drugbank-id>
+      <name>Dersalazine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Dersalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06807</drugbank-id>
+      <name>Phenyl aminosalicylate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Phenyl aminosalicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09543</drugbank-id>
+      <name>Methyl salicylate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Methyl salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12445</drugbank-id>
+      <name>Nitroaspirin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Nitroaspirin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13509</drugbank-id>
+      <name>Aloxiprin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Aloxiprin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13538</drugbank-id>
+      <name>Guacetisal</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Guacetisal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13612</drugbank-id>
+      <name>Carbaspirin calcium</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Carbaspirin calcium.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14006</drugbank-id>
+      <name>Choline salicylate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Choline salicylate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14026</drugbank-id>
+      <name>Thiosalicylic acid</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be increased when used in combination with Thiosalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00187</drugbank-id>
+      <name>Esmolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Esmolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Betaxolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00264</drugbank-id>
+      <name>Metoprolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Metoprolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00335</drugbank-id>
+      <name>Atenolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Atenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00373</drugbank-id>
+      <name>Timolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Timolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00489</drugbank-id>
+      <name>Sotalol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sotalol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Propranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00598</drugbank-id>
+      <name>Labetalol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Labetalol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00612</drugbank-id>
+      <name>Bisoprolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bisoprolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00866</drugbank-id>
+      <name>Alprenolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Alprenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00960</drugbank-id>
+      <name>Pindolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Pindolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Carvedilol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Propafenone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01193</drugbank-id>
+      <name>Acebutolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Acebutolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01203</drugbank-id>
+      <name>Nadolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Nadolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01295</drugbank-id>
+      <name>Bevantolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bevantolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01297</drugbank-id>
+      <name>Practolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Practolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01359</drugbank-id>
+      <name>Penbutolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Penbutolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01580</drugbank-id>
+      <name>Oxprenolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Oxprenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03322</drugbank-id>
+      <name>Dexpropranolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dexpropranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04846</drugbank-id>
+      <name>Celiprolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Celiprolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04861</drugbank-id>
+      <name>Nebivolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Nebivolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06726</drugbank-id>
+      <name>Bufuralol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bufuralol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08807</drugbank-id>
+      <name>Bopindolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bopindolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08808</drugbank-id>
+      <name>Bupranolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bupranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08952</drugbank-id>
+      <name>Indenolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Indenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09204</drugbank-id>
+      <name>Arotinolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Arotinolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09351</drugbank-id>
+      <name>Levobetaxolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Levobetaxolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11770</drugbank-id>
+      <name>Talinolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Talinolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11785</drugbank-id>
+      <name>Anisodamine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Anisodamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12752</drugbank-id>
+      <name>Bucindolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bucindolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13443</drugbank-id>
+      <name>Esatenolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Esatenolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13508</drugbank-id>
+      <name>Cloranolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cloranolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13530</drugbank-id>
+      <name>Mepindolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Mepindolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13757</drugbank-id>
+      <name>Epanolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Epanolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13775</drugbank-id>
+      <name>Tertatolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Tertatolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12212</drugbank-id>
+      <name>Landiolol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Landiolol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Beclomethasone dipropionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ciclesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluticasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11921</drugbank-id>
+      <name>Deflazacort</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Deflazacort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13843</drugbank-id>
+      <name>Cloprednol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cloprednol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13867</drugbank-id>
+      <name>Fluticasone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluticasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14512</drugbank-id>
+      <name>Mometasone furoate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Mometasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14631</drugbank-id>
+      <name>Prednisolone phosphate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Prednisolone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14633</drugbank-id>
+      <name>Prednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Prednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14644</drugbank-id>
+      <name>Methylprednisolone hemisuccinate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Methylprednisolone hemisuccinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14646</drugbank-id>
+      <name>Prednisone acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Prednisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14652</drugbank-id>
+      <name>Clocortolone acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Clocortolone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14659</drugbank-id>
+      <name>Melengestrol acetate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Melengestrol acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14669</drugbank-id>
+      <name>Betamethasone phosphate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Betamethasone phosphate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14681</drugbank-id>
+      <name>Cortisone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluocinonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Difluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01118</drugbank-id>
+      <name>Amiodarone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Amiodarone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00182</drugbank-id>
+      <name>Amphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Amphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00191</drugbank-id>
+      <name>Phentermine</name>
+      <description>The risk or severity of adverse effects can be increased when Phentermine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00211</drugbank-id>
+      <name>Midodrine</name>
+      <description>The risk or severity of adverse effects can be increased when Midodrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00368</drugbank-id>
+      <name>Norepinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Norepinephrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00388</drugbank-id>
+      <name>Phenylephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Phenylephrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00397</drugbank-id>
+      <name>Phenylpropanolamine</name>
+      <description>The risk or severity of adverse effects can be increased when Phenylpropanolamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00610</drugbank-id>
+      <name>Metaraminol</name>
+      <description>The risk or severity of adverse effects can be increased when Metaraminol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00668</drugbank-id>
+      <name>Epinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Epinephrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00723</drugbank-id>
+      <name>Methoxamine</name>
+      <description>The risk or severity of adverse effects can be increased when Methoxamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00816</drugbank-id>
+      <name>Orciprenaline</name>
+      <description>The risk or severity of adverse effects can be increased when Orciprenaline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00830</drugbank-id>
+      <name>Phenmetrazine</name>
+      <description>The risk or severity of adverse effects can be increased when Phenmetrazine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00841</drugbank-id>
+      <name>Dobutamine</name>
+      <description>The risk or severity of adverse effects can be increased when Dobutamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00852</drugbank-id>
+      <name>Pseudoephedrine</name>
+      <description>The risk or severity of adverse effects can be increased when Pseudoephedrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00865</drugbank-id>
+      <name>Benzphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Benzphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00867</drugbank-id>
+      <name>Ritodrine</name>
+      <description>The risk or severity of adverse effects can be increased when Ritodrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00871</drugbank-id>
+      <name>Terbutaline</name>
+      <description>The risk or severity of adverse effects can be increased when Terbutaline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00935</drugbank-id>
+      <name>Oxymetazoline</name>
+      <description>The risk or severity of adverse effects can be increased when Oxymetazoline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00937</drugbank-id>
+      <name>Diethylpropion</name>
+      <description>The risk or severity of adverse effects can be increased when Diethylpropion is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00988</drugbank-id>
+      <name>Dopamine</name>
+      <description>The risk or severity of adverse effects can be increased when Dopamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01064</drugbank-id>
+      <name>Isoprenaline</name>
+      <description>The risk or severity of adverse effects can be increased when Isoprenaline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01255</drugbank-id>
+      <name>Lisdexamfetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Lisdexamfetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01288</drugbank-id>
+      <name>Fenoterol</name>
+      <description>The risk or severity of adverse effects can be increased when Fenoterol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01364</drugbank-id>
+      <name>Ephedrine</name>
+      <description>The risk or severity of adverse effects can be increased when Ephedrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01365</drugbank-id>
+      <name>Mephentermine</name>
+      <description>The risk or severity of adverse effects can be increased when Mephentermine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01366</drugbank-id>
+      <name>Procaterol</name>
+      <description>The risk or severity of adverse effects can be increased when Procaterol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01407</drugbank-id>
+      <name>Clenbuterol</name>
+      <description>The risk or severity of adverse effects can be increased when Clenbuterol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01442</drugbank-id>
+      <name>MMDA</name>
+      <description>The risk or severity of adverse effects can be increased when MMDA is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01454</drugbank-id>
+      <name>Midomafetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Midomafetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01467</drugbank-id>
+      <name>2,5-Dimethoxy-4-ethylamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when 2,5-Dimethoxy-4-ethylamphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01484</drugbank-id>
+      <name>4-Bromo-2,5-dimethoxyamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when 4-Bromo-2,5-dimethoxyamphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01509</drugbank-id>
+      <name>Tenamfetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Tenamfetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01556</drugbank-id>
+      <name>Chlorphentermine</name>
+      <description>The risk or severity of adverse effects can be increased when Chlorphentermine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01566</drugbank-id>
+      <name>Methylenedioxyethamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Methylenedioxyethamphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01576</drugbank-id>
+      <name>Dextroamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Dextroamphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01577</drugbank-id>
+      <name>Metamfetamine</name>
+      <description>The risk or severity of adverse effects can be increased when Metamfetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06152</drugbank-id>
+      <name>Nylidrin</name>
+      <description>The risk or severity of adverse effects can be increased when Nylidrin is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06764</drugbank-id>
+      <name>Tetryzoline</name>
+      <description>The risk or severity of adverse effects can be increased when Tetryzoline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08841</drugbank-id>
+      <name>Tyramine</name>
+      <description>The risk or severity of adverse effects can be increased when Tyramine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08941</drugbank-id>
+      <name>Isoxsuprine</name>
+      <description>The risk or severity of adverse effects can be increased when Isoxsuprine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08985</drugbank-id>
+      <name>Etilefrine</name>
+      <description>The risk or severity of adverse effects can be increased when Etilefrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09203</drugbank-id>
+      <name>Synephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Synephrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09480</drugbank-id>
+      <name>Iofetamine I-123</name>
+      <description>The risk or severity of adverse effects can be increased when Iofetamine I-123 is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11124</drugbank-id>
+      <name>Racepinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Racepinephrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12080</drugbank-id>
+      <name>Ritobegron</name>
+      <description>The risk or severity of adverse effects can be increased when Ritobegron is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13064</drugbank-id>
+      <name>Tramazoline</name>
+      <description>The risk or severity of adverse effects can be increased when Tramazoline is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13108</drugbank-id>
+      <name>Mephedrone</name>
+      <description>The risk or severity of adverse effects can be increased when Mephedrone is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13341</drugbank-id>
+      <name>Fenozolone</name>
+      <description>The risk or severity of adverse effects can be increased when Fenozolone is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13624</drugbank-id>
+      <name>Methoxyphenamine</name>
+      <description>The risk or severity of adverse effects can be increased when Methoxyphenamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13692</drugbank-id>
+      <name>Tretoquinol</name>
+      <description>The risk or severity of adverse effects can be increased when Tretoquinol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13703</drugbank-id>
+      <name>Gepefrine</name>
+      <description>The risk or severity of adverse effects can be increased when Gepefrine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13777</drugbank-id>
+      <name>Prenalterol</name>
+      <description>The risk or severity of adverse effects can be increased when Prenalterol is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13852</drugbank-id>
+      <name>Mefenorex</name>
+      <description>The risk or severity of adverse effects can be increased when Mefenorex is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13940</drugbank-id>
+      <name>2,5-Dimethoxy-4-ethylthioamphetamine</name>
+      <description>The risk or severity of adverse effects can be increased when 2,5-Dimethoxy-4-ethylthioamphetamine is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00317</drugbank-id>
+      <name>Gefitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Gefitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Erlotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01259</drugbank-id>
+      <name>Lapatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Lapatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Genistein.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02058</drugbank-id>
+      <name>3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with 3-[4-(1-formylpiperazin-4-yl)-benzylidenyl]-2-indolinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02424</drugbank-id>
+      <name>Geldanamycin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Geldanamycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02567</drugbank-id>
+      <name>PD173955</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with PD173955.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03758</drugbank-id>
+      <name>Radicicol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Radicicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04849</drugbank-id>
+      <name>Cediranib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cediranib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04879</drugbank-id>
+      <name>Vatalanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Vatalanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05294</drugbank-id>
+      <name>Vandetanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Vandetanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05424</drugbank-id>
+      <name>Canertinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Canertinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05465</drugbank-id>
+      <name>Tandutinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Tandutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05575</drugbank-id>
+      <name>Motesanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Motesanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05928</drugbank-id>
+      <name>Dovitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dovitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06302</drugbank-id>
+      <name>Glesatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Glesatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06469</drugbank-id>
+      <name>Lestaurtinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Lestaurtinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06595</drugbank-id>
+      <name>Midostaurin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Midostaurin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06626</drugbank-id>
+      <name>Axitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Axitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08399</drugbank-id>
+      <name>Piceatannol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Piceatannol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08865</drugbank-id>
+      <name>Crizotinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Crizotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08875</drugbank-id>
+      <name>Cabozantinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Cabozantinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08881</drugbank-id>
+      <name>Vemurafenib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Vemurafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08896</drugbank-id>
+      <name>Regorafenib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Regorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08916</drugbank-id>
+      <name>Afatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Afatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09063</drugbank-id>
+      <name>Ceritinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ceritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09078</drugbank-id>
+      <name>Lenvatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Lenvatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09079</drugbank-id>
+      <name>Nintedanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Nintedanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09330</drugbank-id>
+      <name>Osimertinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Osimertinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11363</drugbank-id>
+      <name>Alectinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Alectinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11689</drugbank-id>
+      <name>Selumetinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Selumetinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11697</drugbank-id>
+      <name>Pacritinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Pacritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11703</drugbank-id>
+      <name>Acalabrutinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Acalabrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11737</drugbank-id>
+      <name>Icotinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Icotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11805</drugbank-id>
+      <name>Saracatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Saracatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11828</drugbank-id>
+      <name>Neratinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Neratinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11832</drugbank-id>
+      <name>Crenolanib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Crenolanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11904</drugbank-id>
+      <name>Flumatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Flumatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11963</drugbank-id>
+      <name>Dacomitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Dacomitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11973</drugbank-id>
+      <name>Tesevatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Tesevatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11986</drugbank-id>
+      <name>Entrectinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Entrectinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12010</drugbank-id>
+      <name>Fostamatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fostamatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12048</drugbank-id>
+      <name>Savolitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Savolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12141</drugbank-id>
+      <name>Gilteritinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Gilteritinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12147</drugbank-id>
+      <name>Erdafitinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Erdafitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12267</drugbank-id>
+      <name>Brigatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Brigatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12307</drugbank-id>
+      <name>Foretinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Foretinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12323</drugbank-id>
+      <name>Radotinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Radotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14723</drugbank-id>
+      <name>Larotrectinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Larotrectinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12978</drugbank-id>
+      <name>Pexidartinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Pexidartinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12500</drugbank-id>
+      <name>Fedratinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Fedratinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11652</drugbank-id>
+      <name>Tucatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Tucatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11791</drugbank-id>
+      <name>Capmatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Capmatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15685</drugbank-id>
+      <name>Selpercatinib</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Selpercatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Aldesleukin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00227</drugbank-id>
+      <name>Lovastatin</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Lovastatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00609</drugbank-id>
+      <name>Ethionamide</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Ethionamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00829</drugbank-id>
+      <name>Diazepam</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Diazepam.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00850</drugbank-id>
+      <name>Perphenazine</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Perphenazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01233</drugbank-id>
+      <name>Metoclopramide</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Metoclopramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14651</drugbank-id>
+      <name>Perphenazine enanthate</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Perphenazine enanthate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11085</drugbank-id>
+      <name>Resorcinol</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Resorcinol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00201</drugbank-id>
+      <name>Caffeine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Caffeine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00277</drugbank-id>
+      <name>Theophylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Theophylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00651</drugbank-id>
+      <name>Dyphylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Dyphylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Pentoxifylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Mercaptopurine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01223</drugbank-id>
+      <name>Aminophylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Aminophylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01303</drugbank-id>
+      <name>Oxtriphylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Oxtriphylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01412</drugbank-id>
+      <name>Theobromine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Theobromine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01482</drugbank-id>
+      <name>Fenethylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Fenethylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01667</drugbank-id>
+      <name>8-azaguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 8-azaguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01978</drugbank-id>
+      <name>7,9-Dimethylguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 7,9-Dimethylguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02134</drugbank-id>
+      <name>Xanthine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Xanthine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02245</drugbank-id>
+      <name>7-Deazaguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 7-Deazaguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02377</drugbank-id>
+      <name>Guanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Guanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02489</drugbank-id>
+      <name>9-Methylguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 9-Methylguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02568</drugbank-id>
+      <name>Peldesine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Peldesine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04076</drugbank-id>
+      <name>Hypoxanthine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Hypoxanthine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04356</drugbank-id>
+      <name>9-Deazaguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 9-Deazaguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06479</drugbank-id>
+      <name>Propentofylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Propentofylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06575</drugbank-id>
+      <name>Valomaciclovir</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Valomaciclovir which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07954</drugbank-id>
+      <name>3-isobutyl-1-methyl-7H-xanthine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 3-isobutyl-1-methyl-7H-xanthine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08844</drugbank-id>
+      <name>Uric acid</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Uric acid which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09273</drugbank-id>
+      <name>Doxofylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Doxofylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11919</drugbank-id>
+      <name>6-O-benzylguanine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 6-O-benzylguanine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Lisofylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12531</drugbank-id>
+      <name>Lobucavir</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Lobucavir which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12926</drugbank-id>
+      <name>Cafedrine</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Cafedrine which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12927</drugbank-id>
+      <name>Theodrenaline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Theodrenaline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13203</drugbank-id>
+      <name>Bamifylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Bamifylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13449</drugbank-id>
+      <name>Proxyphylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Proxyphylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13573</drugbank-id>
+      <name>Acefylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Acefylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13592</drugbank-id>
+      <name>Etamiphylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Etamiphylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13634</drugbank-id>
+      <name>Pentifylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Pentifylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13812</drugbank-id>
+      <name>Bufylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Bufylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14018</drugbank-id>
+      <name>Bromotheophylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Bromotheophylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14029</drugbank-id>
+      <name>Furafylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of Furafylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14132</drugbank-id>
+      <name>8-chlorotheophylline</name>
+      <description>Thyrotropin alfa may increase the excretion rate of 8-chlorotheophylline which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15122</drugbank-id>
+      <name>PCS-499</name>
+      <description>Thyrotropin alfa may increase the excretion rate of PCS-499 which could result in a lower serum level and potentially a reduction in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01432</drugbank-id>
+      <name>Cholestyramine</name>
+      <description>Cholestyramine can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00375</drugbank-id>
+      <name>Colestipol</name>
+      <description>Colestipol can cause a decrease in the absorption of Thyrotropin alfa resulting in a reduced serum concentration and potentially a decrease in efficacy.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00658</drugbank-id>
+      <name>Sevelamer</name>
+      <description>The therapeutic efficacy of Thyrotropin alfa can be decreased when used in combination with Sevelamer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00390</drugbank-id>
+      <name>Digoxin</name>
+      <description>The serum concentration of Digoxin can be decreased when it is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13401</drugbank-id>
+      <name>Metildigoxin</name>
+      <description>The serum concentration of Metildigoxin can be decreased when it is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13691</drugbank-id>
+      <name>Acetyldigoxin</name>
+      <description>The serum concentration of Acetyldigoxin can be decreased when it is combined with Thyrotropin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with 4-hydroxycoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Coumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with (R)-warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Clorindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Diphenadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with Tioclomarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Thyrotropin alfa is combined with (S)-Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00222</drugbank-id>
+      <name>Glimepiride</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glimepiride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00414</drugbank-id>
+      <name>Acetohexamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Acetohexamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00672</drugbank-id>
+      <name>Chlorpropamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Chlorpropamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00839</drugbank-id>
+      <name>Tolazamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Tolazamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01016</drugbank-id>
+      <name>Glyburide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glyburide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01067</drugbank-id>
+      <name>Glipizide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glipizide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01120</drugbank-id>
+      <name>Gliclazide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Gliclazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01124</drugbank-id>
+      <name>Tolbutamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Tolbutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01251</drugbank-id>
+      <name>Gliquidone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Gliquidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01289</drugbank-id>
+      <name>Glisoxepide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glisoxepide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08962</drugbank-id>
+      <name>Glibornuride</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glibornuride.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13406</drugbank-id>
+      <name>Carbutamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Carbutamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13675</drugbank-id>
+      <name>Metahexamide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Metahexamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00030</drugbank-id>
+      <name>Insulin human</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00046</drugbank-id>
+      <name>Insulin lispro</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin lispro.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00047</drugbank-id>
+      <name>Insulin glargine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin glargine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00071</drugbank-id>
+      <name>Insulin pork</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin pork.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00197</drugbank-id>
+      <name>Troglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Troglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00263</drugbank-id>
+      <name>Sulfisoxazole</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Sulfisoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00280</drugbank-id>
+      <name>Disopyramide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Disopyramide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00284</drugbank-id>
+      <name>Acarbose</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Acarbose.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00359</drugbank-id>
+      <name>Sulfadiazine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Sulfadiazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00412</drugbank-id>
+      <name>Rosiglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Rosiglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Quinine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00491</drugbank-id>
+      <name>Miglitol</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Miglitol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00731</drugbank-id>
+      <name>Nateglinide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Nateglinide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00738</drugbank-id>
+      <name>Pentamidine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Pentamidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00834</drugbank-id>
+      <name>Mifepristone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Mifepristone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00912</drugbank-id>
+      <name>Repaglinide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Repaglinide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00914</drugbank-id>
+      <name>Phenformin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Phenformin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Sulfamethoxazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01132</drugbank-id>
+      <name>Pioglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Pioglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01200</drugbank-id>
+      <name>Bromocriptine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Bromocriptine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01252</drugbank-id>
+      <name>Mitiglinide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Mitiglinide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01261</drugbank-id>
+      <name>Sitagliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Sitagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01276</drugbank-id>
+      <name>Exenatide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Exenatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01277</drugbank-id>
+      <name>Mecasermin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Mecasermin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01278</drugbank-id>
+      <name>Pramlintide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Pramlintide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01306</drugbank-id>
+      <name>Insulin aspart</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin aspart.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01307</drugbank-id>
+      <name>Insulin detemir</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin detemir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01309</drugbank-id>
+      <name>Insulin glulisine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin glulisine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01382</drugbank-id>
+      <name>Glymidine</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Glymidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01700</drugbank-id>
+      <name>AICA ribonucleotide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of AICA ribonucleotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04830</drugbank-id>
+      <name>Buformin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Buformin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04876</drugbank-id>
+      <name>Vildagliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Vildagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04878</drugbank-id>
+      <name>Voglibose</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Voglibose.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05115</drugbank-id>
+      <name>NN344</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of NN344.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05819</drugbank-id>
+      <name>NBI-6024</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of NBI-6024.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06011</drugbank-id>
+      <name>AMG-222</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of AMG-222.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06127</drugbank-id>
+      <name>Bisegliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Bisegliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06203</drugbank-id>
+      <name>Alogliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Alogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06292</drugbank-id>
+      <name>Dapagliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Dapagliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06335</drugbank-id>
+      <name>Saxagliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Saxagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06655</drugbank-id>
+      <name>Liraglutide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Liraglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08382</drugbank-id>
+      <name>Gosogliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Gosogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08882</drugbank-id>
+      <name>Linagliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Linagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08907</drugbank-id>
+      <name>Canagliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Canagliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09022</drugbank-id>
+      <name>Benfluorex</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Benfluorex.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09038</drugbank-id>
+      <name>Empagliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Empagliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09043</drugbank-id>
+      <name>Albiglutide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Albiglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09198</drugbank-id>
+      <name>Lobeglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Lobeglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09199</drugbank-id>
+      <name>Netoglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Netoglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09200</drugbank-id>
+      <name>Rivoglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Rivoglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09201</drugbank-id>
+      <name>Ciglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Ciglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09265</drugbank-id>
+      <name>Lixisenatide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Lixisenatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09456</drugbank-id>
+      <name>Insulin beef</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin beef.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09564</drugbank-id>
+      <name>Insulin degludec</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin degludec.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11567</drugbank-id>
+      <name>Insulin peglispro</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin peglispro.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11568</drugbank-id>
+      <name>Insulin tregopil</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Insulin tregopil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11698</drugbank-id>
+      <name>Ipragliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Ipragliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11723</drugbank-id>
+      <name>Dutogliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Dutogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11780</drugbank-id>
+      <name>Allicin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Allicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11824</drugbank-id>
+      <name>Tofogliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Tofogliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11827</drugbank-id>
+      <name>Ertugliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Ertugliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11898</drugbank-id>
+      <name>2,4-thiazolidinedione</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of 2,4-thiazolidinedione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11950</drugbank-id>
+      <name>Teneligliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Teneligliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11992</drugbank-id>
+      <name>Omarigliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Omarigliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12268</drugbank-id>
+      <name>Carmegliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Carmegliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12412</drugbank-id>
+      <name>Gemigliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Gemigliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12417</drugbank-id>
+      <name>Anagliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Anagliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12625</drugbank-id>
+      <name>Evogliptin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Evogliptin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12713</drugbank-id>
+      <name>Sotagliflozin</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Sotagliflozin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12781</drugbank-id>
+      <name>Balaglitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Balaglitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12935</drugbank-id>
+      <name>Remogliflozin etabonate</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Remogliflozin etabonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13446</drugbank-id>
+      <name>Guar gum</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Guar gum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13928</drugbank-id>
+      <name>Semaglutide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Semaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14027</drugbank-id>
+      <name>Taspoglutide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Taspoglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14035</drugbank-id>
+      <name>Englitazone</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Englitazone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15171</drugbank-id>
+      <name>Tirzepatide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Tirzepatide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15217</drugbank-id>
+      <name>Gastric inhibitory polypeptide</name>
+      <description>Thyrotropin alfa may decrease the hypoglycemic activities of Gastric inhibitory polypeptide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00540</drugbank-id>
+      <name>Nortriptyline</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Nortriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Amitriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00344</drugbank-id>
+      <name>Protriptyline</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Protriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Imipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00543</drugbank-id>
+      <name>Amoxapine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Amoxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00726</drugbank-id>
+      <name>Trimipramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Trimipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Doxepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01151</drugbank-id>
+      <name>Desipramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Desipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Clomipramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04836</drugbank-id>
+      <name>Amineptine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Amineptine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08996</drugbank-id>
+      <name>Dimetacrine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Dimetacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09016</drugbank-id>
+      <name>Butriptyline</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Butriptyline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09167</drugbank-id>
+      <name>Dosulepin</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Dosulepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09289</drugbank-id>
+      <name>Tianeptine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Tianeptine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09307</drugbank-id>
+      <name>Oxaprotiline</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Oxaprotiline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12930</drugbank-id>
+      <name>Opipramol</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Opipramol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13114</drugbank-id>
+      <name>Amitriptylinoxide</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Amitriptylinoxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13225</drugbank-id>
+      <name>Dibenzepin</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Dibenzepin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13246</drugbank-id>
+      <name>Quinupramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Quinupramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13384</drugbank-id>
+      <name>Melitracen</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Melitracen.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13411</drugbank-id>
+      <name>Lofepramine</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Lofepramine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13496</drugbank-id>
+      <name>Iprindole</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Iprindole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13782</drugbank-id>
+      <name>Imipramine oxide</name>
+      <description>The risk or severity of Cardiac Arrhythmia can be increased when Thyrotropin alfa is combined with Imipramine oxide.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Alpha chain
+APDVQDCPECTLQENPFFSQPGAPILQCMGCCFSRAYPTPLRSKKTMLVQKNVTSESTCC
+VAKSYNRVTVMGGFKVENHTACHCSTCYYHKS</sequence>
+    <sequence format="FASTA">&gt;Beta chain
+FCIPTEYTMHIERRECAYCLTINTTICAGYCMTRDINGKLFLPKYALSQDVCTYRDFIYR
+TVEIPGCPLHVAPYFSYPVALSCKCGKCNTDYSDCIHEAIKTNYCTKPQKSY</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>55 °C</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.330</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>7.50</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>22672.9</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C975H1513N267O304S26</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12790</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505696</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M16647</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164746560</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01225</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001248</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Thyroid-stimulating_hormone</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201533</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>4952</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/thyrotropin.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/thyrotropin-alfa.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000490</id>
+      <name>Thyrotropin receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1812</ref-id>
+            <pubmed-id>15571461</pubmed-id>
+            <citation>Szkudlinski MW: Recombinant human thyrotropins of the twenty-first century. Expert Opin Pharmacother. 2004 Dec;5(12):2435-40.</citation>
+          </article>
+          <article>
+            <ref-id>A1814</ref-id>
+            <pubmed-id>9039330</pubmed-id>
+            <citation>Conway GS: Clinical manifestations of genetic defects affecting gonadotrophins and their receptors. Clin Endocrinol (Oxf). 1996 Dec;45(6):657-63.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P16473" source="Swiss-Prot">
+        <name>Thyrotropin receptor</name>
+        <general-function>Thyroid-stimulating hormone receptor activity</general-function>
+        <specific-function>Receptor for thyrothropin. Plays a central role in controlling thyroid cell metabolism. The activity of this receptor is mediated by G proteins which activate adenylate cyclase. Also acts as a receptor for thyrostimulin (GPA2+GPB5).</specific-function>
+        <gene-name>TSHR</gene-name>
+        <locus>14q31</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>414-441
+451-473
+495-517
+538-560
+581-602
+626-649
+661-682</transmembrane-regions>
+        <signal-regions>1-20</signal-regions>
+        <theoretical-pi>6.98</theoretical-pi>
+        <molecular-weight>86828.965</molecular-weight>
+        <chromosome-location>14</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:12373</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>TSHR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M73747</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>903760</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>255</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P16473</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TSHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>LGR3</synonym>
+          <synonym>Thyroid-stimulating hormone receptor</synonym>
+          <synonym>TSH-R</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000978|Thyrotropin receptor
+MRPADLLQLVLLLDLPRDLGGMGCSSPPCECHQEEDFRVTCKDIQRIPSLPPSTQTLKLI
+ETHLRTIPSHAFSNLPNISRIYVSIDVTLQQLESHSFYNLSKVTHIEIRNTRNLTYIDPD
+ALKELPLLKFLGIFNTGLKMFPDLTKVYSTDIFFILEITDNPYMTSIPVNAFQGLCNETL
+TLKLYNNGFTSVQGYAFNGTKLDAVYLNKNKYLTVIDKDAFGGVYSGPSLLDVSQTSVTA
+LPSKGLEHLKELIARNTWTLKKLPLSLSFLHLTRADLSYPSHCCAFKNQKKIRGILESLM
+CNESSMQSLRQRKSVNALNSPLHQEYEENLGDSIVGYKEKSKFQDTHNNAHYYVFFEEQE
+DEIIGFGQELKNPQEETLQAFDSHYDYTICGDSEDMVCTPKSDEFNPCEDIMGYKFLRIV
+VWFVSLLALLGNVFVLLILLTSHYKLNVPRFLMCNLAFADFCMGMYLLLIASVDLYTHSE
+YYNHAIDWQTGPGCNTAGFFTVFASELSVYTLTVITLERWYAITFAMRLDRKIRLRHACA
+IMVGGWVCCFLLALLPLVGISSYAKVSICLPMDTETPLALAYIVFVLTLNIVAFVIVCCC
+YVKIYITVRNPQYNPGDKDTKIAKRMAVLIFTDFICMAPISFYALSAILNKPLITVSNSK
+ILLVLFYPLNSCANPFLYAIFTKAFQRDVFILLSKFGICKRQAQAYRGQRVPPKNSTDIQ
+VQKVTHDMRQGLHNMEDVYELIENSHLTPKKQGQISEEYMQTVL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010345|Thyrotropin receptor (TSHR)
+ATGAGGCCGGCGGACTTGCTGCAGCTGGTGCTGCTGCTCGACCTGCCCAGGGACCTGGGC
+GGAATGGGGTGTTCGTCTCCACCCTGCGAGTGCCATCAGGAGGAGGACTTCAGAGTCACC
+TGCAAGGATATTCAACGCATCCCCAGCTTACCGCCCAGTACGCAGACTCTGAAGCTTATT
+GAGACTCACCTGAGAACTATTCCAAGTCATGCATTTTCTAATCTGCCCAATATTTCCAGA
+ATCTACGTATCTATAGATGTGACTCTGCAGCAGCTGGAATCACACTCCTTCTACAATTTG
+AGTAAAGTGACTCACATAGAAATTCGGAATACCAGGAACTTAACTTACATAGACCCTGAT
+GCCCTCAAAGAGCTCCCCCTCCTAAAGTTCCTTGGCATTTTCAACACTGGACTTAAAATG
+TTCCCTGACCTGACCAAAGTTTATTCCACTGATATATTCTTTATACTTGAAATTACAGAC
+AACCCTTACATGACGTCAATCCCTGTGAATGCTTTTCAGGGACTATGCAATGAAACCTTG
+ACACTGAAGCTGTACAACAATGGCTTTACTTCAGTCCAAGGATATGCTTTCAATGGGACA
+AAGCTGGATGCTGTTTACCTAAACAAGAATAAATACCTGACAGTTATTGACAAAGATGCA
+TTTGGAGGAGTATACAGTGGACCAAGCTTGCTGGACGTGTCTCAAACCAGTGTCACTGCC
+CTTCCATCCAAAGGCCTGGAGCACCTGAAGGAACTGATAGCAAGAAACACCTGGACTCTT
+AAGAAACTTCCACTTTCCTTGAGTTTCCTTCACCTCACACGGGCTGACCTTTCTTACCCA
+AGCCACTGCTGTGCTTTTAAGAATCAGAAGAAAATCAGAGGAATCCTTGAGTCCTTGATG
+TGTAATGAGAGCAGTATGCAGAGCTTGCGCCAGAGAAAATCTGTGAATGCCTTGAATAGC
+CCCCTCCACCAGGAATATGAAGAGAATCTGGGTGACAGCATTGTTGGGTACAAGGAAAAG
+TCCAAGTTCCAGGATACTCATAACAACGCTCATTATTACGTCTTCTTTGAAGAACAAGAG
+GATGAGATCATTGGTTTTGGCCAGGAGCTCAAAAACCCCCAGGAAGAGACTCTACAAGCT
+TTTGACAGCCATTATGACTACACCATATGTGGGGACAGTGAAGACATGGTGTGTACCCCC
+AAGTCCGATGAGTTCAACCCGTGTGAAGACATAATGGGCTACAAGTTCCTGAGAATTGTG
+GTGTGGTTCGTTAGTCTGCTGGCTCTCCTGGGCAATGTCTTTGTCCTGCTTATTCTCCTC
+ACCAGCCACTACAAACTGAACGTCCCCCGCTTTCTCATGTGCAACCTGGCCTTTGCGGAT
+TTCTGCATGGGGATGTACCTGCTCCTCATCGCCTCTGTAGACCTCTACACTCACTCTGAG
+TACTACAACCATGCCATCGACTGGCAGACAGGCCCTGGGTGCAACACGGCTGGTTTCTTC
+ACTGTCTTTGCAAGCGAGTTATCGGTGTATACGCTGACGGTCATCACCCTGGAGCGCTGG
+TATGCCATCACCTTCGCCATGCGCCTGGACCGGAAGATCCGCCTCAGGCACGCATGTGCC
+ATCATGGTTGGGGGCTGGGTTTGCTGCTTCCTTCTCGCCCTGCTTCCTTTGGTGGGAATA
+AGTAGCTATGCCAAAGTCAGTATCTGCCTGCCCATGGACACCGAGACCCCTCTTGCTCTG
+GCATATATTGTTTTTGTTCTGACGCTCAACATAGTTGCCTTCGTCATCGTCTGCTGCTGT
+TATGTGAAGATCTACATCACAGTCCGAAATCCGCAGTACAACCCAGGGGACAAAGATACC
+AAAATTGCCAAGAGGATGGCTGTGTTGATCTTCACCGACTTCATATGCATGGCCCCAATC
+TCATTCTATGCTCTGTCAGCAATTCTGAACAAGCCTCTCATCACTGTTAGCAACTCCAAA
+ATCTTGCTGGTACTCTTCTATCCACTTAACTCCTGTGCCAATCCATTCCTCTATGCTATT
+TTCACCAAGGCCTTCCAGAGGGATGTGTTCATCCTACTCAGCAAGTTTGGCATCTGTAAA
+CGCCAGGCTCAGGCATACCGGGGGCAGAGGGTTCCTCCAAAGAACAGCACTGATATTCAG
+GTTCAAAAGGTTACCCACGAGATGAGGCAGGGTCTCCACAACATGGAAGATGTCTATGAA
+CTGATTGAAAACTCCCATCTAACCCCAAAGAAGCAAGGCCAAATCTCAGAAGAGTATATG
+CAAACGGTTTTGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13306</identifier>
+            <name>LRR_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled peptide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>thyroid-stimulating hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>thyroid-stimulating hormone signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

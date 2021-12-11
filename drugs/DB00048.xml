@@ -1,0 +1,2249 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00048</drugbank-id>
+  <drugbank-id>BTD00010</drugbank-id>
+  <drugbank-id>BIOD00010</drugbank-id>
+  <drugbank-id>DB11249</drugbank-id>
+  <name>Collagenase clostridium histolyticum</name>
+  <description>Collagenase clostridium histolyticum is an enzyme produced by the bacterium Clostridium histolyticum. It is beneficial in the breakdown of collagen plaques for the treatment of Dupuytren's contracture and Peyronie's disease.[L14882] The topical formulation is used for the debridement of necrotic tissue due to burns or chronic ulcers.[L14912]&#13;
+&#13;
+On July 6, 2020 a combination of injectable bacterial collagenases was approved by the FDA for the treatment of cellulite in adult women.[L14872] Also known as Qwo, this injection is the first approved injectable treatment for cellulite and was developed by Endo International.[L14892]</description>
+  <cas-number>9001-12-1</cas-number>
+  <unii>9X7O8V25IT</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A88</ref-id>
+        <pubmed-id>4312</pubmed-id>
+        <citation>Norris DB, Trudgill PW: Multiple forms of cyclohexanone oxygenase from Nocardia globerula CL1. Eur J Biochem. 1976 Mar 16;63(1):193-8.</citation>
+      </article>
+      <article>
+        <ref-id>A89</ref-id>
+        <pubmed-id>4317</pubmed-id>
+        <citation>Pajot P: Fluroescence of proteins in 6-M guanidine hydrochloride. A method for the quantitative determination of tryptophan. Eur J Biochem. 1976 Mar 16;63(1):263-9.</citation>
+      </article>
+      <article>
+        <ref-id>A215062</ref-id>
+        <pubmed-id>24267421</pubmed-id>
+        <citation>Rossi AM, Katz BE: A modern approach to the treatment of cellulite. Dermatol Clin. 2014 Jan;32(1):51-9. doi: 10.1016/j.det.2013.09.005.</citation>
+      </article>
+      <article>
+        <ref-id>A215067</ref-id>
+        <pubmed-id>30792820</pubmed-id>
+        <citation>Randhawa K, Shukla CJ: Non-invasive treatment in the management of Peyronie's disease. Ther Adv Urol. 2019 Feb 11;11:1756287218823671. doi: 10.1177/1756287218823671. eCollection 2019 Jan-Dec.</citation>
+      </article>
+      <article>
+        <ref-id>A215072</ref-id>
+        <pubmed-id>30931150</pubmed-id>
+        <citation>Grazina R, Teixeira S, Ramos R, Sousa H, Ferreira A, Lemos R: Dupuytren's disease: where do we stand? EFORT Open Rev. 2019 Feb 20;4(2):63-69. doi: 10.1302/2058-5241.4.180021. eCollection 2019 Feb.</citation>
+      </article>
+      <article>
+        <ref-id>A215157</ref-id>
+        <pubmed-id>26201462</pubmed-id>
+        <citation>Dhillon S: Collagenase Clostridium Histolyticum: A Review in Peyronie's Disease. Drugs. 2015 Aug;75(12):1405-12. doi: 10.1007/s40265-015-0441-7.</citation>
+      </article>
+      <article>
+        <ref-id>A215167</ref-id>
+        <pubmed-id>21971540</pubmed-id>
+        <citation>Kaplan FT: Collagenase clostridium histolyticum injection for the treatment of Dupuytren's contracture. Drugs Today (Barc). 2011 Sep;47(9):653-67. doi: 10.1358/dot.2011.47.9.1656502.</citation>
+      </article>
+      <article>
+        <ref-id>A215197</ref-id>
+        <pubmed-id>6282982</pubmed-id>
+        <citation>Krane SM: Collagenases and collagen degradation. J Invest Dermatol. 1982 Jul;79 Suppl 1:83s-86s. doi: 10.1111/1523-1747.ep12545849.</citation>
+      </article>
+      <article>
+        <ref-id>A215277</ref-id>
+        <pubmed-id/>
+        <citation>Andrew J Watt, Vincent R Hentz: Collagenase clostridium histolyticum: a novel nonoperative treatment for Dupuytren’s disease Int. J. Clin. Rheumatol..</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L14872</ref-id>
+        <title>FDA Approved Products: Qwo (collagenase clostridium histolyticum-aaes) for subcutaneous injection</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2020/761146s000lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L14882</ref-id>
+        <title>FDA Approved Products: Ziaflex (collagenase clostridium histolyticum) for intralesional use</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2018/125338s109lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L14887</ref-id>
+        <title>Thermo Fisher SDS: Collagenase, Type II Powder</title>
+        <url>https://www.thermofisher.com/document-connect/document-connect.html?url=https%3A%2F%2Fassets.thermofisher.com%2FTFS-Assets%2FLSG%2FSDS%2F17101015_MTR-NALT_EN.pdf&amp;title=MTcxMDEwMTU=</url>
+      </link>
+      <link>
+        <ref-id>L14892</ref-id>
+        <title>Endo International website</title>
+        <url>https://www.endo.com</url>
+      </link>
+      <link>
+        <ref-id>L14912</ref-id>
+        <title>FDA Approved Products: Santyl (collagenase) ointment</title>
+        <url>https://santyl.com/sites/default/files/2019-12/SANTYL-PI.pdf</url>
+      </link>
+      <link>
+        <ref-id>L14952</ref-id>
+        <title>Product monograph: Santyl (collagenase)</title>
+        <url>https://pdf.hres.ca/dpd_pm/00028617.PDF</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Hun-Chi Lin, Shau-Ping Lei, "Molecular cloning of the genes responsible for collagenase production from Clostridium histolyticum." U.S. Patent US5177017, issued December, 1972.</synthesis-reference>
+  <indication>Collagenase clostridium histolyticum is indicated for the treatment of adults with Dupuytren's contracture with a palpable cord. Additionally, it is used to treat men with Peyronie's disease diagnosed with a penile curvature deformity of at least a 30-degree angle at the beginning of therapy in addition to palpable plaques.[L14882] Collagenase ointment is used for the tissue debridement of chronic dermal ulcers and severely burned tissues.[L14952]&#13;
+The combination collagenase product, also known as Qwo, is used for the treatment of moderate to severe cellulite in the buttocks of adult women.[L14872]</indication>
+  <pharmacodynamics>Collagenase digests collagen, treating conditions such as Peyronie's disease, cellulite, chronic ulcers, burns, and contractures.[L14872,L14882,L14912]</pharmacodynamics>
+  <mechanism-of-action>Peyronie's disease is a fibrous lesion of the tunica albuginea in the penile tissues.[A215067] Cellulite is a multifactorial condition resulting in the accumulation of fibrotic dermal septae and the expansion of subcutaneous fat.[A215062] Dupuytren's contracture is a fibroproliferative disease that results in the fibrous deposition of collagen in the hands, limiting mobility and functionality of the hands.[A215072] The collagen deposition in the abovementioned conditions is the target of collagenase enzyme therapy.[A215157,A215167]&#13;
+&#13;
+These enzymes are proteinases acting to hydrolyze collagen's triple-helical conformation, resulting in the lysis of collagen deposits and relief from the necrotic tissue and plaques associated with several conditions.[L14882,L14912] On a molecular level, collagenases cleave polypeptide chains that make up the collagen triple helix structure at various loci, leading to solubilization from the collagen fibril.[A215197]</mechanism-of-action>
+  <toxicity>No clinical reaction has been attributed to an overdose of collagenase in clinical trials.[L14912] If required, the collagenase enzymes can be inactivated with a povidone-iodine wash.[L14912]</toxicity>
+  <metabolism>No formal systemic metabolism studies have been performed with collagenase histolyticum.[A215277]</metabolism>
+  <absorption>There is currently limited readily available regarding the absorption of collagenase through the skin.[L14912] &#13;
+In a pharmacokinetic study, the serum concentrations of clostridium type I collagenase (AUX-I) and clostridium type II collagenase (AUX-II) were measured. Both were detected under the lower limit of quantitation of 5 ng/mL and 25 ng/mL, respectively, in volunteers administered one dose of the collagenase histolyticum combination product, Qwo, at a dose of up to 3.36 mg in a maximum of 4 body areas.[L14872]</absorption>
+  <half-life/>
+  <protein-binding>There is no readily available information regarding the protein binding of collagenase.[L14912]</protein-binding>
+  <route-of-elimination/>
+  <volume-of-distribution>There is no currently available information regarding the presence of collagenase in body fluids or uptake by particular organs and passage through the blood-brain barrier.[L14912] Systemic pharmacokinetic studies evaluation volume of distribution have not been performed, however, collagenase histolyticum is likely to have local degradative effects in the region of the application without effects on the vasculature and elastic tissue.[A215277]</volume-of-distribution>
+  <clearance>Clearance information for collagenase is not readily available.[L14912]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Clostridium histolyticum enzymes</synonym>
+    <synonym language="english" coder="">Collagenase</synonym>
+    <synonym language="english" coder="usan">Collagenase clostridium histolyticum</synonym>
+    <synonym language="english" coder="">collagenase clostridium histolyticum-aaes</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Collagenase Santyl</name>
+      <labeller>Healthpoint</labeller>
+      <ndc-id/>
+      <ndc-product-code>0064-5010</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-18</started-marketing-on>
+      <ended-marketing-on>2017-06-30</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength>250 [arb'U]/1g</strength>
+      <route>Topical</route>
+      <fda-application-number>BLA101995</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Collagenase Santyl</name>
+      <labeller>SMITH &amp; NEPHEW, INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>50484-010</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength>250 [arb'U]/1g</strength>
+      <route>Topical</route>
+      <fda-application-number>BLA101995</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Kimchi Vitamin chewable multivitamin</name>
+      <labeller>Tobico</labeller>
+      <ndc-id/>
+      <ndc-product-code>52102-1001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-03-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Tablet, chewable</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Santyl</name>
+      <labeller>Smith &amp; Nephew, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02063670</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xiaflex</name>
+      <labeller>Endo Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>66887-003</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-02-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.9 mg/1</strength>
+      <route>Intralesional</route>
+      <fda-application-number>BLA125338</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xiaflex</name>
+      <labeller>Endo Ventures Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02388316</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-11-14</started-marketing-on>
+      <ended-marketing-on>2020-06-11</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>0.9 mg</strength>
+      <route>Intralesional</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xiapex</name>
+      <labeller>Swedish Orphan Biovitrum Ab</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/002048</ema-product-code>
+      <ema-ma-number>EU/1/11/671/001</ema-ma-number>
+      <started-marketing-on>2011-02-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>0.9 mg</strength>
+      <route>Intralesional</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Cordase</name>
+      <company/>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Xiapex</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kimchi Vitamin chewable multivitamin</name>
+      <ingredients>Ascorbic acid + Cholecalciferol + Collagenase clostridium histolyticum + Folic acid + Lactic acid + Nicotinamide + Pyridoxine + Riboflavin + Thiamine + Vitamin A + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Collagenase Santyl</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Collagenase Santyl</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xiaflex</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Santyl</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xiaflex</name>
+      <ingredients>Collagenase clostridium histolyticum</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Abbott Laboratories Ltd.</name>
+      <url>http://www.abbott.com</url>
+    </packager>
+    <packager>
+      <name>Advance Biofactures Corp.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Auxilium Pharmaceuticals</name>
+      <url>http://www.auxilium.com</url>
+    </packager>
+    <packager>
+      <name>BASF Corp.</name>
+      <url>https://www.basf.com</url>
+    </packager>
+    <packager>
+      <name>Dispensing Solutions</name>
+      <url>http://www.drxdispensing.com</url>
+    </packager>
+    <packager>
+      <name>Healthpoint Ltd.</name>
+      <url>http://www.healthpoint.com</url>
+    </packager>
+    <packager>
+      <name>Medisca Inc.</name>
+      <url>http://www.medisca.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Santyl ointment</description>
+      <cost currency="USD">4.13</cost>
+      <unit>g</unit>
+    </price>
+    <price>
+      <description>Santyl 250 unit/gm Ointment 15 gm Tube</description>
+      <cost currency="USD">62.98</cost>
+      <unit>tube</unit>
+    </price>
+    <price>
+      <description>Collagenase powder</description>
+      <cost currency="USD">2432.7</cost>
+      <unit>g</unit>
+    </price>
+    <price>
+      <description>Xiaflex 0.9 mg vial</description>
+      <cost currency="USD">3900.0</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Collagen-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Collagenases</category>
+      <mesh-id>D017364</mesh-id>
+    </category>
+    <category>
+      <category>Dermatologicals</category>
+      <mesh-id>D003879</mesh-id>
+    </category>
+    <category>
+      <category>Endopeptidases</category>
+      <mesh-id>D010450</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Metalloendopeptidases</category>
+      <mesh-id>D008666</mesh-id>
+    </category>
+    <category>
+      <category>Metalloproteases</category>
+      <mesh-id>D045726</mesh-id>
+    </category>
+    <category>
+      <category>Misc. Skin and Mucous Membrane Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Musculo-Skeletal System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptide Hydrolases</category>
+      <mesh-id>D010447</mesh-id>
+    </category>
+    <category>
+      <category>Preparations for Treatment of Wounds and Ulcers</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>250 [arb'U]/1g</strength>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>60 IU/100g</strength>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>120 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>1.2 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Tablet, chewable</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength>1.2 U</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intralesional</route>
+      <strength>0.9 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intralesional</route>
+      <strength>0.9 mg/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intralesional</route>
+      <strength>0.9 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="D03BA02">
+      <level code="D03BA">Proteolytic enzymes</level>
+      <level code="D03B">ENZYMES</level>
+      <level code="D03">PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+    <atc-code code="M09AB02">
+      <level code="M09AB">Enzymes</level>
+      <level code="M09A">OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM</level>
+      <level code="M09">OTHER DRUGS FOR DISORDERS OF THE MUSCULO-SKELETAL SYSTEM</level>
+      <level code="M">MUSCULO-SKELETAL SYSTEM</level>
+    </atc-code>
+    <atc-code code="D03BA52">
+      <level code="D03BA">Proteolytic enzymes</level>
+      <level code="D03B">ENZYMES</level>
+      <level code="D03">PREPARATIONS FOR TREATMENT OF WOUNDS AND ULCERS</level>
+      <level code="D">DERMATOLOGICALS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+    <ahfs-code>84:92.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00048.pdf?1265922742</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The risk or severity of adverse effects can be increased when Bivalirudin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Abciximab is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The risk or severity of adverse effects can be increased when Dicoumarol is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The risk or severity of adverse effects can be increased when Argatroban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The risk or severity of adverse effects can be increased when Ardeparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The risk or severity of adverse effects can be increased when Phenindione is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>The risk or severity of adverse effects can be increased when Fondaparinux is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The risk or severity of adverse effects can be increased when Warfarin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan polysulfate</name>
+      <description>The risk or severity of adverse effects can be increased when Pentosan polysulfate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The risk or severity of adverse effects can be increased when Phenprocoumon is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Edetic acid is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The risk or severity of adverse effects can be increased when Heparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The risk or severity of adverse effects can be increased when Enoxaparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The risk or severity of adverse effects can be increased when Acenocoumarol is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The risk or severity of adverse effects can be increased when Ximelagatran is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>The risk or severity of adverse effects can be increased when Ancrod is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The risk or severity of adverse effects can be increased when Rivaroxaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The risk or severity of adverse effects can be increased when Sulodexide is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>Idraparinux</name>
+      <description>The risk or severity of adverse effects can be increased when Idraparinux is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The risk or severity of adverse effects can be increased when Apixaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The risk or severity of adverse effects can be increased when Otamixaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The risk or severity of adverse effects can be increased when Dabigatran etexilate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The risk or severity of adverse effects can be increased when Danaparoid is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The risk or severity of adverse effects can be increased when Dalteparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07767</drugbank-id>
+      <name>Ferulic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Ferulic acid is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The risk or severity of adverse effects can be increased when Ethyl biscoumacetate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The risk or severity of adverse effects can be increased when Nadroparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The risk or severity of adverse effects can be increased when Edoxaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>The risk or severity of adverse effects can be increased when Dextran is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>The risk or severity of adverse effects can be increased when Desirudin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11268</drugbank-id>
+      <name>Protocatechualdehyde</name>
+      <description>The risk or severity of adverse effects can be increased when Protocatechualdehyde is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>The risk or severity of adverse effects can be increased when Protein C is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin III human is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11984</drugbank-id>
+      <name>Letaxaban</name>
+      <description>The risk or severity of adverse effects can be increased when Letaxaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>Darexaban</name>
+      <description>The risk or severity of adverse effects can be increased when Darexaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The risk or severity of adverse effects can be increased when Nafamostat is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The risk or severity of adverse effects can be increased when Gabexate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13124</drugbank-id>
+      <name>Troxerutin</name>
+      <description>The risk or severity of adverse effects can be increased when Troxerutin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The risk or severity of adverse effects can be increased when Fluindione is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>The risk or severity of adverse effects can be increased when Protein S human is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13616</drugbank-id>
+      <name>Melagatran</name>
+      <description>The risk or severity of adverse effects can be increased when Melagatran is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09125</drugbank-id>
+      <name>Potassium citrate</name>
+      <description>The risk or severity of adverse effects can be increased when Potassium citrate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09154</drugbank-id>
+      <name>Sodium citrate</name>
+      <description>The risk or severity of adverse effects can be increased when Sodium citrate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>The risk or severity of adverse effects can be increased when Tenecteplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Drotrecogin alfa is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>The risk or severity of adverse effects can be increased when Defibrotide is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The risk or severity of adverse effects can be increased when Tinzaparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13199</drugbank-id>
+      <name>Brinase</name>
+      <description>The risk or severity of adverse effects can be increased when Brinase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13646</drugbank-id>
+      <name>Saruplase</name>
+      <description>The risk or severity of adverse effects can be increased when Saruplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>The risk or severity of adverse effects can be increased when Streptokinase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Acetylsalicylic acid is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>The risk or severity of adverse effects can be increased when Desmoteplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>The risk or severity of adverse effects can be increased when Fibrinolysin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>The risk or severity of adverse effects can be increased when Astaxanthin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>The risk or severity of adverse effects can be increased when Urokinase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The risk or severity of adverse effects can be increased when Dipyridamole is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>The risk or severity of adverse effects can be increased when Iloprost is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>The risk or severity of adverse effects can be increased when Epoprostenol is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>The risk or severity of adverse effects can be increased when Beraprost is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>The risk or severity of adverse effects can be increased when Prasugrel is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>The risk or severity of adverse effects can be increased when Cangrelor is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>The risk or severity of adverse effects can be increased when Triflusal is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The risk or severity of adverse effects can be increased when Ticagrelor is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>The risk or severity of adverse effects can be increased when Ditazole is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The risk or severity of adverse effects can be increased when Vorapaxar is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The risk or severity of adverse effects can be increased when Bemiparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The risk or severity of adverse effects can be increased when Parnaparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The risk or severity of adverse effects can be increased when Clorindione is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The risk or severity of adverse effects can be increased when Diphenadione is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The risk or severity of adverse effects can be increased when Tioclomarol is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The risk or severity of adverse effects can be increased when Lepirudin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>The risk or severity of adverse effects can be increased when Alteplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>The risk or severity of adverse effects can be increased when Reteplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>The risk or severity of adverse effects can be increased when Anistreplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14094</drugbank-id>
+      <name>Tocopherylquinone</name>
+      <description>The risk or severity of adverse effects can be increased when Tocopherylquinone is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06679</drugbank-id>
+      <name>Amediplase</name>
+      <description>The risk or severity of adverse effects can be increased when Amediplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The risk or severity of adverse effects can be increased when 4-hydroxycoumarin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The risk or severity of adverse effects can be increased when (R)-warfarin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The risk or severity of adverse effects can be increased when (S)-Warfarin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12364</drugbank-id>
+      <name>Betrixaban</name>
+      <description>The risk or severity of adverse effects can be increased when Betrixaban is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14598</drugbank-id>
+      <name>Edetate calcium disodium anhydrous</name>
+      <description>The risk or severity of adverse effects can be increased when Edetate calcium disodium anhydrous is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11154</drugbank-id>
+      <name>Zinc citrate</name>
+      <description>The risk or severity of adverse effects can be increased when Zinc citrate is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11166</drugbank-id>
+      <name>Antithrombin Alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Antithrombin Alfa is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The risk or severity of adverse effects can be increased when Coumarin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14726</drugbank-id>
+      <name>Dabigatran</name>
+      <description>The risk or severity of adverse effects can be increased when Dabigatran is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The risk or severity of adverse effects can be increased when Semuloparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12726</drugbank-id>
+      <name>Monteplase</name>
+      <description>The risk or severity of adverse effects can be increased when Monteplase is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The risk or severity of adverse effects can be increased when Reviparin is combined with Collagenase clostridium histolyticum.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00254</drugbank-id>
+      <name>Doxycycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Doxycycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00256</drugbank-id>
+      <name>Lymecycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Lymecycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00453</drugbank-id>
+      <name>Clomocycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Clomocycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00560</drugbank-id>
+      <name>Tigecycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Tigecycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00595</drugbank-id>
+      <name>Oxytetracycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Oxytetracycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00618</drugbank-id>
+      <name>Demeclocycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Demeclocycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00759</drugbank-id>
+      <name>Tetracycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Tetracycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00931</drugbank-id>
+      <name>Metacycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Metacycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01017</drugbank-id>
+      <name>Minocycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Minocycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01301</drugbank-id>
+      <name>Rolitetracycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Rolitetracycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09093</drugbank-id>
+      <name>Chlortetracycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Chlortetracycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12035</drugbank-id>
+      <name>Sarecycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Sarecycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12329</drugbank-id>
+      <name>Eravacycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Eravacycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12455</drugbank-id>
+      <name>Omadacycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Omadacycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13092</drugbank-id>
+      <name>Meclocycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Meclocycline.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13264</drugbank-id>
+      <name>Penimepicycline</name>
+      <description>The therapeutic efficacy of Collagenase clostridium histolyticum can be decreased when used in combination with Penimepicycline.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt; Collagenase Sequence 
+MKRKCLSKRLMLAITMATIFTVNSTLPIYAAVDKNNATAAVQNESKRYTVSYLKTLNYYD
+LVDLLVKTEIENLPDLFQYSSDAKEFYGNKTRMSFIMDEIGRRAPQYTEIDHKGIPTLVE
+VVRAGFYLGFHNKELNEINKRSFKERVIPSILAIQKNPNFKLGTEVQDKIVSATGLLAGN
+ETAPPEVVNNFTPILQDCIKNIDRYALDDLKSKALFNVLAAPTYDITEYLRATKEKPENT
+PWYGKIDGFINELKKLALYGKINDNNSWIIDNGIYHIAPLGKLHSNNKIGIETLTEVMKV
+YPYLSMQHLQSADQIKRHYDSKDAEGNKIPLDKFKKEGKEKYCPKTYTFDDGKVIIKAGA
+RVEEEKVKRLYWASKEVNSQFFRVYGIDKPLEEGNPDDILTMVIYNSPEEYKLNSVLYGY
+DTNNGGMYIEPEGTFFTYEREAQESTYTLEELFRHEYTHYLQGRYAVPGQWGRTKLYDND
+RLTWYEEGGAELFAGSTRTSGILPRKSIVSNIHNTTRNNRYKLSDTVHSKYGASFEFYNY
+ACMFMDYMYNKDMGILNKLNDLAKNNDVDGYDNYIRDLSSNYALNDKYQDHMQERIDNYE
+NLTVPFVADDYLVRHAYKNPNEIYSEISEVAKLKDAKSEVKKSQYFSTFTLRGSYTGGAS
+KGKLEDQKAMNKFIDDSLKKLDTYSWSGYKTLTAYFTNYKVDSSNRVTYDVVFHGYLPNE
+GDSKNSLPYGKINGTYKGTEKEKIKFSSEGSFDPDGKIVSYEWDFGDGNKSNEENPEHSY
+DKVGTYTVKLKVTDDKGESSVSTTTAEIKDLSENKLPVIYMHVPKSGALNQKVVFYGKGT
+YDPDGSIAGYQWDFGDGSDFSSEQNPSHVYTKKGEYTVTLRVMDSSGQMSEKTMKIKITD
+PVYPIGTEKEPNNSKETASGPIVPGIPVSGTIENTSDQDYFYFDVITPGEVKIDINKLGY
+GGATWVVYDENNNAVSYATDDGQNLSGKFKADKPGRYYIHLYMFNGSYMPYRINIEGSVG
+R</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>49-54</value>
+      <source>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3406112/</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.714</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.35-6.20</value>
+      <source>https://pubs.acs.org/doi/pdfplus/10.1021/bi00308a036?src=recsys</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>112023.2</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C5028H7666N1300O1564S21</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>21378</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>2150</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506485</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00816</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449107</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000965</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Collagenase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>58939</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/collagenase.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/collagenase-ointment.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000025</id>
+      <name>Collagen alpha-1(I) chain</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1932</ref-id>
+            <pubmed-id>17440987</pubmed-id>
+            <citation>Egeblad M, Shen HC, Behonick DJ, Wilmes L, Eichten A, Korets LV, Kheradmand F, Werb Z, Coussens LM: Type I collagen is a genetic modifier of matrix metalloproteinase 2 in murine skeletal development. Dev Dyn. 2007 Jun;236(6):1683-93.</citation>
+          </article>
+          <article>
+            <ref-id>A1934</ref-id>
+            <pubmed-id>12855673</pubmed-id>
+            <citation>Lindsey ML, Yoshioka J, MacGillivray C, Muangman S, Gannon J, Verghese A, Aikawa M, Libby P, Krane SM, Lee RT: Effect of a cleavage-resistant collagen mutation on left ventricular remodeling. Circ Res. 2003 Aug 8;93(3):238-45. Epub 2003 Jul 10.</citation>
+          </article>
+          <article>
+            <ref-id>A1935</ref-id>
+            <pubmed-id>12535212</pubmed-id>
+            <citation>Beare AH, O'Kane S, Krane SM, Ferguson MW: Severely impaired wound healing in the collagenase-resistant mouse. J Invest Dermatol. 2003 Jan;120(1):153-63.</citation>
+          </article>
+          <article>
+            <ref-id>A1937</ref-id>
+            <pubmed-id>12101112</pubmed-id>
+            <citation>Chiu CJ, Chang ML, Chiang CP, Hahn LJ, Hsieh LL, Chen CJ: Interaction of collagen-related genes and susceptibility to betel quid-induced oral submucous fibrosis. Cancer Epidemiol Biomarkers Prev. 2002 Jul;11(7):646-53.</citation>
+          </article>
+          <article>
+            <ref-id>A1940</ref-id>
+            <pubmed-id>15659034</pubmed-id>
+            <citation>Beare AH, Krane SM, Ferguson MW: Variable impairment of wound healing in the heterozygous collagenase-resistant mouse. Wound Repair Regen. 2005 Jan-Feb;13(1):27-40.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02452" source="Swiss-Prot">
+        <name>Collagen alpha-1(I) chain</name>
+        <general-function>Platelet-derived growth factor binding</general-function>
+        <specific-function>Type I collagen is a member of group I collagen (fibrillar forming collagen).</specific-function>
+        <gene-name>COL1A1</gene-name>
+        <locus>17q21.33</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-22</signal-regions>
+        <theoretical-pi>5.56</theoretical-pi>
+        <molecular-weight>138941.105</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2197</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>COL1A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Z74615</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1418928</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02452</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CO1A1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Alpha-1 type I collagen</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036937|Collagen alpha-1(I) chain
+MFSFVDLRLLLLLAATALLTHGQEEGQVEGQDEDIPPITCVQNGLRYHDRDVWKPEPCRI
+CVCDNGKVLCDDVICDETKNCPGAEVPEGECCPVCPDGSESPTDQETTGVEGPKGDTGPR
+GPRGPAGPPGRDGIPGQPGLPGPPGPPGPPGPPGLGGNFAPQLSYGYDEKSTGGISVPGP
+MGPSGPRGLPGPPGAPGPQGFQGPPGEPGEPGASGPMGPRGPPGPPGKNGDDGEAGKPGR
+PGERGPPGPQGARGLPGTAGLPGMKGHRGFSGLDGAKGDAGPAGPKGEPGSPGENGAPGQ
+MGPRGLPGERGRPGAPGPAGARGNDGATGAAGPPGPTGPAGPPGFPGAVGAKGEAGPQGP
+RGSEGPQGVRGEPGPPGPAGAAGPAGNPGADGQPGAKGANGAPGIAGAPGFPGARGPSGP
+QGPGGPPGPKGNSGEPGAPGSKGDTGAKGEPGPVGVQGPPGPAGEEGKRGARGEPGPTGL
+PGPPGERGGPGSRGFPGADGVAGPKGPAGERGSPGPAGPKGSPGEAGRPGEAGLPGAKGL
+TGSPGSPGPDGKTGPPGPAGQDGRPGPPGPPGARGQAGVMGFPGPKGAAGEPGKAGERGV
+PGPPGAVGPAGKDGEAGAQGPPGPAGPAGERGEQGPAGSPGFQGLPGPAGPPGEAGKPGE
+QGVPGDLGAPGPSGARGERGFPGERGVQGPPGPAGPRGANGAPGNDGAKGDAGAPGAPGS
+QGAPGLQGMPGERGAAGLPGPKGDRGDAGPKGADGSPGKDGVRGLTGPIGPPGPAGAPGD
+KGESGPSGPAGPTGARGAPGDRGEPGPPGPAGFAGPPGADGQPGAKGEPGDAGAKGDAGP
+PGPAGPAGPPGPIGNVGAPGAKGARGSAGPPGATGFPGAAGRVGPPGPSGNAGPPGPPGP
+AGKEGGKGPRGETGPAGRPGEVGPPGPPGPAGEKGSPGADGPAGAPGTPGPQGIAGQRGV
+VGLPGQRGERGFPGLPGPSGEPGKQGPSGASGERGPPGPMGPPGLAGPPGESGREGAPGA
+EGSPGRDGSPGAKGDRGETGPAGPPGAPGAPGAPGPVGPAGKSGDRGETGPAGPTGPVGP
+VGARGPAGPQGPRGDKGETGEQGDRGIKGHRGFSGLQGPPGPPGSPGEQGPSGASGPAGP
+RGPPGSAGAPGKDGLNGLPGPIGPPGPRGRTGDAGPVGPPGPPGPPGPPGPPSAGFDFSF
+LPQPPQEKAHDGGRYYRADDANVVRDRDLEVDTTLKSLSQQIENIRSPEGSRKNPARTCR
+DLKMCHSDWKSGEYWIDPNQGCNLDAIKVFCNMETGETCVYPTQPSVAQKNWYISKNPKD
+KRHVWFGESMTDGFQFEYGGQGSDPADVAIQLTFLRLMSTEASQNITYHCKNSVAYMDQQ
+TGNLKKALLLQGSNEIEIRAEGNSRFTYSVTVDGCTSHTGAWGKTVIEYKTTKTSRLPII
+DVAPLDVGAPDQEFGFDVGPVCFL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016001|Collagen alpha-1(I) chain (COL1A1)
+ATGTTCAGCTTTGTGGACCTCCGGCTCCTGCTCCTCTTAGCGGCCACCGCCCTCCTGACG
+CACGGCCAAGAGGAAGGCCAAGTCGAGGGCCAAGACGAAGACATCCCACCAATCACCTGC
+GTACAGAACGGCCTCAGGTACCATGACCGAGACGTGTGGAAACCCGAGCCCTGCCGGATC
+TGCGTCTGCGACAACGGCAAGGTGTTGTGCGATGACGTGATCTGTGACGAGACCAAGAAC
+TGCCCCGGCGCCGAAGTCCCCGAGGGCGAGTGCTGTCCCGTCTGCCCCGACGGCTCAGAG
+TCACCCACCGACCAAGAAACCACCGGCGTCGAGGGACCCAAGGGAGACACTGGCCCCCGA
+GGCCCAAGGGGACCCGCAGGCCCCCCTGGCCGAGATGGCATCCCTGGACAGCCTGGACTT
+CCCGGACCCCCCGGACCCCCCGGACCTCCCGGACCCCCTGGCCTCGGAGGAAACTTTGCT
+CCCCAGCTGTCTTATGGCTATGATGAGAAATCAACCGGAGGAATTTCCGTGCCTGGCCCC
+ATGGGTCCCTCTGGTCCTCGTGGTCTCCCTGGCCCCCCTGGTGCACCTGGTCCCCAAGGC
+TTCCAAGGTCCCCCTGGTGAGCCTGGCGAGCCTGGAGCTTCAGGTCCCATGGGTCCCCGA
+GGTCCCCCAGGTCCCCCTGGAAAGAATGGAGATGATGGGGAAGCTGGAAAACCTGGTCGT
+CCTGGTGAGCGTGGGCCTCCTGGGCCTCAGGGTGCTCGAGGATTGCCCGGAACAGCTGGC
+CTCCCTGGAATGAAGGGACACAGAGGTTTCAGTGGTTTGGATGGTGCCAAGGGAGATGCT
+GGTCCTGCTGGTCCTAAGGGTGAGCCTGGCAGCCCTGGTGAAAATGGAGCTCCTGGTCAG
+ATGGGCCCCCGTGGCCTGCCTGGTGAGAGAGGTCGCCCTGGAGCCCCTGGCCCTGCTGGT
+GCTCGTGGAAATGATGGTGCTACTGGTGCTGCCGGGCCCCCTGGTCCCACCGGCCCCGCT
+GGTCCTCCTGGCTTCCCTGGTGCTGTTGGTGCTAAGGGTGAAGCTGGTCCCCAAGGGCCC
+CGAGGCTCTGAAGGTCCCCAGGGTGTGCGTGGTGAGCCTGGCCCCCCTGGCCCTGCTGGT
+GCTGCTGGCCCTGCTGGAAACCCTGGTGCTGATGGACAGCCTGGTGCTAAAGGTGCCAAT
+GGTGCTCCTGGTATTGCTGGTGCTCCTGGCTTCCCTGGTGCCCGAGGCCCCTCTGGACCC
+CAGGGCCCCGGCGGCCCTCCTGGTCCCAAGGGTAACAGCGGTGAACCTGGTGCTCCTGGC
+AGCAAAGGAGACACTGGTGCTAAGGGAGAGCCTGGCCCTGTTGGTGTTCAAGGACCCCCT
+GGCCCTGCTGGAGAGGAAGGAAAGCGAGGAGCTCGAGGTGAACCCGGACCCACTGGCCTG
+CCCGGACCCCCTGGCGAGCGTGGTGGACCTGGTAGCCGTGGTTTCCCTGGCGCAGATGGT
+GTTGCTGGTCCCAAGGGTCCCGCTGGTGAACGTGGTTCTCCTGGCCCTGCTGGCCCCAAA
+GGATCTCCTGGTGAAGCTGGTCGTCCCGGTGAAGCTGGTCTGCCTGGTGCCAAGGGTCTG
+ACTGGAAGCCCTGGCAGCCCTGGTCCTGATGGCAAAACTGGCCCCCCTGGTCCCGCCGGT
+CAAGATGGTCGCCCCGGACCCCCAGGCCCACCTGGTGCCCGTGGTCAGGCTGGTGTGATG
+GGATTCCCTGGACCTAAAGGTGCTGCTGGAGAGCCCGGCAAGGCTGGAGAGCGAGGTGTT
+CCCGGACCCCCTGGCGCTGTCGGTCCTGCTGGCAAAGATGGAGAGGCTGGAGCTCAGGGA
+CCCCCTGGCCCTGCTGGTCCCGCTGGCGAGAGAGGTGAACAAGGCCCTGCTGGCTCCCCC
+GGATTCCAGGGTCTCCCTGGTCCTGCTGGTCCTCCAGGTGAAGCAGGCAAACCTGGTGAA
+CAGGGTGTTCCTGGAGACCTTGGCGCCCCTGGCCCCTCTGGAGCAAGAGGCGAGAGAGGT
+TTCCCTGGCGAGCGTGGTGTGCAAGGTCCCCCTGGTCCTGCTGGTCCCCGAGGGGCCAAC
+GGTGCTCCCGGCAACGATGGTGCTAAGGGTGATGCTGGTGCCCCTGGAGCTCCCGGTAGC
+CAGGGCGCCCCTGGCCTTCAGGGAATGCCTGGTGAACGTGGTGCAGCTGGTCTTCCAGGG
+CCTAAGGGTGACAGAGGTGATGCTGGTCCCAAAGGTGCTGATGGCTCTCCTGGCAAAGAT
+GGCGTCCGTGGTCTGACTGGCCCCATTGGTCCTCCTGGCCCTGCTGGTGCCCCTGGTGAC
+AAGGGTGAAAGTGGTCCCAGCGGCCCTGCTGGTCCCACTGGAGCTCGTGGTGCCCCCGGA
+GACCGTGGTGAGCCTGGTCCCCCCGGCCCTGCTGGCTTTGCTGGCCCCCCTGGTGCTGAC
+GGCCAACCTGGTGCTAAAGGCGAACCTGGTGATGCTGGTGCTAAAGGCGATGCTGGTCCC
+CCTGGCCCTGCCGGACCCGCTGGACCCCCTGGCCCCATTGGTAATGTTGGTGCTCCTGGA
+GCCAAAGGTGCTCGCGGCAGCGCTGGTCCCCCTGGTGCTACTGGTTTCCCTGGTGCTGCT
+GGCCGAGTCGGTCCTCCTGGCCCCTCTGGAAATGCTGGACCCCCTGGCCCTCCTGGTCCT
+GCTGGCAAAGAAGGCGGCAAAGGTCCCCGTGGTGAGACTGGCCCTGCTGGACGTCCTGGT
+GAAGTTGGTCCCCCTGGTCCCCCTGGCCCTGCTGGCGAGAAAGGATCCCCTGGTGCTGAT
+GGTCCTGCTGGTGCTCCTGGTACTCCCGGGCCTCAAGGTATTGCTGGACAGCGTGGTGTG
+GTCGGCCTGCCTGGTCAGAGAGGAGAGAGAGGCTTCCCTGGTCTTCCTGGCCCCTCTGGT
+GAACCTGGCAAACAAGGTCCCTCTGGAGCAAGTGGTGAACGTGGTCCCCCTGGTCCCATG
+GGCCCCCCTGGATTGGCTGGACCCCCTGGTGAATCTGGACGTGAGGGGGCTCCTGGTGCC
+GAAGGTTCCCCTGGACGAGACGGTTCTCCTGGCGCCAAGGGTGACCGTGGTGAGACCGGC
+CCCGCTGGACCCCCTGGTGCTCCTGGTGCTCCTGGTGCCCCTGGCCCCGTTGGCCCTGCT
+GGCAAGAGTGGTGATCGTGGTGAGACTGGTCCTGCTGGTCCCGCCGGTCCTGTCGGCCCT
+GTTGGCGCCCGTGGCCCCGCCGGACCCCAAGGCCCCCGTGGTGACAAGGGTGAGACAGGC
+GAACAGGGCGACAGAGGCATAAAGGGTCACCGTGGCTTCTCTGGCCTCCAGGGTCCCCCT
+GGCCCTCCTGGCTCTCCTGGTGAACAAGGTCCCTCTGGAGCCTCTGGTCCTGCTGGTCCC
+CGAGGTCCCCCTGGCTCTGCTGGTGCTCCTGGCAAAGATGGACTCAACGGTCTCCCTGGC
+CCCATTGGGCCCCCTGGTCCTCGCGGTCGCACTGGTGATGCTGGTCCTGTTGGTCCCCCC
+GGCCCTCCTGGACCTCCTGGTCCCCCTGGTCCTCCCAGCGCTGGTTTCGACTTCAGCTTC
+CTGCCCCAGCCACCTCAAGAGAAGGCTCACGATGGTGGCCGCTACTACCGGGCTGATGAT
+GCCAATGTGGTTCGTGACCGTGACCTCGAGGTGGACACCACCCTCAAGAGCCTGAGCCAG
+CAGATCGAGAACATCCGGAGCCCAGAGGGCAGCCGCAAGAACCCCGCCCGCACCTGCCGT
+GACCTCAAGATGTGCCACTCTGACTGGAAGAGTGGAGAGTACTGGATTGACCCCAACCAA
+GGCTGCAACCTGGATGCCATCAAAGTCTTCTGCAACATGGAGACTGGTGAGACCTGCGTG
+TACCCCACTCAGCCCAGTGTGGCCCAGAAGAACTGGTACATCAGCAAGAACCCCAAGGAC
+AAGAGGCATGTCTGGTTCGGCGAGAGCATGACCGATGGATTCCAGTTCGAGTATGGCGGC
+CAGGGCTCCGACCCTGCCGATGTGGCCATCCAGCTGACCTTCCTGCGCCTGATGTCCACC
+GAGGCCTCCCAGAACATCACCTACCACTGCAAGAACAGCGTGGCCTACATGGACCAGCAG
+ACTGGCAACCTCAAGAAGGCCCTGCTCCTCCAGGGCTCCAACGAGATCGAGATCCGCGCC
+GAGGGCAACAGCCGCTTCACCTACAGCGTCACTGTCGATGGCTGCACGAGTCACACCGGA
+GCCTGGGGCAAGACAGTGATTGAATACAAAACCACCAAGACCTCCCGCCTGCCCATCATC
+GATGTGGCCCCCTTGGACGTTGGTGCCCCAGACCAGGAATTCGGCTTCGACGTTGGCCCT
+GTCTGCTTCCTGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01410</identifier>
+            <name>COLFI</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00093</identifier>
+            <name>VWC</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen type I trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>extracellular matrix structural constituent</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>identical protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>platelet-derived growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood vessel development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bone trabecula formation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cartilage development involved in endochondral bone morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to amino acid stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to epidermal growth factor stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to fibroblast growth factor stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to fluoride</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to mechanical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to retinoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to transforming growth factor beta stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to tumor necrosis factor</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to vitamin E</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen fibril organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endochondral ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>face morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intramembranous ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell-substrate adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>osteoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of canonical Wnt signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial to mesenchymal transition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein heterotrimerization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein localization to nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cAMP</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to corticosteroid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to hydrogen peroxide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to hyperoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sensory perception of sound</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skin morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tooth eruption</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tooth mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>visual perception</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002140</id>
+      <name>Collagen alpha-1(II) chain</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13193</ref-id>
+            <pubmed-id>14613270</pubmed-id>
+            <citation>Fraser A, Fearon U, Billinghurst RC, Ionescu M, Reece R, Barwick T, Emery P, Poole AR, Veale DJ: Turnover of type II collagen and aggrecan in cartilage matrix at the onset of inflammatory arthritis in humans: relationship to mediators of systemic and local inflammation. Arthritis Rheum. 2003 Nov;48(11):3085-95.</citation>
+          </article>
+          <article>
+            <ref-id>A13194</ref-id>
+            <pubmed-id>17652426</pubmed-id>
+            <citation>Imai K, Dalal SS, Hambor J, Mitchell P, Okada Y, Horton WC, D'Armiento J: Bone growth retardation in mouse embryos expressing human collagenase 1. Am J Physiol Cell Physiol. 2007 Oct;293(4):C1209-15. Epub 2007 Jul 25.</citation>
+          </article>
+          <article>
+            <ref-id>A13195</ref-id>
+            <pubmed-id>16507130</pubmed-id>
+            <citation>Verstappen SM, Poole AR, Ionescu M, King LE, Abrahamowicz M, Hofman DM, Bijlsma JW, Lafeber FP: Radiographic joint damage in rheumatoid arthritis is associated with differences in cartilage turnover and can be predicted by serum biomarkers: an evaluation from 1 to 4 years after diagnosis. Arthritis Res Ther. 2006;8(1):R31. Epub 2006 Jan 10.</citation>
+          </article>
+          <article>
+            <ref-id>A13196</ref-id>
+            <pubmed-id>15299286</pubmed-id>
+            <citation>Martin G, Bogdanowicz P, Domagala F, Ficheux H, Pujol JP: Articular chondrocytes cultured in hypoxia: their response to interleukin-1beta and rhein, the active metabolite of diacerhein. Biorheology. 2004;41(3-4):549-61.</citation>
+          </article>
+          <article>
+            <ref-id>A13197</ref-id>
+            <pubmed-id>12890681</pubmed-id>
+            <citation>Pratta MA, Yao W, Decicco C, Tortorella MD, Liu RQ, Copeland RA, Magolda R, Newton RC, Trzaskos JM, Arner EC: Aggrecan protects cartilage collagen from proteolytic cleavage. J Biol Chem. 2003 Nov 14;278(46):45539-45. Epub 2003 Jul 30.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02458" source="Swiss-Prot">
+        <name>Collagen alpha-1(II) chain</name>
+        <general-function>Platelet-derived growth factor binding</general-function>
+        <specific-function>Type II collagen is specific for cartilaginous tissues. It is essential for the normal embryonic development of the skeleton, for linear growth and for the ability of cartilage to resist compressive forces.</specific-function>
+        <gene-name>COL2A1</gene-name>
+        <locus>12q13.11-q13.2</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>6.89</theoretical-pi>
+        <molecular-weight>141785.08</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2200</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>COL2A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X16468</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29516</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02458</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CO2A1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Alpha-1 type II collagen</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004198|Collagen alpha-1(II) chain
+MIRLGAPQTLVLLTLLVAAVLRCQGQDVQEAGSCVQDGQRYNDKDVWKPEPCRICVCDTG
+TVLCDDIICEDVKDCLSPEIPFGECCPICPTDLATASGQPGPKGQKGEPGDIKDIVGPKG
+PPGPQGPAGEQGPRGDRGDKGEKGAPGPRGRDGEPGTPGNPGPPGPPGPPGPPGLGGNFA
+AQMAGGFDEKAGGAQLGVMQGPMGPMGPRGPPGPAGAPGPQGFQGNPGEPGEPGVSGPMG
+PRGPPGPPGKPGDDGEAGKPGKAGERGPPGPQGARGFPGTPGLPGVKGHRGYPGLDGAKG
+EAGAPGVKGESGSPGENGSPGPMGPRGLPGERGRTGPAGAAGARGNDGQPGPAGPPGPVG
+PAGGPGFPGAPGAKGEAGPTGARGPEGAQGPRGEPGTPGSPGPAGASGNPGTDGIPGAKG
+SAGAPGIAGAPGFPGPRGPPGPQGATGPLGPKGQTGEPGIAGFKGEQGPKGEPGPAGPQG
+APGPAGEEGKRGARGEPGGVGPIGPPGERGAPGNRGFPGQDGLAGPKGAPGERGPSGLAG
+PKGANGDPGRPGEPGLPGARGLTGRPGDAGPQGKVGPSGAPGEDGRPGPPGPQGARGQPG
+VMGFPGPKGANGEPGKAGEKGLPGAPGLRGLPGKDGETGAAGPPGPAGPAGERGEQGAPG
+PSGFQGLPGPPGPPGEGGKPGDQGVPGEAGAPGLVGPRGERGFPGERGSPGAQGLQGPRG
+LPGTPGTDGPKGASGPAGPPGAQGPPGLQGMPGERGAAGIAGPKGDRGDVGEKGPEGAPG
+KDGGRGLTGPIGPPGPAGANGEKGEVGPPGPAGSAGARGAPGERGETGPPGPAGFAGPPG
+ADGQPGAKGEQGEAGQKGDAGAPGPQGPSGAPGPQGPTGVTGPKGARGAQGPPGATGFPG
+AAGRVGPPGSNGNPGPPGPPGPSGKDGPKGARGDSGPPGRAGEPGLQGPAGPPGEKGEPG
+DDGPSGAEGPPGPQGLAGQRGIVGLPGQRGERGFPGLPGPSGEPGKQGAPGASGDRGPPG
+PVGPPGLTGPAGEPGREGSPGADGPPGRDGAAGVKGDRGETGAVGAPGAPGPPGSPGPAG
+PTGKQGDRGEAGAQGPMGPSGPAGARGIQGPQGPRGDKGEAGEPGERGLKGHRGFTGLQG
+LPGPPGPSGDQGASGPAGPSGPRGPPGPVGPSGKDGANGIPGPIGPPGPRGRSGETGPAG
+PPGNPGPPGPPGPPGPGIDMSAFAGLGPREKGPDPLQYMRADQAAGGLRQHDAEVDATLK
+SLNNQIESIRSPEGSRKNPARTCRDLKLCHPEWKSGDYWIDPNQGCTLDAMKVFCNMETG
+ETCVYPNPANVPKKNWWSSKSKEKKHIWFGETINGGFHFSYGDDNLAPNTANVQMTFLRL
+LSTEGSQNITYHCKNSIAYLDEAAGNLKKALLIQGSNDVEIRAEGNSRFTYTALKDGCTK
+HTGKWGKTVIEYRSQKTSRLPIIDIAPMDIGGPEQEFGVDIGPVCFL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019241|Collagen alpha-1(II) chain (COL2A1)
+ATGATTCGCCTCGGGGCTCCCCAGACGCTGGTGCTGCTGACGCTGCTCGTCGCCGCTGTC
+CTTCGGTGTCAGGGCCAGGATGTCCAGGAGGCTGGCAGCTGTGTGCAGGATGGGCAGAGG
+TATAATGATAAGGATGTGTGGAAGCCGGAGCCCTGCCGGATCTGTGTCTGTGACACTGGG
+ACTGTCCTCTGCGACGACATAATCTGTGAAGACGTGAAAGACTGCCTCAGCCCTGAGATC
+CCCTTCGGAGAGTGCTGCCCCATCTGCCCAACTGACCTCGCCACTGCCAGTGGGCAACCA
+GGACCAAAGGGACAGAAAGGAGAACCTGGAGACATCAAGGATATTGTAGGACCCAAAGGA
+CCTCCTGGGCCTCAGGGACCTGCAGGGGAACAAGGACCCAGAGGGGATCGTGGTGACAAA
+GGTGAAAAAGGTGCCCCTGGACCTCGTGGCAGAGATGGAGAACCTGGGACCCCTGGAAAT
+CCTGGCCCCCCTGGTCCTCCCGGCCCCCCTGGTCCCCCTGGTCTTGGTGGAAACTTTGCT
+GCCCAGATGGCTGGAGGATTTGATGAAAAGGCTGGTGGCGCCCAGTTGGGAGTAATGCAA
+GGACCAATGGGCCCCATGGGACCTCGAGGACCTCCAGGCCCTGCAGGTGCTCCTGGGCCT
+CAAGGATTTCAAGGCAATCCTGGTGAACCTGGTGAACCTGGTGTCTCTGGTCCCATGGGT
+CCCCGTGGTCCTCCTGGTCCCCCTGGAAAGCCTGGTGATGATGGTGAAGCTGGAAAACCT
+GGAAAAGCTGGTGAAAGGGGTCCGCCTGGTCCTCAGGGTGCTCGTGGTTTCCCAGGAACC
+CCAGGCCTTCCTGGTGTCAAAGGTCACAGAGGTTATCCAGGCCTGGACGGTGCTAAGGGA
+GAGGCGGGTGCTCCTGGTGTGAAGGGTGAGAGTGGTTCCCCGGGTGAGAACGGATCTCCG
+GGCCCAATGGGTCCTCGTGGCCTGCCTGGTGAAAGAGGACGGACTGGCCCTGCTGGCGCT
+GCGGGTGCCCGAGGCAACGATGGTCAGCCAGGCCCCGCAGGGCCTCCGGGTCCTGTCGGT
+CCTGCTGGTGGTCCTGGCTTCCCTGGTGCTCCTGGAGCCAAGGGTGAAGCCGGCCCCACT
+GGTGCCCGTGGTCCTGAAGGTGCTCAAGGTCCTCGCGGTGAACCTGGTACTCCTGGGTCC
+CCTGGGCCTGCTGGTGCCTCCGGTAACCCTGGAACAGATGGAATTCCTGGAGCCAAAGGA
+TCTGCTGGTGCTCCTGGCATTGCTGGTGCTCCTGGCTTCCCTGGGCCACGGGGCCCTCCT
+GGCCCTCAAGGTGCAACTGGTCCTCTGGGCCCGAAAGGTCAGACGGGTGAACCTGGTATT
+GCTGGCTTCAAAGGTGAACAAGGCCCCAAGGGAGAACCTGGCCCTGCTGGCCCCCAGGGA
+GCCCCTGGACCCGCTGGTGAAGAAGGCAAGAGAGGTGCCCGTGGAGAGCCTGGTGGCGTT
+GGGCCCATCGGTCCCCCTGGAGAAAGAGGTGCTCCCGGCAACCGCGGTTTCCCAGGTCAA
+GATGGTCTGGCAGGTCCCAAGGGAGCCCCTGGAGAGCGAGGGCCCAGTGGTCTTGCTGGC
+CCCAAGGGAGCCAACGGTGACCCTGGCCGTCCTGGAGAACCTGGCCTTCCTGGAGCCCGG
+GGTCTCACTGGCCGCCCTGGTGATGCTGGTCCTCAAGGCAAAGTTGGCCCTTCTGGAGCC
+CCTGGTGAAGATGGTCGTCCTGGACCTCCAGGTCCTCAGGGGGCTCGTGGGCAGCCTGGT
+GTCATGGGTTTCCCTGGCCCCAAAGGTGCCAACGGTGAGCCTGGCAAAGCTGGTGAGAAG
+GGACTGCCTGGTGCTCCTGGTCTGAGGGGTCTTCCTGGCAAAGATGGTGAGACAGGTGCT
+GCAGGACCCCCTGGCCCTGCTGGACCTGCTGGTGAACGAGGCGAGCAGGGTGCTCCTGGG
+CCATCTGGGTTCCAGGGACTTCCTGGCCCTCCTGGTCCCCCAGGTGAAGGTGGAAAACCA
+GGTGACCAGGGTGTTCCCGGTGAAGCTGGAGCCCCTGGCCTCGTGGGTCCCAGGGGTGAA
+CGAGGTTTCCCAGGTGAACGTGGCTCTCCCGGTGCCCAGGGCCTCCAGGGTCCCCGTGGC
+CTCCCCGGCACTCCTGGCACTGATGGTCCCAAAGGTGCATCTGGCCCAGCAGGCCCCCCT
+GGGGCTCAGGGCCCTCCAGGTCTTCAGGGAATGCCTGGCGAGAGGGGAGCAGCTGGTATC
+GCTGGGCCCAAAGGCGACAGGGGTGACGTTGGTGAGAAAGGCCCTGAGGGAGCCCCTGGA
+AAGGATGGTGGACGAGGCCTGACAGGTCCCATTGGCCCCCCTGGCCCAGCTGGTGCTAAT
+GGCGAGAAGGGAGAAGTTGGACCTCCTGGTCCTGCAGGAAGTGCTGGTGCTCGTGGCGCT
+CCGGGTGAACGTGGAGAGACTGGGCCCCCCGGACCAGCGGGATTTGCTGGGCCTCCTGGT
+GCTGATGGCCAGCCTGGGGCCAAGGGTGAGCAAGGAGAGGCCGGCCAGAAAGGCGATGCT
+GGTGCCCCTGGTCCTCAGGGCCCCTCTGGAGCACCTGGGCCTCAGGGTCCTACTGGAGTG
+ACTGGTCCTAAAGGAGCCCGAGGTGCCCAAGGCCCCCCGGGAGCCACTGGATTCCCTGGA
+GCTGCTGGCCGCGTTGGACCCCCAGGCTCCAATGGCAACCCTGGACCCCCTGGTCCCCCT
+GGTCCTTCTGGAAAAGATGGTCCCAAAGGTGCTCGAGGAGACAGCGGCCCCCCTGGCCGA
+GCTGGTGAACCCGGCCTCCAAGGTCCTGCTGGACCCCCTGGCGAGAAGGGAGAGCCTGGA
+GATGACGGTCCCTCTGGTGCCGAAGGTCCACCAGGTCCCCAGGGTCTGGCTGGTCAGAGA
+GGCATCGTCGGTCTGCCTGGGCAACGTGGTGAGAGAGGATTCCCTGGCTTGCCTGGCCCG
+TCGGGTGAGCCCGGCAAGCAGGGTGCTCCTGGAGCATCTGGAGACAGAGGTCCTCCTGGC
+CCCGTGGGTCCTCCTGGCCTGACGGGTCCTGCAGGTGAACCTGGACGAGAGGGAAGCCCC
+GGTGCTGATGGCCCCCCTGGCAGAGATGGCGCTGCTGGAGTCAAGGGTGATCGTGGTGAG
+ACTGGTGCTGTGGGAGCTCCTGGAGCCCCTGGGCCCCCTGGCTCCCCTGGCCCCGCTGGT
+CCAACTGGCAAGCAAGGAGACAGAGGAGAAGCTGGTGCACAAGGCCCCATGGGACCCTCA
+GGACCAGCTGGAGCCCGGGGAATCCAGGGTCCTCAAGGCCCCAGAGGTGACAAAGGAGAG
+GCTGGAGAGCCTGGCGAGAGAGGCCTGAAGGGACACCGTGGCTTCACTGGTCTGCAGGGT
+CTGCCCGGCCCTCCTGGTCCTTCTGGAGACCAAGGTGCTTCTGGTCCTGCTGGTCCTTCT
+GGCCCTAGAGGTCCTCCTGGCCCCGTCGGTCCCTCTGGCAAAGATGGTGCTAATGGAATC
+CCTGGCCCCATTGGGCCTCCTGGTCCCCGTGGACGATCAGGCGAAACCGGCCCTGCTGGT
+CCTCCTGGAAATCCTGGACCCCCTGGTCCTCCAGGTCCCCCTGGCCCTGGCATCGACATG
+TCCGCCTTTGCTGGCTTAGGCCCGAGAGAGAAGGGCCCCGACCCCCTGCAGTACATGCGG
+GCCGACCAGGCAGCCGGTGGCCTGAGACAGCATGACGCCGAGGTGGATGCCACACTCAAG
+TCCCTCAACAACCAGATTGAGAGCATCCGCAGCCCCGAGGGCTCCCGCAAGAACCCTGCT
+CGCACCTGCAGAGACCTGAAACTCTGCCACCCTGAGTGGAAGAGTGGAGACTACTGGATT
+GACCCCAACCAAGGCTGCACCTTGGACGCCATGAAGGTTTTCTGCAACATGGAGACTGGC
+GAGACTTGCGTCTACCCCAATCCAGCAAACGTTCCCAAGAAGAACTGGTGGAGCAGCAAG
+AGCAAGGAGAAGAAACACATCTGGTTTGGAGAAACCATCAATGGTGGCTTCCATTTCAGC
+TATGGAGATGACAATCTGGCTCCCAACACTGCCAACGTCCAGATGACCTTCCTACGCCTG
+CTGTCCACGGAAGGCTCCCAGAACATCACCTACCACTGCAAGAACAGCATTGCCTATCTG
+GACGAAGCAGCTGGCAACCTCAAGAAGGCCCTGCTCATCCAGGGCTCCAATGACGTGGAG
+ATCCGGGCAGAGGGCAATAGCAGGTTCACGTACACTGCCCTGAAGGATGGCTGCACGAAA
+CATACCGGTAAGTGGGGCAAGACTGTTATCGAGTACCGGTCACAGAAGACCTCACGCCTC
+CCCATCATTGACATTGCACCCATGGACATAGGAGGGCCCGAGCAGGAATTCGGTGTGGAC
+ATAGGGCCGGTCTGCTTCTTGTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01410</identifier>
+            <name>COLFI</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00093</identifier>
+            <name>VWC</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basement membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen type II trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>extracellular matrix structural constituent conferring tensile strength</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>identical protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>platelet-derived growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cartilage condensation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cartilage development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cartilage development involved in endochondral bone morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to BMP stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>central nervous system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chondrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen fibril organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic skeletal joint morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>endochondral ossification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>limb bud formation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of extrinsic apoptotic signaling pathway in absence of ligand</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>notochord development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>otic vesicle development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>palate development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sensory perception of sound</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>tissue homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>visual perception</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002130</id>
+      <name>Collagen alpha-1(III) chain</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13198</ref-id>
+            <pubmed-id>2145268</pubmed-id>
+            <citation>Cole WG, Chiodo AA, Lamande SR, Janeczko R, Ramirez F, Dahl HH, Chan D, Bateman JF: A base substitution at a splice site in the COL3A1 gene causes exon skipping and generates abnormal type III procollagen in a patient with Ehlers-Danlos syndrome type IV. J Biol Chem. 1990 Oct 5;265(28):17070-7.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P02461" source="Swiss-Prot">
+        <name>Collagen alpha-1(III) chain</name>
+        <general-function>Platelet-derived growth factor binding</general-function>
+        <specific-function>Collagen type III occurs in most soft connective tissues along with type I collagen. Involved in regulation of cortical development. Is the major ligand of GPR56 in the developing brain and binding to GPR56 inhibits neuronal migration and activates the RhoA pathway by coupling GPR56 to GNA13 and possibly GNA12.</specific-function>
+        <gene-name>COL3A1</gene-name>
+        <locus>2q31</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-23</signal-regions>
+        <theoretical-pi>6.57</theoretical-pi>
+        <molecular-weight>138564.005</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2201</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>COL3A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X14420</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>30058</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P02461</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CO3A1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Collagen alpha-1(III) chain precursor</synonym>
+          <synonym>III</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004178|Collagen alpha-1(III) chain
+MMSFVQKGSWLLLALLHPTIILAQQEAVEGGCSHLGQSYADRDVWKPEPCQICVCDSGSV
+LCDDIICDDQELDCPNPEIPFGECCAVCPQPPTAPTRPPNGQGPQGPKGDPGPPGIPGRN
+GDPGIPGQPGSPGSPGPPGICESCPTGPQNYSPQYDSYDVKSGVAVGGLAGYPGPAGPPG
+PPGPPGTSGHPGSPGSPGYQGPPGEPGQAGPSGPPGPPGAIGPSGPAGKDGESGRPGRPG
+ERGLPGPPGIKGPAGIPGFPGMKGHRGFDGRNGEKGETGAPGLKGENGLPGENGAPGPMG
+PRGAPGERGRPGLPGAAGARGNDGARGSDGQPGPPGPPGTAGFPGSPGAKGEVGPAGSPG
+SNGAPGQRGEPGPQGHAGAQGPPGPPGINGSPGGKGEMGPAGIPGAPGLMGARGPPGPAG
+ANGAPGLRGGAGEPGKNGAKGEPGPRGERGEAGIPGVPGAKGEDGKDGSPGEPGANGLPG
+AAGERGAPGFRGPAGPNGIPGEKGPAGERGAPGPAGPRGAAGEPGRDGVPGGPGMRGMPG
+SPGGPGSDGKPGPPGSQGESGRPGPPGPSGPRGQPGVMGFPGPKGNDGAPGKNGERGGPG
+GPGPQGPPGKNGETGPQGPPGPTGPGGDKGDTGPPGPQGLQGLPGTGGPPGENGKPGEPG
+PKGDAGAPGAPGGKGDAGAPGERGPPGLAGAPGLRGGAGPPGPEGGKGAAGPPGPPGAAG
+TPGLQGMPGERGGLGSPGPKGDKGEPGGPGADGVPGKDGPRGPTGPIGPPGPAGQPGDKG
+EGGAPGLPGIAGPRGSPGERGETGPPGPAGFPGAPGQNGEPGGKGERGAPGEKGEGGPPG
+VAGPPGGSGPAGPPGPQGVKGERGSPGGPGAAGFPGARGLPGPPGSNGNPGPPGPSGSPG
+KDGPPGPAGNTGAPGSPGVSGPKGDAGQPGEKGSPGAQGPPGAPGPLGIAGITGARGLAG
+PPGMPGPRGSPGPQGVKGESGKPGANGLSGERGPPGPQGLPGLAGTAGEPGRDGNPGSDG
+LPGRDGSPGGKGDRGENGSPGAPGAPGHPGPPGPVGPAGKSGDRGESGPAGPAGAPGPAG
+SRGAPGPQGPRGDKGETGERGAAGIKGHRGFPGNPGAPGSPGPAGQQGAIGSPGPAGPRG
+PVGPSGPPGKDGTSGHPGPIGPPGPRGNRGERGSEGSPGHPGQPGPPGPPGAPGPCCGGV
+GAAAIAGIGGEKAGGFAPYYGDEPMDFKINTDEIMTSLKSVNGQIESLISPDGSRKNPAR
+NCRDLKFCHPELKSGEYWVDPNQGCKLDAIKVFCNMETGETCISANPLNVPRKHWWTDSS
+AEKKHVWFGESMDGGFQFSYGNPELPEDVLDVHLAFLRLLSSRASQNITYHCKNSIAYMD
+QASGNVKKALKLMGSNEGEFKAEGNSKFTYTVLEDGCTKHTGEWSKTVFEYRTRKAVRLP
+IVDIAPYDIGGPDQEFGVDVGPVCFL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011542|Collagen alpha-1(III) chain (COL3A1)
+ATGATGAGCTTTGTGCAAAAGGGGAGCTGGCTACTTCTCGCTCTGCTTCATCCCACTATT
+ATTTTGGCACAACAGGAAGCTGTTGAAGGAGGATGTTCCCATCTTGGTCAGTCCTATGCG
+GATAGAGATGTCTGGAAGCCAGAACCATGCCAAATATGTGTCTGTGACTCAGGATCCGTT
+CTCTGCGATGACATAATATGTGACGATCAAGAATTAGACTGCCCCAACCCAGAAATTCCA
+TTTGGAGAATGTTGTGCAGTTTGCCCACAGCCTCCAACTGCTCCTACTCGCCCTCCTAAT
+GGTCAAGGACCTCAAGGCCCCAAGGGAGATCCAGGCCCTCCTGGTATTCCTGGGAGAAAT
+GGTGACCCTGGTATTCCAGGACAACCAGGGTCCCCTGGTTCTCCTGGCCCCCCTGGAATC
+TGTGAATCATGCCCTACTGGTCCTCAGAACTATTCTCCCCAGTATGATTCATATGATGTC
+AAGTCTGGAGTAGCAGTAGGAGGACTCGCAGGCTATCCTGGACCAGCTGGCCCCCCAGGC
+CCTCCCGGTCCCCCTGGTACATCTGGTCATCCTGGTTCCCCTGGATCTCCAGGATACCAA
+GGACCCCCTGGTGAACCTGGGCAAGCTGGTCCTTCAGGCCCTCCAGGACCTCCTGGTGCT
+ATAGGTCCATCTGGTCCTGCTGGAAAAGATGGAGAATCAGGTAGACCCGGACGACCTGGA
+GAGCGAGGATTGCCTGGACCTCCAGGTATCAAAGGTCCAGCTGGGATACCTGGATTCCCT
+GGTATGAAAGGACACAGAGGCTTCGATGGACGAAATGGAGAAAAGGGTGAAACAGGTGCT
+CCTGGATTAAAGGGTGAAAATGGTCTTCCAGGCGAAAATGGAGCTCCTGGACCCATGGGT
+CCAAGAGGGGCTCCTGGTGAGCGAGGACGGCCAGGACTTCCTGGGGCTGCAGGTGCTCGG
+GGTAATGACGGTGCTCGAGGCAGTGATGGTCAACCAGGCCCTCCTGGTCCTCCTGGAACT
+GCCGGATTCCCTGGATCCCCTGGTGCTAAGGGTGAAGTTGGACCTGCAGGGTCTCCTGGT
+TCAAATGGTGCCCCTGGACAAAGAGGAGAACCTGGACCTCAGGGACACGCTGGTGCTCAA
+GGTCCTCCTGGCCCTCCTGGGATTAATGGTAGTCCTGGTGGTAAAGGCGAAATGGGTCCC
+GCTGGCATTCCTGGAGCTCCTGGACTGATGGGAGCCCGGGGTCCTCCAGGACCAGCCGGT
+GCTAATGGTGCTCCTGGACTGCGAGGTGGTGCAGGTGAGCCTGGTAAGAATGGTGCCAAA
+GGAGAGCCCGGACCACGTGGTGAACGCGGTGAGGCTGGTATTCCAGGTGTTCCAGGAGCT
+AAAGGCGAAGATGGCAAGGATGGATCACCTGGAGAACCTGGTGCAAATGGGCTTCCAGGA
+GCTGCAGGAGAAAGGGGTGCCCCTGGGTTCCGAGGACCTGCTGGACCAAATGGCATCCCA
+GGAGAAAAGGGTCCTGCTGGAGAGCGTGGTGCTCCAGGCCCTGCAGGGCCCAGAGGAGCT
+GCTGGAGAACCTGGCAGAGATGGCGTCCCTGGAGGTCCAGGAATGAGGGGCATGCCCGGA
+AGTCCAGGAGGACCAGGAAGTGATGGGAAACCAGGGCCTCCCGGAAGTCAAGGAGAAAGT
+GGTCGACCAGGTCCTCCTGGGCCATCTGGTCCCCGAGGTCAGCCTGGTGTCATGGGCTTC
+CCCGGTCCTAAAGGAAATGATGGTGCTCCTGGTAAGAATGGAGAACGAGGTGGCCCTGGA
+GGACCTGGCCCTCAGGGTCCTCCTGGAAAGAATGGTGAAACTGGACCTCAGGGACCCCCA
+GGGCCTACTGGGCCTGGTGGTGACAAAGGAGACACAGGACCCCCTGGTCCACAAGGATTA
+CAAGGCTTGCCTGGTACAGGTGGTCCTCCAGGAGAAAATGGAAAACCTGGGGAACCAGGT
+CCAAAGGGTGATGCCGGTGCACCTGGAGCTCCAGGAGGCAAGGGTGATGCTGGTGCCCCT
+GGTGAACGTGGACCTCCTGGATTGGCAGGGGCCCCAGGACTTAGAGGTGGAGCTGGTCCC
+CCTGGTCCCGAAGGAGGAAAGGGTGCTGCTGGTCCTCCTGGGCCACCTGGTGCTGCTGGT
+ACTCCTGGTCTGCAAGGAATGCCTGGAGAAAGAGGAGGTCTTGGAAGTCCTGGTCCAAAG
+GGTGACAAGGGTGAACCAGGCGGTCCAGGTGCTGATGGTGTCCCAGGGAAAGATGGCCCA
+AGGGGTCCTACTGGTCCTATTGGTCCTCCTGGCCCAGCTGGCCAGCCTGGAGATAAGGGT
+GAAGGTGGTGCCCCCGGACTTCCAGGTATAGCTGGACCTCGTGGTAGCCCTGGTGAGAGA
+GGTGAAACTGGCCCTCCAGGACCTGCTGGTTTCCCTGGTGCTCCTGGACAGAATGGTGAA
+CCTGGTGGTAAAGGAGAAAGAGGGGCTCCGGGTGAGAAAGGTGAAGGAGGCCCTCCTGGA
+GTTGCAGGACCCCCTGGAGGTTCTGGACCTGCTGGTCCTCCTGGTCCCCAAGGTGTCAAA
+GGTGAACGTGGCAGTCCTGGTGGACCTGGTGCTGCTGGCTTCCCTGGTGCTCGTGGTCTT
+CCTGGTCCTCCTGGTAGTAATGGTAACCCAGGACCCCCAGGTCCCAGCGGTTCTCCAGGC
+AAGGATGGGCCCCCAGGTCCTGCGGGTAACACTGGTGCTCCTGGCAGCCCTGGAGTGTCT
+GGACCAAAAGGTGATGCTGGCCAACCAGGAGAGAAGGGATCGCCTGGTGCCCAGGGCCCA
+CCAGGAGCTCCAGGCCCACTTGGGATTGCTGGGATCACTGGAGCACGGGGTCTTGCAGGA
+CCACCAGGCATGCCAGGTCCTAGGGGAAGCCCTGGCCCTCAGGGTGTCAAGGGTGAAAGT
+GGGAAACCAGGAGCTAACGGTCTCAGTGGAGAACGTGGTCCCCCTGGACCCCAGGGTCTT
+CCTGGTCTGGCTGGTACAGCTGGTGAACCTGGAAGAGATGGAAACCCTGGATCAGATGGT
+CTTCCAGGCCGAGATGGATCTCCTGGTGGCAAGGGTGATCGTGGTGAAAATGGCTCTCCT
+GGTGCCCCTGGCGCTCCTGGTCATCCAGGCCCACCTGGTCCTGTCGGTCCAGCTGGAAAG
+AGTGGTGACAGAGGAGAAAGTGGCCCTGCTGGCCCTGCTGGTGCTCCCGGTCCTGCTGGT
+TCCCGAGGTGCTCCTGGTCCTCAAGGCCCACGTGGTGACAAAGGTGAAACAGGTGAACGT
+GGAGCTGCTGGCATCAAAGGACATCGAGGATTCCCTGGTAATCCAGGTGCCCCAGGTTCT
+CCAGGCCCTGCTGGTCAGCAGGGTGCAATCGGCAGTCCAGGACCTGCAGGCCCCAGAGGA
+CCTGTTGGACCCAGTGGACCTCCTGGCAAAGATGGAACCAGTGGACATCCAGGTCCCATT
+GGACCACCAGGGCCTCGAGGTAACAGAGGTGAAAGAGGATCTGAGGGCTCCCCAGGCCAC
+CCAGGGCAACCAGGCCCTCCTGGACCTCCTGGTGCCCCTGGTCCTTGCTGTGGTGGTGTT
+GGAGCCGCTGCCATTGCTGGGATTGGAGGTGAAAAAGCTGGCGGTTTTGCCCCGTATTAT
+GGAGATGAACCAATGGATTTCAAAATCAACACCGATGAGATTATGACTTCACTCAAGTCT
+GTTAATGGACAAATAGAAAGCCTCATTAGTCCTGATGGTTCTCGTAAAAACCCCGCTAGA
+AACTGCAGAGACCTGAAATTCTGCCATCCTGAACTCAAGAGTGGAGAATACTGGGTTGAC
+CCTAACCAAGGATGCAAATTGGATGCTATCAAGGTATTCTGTAATATGGAAACTGGGGAA
+ACATGCATAAGTGCCAATCCTTTGAATGTTCCACGGAAACACTGGTGGACAGATTCTAGT
+GCTGAGAAGAAACACGTTTGGTTTGGAGAGTCCATGGATGGTGGTTTTCAGTTTAGCTAC
+GGCAATCCTGAACTTCCTGAAGATGTCCTTGATGTGCAGCTGGCATTCCTTCGACTTCTC
+TCCAGCCGAGCTTCCCAGAACATCACATATCACTGCAAAAATAGCATTGCATACATGGAT
+CAGGCCAGTGGAAATGTAAAGAAGGCCCTGAAGCTGATGGGGTCAAATGAAGGTGAATTC
+AAGGCTGAAGGAAATAGCAAATTCACCTACACAGTTCTGGAGGATGGTTGCACGAAACAC
+ACTGGGGAATGGAGCAAAACAGTCTTTGAATATCGAACACGCAAGGCTGTGAGACTACCT
+ATTGTAGATATTGCACCCTATGACATTGGTGGTCCTGATCAAGAATTTGGTGTGGACGTT
+GGCCCTGTTTGCTTTTTATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01410</identifier>
+            <name>COLFI</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01391</identifier>
+            <name>Collagen</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00093</identifier>
+            <name>VWC</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>collagen type III trimer</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>extracellular matrix structural constituent</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>integrin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>platelet-derived growth factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aorta smooth muscle tissue morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon guidance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-matrix adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to amino acid stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cerebral cortex development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen fibril organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>digestive tract development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular fibril organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>integrin-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of neuron migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptide cross-linking</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of Rho protein signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cytokine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to mechanical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to radiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skeletal system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>skin development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transforming growth factor beta receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,4197 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00100</drugbank-id>
+  <drugbank-id>BTD00038</drugbank-id>
+  <drugbank-id>BIOD00038</drugbank-id>
+  <name>Coagulation Factor IX (Recombinant)</name>
+  <description>Recombinant Coagulation Factor IX is a purified Factor IX glycoprotein produced by recombinant DNA technology. It has a primary amino acid sequence that is identical to the Ala148 allelic form of human factor IX, and has structural and functional characteristics similar to those of endogenous factor IX. It is not derived from human blood (unlike human Factor IX complex), and is instead produced by a genetically engineered Chinese hamster ovary (CHO) cell line that secretes recombinant Factor IX into cell medium that is then processed and purified for use as a pharmaceutical agent. &#13;
+&#13;
+Recombinant Factor IX is indicated for the control and prevention of bleeding episodes in adult and pediatric patients with congenital factor IX deficiency (Hemophilia B).</description>
+  <cas-number>181054-95-5</cas-number>
+  <unii>382L14738L</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A151</ref-id>
+        <pubmed-id>12997790</pubmed-id>
+        <citation>BIGGS R, DOUGLAS AS, MACFARLANE RG, DACIE JV, PITNEY WR, MERSKEY: Christmas disease: a condition previously mistaken for haemophilia. Br Med J. 1952 Dec 27;2(4799):1378-82.</citation>
+      </article>
+      <article>
+        <ref-id>A152</ref-id>
+        <pubmed-id>6959130</pubmed-id>
+        <citation>Kurachi K, Davie EW: Isolation and characterization of a cDNA coding for human factor IX. Proc Natl Acad Sci U S A. 1982 Nov;79(21):6461-4.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Volker Schellenberger, Joshua Silverman, Willem Stemmer, Chia-wei Wang, Benjamin Spink, Nathan Geething, Wayne To, "Coagulation factor IX compositions and methods of making and using same." U.S. Patent US20110046060, issued February 24, 2011.</synthesis-reference>
+  <indication>For treatment of hemophilia (Christmas disease).</indication>
+  <pharmacodynamics>Binds vitamin K and factor VIIIa. Cleaves the Arg-Ile bond in factor X to form active factor Xa. Plays a key role in blood coagulation and clotting. Injections of factor IX are used to treat hemophilia B, which is sometimes called Christmas disease. AlphaNine is injected to increase plasma levels of Factor IX and can temporarily correct this coagulation defect. The activated partial thromboplastin time (aPTT) is prolonged in people with hemophilia B. Treatment with factor IX concentrate may normalize the aPTT by temporarily replacing the factor IX. The administration of BeneFIX increases plasma levels of factor IX, and can temporarily correct the coagulation defect in these patients.</pharmacodynamics>
+  <mechanism-of-action>Coagulation Factor IX is an important protein in the process of hemostasis and normal blood clotting as it plays a key role within the coagulation cascade. It is located within the blood plasma as a zymogen, an antecedent to enzymatic function, in its inactivated state. Factor IX is dependent on the presence of Vitamin K, and is activated to a serine protease by the function of Coagulation Factor XIa. Factor XIa cleaves the peptide bond associated with protein activation in Factor IX, leaving Factor IX with two exposed chains, a light chain and a heavy chain. These two chains are held together by several disulfide bonds that reinforce the structure of Factor IX's activated form. After being activated, Factor IX forms a complex with calcium ions, membrane phospholipids and Coagulation Factor VIII to activate Coagulation Factor X. The activation of Factor X then performs a similarly integral step in the blood coagulation cascade. The ultimate result of phenotypically normal coagulation factors is the creation of platelets for normal blood clotting.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>18.8 ± 5.4 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>8.62 ± 1.7</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Coagulation factor IX (recombinant)</synonym>
+    <synonym language="english" coder="">Coagulation factor IX recombinant human</synonym>
+    <synonym language="english" coder="">Factor IX (Recombinant)</synonym>
+    <synonym language="english" coder="">nonacog alfa</synonym>
+    <synonym language="english" coder="">nonacog gamma</synonym>
+    <synonym language="english" coder="">Recombinant factor IX</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-003</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on>2010-12-16</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on>2010-12-16</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-008</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on>2010-12-16</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals Inc., a subsidiary of Pfizer Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on>2010-12-16</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-635</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-636</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-07-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-634</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-633</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Wyeth BioPharma Division of Wyeth Pharmaceuticals LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>58394-637</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-02-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intravenous; Topical</route>
+      <fda-application-number>BLA103677</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02293765</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-04-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>250 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02293773</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-04-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02293781</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-04-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02293803</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-07-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>2000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02392984</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>3000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>BeneFIX</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02466619</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>1500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Benefix - (250iu)</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231018</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-08-12</started-marketing-on>
+      <ended-marketing-on>2008-06-19</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Benefix - (500iu)</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231019</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-08-12</started-marketing-on>
+      <ended-marketing-on>2008-06-19</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Benefix -(1000iu)</name>
+      <labeller>Wyeth Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02231020</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-08-12</started-marketing-on>
+      <ended-marketing-on>2008-06-19</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Idelvion</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02451344</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>500 IU/1</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Idelvion</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02451352</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-07-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1000 IU/1</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Idelvion</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02451360</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>2000 IU/1</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Cangene Biopharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0273</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-01</started-marketing-on>
+      <ended-marketing-on>2015-04-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>2000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Cangene Biopharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0274</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-01</started-marketing-on>
+      <ended-marketing-on>2015-04-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>3000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0285</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on>2017-06-14</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0286</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on>2017-06-14</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0287</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>250 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0282</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0283</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0284</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0288</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>2000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Aptevo Biotherapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70504-0289</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>3000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Cangene Biopharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0270</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-01</started-marketing-on>
+      <ended-marketing-on>2018-05-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Cangene Biopharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0271</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-01</started-marketing-on>
+      <ended-marketing-on>2018-05-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ixinity</name>
+      <labeller>Cangene Biopharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>53270-0272</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-05-01</started-marketing-on>
+      <ended-marketing-on>2018-05-31</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>1500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125426</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebinyn</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7905</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>500 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125611</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebinyn</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7901</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>1000 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125611</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebinyn</name>
+      <labeller>Novo Nordisk</labeller>
+      <ndc-id/>
+      <ndc-product-code>0169-7902</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-12-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>2000 [iU]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125611</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3026</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>250 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125446</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3028</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>500 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125446</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3030</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125446</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3032</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>2000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125446</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-3034</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-10-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>3000 [iU]/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125446</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Shire Pharma Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02431939</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-05-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>500 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Shire Pharma Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02431947</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-04-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>1000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Shire Pharma Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02431955</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-04-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>2000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Shire Pharma Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02431920</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>250 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rixubis</name>
+      <labeller>Shire Pharma Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02431963</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-09-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit; Powder, for solution</dosage-form>
+      <strength>3000 unit</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Rebinyn</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebinyn</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebinyn</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ixinity</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Idelvion</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Idelvion</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Idelvion</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Benefix - (250iu)</name>
+      <ingredients>Coagulation Factor IX (Recombinant) + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Benefix - (500iu)</name>
+      <ingredients>Coagulation Factor IX (Recombinant) + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Benefix -(1000iu)</name>
+      <ingredients>Coagulation Factor IX (Recombinant) + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>BeneFIX</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rixubis</name>
+      <ingredients>Coagulation Factor IX (Recombinant)</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>CSL Behring LLC</name>
+      <url>http://www.cslbehring.com</url>
+    </packager>
+    <packager>
+      <name>Grifols SA</name>
+      <url>http://www.grifols.com</url>
+    </packager>
+    <packager>
+      <name>Hospira Inc.</name>
+      <url>http://www.hospira.com</url>
+    </packager>
+    <packager>
+      <name>Wyeth Pharmaceuticals</name>
+      <url>http://www.wyeth.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Benefix 1000 unit vial</description>
+      <cost currency="USD">1.0</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Benefix 250 unit vial</description>
+      <cost currency="USD">1.0</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Benefix 500 unit vial</description>
+      <cost currency="USD">1.0</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Benefix 2000 unit vial</description>
+      <cost currency="USD">1.12</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Mononine 1000 unit vial</description>
+      <cost currency="USD">1.2</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Mononine 500 unit vial</description>
+      <cost currency="USD">1.2</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Alphanine sd 250-1500 unit vial</description>
+      <cost currency="USD">1.42</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Blood Coagulation Factors</category>
+      <mesh-id>D001779</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+    <category>
+      <category>Increased Coagulation Activity</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>3000 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous; Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>3000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; liquid; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>1000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>250 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>500 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 IU/1</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 IU/1</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 IU/1</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>600 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>600 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>1000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>1500 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>2000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>250 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>3000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>500 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route/>
+      <strength>480 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 iu</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>1000 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>2000 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>500 [iU]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>1000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>2000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>250 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>3000 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>500 [iU]/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>2000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>250 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>3000 unit</strength>
+    </dosage>
+    <dosage>
+      <form>Kit; powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>500 unit</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes>
+    <ahfs-code>20:28.16</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00100.pdf?1472578646</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00100.pdf?1265922746</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00513</drugbank-id>
+      <name>Aminocaproic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Aminocaproic acid is combined with Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00058</drugbank-id>
+      <name>Alpha-1-proteinase inhibitor</name>
+      <description>Alpha-1-proteinase inhibitor may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00170</drugbank-id>
+      <name>Menadione</name>
+      <description>Menadione may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00302</drugbank-id>
+      <name>Tranexamic acid</name>
+      <description>Tranexamic acid may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06692</drugbank-id>
+      <name>Aprotinin</name>
+      <description>Aprotinin may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11091</drugbank-id>
+      <name>Hydrogen peroxide</name>
+      <description>Hydrogen peroxide may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13244</drugbank-id>
+      <name>Aminomethylbenzoic acid</name>
+      <description>Aminomethylbenzoic acid may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13729</drugbank-id>
+      <name>Camostat</name>
+      <description>Camostat may increase the thrombogenic activities of Coagulation Factor IX (Recombinant).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12726</drugbank-id>
+      <name>Monteplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Monteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00001</drugbank-id>
+      <name>Lepirudin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Lepirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00006</drugbank-id>
+      <name>Bivalirudin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Bivalirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00009</drugbank-id>
+      <name>Alteplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Alteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00013</drugbank-id>
+      <name>Urokinase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Urokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00015</drugbank-id>
+      <name>Reteplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Reteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00029</drugbank-id>
+      <name>Anistreplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Anistreplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00031</drugbank-id>
+      <name>Tenecteplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Tenecteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00055</drugbank-id>
+      <name>Drotrecogin alfa</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Drotrecogin alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00086</drugbank-id>
+      <name>Streptokinase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Streptokinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00278</drugbank-id>
+      <name>Argatroban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Argatroban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00569</drugbank-id>
+      <name>Fondaparinux</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Fondaparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00686</drugbank-id>
+      <name>Pentosan polysulfate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Pentosan polysulfate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00945</drugbank-id>
+      <name>Acetylsalicylic acid</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Acetylsalicylic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00975</drugbank-id>
+      <name>Dipyridamole</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dipyridamole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01088</drugbank-id>
+      <name>Iloprost</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Iloprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01240</drugbank-id>
+      <name>Epoprostenol</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Epoprostenol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with 4-hydroxycoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Coumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04898</drugbank-id>
+      <name>Ximelagatran</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ximelagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04925</drugbank-id>
+      <name>Desmoteplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Desmoteplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04932</drugbank-id>
+      <name>Defibrotide</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Defibrotide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05099</drugbank-id>
+      <name>Ancrod</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ancrod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05229</drugbank-id>
+      <name>Beraprost</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Beraprost.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05254</drugbank-id>
+      <name>Fibrinolysin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Fibrinolysin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06209</drugbank-id>
+      <name>Prasugrel</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Prasugrel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06228</drugbank-id>
+      <name>Rivaroxaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Rivaroxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06406</drugbank-id>
+      <name>Idraparinux</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Idraparinux.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06441</drugbank-id>
+      <name>Cangrelor</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Cangrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06543</drugbank-id>
+      <name>Astaxanthin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Astaxanthin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06605</drugbank-id>
+      <name>Apixaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Apixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06635</drugbank-id>
+      <name>Otamixaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Otamixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06679</drugbank-id>
+      <name>Amediplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Amediplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06695</drugbank-id>
+      <name>Dabigatran etexilate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dabigatran etexilate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Tinzaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07767</drugbank-id>
+      <name>Ferulic acid</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ferulic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with (R)-warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08814</drugbank-id>
+      <name>Triflusal</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Triflusal.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08816</drugbank-id>
+      <name>Ticagrelor</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ticagrelor.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08994</drugbank-id>
+      <name>Ditazole</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Ditazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09030</drugbank-id>
+      <name>Vorapaxar</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Vorapaxar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09075</drugbank-id>
+      <name>Edoxaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Edoxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09125</drugbank-id>
+      <name>Potassium citrate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Potassium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09154</drugbank-id>
+      <name>Sodium citrate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Sodium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09255</drugbank-id>
+      <name>Dextran</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dextran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Bemiparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Parnaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11095</drugbank-id>
+      <name>Desirudin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Desirudin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11154</drugbank-id>
+      <name>Zinc citrate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Zinc citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11166</drugbank-id>
+      <name>Antithrombin Alfa</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Antithrombin Alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11312</drugbank-id>
+      <name>Protein C</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Protein C.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11598</drugbank-id>
+      <name>Antithrombin III human</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Antithrombin III human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11984</drugbank-id>
+      <name>Letaxaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Letaxaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12289</drugbank-id>
+      <name>Darexaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Darexaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12364</drugbank-id>
+      <name>Betrixaban</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Betrixaban.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12598</drugbank-id>
+      <name>Nafamostat</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Nafamostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12831</drugbank-id>
+      <name>Gabexate</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Gabexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13149</drugbank-id>
+      <name>Protein S human</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Protein S human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13199</drugbank-id>
+      <name>Brinase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Brinase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Clorindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Diphenadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Tioclomarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13616</drugbank-id>
+      <name>Melagatran</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Melagatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13646</drugbank-id>
+      <name>Saruplase</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Saruplase.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with (S)-Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14094</drugbank-id>
+      <name>Tocopherylquinone</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Tocopherylquinone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14598</drugbank-id>
+      <name>Edetate calcium disodium anhydrous</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Edetate calcium disodium anhydrous.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14726</drugbank-id>
+      <name>Dabigatran</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Dabigatran.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Semuloparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13124</drugbank-id>
+      <name>Troxerutin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Troxerutin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00974</drugbank-id>
+      <name>Edetic acid</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Edetic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The therapeutic efficacy of Coagulation Factor IX (Recombinant) can be decreased when used in combination with Reviparin.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00100 sequence
+YNSGKLEEFVQGNLERECMEEKCSFEEAREVFENTERTTEFWKQYVDGDQCESNPCLNGG
+SCKDDINSYECWCPFGFEGKNCELDVTCNIKNGRCEQFCKNSADNKVVCSCTEGYRLAEN
+QKSCEPAVPFPCGRVSVSQTSKLTRAEAVFPDVDYVNSTEAETILDNITQSTQSFNDFTR
+VVGGEDAKPGQFPWQVVLNGKVDAFCGGSIVNEKWIVTAAHCVETGVKITVVAGEHNIEE
+TEHTEQKRNVIRIIPHHNYNAAINKYNHDIALLELDEPLVLNSYVTPICIADKEYTNIFL
+KFGSGYVSGWGRVFHKGRSALVLQYLRVPLVDRATCLRSTKFTIYNNMFCAGFHEGGRDS
+CQGDSGGPHVTEVEGTSFLTGIISWGEECAMKGKYGIYTKVSRYVNWIKEKTKLT</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>54 °C</value>
+      <source>Link, R.P., Castellino, F.J. Arch. Biochem. Biophsy. 227:259-265 (1983)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.431</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>5.20</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>46548.2</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2041H3136N558O641S25</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>90</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11417</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>22522</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46508858</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C03101</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>K02402</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164744952</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P00740</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000964</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Factor_IX</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1300488</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/factorix.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/coagulation-factor-ix-injection-human.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000216</id>
+      <name>Coagulation factor X</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>activator</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2125</ref-id>
+            <pubmed-id>1391956</pubmed-id>
+            <citation>Worfolk LA, Robinson RA, Tracy PB: Factor Xa interacts with two sites on monocytes with different functional activities. Blood. 1992 Oct 15;80(8):1989-97.</citation>
+          </article>
+          <article>
+            <ref-id>A2126</ref-id>
+            <pubmed-id>8083242</pubmed-id>
+            <citation>Jones KC, Mann KG: A model for the tissue factor pathway to thrombin. II. A mathematical simulation. J Biol Chem. 1994 Sep 16;269(37):23367-73.</citation>
+          </article>
+          <article>
+            <ref-id>A2128</ref-id>
+            <pubmed-id>9079657</pubmed-id>
+            <citation>Ambrosini G, Plescia J, Chu KC, High KA, Altieri DC: Activation-dependent exposure of the inter-EGF sequence Leu83-Leu88 in factor Xa mediates ligand binding to effector cell protease receptor-1. J Biol Chem. 1997 Mar 28;272(13):8340-5.</citation>
+          </article>
+          <article>
+            <ref-id>A2131</ref-id>
+            <pubmed-id>10933803</pubmed-id>
+            <citation>London FS, Walsh PN: Zymogen factor IX potentiates factor IXa-catalyzed factor X activation. Biochemistry. 2000 Aug 15;39(32):9850-8.</citation>
+          </article>
+          <article>
+            <ref-id>A2133</ref-id>
+            <pubmed-id>10919405</pubmed-id>
+            <citation>Scandella DH: Properties of anti-factor VIII inhibitor antibodies in hemophilia A patients. Semin Thromb Hemost. 2000;26(2):137-42.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+          <article>
+            <ref-id>A2134</ref-id>
+            <pubmed-id>659613</pubmed-id>
+            <citation>Di Scipio RG, Kurachi K, Davie EW: Activation of human factor IX (Christmas factor). J Clin Invest. 1978 Jun;61(6):1528-38.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P00742" source="Swiss-Prot">
+        <name>Coagulation factor X</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Factor Xa is a vitamin K-dependent glycoprotein that converts prothrombin to thrombin in the presence of factor Va, calcium and phospholipid during blood clotting.</specific-function>
+        <gene-name>F10</gene-name>
+        <locus>13q34</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-31</signal-regions>
+        <theoretical-pi>5.74</theoretical-pi>
+        <molecular-weight>54731.255</molecular-weight>
+        <chromosome-location>13</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F10</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>K03194</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182841</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2359</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00742</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA10_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.6</synonym>
+          <synonym>Stuart factor</synonym>
+          <synonym>Stuart-Prower factor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010204|Coagulation factor X
+MGRPLHLVLLSASLAGLLLLGESLFIRREQANNILARVTRANSFLEEMKKGHLERECMEE
+TCSYEEAREVFEDSDKTNEFWNKYKDGDQCETSPCQNQGKCKDGLGEYTCTCLEGFEGKN
+CELFTRKLCSLDNGDCDQFCHEEQNSVVCSCARGYTLADNGKACIPTGPYPCGKQTLERR
+KRSVAQATSSSGEAPDSITWKPYDAADLDPTENPFDLLDFNQTQPERGDNNLTRIVGGQE
+CKDGECPWQALLINEENEGFCGGTILSEFYILTAAHCLYQAKRFKVRVGDRNTEQEEGGE
+AVHEVEVVIKHNRFTKETYDFDIAVLRLKTPITFRMNVAPACLPERDWAESTLMTQKTGI
+VSGFGRTHEKGRQSTRLKMLEVPYVDRNSCKLSSSFIITQNMFCAGYDTKQEDACQGDSG
+GPHVTRFKDTYFVTGIVSWGEGCARKGKYGIYTKVTAFLKWIDRSMKTRGLPKAKSHAPE
+VITSSPLK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010205|Coagulation factor X (F10)
+ATGGGGCGCCCACTGCACCTCGTCCTGCTCAGTGCCTCCCTGGCTGGCCTCCTGCTGCTC
+GGGGAAAGTCTGTTCATCCGCAGGGAGCAGGCCAACAACATCCTGGCGAGGGTCACGAGG
+GCCAATTCCTTTCTTGAAGAGATGAAGAAAGGACACCTCGAAAGAGAGTGCATGGAAGAG
+ACCTGCTCATACGAAGAGGCCCGCGAGGTCTTTGAGGACAGCGACAAGACGAATGAATTC
+TGGAATAAATACAAAGATGGCGACCAGTGTGAGACCAGTCCTTGCCAGAACCAGGGCAAA
+TGTAAAGACGGCCTCGGGGAATACACCTGCACCTGTTTAGAAGGATTCGAAGGCAAAAAC
+TGTGAATTATTCACACGGAAGCTCTGCAGCCTGGACAACGGGGACTGTGACCAGTTCTGC
+CACGAGGAACAGAACTCTGTGGTGTGCTCCTGCGCCCGCGGGTACACCCTGGCTGACAAC
+GGCAAGGCCTGCATTCCCACAGGGCCCTACCCCTGTGGGAAACAGACCCTGGAACGCAGG
+AAGAGGTCAGTGGCCCAGGCCACCAGCAGCAGCGGGGAGGCCCCTGACAGCATCACATGG
+AAGCCATATGATGCAGCCGACCTGGACCCCACCGAGAACCCCTTCGACCTGCTTGACTTC
+AACCAGACGCAGCCTGAGAGGGGCGACAACAACCTCACCAGGATCGTGGGAGGCCAGGAA
+TGCAAGGACGGGGAGTGTCCCTGGCAGGCCCTGCTCATCAATGAGGAAAACGAGGGTTTC
+TGTGGTGGAACCATTCTGAGCGAGTTCTACATCCTAACGGCAGCCCACTGTCTCTACCAA
+GCCAAGAGATTCAAGGTGAGGGTAGGGGACCGGAACACGGAGCAGGAGGAGGGCGGTGAG
+GCGGTGCACGAGGTGGAGGTGGTCATCAAGCACAACCGGTTCACAAAGGAGACCTATGAC
+TTCGACATCGCCGTGCTCCGGCTCAAGACCCCCATCACCTTCCGCATGAACGTGGCGCCT
+GCCTGCCTCCCCGAGCGTGACTGGGCCGAGTCCACGCTGATGACGCAGAAGACGGGGATT
+GTGAGCGGCTTCGGGCGCACCCACGAGAAGGGCCGGCAGTCCACCAGGCTCAAGATGCTG
+GAGGTGCCCTACGTGGACCGCAACAGCTGCAAGCTGTCCAGCAGCTTCATCATCACCCAG
+AACATGTTCTGTGCCGGCTACGACACCAAGCAGGAGGATGCCTGCCAGGGGGACAGCGGG
+GGCCCGCACGTCACCCGCTTCAAGGACACCTACTTCGTGACAGGCATCGTCAGCTGGGGA
+GAGGGCTGTGCCCGTAAGGGGAAGTACGGGATCTACACCAAGGTCACCGCCTTCCTCAAG
+TGGATCGACAGGTCCATGAAAACCAGGGGCTTGCCCAAGGCCAAGAGCCATGCCCCGGAG
+GTCATAACGTCCTCTCCATTAAAGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00008</identifier>
+            <name>EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00594</identifier>
+            <name>Gla</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intrinsic component of external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phospholipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, intrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0001021</id>
+      <name>Coagulation factor XI</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11634</ref-id>
+            <pubmed-id>10593931</pubmed-id>
+            <citation>Sun MF, Zhao M, Gailani D: Identification of amino acids in the factor XI apple 3 domain required for activation of factor IX. J Biol Chem. 1999 Dec 17;274(51):36373-8.</citation>
+          </article>
+          <article>
+            <ref-id>A11635</ref-id>
+            <pubmed-id>11342438</pubmed-id>
+            <citation>Gailani D, Ho D, Sun MF, Cheng Q, Walsh PN: Model for a factor IX activation complex on blood platelets: dimeric conformation of factor XIa is essential. Blood. 2001 May 15;97(10):3117-22.</citation>
+          </article>
+          <article>
+            <ref-id>A2134</ref-id>
+            <pubmed-id>659613</pubmed-id>
+            <citation>Di Scipio RG, Kurachi K, Davie EW: Activation of human factor IX (Christmas factor). J Clin Invest. 1978 Jun;61(6):1528-38.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P03951" source="Swiss-Prot">
+        <name>Coagulation factor XI</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Factor XI triggers the middle phase of the intrinsic pathway of blood coagulation by activating factor IX.</specific-function>
+        <gene-name>F11</gene-name>
+        <locus>4q35</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>8.14</theoretical-pi>
+        <molecular-weight>70108.56</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3529</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F11</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M13142</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182833</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2360</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P03951</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA11_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.27</synonym>
+          <synonym>FXI</synonym>
+          <synonym>Plasma thromboplastin antecedent</synonym>
+          <synonym>PTA</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002033|Coagulation factor XI
+MIFLYQVVHFILFTSVSGECVTQLLKDTCFEGGDITTVFTPSAKYCQVVCTYHPRCLLFT
+FTAESPSEDPTRWFTCVLKDSVTETLPRVNRTAAISGYSFKQCSHQISACNKDIYVDLDM
+KGINYNSSVAKSAQECQERCTDDVHCHFFTYATRQFPSLEHRNICLLKHTQTGTPTRITK
+LDKVVSGFSLKSCALSNLACIRDIFPNTVFADSNIDSVMAPDAFVCGRICTHHPGCLFFT
+FFSQEWPKESQRNLCLLKTSESGLPSTRIKKSKALSGFSLQSCRHSIPVFCHSSFYHDTD
+FLGEELDIVAAKSHEACQKLCTNAVRCQFFTYTPAQASCNEGKGKCYLKLSSNGSPTKIL
+HGRGGISGYTLRLCKMDNECTTKIKPRIVGGTASVRGEWPWQVTLHTTSPTQRHLCGGSI
+IGNQWILTAAHCFYGVESPKILRVYSGILNQSEIKEDTSFFGVQEIIIHDQYKMAESGYD
+IALLKLETTVNYTDSQRPICLPSKGDRNVIYTDCWVTGWGYRKLRDKIQNTLQKAKIPLV
+TNEECQKRYRGHKITHKMICAGYREGGKDACKGDSGGPLSCKHNEVWHLVGITSWGEGCA
+QRERPGVYTNVVEYVDWILEKTQAV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010715|Coagulation factor XI (F11)
+ATGATTTTCTTATATCAAGTGGTACATTTCATTTTATTTACTTCAGTTTCTGGTGAATGT
+GTGACTCAGTTGTTGAAGGACACCTGCTTTGAAGGAGGGGACATTACTACGGTCTTCACA
+CCAAGCGCCAAGTACTGCCAGGTAGTCTGCACTTACCACCCAAGATGTTTACTCTTCACT
+TTCACGGCGGAATCACCATCTGAGGATCCCACCCGATGGTTTACTTGTGTCCTGAAAGAC
+AGTGTTACAGAAACACTGCCAAGAGTGAATAGGACAGCAGCGATTTCTGGGTATTCTTTC
+AAGCAATGCTCACACCAAATAAGCGCTTGCAACAAAGACATTTATGTGGACCTAGACATG
+AAGGGCATAAACTATAACAGCTCAGTTGCCAAGAGTGCTCAAGAATGCCAAGAAAGATGC
+ACGGATGACGTCCACTGCCACTTTTTCACGTACGCCACAAGGCAGTTTCCCAGCCTGGAG
+CATCGTAACATTTGTCTACTGAAGCACACCCAAACAGGGACACCAACCAGAATAACGAAG
+CTCGATAAAGTGGTGTCTGGATTTTCACTGAAATCCTGTGCACTTTCTAATCTGGCTTGT
+ATTAGGGACATTTTCCCTAATACGGTGTTTGCAGACAGCAACATCGACAGTGTCATGGCT
+CCCGATGCTTTTGTCTGTGGCCGAATCTGCACTCATCATCCCGGTTGCTTGTTTTTTACC
+TTCTTTTCCCAGGAATGGCCCAAAGAATCTCAAAGAAATCTTTGTCTCCTTAAAACATCT
+GAGAGTGGATTGCCCAGTACACGCATTAAAAAGAGCAAAGCTCTTTCTGGTTTCAGTCTA
+CAAAGCTGCAGGCACAGCATCCCAGTGTTCTGCCATTCTTCATTTTACCATGACACTGAT
+TTCTTGGGAGAAGAACTGGATATTGTTGCTGCAAAAAGTCACGAGGCCTGCCAGAAACTG
+TGCACCAATGCCGTCCGCTGCCAGTTTTTTACCTATACCCCAGCCCAAGCATCCTGCAAC
+GAAGGGAAGGGCAAGTGTTACTTAAAGCTTTCTTCAAACGGATCTCCAACTAAAATACTT
+CACGGGAGAGGAGGCATCTCTGGATACACATTAAGGTTGTGTAAAATGGATAATGAGTGT
+ACCACCAAAATCAAGCCCAGGATCGTTGGAGGAACTGCGTCTGTTCGTGGTGAGTGGCCG
+TGGCAGGTGACCCTGCACACAACCTCACCCACTCAGAGACACCTGTGTGGAGGCTCCATC
+ATTGGAAACCAGTGGATATTAACAGCCGCTCACTGTTTCTATGGGGTAGAGTCACCTAAG
+ATTTTGCGTGTCTACAGTGGCATTTTAAATCAATCTGAAATAAAAGAGGACACATCTTTC
+TTTGGGGTTCAAGAAATAATAATCCATGATCAGTATAAAATGGCAGAAAGCGGGTATGAT
+ATTGCCTTGTTGAAACTGGAAACCACAGTGAATTACACAGATTCTCAACGACCCATATGC
+CTGCCTTCCAAAGGAGATAGAAATGTAATATACACTGATTGCTGGGTGACTGGATGGGGG
+TACAGAAAACTAAGAGACAAAATACAAAATACTCTCCAGAAAGCCAAGATACCCTTAGTG
+ACCAACGAAGAGTGCCAGAAGAGATACAGAGGACATAAAATAACCCATAAGATGATCTGT
+GCCGGCTACAGGGAAGGAGGGAAGGACGCTTGCAAGGGAGATTCGGGAGGCCCTCTGTCC
+TGCAAACACAATGAGGTCTGGCATCTGGTAGGCATCACGAGCTGGGGCGAAGGCTGTGCT
+CAAAGGGAGCGGCCAGGTGTTTACACCAACGTGGTCGAGTACGTGGACTGGATTCTGGAG
+AAAACTCAAGCAGTGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00024</identifier>
+            <name>PAN_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, intrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>plasminogen activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fibrinolysis</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0000333</id>
+      <name>Coagulation factor VII</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13313</ref-id>
+            <pubmed-id>10192655</pubmed-id>
+            <citation>Baker DC, Robbe SL, Jacobson L, Manco-Johnson MJ, Holler L, Lefkowitz J: Hereditary deficiency of vitamin-K-dependent coagulation factors in Rambouillet sheep. Blood Coagul Fibrinolysis. 1999 Mar;10(2):75-80.</citation>
+          </article>
+          <article>
+            <ref-id>A13314</ref-id>
+            <pubmed-id>10381508</pubmed-id>
+            <citation>Hertzberg MS, Facey SL, Hogg PJ: An Arg/Ser substitution in the second epidermal growth factor-like module of factor IX introduces an O-linked carbohydrate and markedly impairs activation by factor XIa and factor VIIa/Tissue factor and catalytic efficiency of factor IXa. Blood. 1999 Jul 1;94(1):156-63.</citation>
+          </article>
+          <article>
+            <ref-id>A13308</ref-id>
+            <pubmed-id>10498586</pubmed-id>
+            <citation>Butenas S, van't Veer C, Mann KG: "Normal" thrombin generation. Blood. 1999 Oct 1;94(7):2169-78.</citation>
+          </article>
+          <article>
+            <ref-id>A13315</ref-id>
+            <pubmed-id>10617609</pubmed-id>
+            <citation>Celie PH, Lenting PJ, Mertens K: Hydrophobic contact between the two epidermal growth factor-like domains of blood coagulation factor IX contributes to enzymatic activity. J Biol Chem. 2000 Jan 7;275(1):229-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13157</ref-id>
+            <pubmed-id>10938981</pubmed-id>
+            <citation>Shord SS, Lindley CM: Coagulation products and their uses. Am J Health Syst Pharm. 2000 Aug 1;57(15):1403-17; quiz 1418-20.</citation>
+          </article>
+          <article>
+            <ref-id>A2134</ref-id>
+            <pubmed-id>659613</pubmed-id>
+            <citation>Di Scipio RG, Kurachi K, Davie EW: Activation of human factor IX (Christmas factor). J Clin Invest. 1978 Jun;61(6):1528-38.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P08709" source="Swiss-Prot">
+        <name>Coagulation factor VII</name>
+        <general-function>Serine-type peptidase activity</general-function>
+        <specific-function>Initiates the extrinsic pathway of blood coagulation. Serine protease that circulates in the blood in a zymogen form. Factor VII is converted to factor VIIa by factor Xa, factor XIIa, factor IXa, or thrombin by minor proteolysis. In the presence of tissue factor and calcium ions, factor VIIa then converts factor X to factor Xa by limited proteolysis. Factor VIIa will also convert factor IX to factor IXa in the presence of tissue factor and calcium.</specific-function>
+        <gene-name>F7</gene-name>
+        <locus>13q34</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-20</signal-regions>
+        <theoretical-pi>7.23</theoretical-pi>
+        <molecular-weight>51593.465</molecular-weight>
+        <chromosome-location>13</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3544</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F7</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M13232</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182801</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2363</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08709</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA7_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.21</synonym>
+          <synonym>Proconvertin</synonym>
+          <synonym>Serum prothrombin conversion accelerator</synonym>
+          <synonym>SPCA</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000663|Coagulation factor VII
+MVSQALRLLCLLLGLQGCLAAGGVAKASGGETRDMPWKPGPHRVFVTQEEAHGVLHRRRR
+ANAFLEELRPGSLERECKEEQCSFEEAREIFKDAERTKLFWISYSDGDQCASSPCQNGGS
+CKDQLQSYICFCLPAFEGRNCETHKDDQLICVNENGGCEQYCSDHTGTKRSCRCHEGYSL
+LADGVSCTPTVEYPCGKIPILEKRNASKPQGRIVGGKVCPKGECPWQVLLLVNGAQLCGG
+TLINTIWVVSAAHCFDKIKNWRNLIAVLGEHDLSEHDGDEQSRRVAQVIIPSTYVPGTTN
+HDIALLRLHQPVVLTDHVVPLCLPERTFSERTLAFVRFSLVSGWGQLLDRGATALELMVL
+NVPRLMTQDCLQQSRKVGDSPNITEYMFCAGYSDGSKDSCKGDSGGPHATHYRGTWYLTG
+IVSWGQGCATVGHFGVYTRVSQYIEWLQKLMRSEPRPGVLLRAPFP</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016066|Coagulation factor VII (F7)
+ATGGTCTCCCAGGCCCTCAGGCTCCTCTGCCTTCTGCTTGGGCTTCAGGGCTGCCTGGCT
+GCAGGCGGGGTCGCTAAGGCCTCAGGAGGAGAAACACGGGACATGCCGTGGAAGCCGGGG
+CCTCACAGAGTCTTCGTAACCCAGGAGGAAGCCCACGGCGTCCTGCACCGGCGCCGGCGC
+GCCAACGCGTTCCTGGAGGAGCTGCGGCCGGGCTCCCTGGAGAGGGAGTGCAAGGAGGAG
+CAGTGCTCCTTCGAGGAGGCCCGGGAGATCTTCAAGGACGCGGAGAGGACGAAGCTGTTC
+TGGATTTCTTACAGTGATGGGGACCAGTGTGCCTCAAGTCCATGCCAGAATGGGGGCTCC
+TGCAAGGACCAGCTCCAGTCCTATATCTGCTTCTGCCTCCCTGCCTTCGAGGGCCGGAAC
+TGTGAGACGCACAAGGATGACCAGCTGATCTGTGTGAACGAGAACGGCGGCTGTGAGCAG
+TACTGCAGTGACCACACGGGCACCAAGCGCTCCTGTCGGTGCCACGAGGGGTACTCTCTG
+CTGGCAGACGGGGTGTCCTGCACACCCACAGTTGAATATCCATGTGGAAAAATACCTATT
+CTAGAAAAAAGAAATGCCAGCAAACCCCAAGGCCGAATTGTGGGGGGCAAGGTGTGCCCC
+AAAGGGGAGTGTCCATGGCAGGTCCTGTTGTTGGTGAATGGAGCTCAGTTGTGTGGGGGG
+ACCCTGATCAACACCATCTGGGTGGTCTCCGCGGCCCACTGTTTCGACAAAATCAAGAAC
+TGGAGGAACCTGATCGCGGTGCTGGGCGAGCACGACCTCAGCGAGCACGACGGGGATGAG
+CAGAGCCGGCGGGTGGCGCAGGTCATCATCCCCAGCACGTACGTCCCGGGCACCACCAAC
+CACGACATCGCGCTGCTCCGCCTGCACCAGCCCGTGGTCCTCACTGACCATGTGGTGCCC
+CTCTGCCTGCCCGAACGGACGTTCTCTGAGAGGACGCTGGCCTTCGTGCGCTTCTCATTG
+GTCAGCGGCTGGGGCCAGCTGCTGGACCGTGGCGCCACGGCCCTGGAGCTCATGGTCCTC
+AACGTGCCCCGGCTGATGACCCAGGACTGCCTGCAGCAGTCACGGAAGGTGGGAGACTCC
+CCAAATATCACGGAGTACATGTTCTGTGCCGGCTACTCGGATGGCAGCAAGGACTCCTGC
+AAGGGGGACAGTGGAGGCCCACATGCCACCCACTACCGGGGCACGTGGTACCTGACGGGC
+ATCGTCAGCTGGGGCCAGGGCTGCGCAACCGTGGGCCACTTTGGGGTGTACACCAGGGTC
+TCCCAGTACATCGAGTGGCTGCAAAAGCTCATGCGCTCAGAGCCACGCCCAGGAGTCCTC
+CTGCGAGCCCCATTTCCCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00008</identifier>
+            <name>EGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00594</identifier>
+            <name>Gla</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>glycoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, extrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>circadian rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of leukocyte chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of platelet-derived growth factor receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of positive chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein kinase B signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to growth hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin K</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0000016</id>
+      <name>Coagulation factor VIII</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>cofactor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13303</ref-id>
+            <pubmed-id>11150722</pubmed-id>
+            <citation>Neels JG, Bovenschen N, van Zonneveld AJ, Lenting PJ: Interaction between factor VIII and LDL receptor-related protein. Modulation of coagulation? Trends Cardiovasc Med. 2000 Jan;10(1):8-14.</citation>
+          </article>
+          <article>
+            <ref-id>A13304</ref-id>
+            <pubmed-id>12719776</pubmed-id>
+            <citation>Carr ME Jr, Martin EJ, Kuhn JG, Seremetis SV: Effects of recombinant factor VIIa on platelet function and clot structure in blood with deficient prothrombin conversion. Thromb Haemost. 2003 May;89(5):803-11.</citation>
+          </article>
+          <article>
+            <ref-id>A13305</ref-id>
+            <pubmed-id>12826528</pubmed-id>
+            <citation>Federici AB: The factor VIII/von Willebrand factor complex: basic and clinical issues. Haematologica. 2003 Jun;88(6):EREP02.</citation>
+          </article>
+          <article>
+            <ref-id>A13306</ref-id>
+            <pubmed-id>14598591</pubmed-id>
+            <citation>Kalashnikova LA, Berkovskii AL, Dobrynina LA, Sergeeva EV, Kozlov AA, Aleksandrova EN, Nasonov EL: [Clotting factor VIII in Sneddon syndrome]. Klin Med (Mosk). 2003;81(9):42-5.</citation>
+          </article>
+          <article>
+            <ref-id>A13307</ref-id>
+            <pubmed-id>16476097</pubmed-id>
+            <citation>Johansen RF, Sorensen B, Ingerslev J: Acquired haemophilia: dynamic whole blood coagulation utilized to guide haemostatic therapy. Haemophilia. 2006 Mar;12(2):190-7.</citation>
+          </article>
+          <article>
+            <ref-id>A2134</ref-id>
+            <pubmed-id>659613</pubmed-id>
+            <citation>Di Scipio RG, Kurachi K, Davie EW: Activation of human factor IX (Christmas factor). J Clin Invest. 1978 Jun;61(6):1528-38.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P00451" source="Swiss-Prot">
+        <name>Coagulation factor VIII</name>
+        <general-function>Oxidoreductase activity</general-function>
+        <specific-function>Factor VIII, along with calcium and phospholipid, acts as a cofactor for factor IXa when it converts factor X to the activated form, factor Xa.</specific-function>
+        <gene-name>F8</gene-name>
+        <locus>Xq28</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-19</signal-regions>
+        <theoretical-pi>7.37</theoretical-pi>
+        <molecular-weight>267007.42</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3546</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F8</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M14113</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>182818</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00451</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FA8_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>AHF</synonym>
+          <synonym>Antihemophilic factor</synonym>
+          <synonym>F8C</synonym>
+          <synonym>Procoagulant component</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000032|Coagulation factor VIII
+MQIELSTCFFLCLLRFCFSATRRYYLGAVELSWDYMQSDLGELPVDARFPPRVPKSFPFN
+TSVVYKKTLFVEFTDHLFNIAKPRPPWMGLLGPTIQAEVYDTVVITLKNMASHPVSLHAV
+GVSYWKASEGAEYDDQTSQREKEDDKVFPGGSHTYVWQVLKENGPMASDPLCLTYSYLSH
+VDLVKDLNSGLIGALLVCREGSLAKEKTQTLHKFILLFAVFDEGKSWHSETKNSLMQDRD
+AASARAWPKMHTVNGYVNRSLPGLIGCHRKSVYWHVIGMGTTPEVHSIFLEGHTFLVRNH
+RQASLEISPITFLTAQTLLMDLGQFLLFCHISSHQHDGMEAYVKVDSCPEEPQLRMKNNE
+EAEDYDDDLTDSEMDVVRFDDDNSPSFIQIRSVAKKHPKTWVHYIAAEEEDWDYAPLVLA
+PDDRSYKSQYLNNGPQRIGRKYKKVRFMAYTDETFKTREAIQHESGILGPLLYGEVGDTL
+LIIFKNQASRPYNIYPHGITDVRPLYSRRLPKGVKHLKDFPILPGEIFKYKWTVTVEDGP
+TKSDPRCLTRYYSSFVNMERDLASGLIGPLLICYKESVDQRGNQIMSDKRNVILFSVFDE
+NRSWYLTENIQRFLPNPAGVQLEDPEFQASNIMHSINGYVFDSLQLSVCLHEVAYWYILS
+IGAQTDFLSVFFSGYTFKHKMVYEDTLTLFPFSGETVFMSMENPGLWILGCHNSDFRNRG
+MTALLKVSSCDKNTGDYYEDSYEDISAYLLSKNNAIEPRSFSQNSRHPSTRQKQFNATTI
+PENDIEKTDPWFAHRTPMPKIQNVSSSDLLMLLRQSPTPHGLSLSDLQEAKYETFSDDPS
+PGAIDSNNSLSEMTHFRPQLHHSGDMVFTPESGLQLRLNEKLGTTAATELKKLDFKVSST
+SNNLISTIPSDNLAAGTDNTSSLGPPSMPVHYDSQLDTTLFGKKSSPLTESGGPLSLSEE
+NNDSKLLESGLMNSQESSWGKNVSSTESGRLFKGKRAHGPALLTKDNALFKVSISLLKTN
+KTSNNSATNRKTHIDGPSLLIENSPSVWQNILESDTEFKKVTPLIHDRMLMDKNATALRL
+NHMSNKTTSSKNMEMVQQKKEGPIPPDAQNPDMSFFKMLFLPESARWIQRTHGKNSLNSG
+QGPSPKQLVSLGPEKSVEGQNFLSEKNKVVVGKGEFTKDVGLKEMVFPSSRNLFLTNLDN
+LHENNTHNQEKKIQEEIEKKETLIQENVVLPQIHTVTGTKNFMKNLFLLSTRQNVEGSYD
+GAYAPVLQDFRSLNDSTNRTKKHTAHFSKKGEEENLEGLGNQTKQIVEKYACTTRISPNT
+SQQNFVTQRSKRALKQFRLPLEETELEKRIIVDDTSTQWSKNMKHLTPSTLTQIDYNEKE
+KGAITQSPLSDCLTRSHSIPQANRSPLPIAKVSSFPSIRPIYLTRVLFQDNSSHLPAASY
+RKKDSGVQESSHFLQGAKKNNLSLAILTLEMTGDQREVGSLGTSATNSVTYKKVENTVLP
+KPDLPKTSGKVELLPKVHIYQKDLFPTETSNGSPGHLDLVEGSLLQGTEGAIKWNEANRP
+GKVPFLRVATESSAKTPSKLLDPLAWDNHYGTQIPKEEWKSQEKSPEKTAFKKKDTILSL
+NACESNHAIAAINEGQNKPEIEVTWAKQGRTERLCSQNPPVLKRHQREITRTTLQSDQEE
+IDYDDTISVEMKKEDFDIYDEDENQSPRSFQKKTRHYFIAAVERLWDYGMSSSPHVLRNR
+AQSGSVPQFKKVVFQEFTDGSFTQPLYRGELNEHLGLLGPYIRAEVEDNIMVTFRNQASR
+PYSFYSSLISYEEDQRQGAEPRKNFVKPNETKTYFWKVQHHMAPTKDEFDCKAWAYFSDV
+DLEKDVHSGLIGPLLVCHTNTLNPAHGRQVTVQEFALFFTIFDETKSWYFTENMERNCRA
+PCNIQMEDPTFKENYRFHAINGYIMDTLPGLVMAQDQRIRWYLLSMGSNENIHSIHFSGH
+VFTVRKKEEYKMALYNLYPGVFETVEMLPSKAGIWRVECLIGEHLHAGMSTLFLVYSNKC
+QTPLGMASGHIRDFQITASGQYGQWAPKLARLHYSGSINAWSTKEPFSWIKVDLLAPMII
+HGIKTQGARQKFSSLYISQFIIMYSLDGKKWQTYRGNSTGTLMVFFGNVDSSGIKHNIFN
+PPIIARYIRLHPTHYSIRSTLRMELMGCDLNSCSMPLGMESKAISDAQITASSYFTNMFA
+TWSPSKARLHLQGRSNAWRPQVNNPKEWLQVDFQKTMKVTGVTTQGVKSLLTSMYVKEFL
+ISSSQDGHQWTLFFQNGKVKVFQGNQDSFTPVVNSLDPPLLTRYLRIHPQSWVHQIALRM
+EVLGCEAQDLY</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0015996|Coagulation factor VIII (F8)
+ATGCAAATAGAGCTCTCCACCTGCTTCTTTCTGTGCCTTTTGCGATTCTGCTTTAGTGCC
+ACCAGAAGATACTACCTGGGTGCAGTGGAACTGTCATGGGACTATATGCAAAGTGATCTC
+GGTGAGCTGCCTGTGGACGCAAGATTTCCTCCTAGAGTGCCAAAATCTTTTCCATTCAAC
+ACCTCAGTCGTGTACAAAAAGACTCTGTTTGTAGAATTCACGGATCACCTTTTCAACATC
+GCTAAGCCAAGGCCACCCTGGATGGGTCTGCTAGGTCCTACCATCCAGGCTGAGGTTTAT
+GATACAGTGGTCATTACACTTAAGAACATGGCTTCCCATCCTGTCAGTCTTCATGCTGTT
+GGTGTATCCTACTGGAAAGCTTCTGAGGGAGCTGAATATGATGATCAGACCAGTCAAAGG
+GAGAAAGAAGATGATAAAGTCTTCCCTGGTGGAAGCCATACATATGTCTGGCAGGTCCTG
+AAAGAGAATGGTCCAATGGCCTCTGACCCACTGTGCCTTACCTACTCATATCTTTCTCAT
+GTGGACCTGGTAAAAGACTTGAATTCAGGCCTCATTGGAGCCCTACTAGTATGTAGAGAA
+GGGAGTCTGGCCAAGGAAAAGACACAGACCTTGCACAAATTTATACTACTTTTTGCTGTA
+TTTGATGAAGGGAAAAGTTGGCACTCAGAAACAAAGAACTCCTTGATGCAGGATAGGGAT
+GCTGCATCTGCTCGGGCCTGGCCTAAAATGCACACAGTCAATGGTTATGTAAACAGGTCT
+CTGCCAGGTCTGATTGGATGCCACAGGAAATCAGTCTATTGGCATGTGATTGGAATGGGC
+ACCACTCCTGAAGTGCACTCAATATTCCTCGAAGGTCACACATTTCTTGTGAGGAACCAT
+CGCCAGGCGTCCTTGGAAATCTCGCCAATAACTTTCCTTACTGCTCAAACACTCTTGATG
+GACCTTGGACAGTTTCTACTGTTTTGTCATATCTCTTCCCACCAACATGATGGCATGGAA
+GCTTATGTCAAAGTAGACAGCTGTCCAGAGGAACCCCAACTACGAATGAAAAATAATGAA
+GAAGCGGAAGACTATGATGATGATCTTACTGATTCTGAAATGGATGTGGTCAGGTTTGAT
+GATGACAACTCTCCTTCCTTTATCCAAATTCGCTCAGTTGCCAAGAAGCATCCTAAAACT
+TGGGTACATTACATTGCTGCTGAAGAGGAGGACTGGGACTATGCTCCCTTAGTCCTCGCC
+CCCGATGACAGAAGTTATAAAAGTCAATATTTGAACAATGGCCCTCAGCGGATTGGTAGG
+AAGTACAAAAAAGTCCGATTTATGGCATACACAGATGAAACCTTTAAGACTCGTGAAGCT
+ATTCAGCATGAATCAGGAATCTTGGGACCTTTACTTTATGGGGAAGTTGGAGACACACTG
+TTGATTATATTTAAGAATCAAGCAAGCAGACCATATAACATCTACCCTCACGGAATCACT
+GATGTCCGTCCTTTGTATTCAAGGAGATTACCAAAAGGTGTAAAACATTTGAAGGATTTT
+CCAATTCTGCCAGGAGAAATATTCAAATATAAATGGACAGTGACTGTAGAAGATGGGCCA
+ACTAAATCAGATCCTCGGTGCCTGACCCGCTATTACTCTAGTTTCGTTAATATGGAGAGA
+GATCTAGCTTCAGGACTCATTGGCCCTCTCCTCATCTGCTACAAAGAATCTGTAGATCAA
+AGAGGAAACCAGATAATGTCAGACAAGAGGAATGTCATCCTGTTTTCTGTATTTGATGAG
+AACCGAAGCTGGTACCTCACAGAGAATATACAACGCTTTCTCCCCAATCCAGCTGGAGTG
+CAGCTTGAGGATCCAGAGTTCCAAGCCTCCAACATCATGCACAGCATCAATGGCTATGTT
+TTTGATAGTTTGCAGTTGTCAGTTTGTTTGCATGAGGTGGCATACTGGTACATTCTAAGC
+ATTGGAGCACAGACTGACTTCCTTTCTGTCTTCTTCTCTGGATATACCTTCAAACACAAA
+ATGGTCTATGAAGACACACTCACCCTATTCCCATTCTCAGGAGAAACTGTCTTCATGTCG
+ATGGAAAACCCAGGTCTATGGATTCTGGGGTGCCACAACTCAGACTTTCGGAACAGAGGC
+ATGACCGCCTTACTGAAGGTTTCTAGTTGTGACAAGAACACTGGTGATTATTACGAGGAC
+AGTTATGAAGATATTTCAGCATACTTGCTGAGTAAAAACAATGCCATTGAACCAAGAAGC
+TTCTCCCAGAATTCAAGACACCCTAGCACTAGGCAAAAGCAATTTAATGCCACCACAATT
+CCAGAAAATGACATAGAGAAGACTGACCCTTGGTTTGCACACAGAACACCTATGCCTAAA
+ATACAAAATGTCTCCTCTAGTGATTTGTTGATGCTCTTGCGACAGAGTCCTACTCCACAT
+GGGCTATCCTTATCTGATCTCCAAGAAGCCAAATATGAGACTTTTTCTGATGATCCATCA
+CCTGGAGCAATAGACAGTAATAACAGCCTGTCTGAAATGACACACTTCAGGCCACAGCTC
+CATCACAGTGGGGACATGGTATTTACCCCTGAGTCAGGCCTCCAATTAAGATTAAATGAG
+AAACTGGGGACAACTGCAGCAACAGAGTTGAAGAAACTTGATTTCAAAGTTTCTAGTACA
+TCAAATAATCTGATTTCAACAATTCCATCAGACAATTTGGCAGCAGGTACTGATAATACA
+AGTTCCTTAGGACCCCCAAGTATGCCAGTTCATTATGATAGTCAATTAGATACCACTCTA
+TTTGGCAAAAAGTCATCTCCCCTTACTGAGTCTGGTGGACCTCTGAGCTTGAGTGAAGAA
+AATAATGATTCAAAGTTGTTAGAATCAGGTTTAATGAATAGCCAAGAAAGTTCATGGGGA
+AAAAATGTATCGTCAACAGAGAGTGGTAGGTTATTTAAAGGGAAAAGAGCTCATGGACCT
+GCTTTGTTGACTAAAGATAATGCCTTATTCAAAGTTAGCATCTCTTTGTTAAAGACAAAC
+AAAACTTCCAATAATTCAGCAACTAATAGAAAGACTCACATTGATGGCCCATCATTATTA
+ATTGAGAATAGTCCATCAGTCTGGCAAAATATATTAGAAAGTGACACTGAGTTTAAAAAA
+GTGACACCTTTGATTCATGACAGAATGCTTATGGACAAAAATGCTACAGCTTTGAGGCTA
+AATCATATGTCAAATAAAACTACTTCATCAAAAAACATGGAAATGGTCCAACAGAAAAAA
+GAGGGCCCCATTCCACCAGATGCACAAAATCCAGATATGTCGTTCTTTAAGATGCTATTC
+TTGCCAGAATCAGCAAGGTGGATACAAAGGACTCATGGAAAGAACTCTCTGAACTCTGGG
+CAAGGCCCCAGTCCAAAGCAATTAGTATCCTTAGGACCAGAAAAATCTGTGGAAGGTCAG
+AATTTCTTGTCTGAGAAAAACAAAGTGGTAGTAGGAAAGGGTGAATTTACAAAGGACGTA
+GGACTCAAAGAGATGGTTTTTCCAAGCAGCAGAAACCTATTTCTTACTAACTTGGATAAT
+TTACATGAAAATAATACACACAATCAAGAAAAAAAAATTCAGGAAGAAATAGAAAAGAAG
+GAAACATTAATCCAAGAGAATGTAGTTTTGCCTCAGATACATACAGTGACTGGCACTAAG
+AATTTCATGAAGAACCTTTTCTTACTGAGCACTAGGCAAAATGTAGAAGGTTCATATGAC
+GGGGCATATGCTCCAGTACTTCAAGATTTTAGGTCATTAAATGATTCAACAAATAGAACA
+AAGAAACACACAGCTCATTTCTCAAAAAAAGGGGAGGAAGAAAACTTGGAAGGCTTGGGA
+AATCAAACCAAGCAAATTGTAGAGAAATATGCATGCACCACAAGGATATCTCCTAATACA
+AGCCAGCAGAATTTTGTCACGCAACGTAGTAAGAGAGCTTTGAAACAATTCAGACTCCCA
+CTAGAAGAAACAGAACTTGAAAAAAGGATAATTGTGGATGACACCTCAACCCAGTGGTCC
+AAAAACATGAAACATTTGACCCCGAGCACCCTCACACAGATAGACTACAATGAGAAGGAG
+AAAGGGGCCATTACTCAGTCTCCCTTATCAGATTGCCTTACGAGGAGTCATAGCATCCCT
+CAAGCAAATAGATCTCCATTACCCATTGCAAAGGTATCATCATTTCCATCTATTAGACCT
+ATATATCTGACCAGGGTCCTATTCCAAGACAACTCTTCTCATCTTCCAGCAGCATCTTAT
+AGAAAGAAAGATTCTGGGGTCCAAGAAAGCAGTCATTTCTTACAAGGAGCCAAAAAAAAT
+AACCTTTCTTTAGCCATTCTAACCTTGGAGATGACTGGTGATCAAAGAGAGGTTGGCTCC
+CTGGGGACAAGTGCCACAAATTCAGTCACATACAAGAAAGTTGAGAACACTGTTCTCCCG
+AAACCAGACTTGCCCAAAACATCTGGCAAAGTTGAATTGCTTCCAAAAGTTCACATTTAT
+CAGAAGGACCTATTCCCTACGGAAACTAGCAATGGGTCTCCTGGCCATCTGGATCTCGTG
+GAAGGGAGCCTTCTTCAGGGAACAGAGGGAGCGATTAAGTGGAATGAAGCAAACAGACCT
+GGAAAAGTTCCCTTTCTGAGAGTAGCAACAGAAAGCTCTGCAAAGACTCCCTCCAAGCTA
+TTGGATCCTCTTGCTTGGGATAACCACTATGGTACTCAGATACCAAAAGAAGAGTGGAAA
+TCCCAAGAGAAGTCACCAGAAAAAACAGCTTTTAAGAAAAAGGATACCATTTTGTCCCTG
+AACGCTTGTGAAAGCAATCATGCAATAGCAGCAATAAATGAGGGACAAAATAAGCCCGAA
+ATAGAAGTCACCTGGGCAAAGCAAGGTAGGACTGAAAGGCTGTGCTCTCAAAACCCACCA
+GTCTTGAAACGCCATCAACGGGAAATAACTCGTACTACTCTTCAGTCAGATCAAGAGGAA
+ATTGACTATGATGATACCATATCAGTTGAAATGAAGAAGGAAGATTTTGACATTTATGAT
+GAGGATGAAAATCAGAGCCCCCGCAGCTTTCAAAAGAAAACACGACACTATTTTATTGCT
+GCAGTGGAGAGGCTCTGGGATTATGGGATGAGTAGCTCCCCACATGTTCTAAGAAACAGG
+GCTCAGAGTGGCAGTGTCCCTCAGTTCAAGAAAGTTGTTTTCCAGGAATTTACTGATGGC
+TCCTTTACTCAGCCCTTATACCGTGGAGAACTAAATGAACATTTGGGACTCCTGGGGCCA
+TATATAAGAGCAGAAGTTGAAGATAATATCATGGTAACTTTCAGAAATCAGGCCTCTCGT
+CCCTATTCCTTCTATTCTAGCCTTATTTCTTATGAGGAAGATCAGAGGCAAGGAGCAGAA
+CCTAGAAAAAACTTTGTCAAGCCTAATGAAACCAAAACTTACTTTTGGAAAGTGCAACAT
+CATATGGCACCCACTAAAGATGAGTTTGACTGCAAAGCCTGGGCTTATTTCTCTGATGTT
+GACCTGGAAAAAGATGTGCACTCAGGCCTGATTGGACCCCTTCTGGTCTGCCACACTAAC
+ACACTGAACCCTGCTCATGGGAGACAAGTGACAGTACAGGAATTTGCTCTGTTTTTCACC
+ATCTTTGATGAGACCAAAAGCTGGTACTTCACTGAAAATATGGAAAGAAACTGCAGGGCT
+CCCTGCAATATCCAGATGGAAGATCCCACTTTTAAAGAGAATTATCGCTTCCATGCAATC
+AATGGCTACATAATGGATACACTACCTGGCTTAGTAATGGCTCAGGATCAAAGGATTCGA
+TGGTATCTGCTCAGCATGGGCAGCAATGAAAACATCCATTCTATTCATTTCAGTGGACAT
+GTGTTCACTGTACGAAAAAAAGAGGAGTATAAAATGGCACTGTACAATCTCTATCCAGGT
+GTTTTTGAGACAGTGGAAATGTTACCATCCAAAGCTGGAATTTGGCGGGTGGAATGCCTT
+ATTGGCGAGCATCTACATGCTGGGATGAGCACACTTTTTCTGGTGTACAGCAATAAGTGT
+CAGACTCCCCTGGGAATGGCTTCTGGACACATTAGAGATTTTCAGATTACAGCTTCAGGA
+CAATATGGACAGTGGGCCCCAAAGCTGGCCAGACTTCATTATTCCGGATCAATCAATGCC
+TGGAGCACCAAGGAGCCCTTTTCTTGGATCAAGGTGGATCTGTTGGCACCAATGATTATT
+CACGGCATCAAGACCCAGGGTGCCCGTCAGAAGTTCTCCAGCCTCTACATCTCTCAGTTT
+ATCATCATGTATAGTCTTGATGGGAAGAAGTGGCAGACTTATCGAGGAAATTCCACTGGA
+ACCTTAATGGTCTTCTTTGGCAATGTGGATTCATCTGGGATAAAACACAATATTTTTAAC
+CCTCCAATTATTGCTCGATACATCCGTTTGCACCCAACTCATTATAGCATTCGCAGCACT
+CTTCGCATGGAGTTGATGGGCTGTGATTTAAATAGTTGCAGCATGCCATTGGGAATGGAG
+AGTAAAGCAATATCAGATGCACAGATTACTGCTTCATCCTACTTTACCAATATGTTTGCC
+ACCTGGTCTCCTTCAAAAGCTCGACTTCACCTCCAAGGGAGGAGTAATGCCTGGAGACCT
+CAGGTGAATAATCCAAAAGAGTGGCTGCAAGTGGACTTCCAGAAGACAATGAAAGTCACA
+GGAGTAACTACTCAGGGAGTAAAATCTCTGCTTACCAGCATGTATGTGAAGGAGTTCCTC
+ATCTCCAGCAGTCAAGATGGCCATCAGTGGACTCTCTTTTTTCAGAATGGCAAAGTAAAG
+GTTTTTCAGGGAAATCAAGACTCCTTCACACCTGTGGTGAACTCTCTAGACCCACCGTTA
+CTGACTCGCTACCTTCGAATTCACCCCCAGAGTTGGGTGCACCAGATTGCCCTGAGGATG
+GAGGTTCTGGGCTGCGAGGCACAGGACCTCTACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00394</identifier>
+            <name>Cu-oxidase</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07731</identifier>
+            <name>Cu-oxidase_2</name>
+          </pfam>
+          <pfam>
+            <identifier>PF07732</identifier>
+            <name>Cu-oxidase_3</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00754</identifier>
+            <name>F5_F8_type_C</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum-Golgi intermediate compartment membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>ER to Golgi transport vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>platelet alpha granule lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>copper ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute-phase response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, intrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>COPII vesicle coating</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ER to Golgi vesicle-mediated transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>membrane organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein N-linked glycosylation via asparagine</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="5">
+      <id>BE0000048</id>
+      <name>Prothrombin</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13308</ref-id>
+            <pubmed-id>10498586</pubmed-id>
+            <citation>Butenas S, van't Veer C, Mann KG: "Normal" thrombin generation. Blood. 1999 Oct 1;94(7):2169-78.</citation>
+          </article>
+          <article>
+            <ref-id>A13309</ref-id>
+            <pubmed-id>10499904</pubmed-id>
+            <citation>Kohler M: Thrombogenicity of prothrombin complex concentrates. Thromb Res. 1999 Aug 15;95(4 Suppl 1):S13-7.</citation>
+          </article>
+          <article>
+            <ref-id>A13310</ref-id>
+            <pubmed-id>10499905</pubmed-id>
+            <citation>Seitz R, Dodt J: Virus safety of prothrombin complex concentrates and factor IX concentrates. Thromb Res. 1999 Aug 15;95(4 Suppl 1):S19-23.</citation>
+          </article>
+          <article>
+            <ref-id>A13311</ref-id>
+            <pubmed-id>10648407</pubmed-id>
+            <citation>Samis JA, Ramsey GD, Walker JB, Nesheim ME, Giles AR: Proteolytic processing of human coagulation factor IX by plasmin. Blood. 2000 Feb 1;95(3):943-51.</citation>
+          </article>
+          <article>
+            <ref-id>A13312</ref-id>
+            <pubmed-id>11019961</pubmed-id>
+            <citation>Bauer KA, Humphries S, Smillie B, Li L, Cooper JA, Barzegar S, Rosenberg RD, Miller GJ: Prothrombin activation is increased among asymptomatic carriers of the prothrombin G20210A and factor V Arg506Gln mutations. Thromb Haemost. 2000 Sep;84(3):396-400.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P00734" source="Swiss-Prot">
+        <name>Prothrombin</name>
+        <general-function>Thrombospondin receptor activity</general-function>
+        <specific-function>Thrombin, which cleaves bonds after Arg and Lys, converts fibrinogen to fibrin and activates factors V, VII, VIII, XIII, and, in complex with thrombomodulin, protein C. Functions in blood homeostasis, inflammation and wound healing.</specific-function>
+        <gene-name>F2</gene-name>
+        <locus>11p11-q12</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-24</signal-regions>
+        <theoretical-pi>5.7</theoretical-pi>
+        <molecular-weight>70036.295</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3535</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>F2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M17262</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>339641</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2362</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P00734</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>THRB_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.5</synonym>
+          <synonym>Coagulation factor II</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016004|Prothrombin
+MAHVRGLQLPGCLALAALCSLVHSQHVFLAPQQARSLLQRVRRANTFLEEVRKGNLEREC
+VEETCSYEEAFEALESSTATDVFWAKYTACETARTPRDKLAACLEGNCAEGLGTNYRGHV
+NITRSGIECQLWRSRYPHKPEINSTTHPGADLQENFCRNPDSSTTGPWCYTTDPTVRRQE
+CSIPVCGQDQVTVAMTPRSEGSSVNLSPPLEQCVPDRGQQYQGRLAVTTHGLPCLAWASA
+QAKALSKHQDFNSAVQLVENFCRNPDGDEEGVWCYVAGKPGDFGYCDLNYCEEAVEEETG
+DGLDEDSDRAIEGRTATSEYQTFFNPRTFGSGEADCGLRPLFEKKSLEDKTERELLESYI
+DGRIVEGSDAEIGMSPWQVMLFRKSPQELLCGASLISDRWVLTAAHCLLYPPWDKNFTEN
+DLLVRIGKHSRTRYERNIEKISMLEKIYIHPRYNWRENLDRDIALMKLKKPVAFSDYIHP
+VCLPDRETAASLLQAGYKGRVTGWGNLKETWTANVGKGQPSVLQVVNLPIVERPVCKDST
+RIRITDNMFCAGYKPDEGKRGDACEGDSGGPFVMKSPFNNRWYQMGIVSWGEGCDRDGKY
+GFYTHVFRLKKWIQKVIDQFGE</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016005|Prothrombin (F2)
+ATGGCGCACGTCCGAGGCTTGCAGCTGCCTGGCTGCCTGGCCCTGGCTGCCCTGTGTAGC
+CTTGTGCACAGCCAGCATGTGTTCCTGGCTCCTCAGCAAGCACGGTCGCTGCTCCAGCGG
+GTCCGGCGAGCCAACACCTTCTTGGAGGAGGTGCGCAAGGGCAACCTGGAGCGAGAGTGC
+GTGGAGGAGACGTGCAGCTACGAGGAGGCCTTCGAGGCTCTGGAGTCCTCCACGGCTACG
+GATGTGTTCTGGGCCAAGTACACAGCTTGTGAGACAGCGAGGACGCCTCGAGATAAGCTT
+GCTGCATGTCTGGAAGGTAACTGTGCTGAGGGTCTGGGTACGAACTACCGAGGGCATGTG
+AACATCACCCGGTCAGGCATTGAGTGCCAGCTATGGAGGAGTCGCTACCCACATAAGCCT
+GAAATCAACTCCACTACCCATCCTGGGGCCGACCTACAGGAGAATTTCTGCCGCAACCCC
+GACAGCAGCACCACGGGACCCTGGTGCTACACTACAGACCCCACCGTGAGGAGGCAGGAA
+TGCAGCATCCCTGTCTGTGGCCAGGATCAAGTCACTGTAGCGATGACTCCACGCTCCGAA
+GGCTCCAGTGTGAATCTGTCACCTCCATTGGAGCAGTGTGTCCCTGATCGGGGGCAGCAG
+TACCAGGGGCGCCTGGCGGTGACCACACATGGGCTCCCCTGCCTGGCCTGGGCCAGCGCA
+CAGGCCAAGGCCCTGAGCAAGCACCAGGACTTCAACTCAGCTGTGCAGCTGGTGGAGAAC
+TTCTGCCGCAACCCAGACGGGGATGAGGAGGGCGTGTGGTGCTATGTGGCCGGGAAGCCT
+GGCGACTTTGGGTACTGCGACCTCAACTATTGTGAGGAGGCCGTGGAGGAGGAGACAGGA
+GATGGGCTGGATGAGGACTCAGACAGGGCCATCGAAGGGCGTACCGCCACCAGTGAGTAC
+CAGACTTTCTTCAATCCGAGGACCTTTGGCTCGGGAGAGGCAGACTGTGGGCTGCGACCT
+CTGTTCGAGAAGAAGTCGCTGGAGGACAAAACCGAAAGAGAGCTCCTGGAATCCTACATC
+GACGGGCGCATTGTGGAGGGCTCGGATGCAGAGATCGGCATGTCACCTTGGCAGGTGATG
+CTTTTCCGGAAGAGTCCCCAGGAGCTGCTGTGTGGGGCCAGCCTCATCAGTGACCGCTGG
+GTCCTCACCGCCGCCCACTGCCTCCTGTACCCGCCCTGGGACAAGAACTTCACCGAGAAT
+GACCTTCTGGTGCGCATTGGCAAGCACTCCCGCACCAGGTACGAGCGAAACATTGAAAAG
+ATATCCATGTTGGAAAAGATCTACATCCACCCCAGGTACAACTGGCGGGAGAACCTGGAC
+CGGGACATTGCCCTGATGAAGCTGAAGAAGCCTGTTGCCTTCAGTGACTACATTCACCCT
+GTGTGTCTGCCCGACAGGGAGACGGCAGCCAGCTTGCTCCAGGCTGGATACAAGGGGCGG
+GTGACAGGCTGGGGCAACCTGAAGGAGACGTGGACAGCCAACGTTGGTAAGGGGCAGCCC
+AGTGTCCTGCAGGTGGTGAACCTGCCCATTGTGGAGCGGCCGGTCTGCAAGGACTCCACC
+CGGATCCGCATCACTGACAACATGTTCTGTGCTGGTTACAAGCCTGATGAAGGGAAACGA
+GGGGATGCCTGTGAAGGTGACAGTGGGGGACCCTTTGTCATGAAGAGCCCCTTTAACAAC
+CGCTGGTATCAAATGGGCATCGTCTCATGGGGTGAAGGCTGTGACCGGGATGGGAAATAT
+GGCTTCTACACACATGTGTTCCGCCTGAAGAAGTGGATACAGAAGGTCATTGATCAGTTT
+GGAGAGTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00594</identifier>
+            <name>Gla</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00051</identifier>
+            <name>Kringle</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+          <pfam>
+            <identifier>PF09396</identifier>
+            <name>Thrombin_light</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>blood microparticle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular matrix</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>growth factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>thrombospondin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute-phase response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation, intrinsic pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to mechanical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytosolic calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fibrinolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organismal development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of astrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of fibrinolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>platelet activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of collagen biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphatidylinositol 3-kinase signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of reactive oxygen species metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of release of sequestered calcium ion into cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell shape</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to inactivity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to wounding</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="6">
+      <id>BE0002110</id>
+      <name>Prolow-density lipoprotein receptor-related protein 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13321</ref-id>
+            <pubmed-id>12522212</pubmed-id>
+            <citation>Rohlena J, Kolkman JA, Boertjes RC, Mertens K, Lenting PJ: Residues Phe342-Asn346 of activated coagulation factor IX contribute to the interaction with low density lipoprotein receptor-related protein. J Biol Chem. 2003 Mar 14;278(11):9394-401. Epub 2003 Jan 9.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q07954" source="Swiss-Prot">
+        <name>Prolow-density lipoprotein receptor-related protein 1</name>
+        <general-function>Receptor activity</general-function>
+        <specific-function>Endocytic receptor involved in endocytosis and in phagocytosis of apoptotic cells. Required for early embryonic development. Involved in cellular lipid homeostasis. Involved in the plasma clearance of chylomicron remnants and activated LRPAP1 (alpha 2-macroglobulin), as well as the local metabolism of complexes between plasminogen activators and their endogenous inhibitors. May modulate cellular events, such as APP metabolism, kinase-dependent intracellular signaling, neuronal calcium signaling as well as neurotransmission.Functions as a receptor for Pseudomonas aeruginosa exotoxin A.</specific-function>
+        <gene-name>LRP1</gene-name>
+        <locus>12q13-q14</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>4420-4444</transmembrane-regions>
+        <signal-regions>1-19</signal-regions>
+        <theoretical-pi>5.02</theoretical-pi>
+        <molecular-weight>504601.695</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6692</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>LRP1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X13916</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>34339</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q07954</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>LRP1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>A2MR</synonym>
+          <synonym>Alpha-2-macroglobulin receptor</synonym>
+          <synonym>APOER</synonym>
+          <synonym>Apolipoprotein E receptor</synonym>
+          <synonym>APR</synonym>
+          <synonym>LRP-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037158|Prolow-density lipoprotein receptor-related protein 1
+MLTPPLLLLLPLLSALVAAAIDAPKTCSPKQFACRDQITCISKGWRCDGERDCPDGSDEA
+PEICPQSKAQRCQPNEHNCLGTELCVPMSRLCNGVQDCMDGSDEGPHCRELQGNCSRLGC
+QHHCVPTLDGPTCYCNSSFQLQADGKTCKDFDECSVYGTCSQLCTNTDGSFICGCVEGYL
+LQPDNRSCKAKNEPVDRPPVLLIANSQNILATYLSGAQVSTITPTSTRQTTAMDFSYANE
+TVCWVHVGDSAAQTQLKCARMPGLKGFVDEHTINISLSLHHVEQMAIDWLTGNFYFVDDI
+DDRIFVCNRNGDTCVTLLDLELYNPKGIALDPAMGKVFFTDYGQIPKVERCDMDGQNRTK
+LVDSKIVFPHGITLDLVSRLVYWADAYLDYIEVVDYEGKGRQTIIQGILIEHLYGLTVFE
+NYLYATNSDNANAQQKTSVIRVNRFNSTEYQVVTRVDKGGALHIYHQRRQPRVRSHACEN
+DQYGKPGGCSDICLLANSHKARTCRCRSGFSLGSDGKSCKKPEHELFLVYGKGRPGIIRG
+MDMGAKVPDEHMIPIENLMNPRALDFHAETGFIYFADTTSYLIGRQKIDGTERETILKDG
+IHNVEGVAVDWMGDNLYWTDDGPKKTISVARLEKAAQTRKTLIEGKMTHPRAIVVDPLNG
+WMYWTDWEEDPKDSRRGRLERAWMDGSHRDIFVTSKTVLWPNGLSLDIPAGRLYWVDAFY
+DRIETILLNGTDRKIVYEGPELNHAFGLCHHGNYLFWTEYRSGSVYRLERGVGGAPPTVT
+LLRSERPPIFEIRMYDAQQQQVGTNKCRVNNGGCSSLCLATPGSRQCACAEDQVLDADGV
+TCLANPSYVPPPQCQPGEFACANSRCIQERWKCDGDNDCLDNSDEAPALCHQHTCPSDRF
+KCENNRCIPNRWLCDGDNDCGNSEDESNATCSARTCPPNQFSCASGRCIPISWTCDLDDD
+CGDRSDESASCAYPTCFPLTQFTCNNGRCININWRCDNDNDCGDNSDEAGCSHSCSSTQF
+KCNSGRCIPEHWTCDGDNDCGDYSDETHANCTNQATRPPGGCHTDEFQCRLDGLCIPLRW
+RCDGDTDCMDSSDEKSCEGVTHVCDPSVKFGCKDSARCISKAWVCDGDNDCEDNSDEENC
+ESLACRPPSHPCANNTSVCLPPDKLCDGNDDCGDGSDEGELCDQCSLNNGGCSHNCSVAP
+GEGIVCSCPLGMELGPDNHTCQIQSYCAKHLKCSQKCDQNKFSVKCSCYEGWVLEPDGES
+CRSLDPFKPFIIFSNRHEIRRIDLHKGDYSVLVPGLRNTIALDFHLSQSALYWTDVVEDK
+IYRGKLLDNGALTSFEVVIQYGLATPEGLAVDWIAGNIYWVESNLDQIEVAKLDGTLRTT
+LLAGDIEHPRAIALDPRDGILFWTDWDASLPRIEAASMSGAGRRTVHRETGSGGWPNGLT
+VDYLEKRILWIDARSDAIYSARYDGSGHMEVLRGHEFLSHPFAVTLYGGEVYWTDWRTNT
+LAKANKWTGHNVTVVQRTNTQPFDLQVYHPSRQPMAPNPCEANGGQGPCSHLCLINYNRT
+VSCACPHLMKLHKDNTTCYEFKKFLLYARQMEIRGVDLDAPYYNYIISFTVPDIDNVTVL
+DYDAREQRVYWSDVRTQAIKRAFINGTGVETVVSADLPNAHGLAVDWVSRNLFWTSYDTN
+KKQINVARLDGSFKNAVVQGLEQPHGLVVHPLRGKLYWTDGDNISMANMDGSNRTLLFSG
+QKGPVGLAIDFPESKLYWISSGNHTINRCNLDGSGLEVIDAMRSQLGKATALAIMGDKLW
+WADQVSEKMGTCSKADGSGSVVLRNSTTLVMHMKVYDESIQLDHKGTNPCSVNNGDCSQL
+CLPTSETTRSCMCTAGYSLRSGQQACEGVGSFLLYSVHEGIRGIPLDPNDKSDALVPVSG
+TSLAVGIDFHAENDTIYWVDMGLSTISRAKRDQTWREDVVTNGIGRVEGIAVDWIAGNIY
+WTDQGFDVIEVARLNGSFRYVVISQGLDKPRAITVHPEKGYLFWTEWGQYPRIERSRLDG
+TERVVLVNVSISWPNGISVDYQDGKLYWCDARTDKIERIDLETGENREVVLSSNNMDMFS
+VSVFEDFIYWSDRTHANGSIKRGSKDNATDSVPLRTGIGVQLKDIKVFNRDRQKGTNVCA
+VANGGCQQLCLYRGRGQRACACAHGMLAEDGASCREYAGYLLYSERTILKSIHLSDERNL
+NAPVQPFEDPEHMKNVIALAFDYRAGTSPGTPNRIFFSDIHFGNIQQINDDGSRRITIVE
+NVGSVEGLAYHRGWDTLYWTSYTTSTITRHTVDQTRPGAFERETVITMSGDDHPRAFVLD
+ECQNLMFWTNWNEQHPSIMRAALSGANVLTLIEKDIRTPNGLAIDHRAEKLYFSDATLDK
+IERCEYDGSHRYVILKSEPVHPFGLAVYGEHIFWTDWVRRAVQRANKHVGSNMKLLRVDI
+PQQPMGIIAVANDTNSCELSPCRINNGGCQDLCLLTHQGHVNCSCRGGRILQDDLTCRAV
+NSSCRAQDEFECANGECINFSLTCDGVPHCKDKSDEKPSYCNSRRCKKTFRQCSNGRCVS
+NMLWCNGADDCGDGSDEIPCNKTACGVGEFRCRDGTCIGNSSRCNQFVDCEDASDEMNCS
+ATDCSSYFRLGVKGVLFQPCERTSLCYAPSWVCDGANDCGDYSDERDCPGVKRPRCPLNY
+FACPSGRCIPMSWTCDKEDDCEHGEDETHCNKFCSEAQFECQNHRCISKQWLCDGSDDCG
+DGSDEAAHCEGKTCGPSSFSCPGTHVCVPERWLCDGDKDCADGADESIAAGCLYNSTCDD
+REFMCQNRQCIPKHFVCDHDRDCADGSDESPECEYPTCGPSEFRCANGRCLSSRQWECDG
+ENDCHDQSDEAPKNPHCTSQEHKCNASSQFLCSSGRCVAEALLCNGQDDCGDSSDERGCH
+INECLSRKLSGCSQDCEDLKIGFKCRCRPGFRLKDDGRTCADVDECSTTFPCSQRCINTH
+GSYKCLCVEGYAPRGGDPHSCKAVTDEEPFLIFANRYYLRKLNLDGSNYTLLKQGLNNAV
+ALDFDYREQMIYWTDVTTQGSMIRRMHLNGSNVQVLHRTGLSNPDGLAVDWVGGNLYWCD
+KGRDTIEVSKLNGAYRTVLVSSGLREPRALVVDVQNGYLYWTDWGDHSLIGRIGMDGSSR
+SVIVDTKITWPNGLTLDYVTERIYWADAREDYIEFASLDGSNRHVVLSQDIPHIFALTLF
+EDYVYWTDWETKSINRAHKTTGTNKTLLISTLHRPMDLHVFHALRQPDVPNHPCKVNNGG
+CSNLCLLSPGGGHKCACPTNFYLGSDGRTCVSNCTASQFVCKNDKCIPFWWKCDTEDDCG
+DHSDEPPDCPEFKCRPGQFQCSTGICTNPAFICDGDNDCQDNSDEANCDIHVCLPSQFKC
+TNTNRCIPGIFRCNGQDNCGDGEDERDCPEVTCAPNQFQCSITKRCIPRVWVCDRDNDCV
+DGSDEPANCTQMTCGVDEFRCKDSGRCIPARWKCDGEDDCGDGSDEPKEECDERTCEPYQ
+FRCKNNRCVPGRWQCDYDNDCGDNSDEESCTPRPCSESEFSCANGRCIAGRWKCDGDHDC
+ADGSDEKDCTPRCDMDQFQCKSGHCIPLRWRCDADADCMDGSDEEACGTGVRTCPLDEFQ
+CNNTLCKPLAWKCDGEDDCGDNSDENPEECARFVCPPNRPFRCKNDRVCLWIGRQCDGTD
+NCGDGTDEEDCEPPTAHTTHCKDKKEFLCRNQRCLSSSLRCNMFDDCGDGSDEEDCSIDP
+KLTSCATNASICGDEARCVRTEKAAYCACRSGFHTVPGQPGCQDINECLRFGTCSQLCNN
+TKGGHLCSCARNFMKTHNTCKAEGSEYQVLYIADDNEIRSLFPGHPHSAYEQAFQGDESV
+RIDAMDVHVKAGRVYWTNWHTGTISYRSLPPAAPPTTSNRHRRQIDRGVTHLNISGLKMP
+RGIAIDWVAGNVYWTDSGRDVIEVAQMKGENRKTLISGMIDEPHAIVVDPLRGTMYWSDW
+GNHPKIETAAMDGTLRETLVQDNIQWPTGLAVDYHNERLYWADAKLSVIGSIRLNGTDPI
+VAADSKRGLSHPFSIDVFEDYIYGVTYINNRVFKIHKFGHSPLVNLTGGLSHASDVVLYH
+QHKQPEVTNPCDRKKCEWLCLLSPSGPVCTCPNGKRLDNGTCVPVPSPTPPPDAPRPGTC
+NLQCFNGGSCFLNARRQPKCRCQPRYTGDKCELDQCWEHCRNGGTCAASPSGMPTCRCPT
+GFTGPKCTQQVCAGYCANNSTCTVNQGNQPQCRCLPGFLGDRCQYRQCSGYCENFGTCQM
+AADGSRQCRCTAYFEGSRCEVNKCSRCLEGACVVNKQSGDVTCNCTDGRVAPSCLTCVGH
+CSNGGSCTMNSKMMPECQCPPHMTGPRCEEHVFSQQQPGHIASILIPLLLLLLLVLVAGV
+VFWYKRRVQGAKGFQHQRMTNGAMNVEIGNPTYKMYEGGEPDDVGGLLDADFALDPDKPT
+NFTNPVYATLYMGGHGSRHSLASTDEKRELLGRGPEDEIGDPLA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019236|Prolow-density lipoprotein receptor-related protein 1 (LRP1)
+ATGCTGACCCCGCCGTTGCTCCTGCTGCTGCCCCTGCTCTCAGCTCTGGTCGCGGCGGCT
+ATCGACGCCCCTAAGACTTGCAGCCCCAAGCAGTTTGCCTGCAGAGATCAAATAACCTGT
+ATCTCAAAGGGCTGGCGGTGCGACGGTGAGAGGGACTGCCCAGACGGATCTGACGAGGCC
+CCTGAGATTTGTCCACAGAGTAAGGCCCAGCGATGCCAGCCAAACGAGCATAACTGCCTG
+GGTACTGAGCTGTGTGTTCCCATGTCCCGCCTCTGCAATGGGGTCCAGGACTGCATGGAC
+GGCTCAGATGAGGGGCCCCACTGCCGAGAGCTCCAAGGCAACTGCTCTCGCCTGGGCTGC
+CAGCACCATTGTGTCCCCACACTCGATGGGCCCACCTGCTACTGCAACAGCAGCTTTCAG
+CTTCAGGCAGATGGCAAGACCTGCAAAGATTTTGATGAGTGCTCAGTGTACGGCACCTGC
+AGCCAGCTATGCACCAACACAGACGGCTCCTTCATATGTGGCTGTGTTGAAGGATACCTC
+CTGCAGCCGGATAACCGCTCCTGCAAGGCCAAGAACGAGCCAGTAGACCGGCCCCCTGTG
+CTGTTGATAGCCAACTCCCAGAACATCTTGGCCACGTACCTGAGTGGGGCCCAGGTGTCT
+ACCATCACACCTACGAGCACGCGGCAGACCACAGCCATGGACTTCAGCTATGCCAACGAG
+ACCGTATGCTGGGTGCATGTTGGGGACAGTGCTGCTCAGACGCAGCTCAAGTGTGCCCGC
+ATGCCTGGCCTAAAGGGCTTCGTGGATGAGCACACCATCAACATCTCCCTCAGTCTGCAC
+CACGTGGAACAGATGGCCATCGACTGGCTGACAGGCAACTTCTACTTTGTGGATGACATC
+GATGATAGGATCTTTGTCTGCAACAGAAATGGGGACACATGTGTCACATTGCTAGACCTG
+GAACTCTACAACCCCAAGGGCATTGCCCTGGACCCTGCCATGGGGAAGGTGTTTTTCACT
+GACTATGGGCAGATCCCAAAGGTGGAACGCTGTGACATGGATGGGCAGAACCGCACCAAG
+CTCGTCGACAGCAAGATTGTGTTTCCTCATGGCATCACGCTGGACCTGGTCAGCCGCCTT
+GTCTACTGGGCAGATGCCTATCTGGACTATATTGAAGTGGTGGACTATGAGGGCAAGGGC
+CGCCAGACCATCATCCAGGGCATCCTGATTGAGCACCTGTACGGCCTGACTGTGTTTGAG
+AATTATCTCTATGCCACCAACTCGGACAATGCCAATGCCCAGCAGAAGACGAGTGTGATC
+CGTGTGAACCGCTTTAACAGCACCGAGTACCAGGTTGTCACCCGGGTGGACAAGGGTGGT
+GCCCTCCACATCTACCACCAGAGGCGTCAGCCCCGAGTGAGGAGCCATGCCTGTGAAAAC
+GACCAGTATGGGAAGCCGGGTGGCTGCTCTGACATCTGCCTGCTGGCCAACAGCCACAAG
+GCGCGGACCTGCCGCTGCCGTTCCGGCTTCAGCCTGGGCAGTGACGGGAAGTCATGCAAG
+AAGCCGGAGCATGAGCTGTTCCTCGTGTATGGCAAGGGCCGGCCAGGCATCATCCGGGGC
+ATGGATATGGGGGCCAAGGTCCCGGATGAGCACATGATCCCCATTGAAAACCTCATGAAC
+CCCCGAGCCCTGGACTTCCACGCTGAGACCGGCTTCATCTACTTTGCCGACACCACCAGC
+TACCTCATTGGCCGCCAGAAGATTGATGGCACTGAGCGGGAGACCATCCTGAAGGACGGC
+ATCCACAATGTGGAGGGTGTGGCCGTGGACTGGATGGGAGACAATCTGTACTGGACGGAC
+GATGGGCCCAAAAAGACAATCAGCGTGGCCAGGCTGGAGAAAGCTGCTCAGACCCGCAAG
+ACTTTAATCGAGGGCAAAATGACACACCCCAGGGCTATTGTGGTGGATCCACTCAATGGG
+TGGATGTACTGGACAGACTGGGAGGAGGACCCCAAGGACAGTCGGCGTGGGCGGCTGGAG
+AGGGCGTGGATGGATGGCTCACACCGAGACATCTTTGTCACCTCCAAGACAGTGCTTTGG
+CCCAATGGGCTAAGCCTGGACATCCCGGCTGGGCGCCTCTACTGGGTGGATGCCTTCTAC
+GACCGCATCGAGACGATACTGCTCAATGGCACAGACCGGAAGATTGTGTATGAAGGTCCT
+GAGCTGAACCACGCCTTTGGCCTGTGTCACCATGGCAACTACCTCTTCTGGACTGAGTAT
+CGGAGTGGCAGTGTCTACCGCTTGGAACGGGGTGTAGGAGGCGCACCCCCCACTGTGACC
+CTTCTGCGCAGTGAGCGGCCCCCCATCTTTGAGATCCGAATGTATGATGCCCAGCAGCAG
+CAAGTTGGCACCAACAAATGCCGGGTGAACAATGGCGGCTGCAGCAGCCTGTGCTTGGCC
+ACCCCTGGGAGCCGCCAGTGCGCCTGTGCTGAGGACCAGGTGTTGGACGCAGACGGCGTC
+ACTTGCTTGGCGAACCCATCCTACGTGCCTCCACCCCAGTGCCAGCCAGGCGAGTTTGCC
+TGTGCCAACAGCCGCTGCATCCAGGAGCGCTGGAAGTGTGACGGAGACAACGATTGCCTG
+GACAACAGTGATGAGGCCCCAGCCCTCTGCCATCAGCACACCTGCCCCTCGGACCGATTC
+AAGTGCGAGAACAACCGGTGCATCCCCAACCGCTGGCTCTGCGACGGGGACAATGACTGT
+GGGAACAGTGAAGATGAGTCCAATGCCACTTGTTCAGCCCGCACCTGCCCCCCCAACCAG
+TTCTCCTGTGCCAGTGGCCGCTGCATCCCCATCTCCTGGACGTGTGATCTGGATGACGAC
+TGTGGGGACCGCTCTGATGAGTCTGCTTCGTGTGCCTATCCCACCTGCTTCCCCCTGACT
+CAGTTTACCTGCAACAATGGCAGATGTATCAACATCAACTGGAGATGCGACAATGACAAT
+GACTGTGGGGACAACAGTGACGAAGCCGGCTGCAGCCACTCCTGTTCTAGCACCCAGTTC
+AAGTGCAACAGCGGGCGTTGCATCCCCGAGCACTGGACCTGCGATGGGGACAATGACTGC
+GGAGACTACAGTGATGAGACACACGCCAACTGCACCAACCAGGCCACGAGGCCCCCTGGT
+GGCTGCCACACTGATGAGTTCCAGTGCCGGCTGGATGGACTATGCATCCCCCTGCGGTGG
+CGCTGCGATGGGGACACTGACTGCATGGACTCCAGCGATGAGAAGAGCTGTGAGGGAGTG
+ACCCACGTCTGCGATCCCAGTGTCAAGTTTGGCTGCAAGGACTCAGCTCGGTGCATCAGC
+AAAGCGTGGGTGTGTGATGGCGACAATGACTGTGAGGATAACTCGGACGAGGAGAACTGC
+GAGTCCCTGGCCTGCAGGCCACCCTCGCACCCTTGTGCCAACAACACCTCAGTCTGCCTG
+CCCCCTGACAAGCTGTGTGATGGCAACGACGACTGTGGCGACGGCTCAGATGAGGGCGAG
+CTCTGCGACCAGTGCTCTCTGAATAACGGTGGCTGCAGCCACAACTGCTCAGTGGCACCT
+GGCGAAGGCATTGTGTGTTCCTGCCCTCTGGGCATGGAGCTGGGGCCCGACAACCACACC
+TGCCAGATCCAGAGCTACTGTGCCAAGCATCTCAAATGCAGCCAAAAGTGCGACCAGAAC
+AAGTTCAGCGTGAAGTGCTCCTGCTACGAGGGCTGGGTCCTGGAACCTGACGGCGAGAGC
+TGCCGCAGCCTGGACCCCTTCAAGCCGTTCATCATTTTCTCCAACCGCCATGAAATCCGG
+CGCATCGATCTTCACAAAGGAGACTACAGCGTCCTGGTGCCCGGCCTGCGCAACACCATC
+GCCCTGGACTTCCACCTCAGCCAGAGCGCCCTCTACTGGACCGACGTGGTGGAGGACAAG
+ATCTACCGCGGGAAGCTGCTGGACAACGGAGCCCTGACTAGTTTCGAGGTGGTGATTCAG
+TATGGCCTGGCCACACCCGAGGGCCTGGCTGTAGACTGGATTGCAGGCAACATCTACTGG
+GTGGAGAGTAACCTGGATCAGATCGAGGTGGCCAAGCTGGATGGGACCCTCCGGACCACC
+CTGCTGGCCGGTGACATTGAGCACCCAAGGGCAATCGCACTGGATCCCCGGGATGGGATC
+CTGTTTTGGACAGACTGGGATGCCAGCCTGCCCCGCATTGAGGCAGCCTCCATGAGTGGG
+GCTGGGCGCCGCACCGTGCACCGGGAGACCGGCTCTGGGGGCTGGCCCAACGGGCTCACC
+GTGGACTACCTGGAGAAGCGCATCCTTTGGATTGACGCCAGGTCAGATGCCATTTACTCA
+GCCCGTTACGACGGCTCTGGCCACATGGAGGTGCTTCGGGGACACGAGTTCCTGTCGCAC
+CCGTTTGCAGTGACGCTGTACGGGGGGGAGGTCTACTGGACTGACTGGCGAACAAACACA
+CTGGCTAAGGCCAACAAGTGGACCGGCCACAATGTCACCGTGGTACAGAGGACCAACACC
+CAGCCCTTTGACCTGCAGGTGTACCACCCCTCCCGCCAGCCCATGGCTCCCAATCCCTGT
+GAGGCCAATGGGGGCCAGGGCCCCTGCTCCCACCTGTGTCTCATCAACTACAACCGGACC
+GTGTCCTGCGCCTGCCCCCACCTCATGAAGCTCCACAAGGACAACACCACCTGCTATGAG
+TTTAAGAAGTTCCTGCTGTACGCACGTCAGATGGAGATCCGAGGTGTGGACCTGGATGCT
+CCCTACTACAACTACATCATCTCCTTCACGGTGCCCGACATCGACAACGTCACAGTGCTA
+GACTACGATGCCCGCGAGCAGCGTGTGTACTGGTCTGACGTGCGGACACAGGCCATCAAG
+CGGGCCTTCATCAACGGCACAGGCGTGGAGACAGTCGTCTCTGCAGACTTGCCAAATGCC
+CACGGGCTGGCTGTGGACTGGGTCTCCCGAAACCTGTTCTGGACAAGCTATGACACCAAT
+AAGAAGCAGATCAATGTGGCCCGGCTGGATGGCTCCTTCAAGAACGCAGTGGTGCAGGGC
+CTGGAGCAGCCCCATGGCCTTGTCGTCCACCCTCTGCGTGGGAAGCTCTACTGGACCGAT
+GGTGACAACATCAGCATGGCCAACATGGATGGCAGCAATCGCACCCTGCTCTTCAGTGGC
+CAGAAGGGCCCCGTGGGCCTGGCTATTGACTTCCCTGAAAGCAAACTCTACTGGATCAGC
+TCCGGGAACCATACCATCAACCGCTGCAACCTGGATGGGAGTGGGCTGGAGGTCATCGAT
+GCCATGCGGAGCCAGCTGGGCAAGGCCACCGCCCTGGCCATCATGGGGGACAAGCTGTGG
+TGGGCTGATCAGGTGTCGGAAAAGATGGGCACATGCAGCAAGGCTGACGGCTCGGGCTCC
+GTGGTCCTTCGGAACAGCACCACCCTGGTGATGCACATGAAGGTCTATGACGAGAGCATC
+CAGCTGGACCATAAGGGCACCAACCCCTGCAGTGTCAACAACGGTGACTGCTCCCAGCTC
+TGCCTGCCCACGTCAGAGACGACCCGCTCCTGCATGTGCACAGCCGGCTATAGCCTCCGG
+AGTGGCCAGCAGGCCTGCGAGGGCGTAGGTTCCTTTCTCCTGTACTCTGTGCATGAGGGA
+ATCAGGGGAATTCCCCTGGATCCCAATGACAAGTCAGATGCCCTGGTCCCAGTGTCCGGG
+ACCTCGCTGGCTGTCGGCATCGACTTCCACGCTGAAAATGACACCATCTACTGGGTGGAC
+ATGGGCCTGAGCACGATCAGCCGGGCCAAGCGGGACCAGACGTGGCGTGAAGACGTGGTG
+ACCAATGGCATTGGCCGTGTGGAGGGCATTGCAGTGGACTGGATCGCAGGCAACATCTAC
+TGGACAGACCAGGGCTTTGATGTCATCGAGGTCGCCCGGCTCAATGGCTCCTTCCGCTAC
+GTGGTGATCTCCCAGGGTCTAGACAAGCCCCGGGCCATCACCGTCCACCCGGAGAAAGGG
+TACTTGTTCTGGACTGAGTGGGGTCAGTATCCGCGTATTGAGCGGTCTCGGCTAGATGGC
+ACGGAGCGTGTGGTGCTGGTCAACGTCAGCATCAGCTGGCCCAACGGCATCTCAGTGGAC
+TACCAGGATGGGAAGCTGTACTGGTGCGATGCACGGACAGACAAGATTGAACGGATCGAC
+CTGGAGACAGGTGAGAACCGCGAGGTGGTTCTGTCCAGCAACAACATGGACATGTTTTCA
+GTGTCTGTGTTTGAGGATTTCATCTACTGGAGTGACAGGACTCATGCCAACGGCTCTATC
+AAGCGCGGGAGCAAAGACAATGCCACAGACTCCGTGCCCCTGCGAACCGGCATCGGCGTC
+CAGCTTAAAGACATCAAAGTCTTCAACCGGGACCGGCAGAAAGGCACCAACGTGTGCGCG
+GTGGCCAATGGCGGGTGCCAGCAGCTGTGCCTGTACCGGGGCCGTGGGCAGCGGGCCTGC
+GCCTGTGCCCACGGGATGCTGGCTGAAGACGGAGCATCGTGCCGCGAGTATGCCGGCTAC
+CTGCTCTACTCAGAGCGCACCATTCTCAAGAGTATCCACCTGTCGGATGAGCGCAACCTC
+AATGCGCCCGTGCAGCCCTTCGAGGACCCTGAGCACATGAAGAACGTCATCGCCCTGGCC
+TTTGACTACCGGGCAGGCACCTCTCCGGGCACCCCCAATCGCATCTTCTTCAGCGACATC
+CACTTTGGGAACATCCAACAGATCAACGACGATGGCTCCAGGAGGATCACCATTGTGGAA
+AACGTGGGCTCCGTGGAAGGCCTGGCCTATCACCGTGGCTGGGACACTCTCTATTGGACA
+AGCTACACGACATCCACCATCACGCGCCACACAGTGGACCAGACCCGCCCAGGGGCCTTC
+GAGCGTGAGACCGTCATCACTATGTCTGGAGATGACCACCCACGGGCCTTCGTTTTGGAC
+GAGTGCCAGAACCTCATGTTCTGGACCAACTGGAATGAGCAGCATCCCAGCATCATGCGG
+GCGGCGCTCTCGGGAGCCAATGTCCTGACCCTTATCGAGAAGGACATCCGTACCCCCAAT
+GGCCTGGCCATCGACCACCGTGCCGAGAAGCTCTACTTCTCTGACGCCACCCTGGACAAG
+ATCGAGCGGTGCGAGTATGACGGCTCCCACCGCTATGTGATCCTAAAGTCAGAGCCTGTC
+CACCCCTTCGGGCTGGCCGTGTATGGGGAGCACATTTTCTGGACTGACTGGGTGCGGCGG
+GCAGTGCAGCGGGCCAACAAGCACGTGGGCAGCAACATGAAGCTGCTGCGCGTGGACATC
+CCCCAGCAGCCCATGGGCATCATCGCCGTGGCCAACGACACCAACAGCTGTGAACTCTCT
+CCATGCCGAATCAACAACGGTGGCTGCCAGGACCTGTGTCTGCTCACTCACCAGGGCCAT
+GTCAACTGCTCATGCCGAGGGGGCCGAATCCTCCAGGATGACCTCACCTGCCGAGCGGTG
+AATTCCTCTTGCCGAGCACAAGATGAGTTTGAGTGTGCCAATGGCGAGTGCATCAACTTC
+AGCCTGACCTGCGACGGCGTCCCCCACTGCAAGGACAAGTCCGATGAGAAGCCATCCTAC
+TGCAACTCCCGCCGCTGCAAGAAGACTTTCCGGCAGTGCAGCAATGGGCGCTGTGTGTCC
+AACATGCTGTGGTGCAACGGGGCCGACGACTGTGGGGATGGCTCTGACGAGATCCCTTGC
+AACAAGACAGCCTGTGGTGTGGGCGAGTTCCGCTGCCGGGACGGGACCTGCATCGGGAAC
+TCCAGCCGCTGCAACCAGTTTGTGGATTGTGAGGACGCCTCAGATGAGATGAACTGCAGT
+GCCACCGACTGCAGCAGCTACTTCCGCCTGGGCGTGAAGGGCGTGCTCTTCCAGCCCTGC
+GAGCGGACCTCACTCTGCTACGCACCCAGCTGGGTGTGTGATGGCGCCAATGACTGTGGG
+GACTACAGTGATGAGCGCGACTGCCCAGGTGTGAAACGCCCCAGATGCCCTCTGAATTAC
+TTCGCCTGCCCTAGTGGGCGCTGCATCCCCATGAGCTGGACGTGTGACAAAGAGGATGAC
+TGTGAACATGGCGAGGACGAGACCCACTGCAACAAGTTCTGCTCAGAGGCCCAGTTTGAG
+TGCCAGAACCATCGCTGCATCTCCAAGCAGTGGCTGTGTGACGGCAGCGATGACTGTGGG
+GATGGCTCAGACGAGGCTGCTCACTGTGAAGGCAAGACGTGCGGCCCCTCCTCCTTCTCC
+TGCCCTGGCACCCACGTGTGCGTCCCCGAGCGCTGGCTCTGTGACGGTGACAAAGACTGT
+GCTGATGGTGCAGACGAGAGCATCGCAGCTGGTTGCTTGTACAACAGCACTTGTGACGAC
+CGTGAGTTCATGTGCCAGAACCGCCAGTGCATCCCCAAGCACTTCGTGTGTGACCACGAC
+CGTGACTGTGCAGATGGCTCTGATGAGTCCCCCGAGTGTGAGTACCCGACCTGCGGCCCC
+AGTGAGTTCCGCTGTGCCAATGGGCGCTGTCTGAGCTCCCGCCAGTGGGAGTGTGATGGC
+GAGAATGACTGCCACGACCAGAGTGACGAGGCTCCCAAGAACCCACACTGCACCAGCCAA
+GAGCACAAGTGCAATGCCTCGTCACAGTTCCTGTGCAGCAGTGGGCGCTGTGTGGCTGAG
+GCACTGCTCTGCAACGGCCAGGATGACTGTGGCGACAGCTCGGACGAGCGTGGCTGCCAC
+ATCAATGAGTGTCTCAGCCGCAAGCTCAGTGGCTGCAGCCAGGACTGTGAGGACCTCAAG
+ATCGGCTTCAAGTGCCGCTGTCGCCCTGGCTTCCGGCTGAAGGACGACGGCCGGACGTGT
+GCTGATGTGGACGAGTGCAGCACCACCTTCCCCTGCAGCCAGCGCTGCATCAACACTCAT
+GGCAGCTATAAGTGTCTGTGTGTGGAGGGCTATGCACCCCGCGGCGGCGACCCCCACAGC
+TGCAAGGCTGTGACTGACGAGGAACCGTTTCTGATCTTCGCCAACCGGTACTACCTGCGC
+AAGCTCAACCTGGACGGGTCCAACTACACGTTACTTAAGCAGGGCCTGAACAACGCCGTT
+GCCTTGGATTTTGACTACCGAGAGCAGATGATCTACTGGACAGATGTGACCACCCAGGGC
+AGCATGATCCGAAGGATGCACCTTAACGGGAGCAATGTGCAGGTCCTACACCGTACAGGC
+CTCAGCAACCCCGATGGGCTGGCTGTGGACTGGGTGGGTGGCAACCTGTACTGGTGCGAC
+AAAGGCCGGGACACCATCGAGGTGTCCAAGCTCAATGGGGCCTATCGGACGGTGCTGGTC
+AGCTCTGGCCTCCGTGAGCCCAGGGCTCTGGTGGTGGATGTGCAGAATGGGTACCTGTAC
+TGGACAGACTGGGGTGACCATTCACTGATCGGCCGCATCGGCATGGATGGGTCCAGCCGC
+AGCGTCATCGTGGACACCAAGATCACATGGCCCAATGGCCTGACGCTGGACTATGTCACT
+GAGCGCATCTACTGGGCCGACGCCCGCGAGGACTACATTGAATTTGCCAGCCTGGATGGC
+TCCAATCGCCACGTTGTGCTGAGCCAGGACATCCCGCACATCTTTGCACTGACCCTGTTT
+GAGGACTACGTCTACTGGACCGACTGGGAAACAAAGTCCATTAACCGAGCCCACAAGACC
+ACGGGCACCAACAAAACGCTCCTCATCAGCACGCTGCACCGGCCCATGGACCTGCATGTC
+TTCCATGCCCTGCGCCAGCCAGACGTGCCCAATCACCCCTGCAAGGTCAACAATGGTGGC
+TGCAGCAACCTGTGCCTGCTGTCCCCCGGGGGAGGGCACAAATGTGCCTGCCCCACCAAC
+TTCTACCTGGGCAGCGATGGGCGCACCTGTGTGTCCAACTGCACGGCTAGCCAGTTTGTA
+TGCAAGAACGACAAGTGCATCCCCTTCTGGTGGAAGTGTGACACCGAGGACGACTGCGGG
+GACCACTCAGACGAGCCCCCGGACTGCCCTGAGTTCAAGTGCCGGCCCGGACAGTTCCAG
+TGCTCCACAGGTATCTGCACAAACCCTGCCTTCATCTGCGATGGCGACAATGACTGCCAG
+GACAACAGTGACGAGGCCAACTGTGACATCCACGTCTGCTTGCCCAGTCAGTTCAAATGC
+ACCAACACCAACCGCTGTATTCCCGGCATCTTCCGCTGCAATGGGCAGGACAACTGCGGA
+GATGGGGAGGATGAGAGGGACTGCCCCGAGGTGACCTGCGCCCCCAACCAGTTCCAGTGC
+TCCATTACCAAACGGTGCATCCCCCGGGTCTGGGTCTGCGACCGGGACAATGACTGTGTG
+GATGGCAGTGATGAGCCCGCCAACTGCACCCAGATGACCTGTGGTGTGGACGAGTTCCGC
+TGCAAGGATTCGGGCCGCTGCATCCCAGCGCGTTGGAAGTGTGACGGAGAGGATGACTGT
+GGGGATGGCTCGGATGAGCCCAAGGAAGAGTGTGATGAACGCACCTGTGAGCCATACCAG
+TTCCGCTGCAAGAACAACCGCTGCGTGCCCGGCCGCTGGCAGTGCGACTACGACAACGAT
+TGCGGTGACAACTCCGATGAAGAGAGCTGCACCCCTCGGCCCTGCTCCGAGAGTGAGTTC
+TCCTGTGCCAACGGCCGCTGCATCGCGGGGCGCTGGAAATGCGATGGAGACCACGACTGC
+GCGGACGGCTCGGACGAGAAAGACTGCACCCCCCGCTGTGACATGGACCAGTTCCAGTGC
+AAGAGCGGCCACTGCATCCCCCTGCGCTGGCGCTGTGACGCAGACGCCGACTGCATGGAC
+GGCAGCGACGAGGAGGCCTGCGGCACTGGCGTGCGGACCTGCCCCCTGGACGAGTTCCAG
+TGCAACAACACCTTGTGCAAGCCGCTGGCCTGGAAGTGCGATGGCGAGGATGACTGTGGG
+GACAACTCAGATGAGAACCCCGAGGAGTGTGCCCGGTTCGTGTGCCCTCCCAACCGGCCC
+TTCCGTTGCAAGAATGACCGCGTCTGTCTGTGGATCGGGCGCCAATGCGATGGCACGGAC
+AACTGTGGGGATGGGACTGATGAAGAGGACTGTGAGCCCCCCACAGCCCACACCACCCAC
+TGCAAAGACAAGAAGGAGTTTCTGTGCCGGAACCAGCGCTGCCTCTCCTCCTCCCTGCGC
+TGCAACATGTTCGATGACTGCGGGGACGGCTCTGACGAGGAGGACTGCAGCATCGACCCC
+AAGCTGACCAGCTGCGCCACCAATGCCAGCATCTGTGGGGACGAGGCACGCTGCGTGCGC
+ACCGAGAAAGCGGCCTACTGTGCCTGCCGCTCGGGCTTCCACACCGTGCCCGGCCAGCCC
+GGATGCCAAGACATCAACGAGTGCCTGCGCTTCGGCACCTGCTCCCAGCTCTGCAACAAC
+ACCAAGGGCGGCCACCTCTGCAGCTGCGCTCGGAACTTCATGAAGACGCACAACACCTGC
+AAGGCCGAAGGCTCTGAGTACCAGGTCCTGTACATCGCTGATGACAATGAGATCCGCAGC
+CTGTTCCCCGGCCACCCCCATTCGGCTTACGAGCAGGCATTCCAGGGTGACGAGAGTGTC
+CGCATTGATGCTATGGATGTCCATGTCAAGGCTGGCCGTGTCTATTGGACCAACTGGCAC
+ACGGGCACCATCTCCTACCGCAGCCTGCCACCTGCTGCGCCTCCTACCACTTCCAACCGC
+CACCGGCGACAGATTGACCGGGGTGTCACCCACCTCAACATTTCAGGGCTGAAGATGCCC
+AGAGGCATCGCCATCGACTGGGTGGCCGGAAACGTGTACTGGACCGACTCGGGCCGAGAT
+GTGATTGAGGTGGCGCAGATGAAGGGCGAGAACCGCAAGACGCTCATCTCGGGCATGATT
+GACGAGCCCCACGCCATTGTGGTGGACCCACTGAGGGGGACCATGTACTGGTCAGACTGG
+GGCAACCACCCCAAGATTGAGACGGCAGCGATGGATGGGACGCTTCGGGAGACACTGGTG
+CAGGACAACATTCAGTGGCCCACAGGCCTGGCCGTGGATTATCACAATGAGCGGCTGTAC
+TGGGCAGACGCCAAGCTTTCAGTCATCGGCAGCATCCGGCTCAATGGCACGGACCCCATT
+GTGGCTGCTGACAGCAAACGAGGCCTAAGTCACCCCTTCAGCATCGACGTCTTTGAGGAT
+TACATCTATGGTGTCACCTACATCAATAATCGTGTCTTCAAGATCCATAAGTTTGGCCAC
+AGCCCCTTGGTCAACCTGACAGGGGGCCTGAGCCACGCCTCTGACGTGGTCCTTTACCAT
+CAGCACAAGCAGCCCGAAGTGACCAACCCATGTGACCGCAAGAAATGCGAGTGGCTCTGC
+CTGCTGAGCCCCAGTGGGCCTGTCTGCACCTGTCCCAATGGGAAGCGGCTGGACAACGGC
+ACATGCGTGCCTGTGCCCTCTCCAACGCCCCCCCCAGATGCTCCCCGGCCTGGAACCTGT
+AACCTGCAGTGCTTCAACGGTGGCAGCTGTTTCCTCAATGCACGGAGGCAGCCCAAGTGC
+CGCTGCCAACCCCGCTACACGGGTGACAAGTGTGAACTGGACCAGTGCTGGGAGCACTGT
+CGCAATGGGGGCACCTGTGCTGCCTCCCCCTCTGGCATGCCCACGTGCCGGTGCCCCACG
+GGCTTCACGGGCCCCAAATGCACCCAGCAGGTGTGTGCGGGCTACTGTGCCAACAACAGC
+ACCTGCACTGTCAACCAGGGCAACCAGCCCCAGTGCCGATGCCTACCCGGCTTCCTGGGC
+GACCGCTGCCAGTACCGGCAGTGCTCTGGCTACTGTGAGAACTTTGGCACATGCCAGATG
+GCTGCTGATGGCTCCCGACAATGCCGCTGCACTGCCTACTTTGAGGGATCGAGGTGTGAG
+GTGAACAAGTGCAGCCGCTGTCTCGAAGGGGCCTGTGTGGTCAACAAGCAGAGTGGGGAT
+GTCACCTGCAACTGCACGGATGGCCGGGTGGCCCCCAGCTGTCTGACCTGCGTCGGCCAC
+TGCAGCAATGGCGGCTCCTGTACCATGAACAGCAAAATGATGCCTGAGTGCCAGTGCCCA
+CCCCACATGACAGGGCCCCGGTGTGAGGAGCACGTCTTCAGCCAGCAGCAGCCAGGACAT
+ATAGCCTCCATCCTAATCCCTCTGCTGTTGCTGCTGCTGCTGGTTCTGGTGGCCGGAGTG
+GTATTCTGGTATAAGCGGCGAGTCCAAGGGGCTAAGGGCTTCCAGCACCAACGGATGACC
+AACGGGGCCATGAACGTGGAGATTGGAAACCCCACCTACAAGATGTACGAAGGCGGAGAG
+CCTGATGATGTGGGAGGCCTACTGGACGCTGACTTTGCCCTGGACCCTGACAAGCCCACC
+AACTTCACCAACCCCGTGTATGCCACACTCTACATGGGGGGCCATGGCAGTCGCCACTCC
+CTGGCCAGCACGGACGAGAAGCGAGAACTCCTGGGCCGGGGCCCTGAGGACGAGATAGGG
+GACCCCTTGGCATAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07645</identifier>
+            <name>EGF_CA</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00057</identifier>
+            <name>Ldl_recept_a</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00058</identifier>
+            <name>Ldl_recept_b</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12662</identifier>
+            <name>cEGF</name>
+          </pfam>
+          <pfam>
+            <identifier>PF16472</identifier>
+            <name>DUF5050</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>clathrin-coated vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>coated pit</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendrite</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endocytic vesicle membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>focal adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleolus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>apolipoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipoprotein particle receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipoprotein transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>poly(A) RNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein complex binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aorta morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic cell clearance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>beta-amyloid clearance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of neuron apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of neuron projection development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of platelet-derived growth factor receptor-beta signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of smooth muscle cell migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of Wnt signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phototransduction, visible light</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cholesterol efflux</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of lipid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein kinase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>receptor-mediated endocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of actin cytoskeleton organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cholesterol transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of phospholipase A2 activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retinoid metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="7">
+      <id>BE0000403</id>
+      <name>Vitamin K-dependent gamma-carboxylase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13316</ref-id>
+            <pubmed-id>14660587</pubmed-id>
+            <citation>Lin PJ, Straight DL, Stafford DW: Binding of the factor IX gamma-carboxyglutamic acid domain to the vitamin K-dependent gamma-glutamyl carboxylase active site induces an allosteric effect that may ensure processive carboxylation and regulate the release of carboxylated product. J Biol Chem. 2004 Feb 20;279(8):6560-6. Epub 2003 Dec 2.</citation>
+          </article>
+          <article>
+            <ref-id>A13317</ref-id>
+            <pubmed-id>9115224</pubmed-id>
+            <citation>Wu SM, Mutucumarana VP, Geromanos S, Stafford DW: The propeptide binding site of the bovine gamma-glutamyl carboxylase. J Biol Chem. 1997 May 2;272(18):11718-22.</citation>
+          </article>
+          <article>
+            <ref-id>A13318</ref-id>
+            <pubmed-id>8506307</pubmed-id>
+            <citation>Rehemtulla A, Roth DA, Wasley LC, Kuliopulos A, Walsh CT, Furie B, Furie BC, Kaufman RJ: In vitro and in vivo functional characterization of bovine vitamin K-dependent gamma-carboxylase expressed in Chinese hamster ovary cells. Proc Natl Acad Sci U S A. 1993 May 15;90(10):4611-5.</citation>
+          </article>
+          <article>
+            <ref-id>A13319</ref-id>
+            <pubmed-id>9748333</pubmed-id>
+            <citation>Stanley TB, Wu SM, Houben RJ, Mutucumarana VP, Stafford DW: Role of the propeptide and gamma-glutamic acid domain of factor IX for in vitro carboxylation by the vitamin K-dependent carboxylase. Biochemistry. 1998 Sep 22;37(38):13262-8.</citation>
+          </article>
+          <article>
+            <ref-id>A13320</ref-id>
+            <pubmed-id>9141486</pubmed-id>
+            <citation>Stanley TB, Stafford DW, Olivera BM, Bandyopadhyay PK: Identification of a vitamin K-dependent carboxylase in the venom duct of a Conus snail. FEBS Lett. 1997 Apr 21;407(1):85-8.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P38435" source="Swiss-Prot">
+        <name>Vitamin K-dependent gamma-carboxylase</name>
+        <general-function>Gamma-glutamyl carboxylase activity</general-function>
+        <specific-function>Mediates the vitamin K-dependent carboxylation of glutamate residues to calcium-binding gamma-carboxyglutamate (Gla) residues with the concomitant conversion of the reduced hydroquinone form of vitamin K to vitamin K epoxide.</specific-function>
+        <gene-name>GGCX</gene-name>
+        <locus>2p12</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>61-81
+114-134
+137-157
+293-313
+362-382</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.1</theoretical-pi>
+        <molecular-weight>87560.065</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4247</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GGCX</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M81592</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>184028</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P38435</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>VKGC_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>4.1.1.90</synonym>
+          <synonym>Gamma-glutamyl carboxylase</synonym>
+          <synonym>GC</synonym>
+          <synonym>Peptidyl-glutamate 4-carboxylase</synonym>
+          <synonym>Vitamin K gamma glutamyl carboxylase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000803|Vitamin K-dependent gamma-carboxylase
+MAVSAGSARTSPSSDKVQKDKAELISGPRQDSRIGKLLGFEWTDLSSWRRLVTLLNRPTD
+PASLAVFRFLFGFLMVLDIPQERGLSSLDRKYLDGLDVCRFPLLDALRPLPLDWMYLVYT
+IMFLGALGMMLGLCYRISCVLFLLPYWYVFLLDKTSWNNHSYLYGLLAFQLTFMDANHYW
+SVDGLLNAHRRNAHVPLWNYAVLRGQIFIVYFIAGVKKLDADWVEGYSMEYLSRHWLFSP
+FKLLLSEELTSLLVVHWGGLLLDLSAGFLLFFDVSRSIGLFFVSYFHCMNSQLFSIGMFS
+YVMLASSPLFCSPEWPRKLVSYCPRRLQQLLPLKAAPQPSVSCVYKRSRGKSGQKPGLRH
+QLGAAFTLLYLLEQLFLPYSHFLTQGYNNWTNGLYGYSWDMMVHSRSHQHVKITYRDGRT
+GELGYLNPGVFTQSRRWKDHADMLKQYATCLSRLLPKYNVTEPQIYFDIWVSINDRFQQR
+IFDPRVDIVQAAWSPFQRTSWVQPLLMDLSPWRAKLQEIKSSLDNHTEVVFIADFPGLHL
+ENFVSEDLGNTSIQLLQGEVTVELVAEQKNQTLREGEKMQLPAGEYHKVYTTSPSPSCYM
+YVYVNTTELALEQDLAYLQELKEKVENGSETGPLPPELQPLLEGEVKGGPEPTPLVQTFL
+RRQQRLQEIERRRNTPFHERFFRFLLRKLYVFRRSFLMTCISLRNLILGRPSLEQLAQEV
+TYANLRPFEAVGELNPSNTDSSHSNPPESNPDPVHSEF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018949|Vitamin K-dependent gamma-carboxylase (GGCX)
+ATGGCGGTGTCTGCCGGGTCCGCGCGGACCTCGCCCAGCTCAGATAAAGTACAGAAAGAC
+AAGGCTGAACTGATCTCAGGGCCCAGGCAGGACAGCCGAATAGGGAAACTCTTGGGTTTT
+GAGTGGACAGATTTGTCCAGTTGGCGGAGGCTGGTGACCCTGCTGAATCGACCAACGGAC
+CCTGCAAGCTTAGCTGTCTTTCGTTTTCTTTTTGGGTTCTTGATGGTGCTAGACATTCCC
+CAGGAGCGGGGGCTCAGCTCTCTGGACCGGAAATACCTTGATGGGCTGGATGTGTGCCGC
+TTCCCCTTGCTGGATGCCCTACGCCCACTGCCACTTGACTGGATGTATCTTGTCTACACC
+ATCATGTTTCTGGGGGCACTGGGCATGATGCTGGGCCTGTGCTACCGGATAAGCTGTGTG
+TTATTCCTGCTGCCATACTGGTATGTGTTTCTCCTGGACAAGACATCATGGAACAACCAC
+TCCTATCTGTATGGGTTGTTGGCCTTTCAGCTAACATTCATGGATGCAAACCACTACTGG
+TCTGTGGACGGTCTGCTGAATGCCCATAGGAGGAATGCCCACGTGCCCCTTTGGAACTAT
+GCAGTGCTCCGTGGCCAGATCTTCATTGTGTACTTCATTGCGGGTGTGAAAAAGCTGGAT
+GCAGACTGGGTTGAAGGCTATTCCATGGAATATTTGTCCCGGCACTGGCTCTTCAGTCCC
+TTCAAACTGCTGTTGTCTGAGGAGCTGACTAGCCTGCTGGTCGTGCACTGGGGTGGGCTG
+CTGCTTGACCTCTCAGCTGGTTTCCTGCTCTTTTTTGATGTCTCAAGATCCATTGGCCTG
+TTCTTTGTGTCCTACTTCCACTGCATGAATTCCCAGCTTTTCAGCATTGGTATGTTCTCC
+TACGTCATGCTGGCCAGCAGCCCTCTCTTCTGCTCCCCTGAGTGGCCTCGGAAGCTGGTG
+TCCTACTGCCCCCGAAGGTTGCAACAACTGTTGCCCCTCAAGGCAGCCCCTCAGCCCAGT
+GTTTCCTGTGTGTATAAGAGGAGCCGGGGCAAAAGTGGCCAGAAGCCAGGGCTGCGCCAT
+CAGCTGGGAGCTGCCTTCACCCTGCTCTACCTCCTGGAGCAGCTATTCCTGCCCTATTCT
+CATTTTCTCACCCAGGGCTATAACAACTGGACAAATGGGCTGTATGGCTATTCCTGGGAC
+ATGATGGTGCACTCCCGCTCCCACCAGCACGTGAAGATCACCTACCGTGATGGCCGCACT
+GGCGAACTGGGCTACCTTAACCCTGGGGTATTTACACAGAGTCGGCGATGGAAGGATCAT
+GCAGACATGCTGAAGCAATATGCCACTTGCCTGAGCCGCCTGCTTCCCAAGTATAATGTC
+ACTGAGCCCCAGATCTACTTTGATATTTGGGTCTCCATCAATGACCGCTTCCAGCAGAGG
+ATTTTTGACCCTCGTGTGGACATCGTGCAGGCCGCTTGGTCACCCTTTCAGCGCACATCC
+TGGGTGCAACCACTCTTGATGGACCTGTCTCCCTGGAGGGCCAAGTTACAGGAAATCAAG
+AGCAGCCTAGACAACCACACTGAGGTGGTCTTCATTGCAGATTTCCCTGGACTGCACTTG
+GAGAATTTTGTGAGTGAAGACCTGGGCAACACTAGCATCCAGCTGCTGCAGGGGGAAGTG
+ACTGTGGAGCTTGTGGCAGAACAGAAGAACCAGACTCTTCGAGAGGGAGAAAAAATGCAG
+TTGCCTGCTGGTGAGTACCATAAGGTGTATACGACATCACCTAGCCCTTCTTGCTACATG
+TACGTCTATGTCAACACTACAGAGCTTGCACTGGAGCAAGACCTGGCATATCTGCAAGAA
+TTAAAGGAAAAGGTGGAGAATGGAAGTGAAACAGGGCCTCTACCCCCAGAGCTGCAGCCT
+CTGTTGGAAGGGGAAGTAAAAGGGGGCCCTGAGCCAACACCTCTGGTTCAGACCTTTCTT
+AGACGCCAACAAAGGCTCCAGGAGATTGAACGCCGGCGAAATACTCCTTTCCATGAGCGA
+TTCTTCCGCTTCTTGTTGCGAAAGCTCTATGTCTTTCGCCGCAGCTTCCTGATGACTTGT
+ATCTCACTTCGAAATCTGATATTAGGCCGTCCTTCCCTGGAGCAGCTGGCCCAGGAGGTG
+ACTTATGCAAACTTGAGACCCTTTGAGGCAGTTGGAGAACTGAATCCCTCAAACACGGAT
+TCTTCACATTCTAATCCTCCTGAGTCAAATCCTGATCCTGTCCACTCAGAGTTCTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF05090</identifier>
+            <name>VKG_Carbox</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>gamma-glutamyl carboxylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein modification process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peptidyl-glutamic acid carboxylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

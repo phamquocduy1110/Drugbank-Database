@@ -1,0 +1,2500 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00062</drugbank-id>
+  <drugbank-id>BTD00059</drugbank-id>
+  <drugbank-id>BTD00089</drugbank-id>
+  <drugbank-id>BTD00101</drugbank-id>
+  <drugbank-id>BIOD00059</drugbank-id>
+  <drugbank-id>BIOD00089</drugbank-id>
+  <drugbank-id>BIOD00101</drugbank-id>
+  <drugbank-id>DB00096</drugbank-id>
+  <drugbank-id>DB00064</drugbank-id>
+  <name>Albumin human</name>
+  <description>Human serum albumin is the primary protein present in human blood plasma. The main function of albumin is to maintain the oncotic pressure of blood [A33706]. It binds to water, cations (such as Ca2+, Na+ and K+), fatty acids, hormones, bilirubin, thyroxine (T4) and pharmaceuticals (including barbiturates).  Albumin represents approximately 50% of the total protein content in healthy humans [A40060].&#13;
+&#13;
+Human albumin is a small globular protein (molecular weight: 66.5 kDa), consisting of a single chain of 585 amino acids organized in three repeated homolog domains (sites I, II, and III). Each domain comprises two separate sub-domains (A and B) [A40060]. &#13;
+&#13;
+There are various preparations of albumin that are well established and widely available in the clinical setting [L3108], [L3109], [L3101].&#13;
+&#13;
+Also known as _Albuminex_ 5% or 25%, one brand of human serum albumin is prepared from the pooled plasma of US donors in FDA-licensed facilities in the US [F229].  This is a biosimilar drug to existing human serum albumin and was approved for a biological license at both 5% and 25% concentrations by the FDA on June 21, 2018 [L3101].</description>
+  <cas-number>9048-46-8</cas-number>
+  <unii>ZIF514RVZR</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A147</ref-id>
+        <pubmed-id>12846933</pubmed-id>
+        <citation>Zunszain PA, Ghuman J, Komatsu T, Tsuchida E, Curry S: Crystal structural analysis of human serum albumin complexed with hemin and fatty acid. BMC Struct Biol. 2003 Jul 7;3:6. Epub 2003 Jul 7.</citation>
+      </article>
+      <article>
+        <ref-id>A33706</ref-id>
+        <pubmed-id>29083605</pubmed-id>
+        <citation>Moman RN, Bhimji SS: Albumin .</citation>
+      </article>
+      <article>
+        <ref-id>A33714</ref-id>
+        <pubmed-id>20586704</pubmed-id>
+        <citation>Neumann E, Frei E, Funk D, Becker MD, Schrenk HH, Muller-Ladner U, Fiehn C: Native albumin for targeted drug delivery. Expert Opin Drug Deliv. 2010 Aug;7(8):915-25. doi: 10.1517/17425247.2010.498474.</citation>
+      </article>
+      <article>
+        <ref-id>A33715</ref-id>
+        <pubmed-id>10718550</pubmed-id>
+        <citation>Schussler GC: The thyroxine-binding proteins. Thyroid. 2000 Feb;10(2):141-9. doi: 10.1089/thy.2000.10.141.</citation>
+      </article>
+      <article>
+        <ref-id>A40060</ref-id>
+        <pubmed-id>24333308</pubmed-id>
+        <citation>Caraceni P, Tufoni M, Bonavita ME: Clinical use of albumin. Blood Transfus. 2013 Sep;11 Suppl 4:s18-25. doi: 10.2450/2013.005s.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L3101</ref-id>
+        <title>BLA APPROVAL</title>
+        <url>https://www.fda.gov/downloads/BiologicsBloodVaccines/BloodBloodProducts/ApprovedProducts/LicensedProductsBLAs/FractionatedPlasmaProducts/UCM611260.pdf</url>
+      </link>
+      <link>
+        <ref-id>L3102</ref-id>
+        <title>ALBUMIN (HUMAN)- albumin human solution DailyMed</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=4ddaae99-05e1-e05c-e63c-0c58965d157d</url>
+      </link>
+      <link>
+        <ref-id>L3104</ref-id>
+        <title>PDR-Human Albumin</title>
+        <url>http://www.pdr.net/drug-summary/Human-Albumin-Grifols-25--albumin--human--1765</url>
+      </link>
+      <link>
+        <ref-id>L3108</ref-id>
+        <title>Alburx</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ad74b7f5-b380-47ab-b19d-eef92c8eb7a4</url>
+      </link>
+      <link>
+        <ref-id>L3109</ref-id>
+        <title>Human Albumin</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=90f0c351-3977-2b84-0a6a-e9cb091430ca</url>
+      </link>
+      <link>
+        <ref-id>L3110</ref-id>
+        <title>Plasbumin</title>
+        <url>https://dailymed.nlm.nih.gov/dailymed/drugInfo.cfm?setid=ead60f3e-9dcc-7afe-2220-4f2381f3c140</url>
+      </link>
+    </links>
+    <attachments>
+      <attachment>
+        <ref-id>F229</ref-id>
+        <title>Albuminex package insert</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/229/original/Package_Insert-albuminex-5-clean.pdf?1529615466</url>
+      </attachment>
+      <attachment>
+        <ref-id>F230</ref-id>
+        <title>Albuminex 25 package insert</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/230/original/Package_Insert_albuminex-25-clean.pdf?1529616277</url>
+      </attachment>
+      <attachment>
+        <ref-id>F231</ref-id>
+        <title>CSL Bhering Prescribing Information</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/000/231/original/AlbuRx5-Prescribing-Information.pdf?1529616518</url>
+      </attachment>
+    </attachments>
+  </general-references>
+  <synthesis-reference>Robert A. Tenold, "Preparing essentially monomeric normal human serum albumin." U.S. Patent USRE0362590, issued July, 1976.&#13;
+Rene Fickat, Simon Benita, Francis Puisieux, "Preparation of biodegradable microcapsules based on serum albumin." U.S. Patent US4666641, issued June, 1958.</synthesis-reference>
+  <indication>Albuminex solution is indicated for adults and children for hypovolemia, ascites, hypoalbuminemia including from burns, acute nephrosis, acute respiratory distress syndrome and cardipulmonary bypass [F229].</indication>
+  <pharmacodynamics>Serum albumin is a soluble, monomeric protein essential for maintaining and regulating the colloidal osmotic pressure of blood. It is utilized to increase the circulating plasma volume, which reduces hemoconcentration and blood viscosity. Albumin is also used as a transport protein that binds naturally occurring, therapeutic and toxic materials and drugs in the circulation [F229]. &#13;
+&#13;
+Human albumin makes up over 50% the total protein in the plasma and represents about 10% of protein synthesis activity by the liver. Human Albumin 25% has a corresponding hyper-oncotic effect [F230].</pharmacodynamics>
+  <mechanism-of-action>The main function of albumin results from its contribution to plasma colloid oncotic pressure and transport function [F230].  &#13;
+&#13;
+Albumin stabilizes circulating blood volume and carries hormones, enzymes, medicines, and toxins. Other physiological functions include antioxidant properties, free radical scavenging, in addition to maintenance capillary membrane integrity [F230].&#13;
+&#13;
+Exogenously administered albumin increases the oncotic pressure of the intravascular system, moving fluids from the interstitial space, thereby decreasing edema and increasing the circulating blood volume. The increase in volume reduces the concentration and viscosity of blood in patients with decreased circulating blood volume while maintaining cardiac output in shock. In dehydrated patients, negligible effects exist on circulating blood volume. In addition to the above albumin replaces protein in patients with hypoproteinemia until the cause of the deficiency can be determined [L3104]. &#13;
+&#13;
+ This drug has thousands of endogenous and exogenous targets. Human albumin also binds and carries a plethora of hydrophobic molecules, such as endogenous (i.e., cholesterol, fatty acids, bilirubin, thyroxine) or exogenous substances (for example, drugs and toxins), transition metal ions, as well as gas (nitric oxide [NO]), with resulting implications for their solubilisation, transport, metabolism, and detoxification [A40060].</mechanism-of-action>
+  <toxicity>In general, human albumin solutions are well-tolerated and no specific, clinically relevant alterations in organ function or coagulopathy have been substantiated [F229].&#13;
+&#13;
+The most common adverse reactions are rigors, hypotension, tachycardia with increased heart rate, fever, chills, nausea, vomiting, dyspnea and/or bronchospasm, skin rash/pruritus. Stop the infusion immediately if anaphylaxis, with or without shock is observed [F229].&#13;
+&#13;
+Hypervolemia may occur if the dosage and rate of infusion are not adjusted to the volume status of the patient. When clinical signs of cardiovascular overload occur (headache, dyspnea, jugular venous distention, increased blood pressure), the infusion must be slowed or stopped immediately [F230].</toxicity>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>Albumin is distributed throughout the extracellular space and more than 60% of the body albumin pool is located in the extravascular fluid space [F230].&#13;
+&#13;
+In healthy adults, less than 10% of infused albumin leaves the intravascular compartment during the first 2 hours following infusion of albumin. There is considerable individual variation in the effect of albumin on plasma volume, however [F229], [F230].&#13;
+&#13;
+In some patients, the plasma volume can remain elevated for several hours. In critically ill patients, however, albumin can leak out of the vascular space in substantial amounts at an unpredictable rate that is difficult to predict [F230].</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Albumin (human)</synonym>
+    <synonym language="english" coder="">Albumin human</synonym>
+    <synonym language="english" coder="">Albumin, blood</synonym>
+    <synonym language="english" coder="">Albumin, human</synonym>
+    <synonym language="english" coder="">Albumin, human-kjda</synonym>
+    <synonym language="english" coder="">Human albumin</synonym>
+    <synonym language="english" coder="">Human serum albumin</synonym>
+    <synonym language="english" coder="">Serum albumin</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-790</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1976-08-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-791</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1981-07-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-792</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1942-10-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>5 g/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-785</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1976-08-26</started-marketing-on>
+      <ended-marketing-on>2018-01-08</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>.05 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-783</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1981-07-28</started-marketing-on>
+      <ended-marketing-on>2017-04-29</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuked</name>
+      <labeller>Kedrion Biopharma, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>76125-784</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1942-10-21</started-marketing-on>
+      <ended-marketing-on>2017-04-29</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>5 g/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma Pharmazeutika Produktionsgesellschaft M.B.H.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67467-643</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>250 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma Pharmazeutika Produktionsgesellschaft M.B.H.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67467-633</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>200 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma Pharmazeutika Produktionsgesellschaft M.B.H.</labeller>
+      <ndc-id/>
+      <ndc-product-code>67467-623</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>50 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma USA Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>68982-633</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>200 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma USA Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>68982-623</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>50 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (Human)</name>
+      <labeller>Octapharma USA Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>68982-643</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-10-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>250 g/1000mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125154</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albumin (human) 25% Solution</name>
+      <labeller>Baxter Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00427659</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-10-31</started-marketing-on>
+      <ended-marketing-on>2008-03-14</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albumin (human) 25% Solution USP</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223708</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-02-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albumin (human) 5% Solution</name>
+      <labeller>Baxter Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00427675</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-30</started-marketing-on>
+      <ended-marketing-on>2008-03-13</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albumin (human) 5% Solution, USP</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223694</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-05-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albumin Human Diluent</name>
+      <labeller>Omega Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00674621</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albuminar-20</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7695</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on>2022-09-07</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>20 g/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103955</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuminar-25</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7680</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on>2022-09-17</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>25 g/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103955</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuminar-25</name>
+      <labeller>Zlb Behring Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00624608</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1985-12-31</started-marketing-on>
+      <ended-marketing-on>2008-08-27</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>25 g</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albuminar-5</name>
+      <labeller>CSL BEHRING LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0053-7670</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on>2019-02-17</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>2.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103955</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuminex</name>
+      <labeller>BPL</labeller>
+      <ndc-id/>
+      <ndc-product-code>64208-2512</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.25 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125644</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albuminex</name>
+      <labeller>BPL</labeller>
+      <ndc-id/>
+      <ndc-product-code>64208-2510</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-05-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.05 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125644</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albunex</name>
+      <labeller>Tyco Healthcare</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230636</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-03-10</started-marketing-on>
+      <ended-marketing-on>2002-08-07</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alburex - 25</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02274663</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-10-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Alburex - 5</name>
+      <labeller>Csl Behring</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02274655</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-01-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>AlbuRx</name>
+      <labeller>Csl Behring Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code>44206-251</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>12.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA102366</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Alburx</name>
+      <labeller>Csl Behring Ag</labeller>
+      <ndc-id/>
+      <ndc-product-code>44206-310</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>12.5 g/250mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA102366</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albutein</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-5215</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1978-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA102478</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albutein</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-5214</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1978-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12.5 g/250mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA102478</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albutein</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>68516-5216</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1978-08-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA102478</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Albutein 25% Soln USP</name>
+      <labeller>Grifols Biologicals Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00779571</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Albutein 5% Soln USP</name>
+      <labeller>Grifols Biologicals Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00779563</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Buminate</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0482</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1954-03-17</started-marketing-on>
+      <ended-marketing-on>2018-03-09</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.2 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Buminate</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0491</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-06-16</started-marketing-on>
+      <ended-marketing-on>2018-03-09</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.05 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101452</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Buminate</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0490</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1954-03-17</started-marketing-on>
+      <ended-marketing-on>2018-03-09</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.25 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101452</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Buminate 25%</name>
+      <labeller>Baxter Healthcare Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00118303</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-12-31</started-marketing-on>
+      <ended-marketing-on>2015-02-06</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Buminate 5%</name>
+      <labeller>Baxter Healthcare Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00118311</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-12-31</started-marketing-on>
+      <ended-marketing-on>2015-02-06</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Diluent for Allergenic Extract Sterile Albumin Saline With Phenol</name>
+      <labeller>Jubilant Hollisterstier Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02223732</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-12-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Flexbumin</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0495</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-07-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>0.05 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101452</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Flexbumin</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0492</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-08-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.20 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Flexbumin</name>
+      <labeller>Baxalta US Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0944-0493</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-08-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.25 g/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101452</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Human Albumin Grifols</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>61953-0001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1995-02-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Human Albumin Grifols</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>61953-0002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-06-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>12.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103352</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Human Albumin Grifols 20%</name>
+      <labeller>Instituto Grifols, S.A.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02263661</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kedbumin</name>
+      <labeller>Kedrion S.p.A</labeller>
+      <ndc-id/>
+      <ndc-product-code>76179-025</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-09-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>12.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125384</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Macrotec</name>
+      <labeller>Bracco Diagnostics, Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0270-0076</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1974-05-08</started-marketing-on>
+      <ended-marketing-on>2008-04-20</ended-marketing-on>
+      <dosage-form>Injection, powder, lyophilized, for suspension</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number>NDA017833</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Normal Serum Albumin Human 25% USP</name>
+      <labeller>Cutter Med &amp; Biol, Division Of Miles Canada Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00035408</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1951-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Octalbin 25%</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02267357</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Octalbin 5%</name>
+      <labeller>Octapharma Pharmazeutika Produktionsges M B H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02302705</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2015-01-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Optison</name>
+      <labeller>Tyco Healthcare</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239574</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-06-22</started-marketing-on>
+      <ended-marketing-on>2003-07-09</ended-marketing-on>
+      <dosage-form>Suspension</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-683</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1981-07-28</started-marketing-on>
+      <ended-marketing-on>2019-06-07</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-685</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1976-08-26</started-marketing-on>
+      <ended-marketing-on>2018-11-08</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>2.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-684</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1942-10-21</started-marketing-on>
+      <ended-marketing-on>2019-06-05</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>5 g/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-692</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-09-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>5 g/20mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-691</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-09-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-690</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-09-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101138</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Plasbumin-25</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02189119</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-01-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plasbumin-5</name>
+      <labeller>Grifols Therapeutics Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02189100</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-01-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Plasmanate</name>
+      <labeller>GRIFOLS USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13533-613</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1958-10-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>2.5 g/50mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA101140</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sterile Diluent for Allergenic Extract</name>
+      <labeller>Antigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>49288-9934</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1974-03-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number>BLA102223</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Sterile Diluent for Allergenic Extract - Albumin Saline With Phenol</name>
+      <labeller>Alk Abello, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02283735</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-03-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sterile Diluent for Allergenic Extracts Normal Saline With Hsa</name>
+      <labeller>Greer Laboratories</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02375141</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-02-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intradermal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Sterile Diluent for Allergenic Extract</name>
+      <ingredients>Albumin human + Phenol</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Macrotec</name>
+      <ingredients>Albumin Aggregated + Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>AlbuRx</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alburx</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albutein</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albutein</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Flexbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Flexbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Flexbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Human Albumin Grifols</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Human Albumin Grifols</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kedbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasmanate</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminex</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminex</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminar-20</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminar-25</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (Human)</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Buminate</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminar-5</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Buminate</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Buminate</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuked</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albutein</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin-5</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Plasbumin-25</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Diluent for Allergenic Extract Sterile Albumin Saline With Phenol</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Octalbin 25%</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alburex - 5</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Alburex - 25</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sterile Diluent for Allergenic Extract - Albumin Saline With Phenol</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Octalbin 5%</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Buminate 5%</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Buminate 25%</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Normal Serum Albumin Human 25% USP</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albunex</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Optison</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (human) 5% Solution</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (human) 25% Solution</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albuminar-25</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Human Albumin Grifols 20%</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sterile Diluent for Allergenic Extracts Normal Saline With Hsa</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (human) 25% Solution USP</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin Human Diluent</name>
+      <ingredients>Albumin human + Sodium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albutein 25% Soln USP</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albutein 5% Soln USP</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+    <mixture>
+      <name>Albumin (human) 5% Solution, USP</name>
+      <ingredients>Albumin human</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>ALK-Abello Inc.</name>
+      <url>http://www.alk-abello.com</url>
+    </packager>
+    <packager>
+      <name>Alpha Therapeutic Corp.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>Alpine Biologics Inc.</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>American Red Cross</name>
+      <url>http://www.redcross.org</url>
+    </packager>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>CSL Behring LLC</name>
+      <url>http://www.cslbehring.com</url>
+    </packager>
+    <packager>
+      <name>Grifols SA</name>
+      <url>http://www.grifols.com</url>
+    </packager>
+    <packager>
+      <name>Massbiologics</name>
+      <url>http://www.massbio.org</url>
+    </packager>
+    <packager>
+      <name>Octapharma USA</name>
+      <url>http://www.octapharma.com</url>
+    </packager>
+    <packager>
+      <name>Sanofi-Aventis Inc.</name>
+      <url>http://www.sanofi-aventis.com</url>
+    </packager>
+    <packager>
+      <name>Talecris Biotherapeutics</name>
+      <url>http://www.talecris.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Albutein 25% vial</description>
+      <cost currency="USD">1.32</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Albumin 25% iv solution</description>
+      <cost currency="USD">1.97</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Buminate 25% iv solution</description>
+      <cost currency="USD">2.22</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Albumin (human) 5% iv solution</description>
+      <cost currency="USD">0.3</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Albutein 5% iv solution</description>
+      <cost currency="USD">0.43</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Buminate 5% iv solution</description>
+      <cost currency="USD">0.44</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Albumins</category>
+      <mesh-id>D000418</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Blood Derivatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Cardiac Function</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Diluents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Human Serum Albumin</category>
+      <mesh-id>D000075462</mesh-id>
+    </category>
+    <category>
+      <category>Increased Intravascular Volume</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Increased Oncotic Pressure</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Osmotic Activity</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Albumin</category>
+      <mesh-id>D012709</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>200 g/L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>50 g/L</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>200 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>200 g/l</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>50 g/l</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>50 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>200 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>50 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>.05 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>200 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>200 g/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>250 g/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>50 g/1000mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength>30 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>25 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>10 g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>20 g</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>200 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>20 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>25 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>5 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>200 G/1L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>200 G/L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>250 G/L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>2.5 G/50ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>25 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>20 g/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>25 g/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.05 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Suspension</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>250 G/L</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>250 g/l</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>40 g/l</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>25 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>25 g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>250 g/L</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>200 g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>12.5 g/250mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>12.5 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>25 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>10 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>12.5 g/250mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 g/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.2 g</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 g/1000ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>200 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.2 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.25 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>25 g/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>250 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.05 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.20 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.25 g/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>20 g</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Parenteral</route>
+      <strength>25 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>0.2 g/L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 %/50ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 %/100ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 %/250ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>5 %/500ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>12.5 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>200 G/L</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for suspension</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for suspension</form>
+      <route>Intravenous</route>
+      <strength>2 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength>500 Mikrogramm</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for suspension</form>
+      <route>Subcutaneous</route>
+      <strength>0.5 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route/>
+      <strength>0.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral</route>
+      <strength>100 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>200 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>50 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.19 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>250 G/L</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>10 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2.5 g/50mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>5 g/20mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>0.2 g</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.2 g/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>0.25 g/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>0.05 g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Parenteral</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>625 IU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>300 Mikrogramm/2ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>1 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intradermal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>20 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>5 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>25 %</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>5 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 g/100ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>10 g</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral</route>
+      <strength>180 IU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 %</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 G/100ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>4.5 %</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes>
+    <ahfs-code>16:00.00</ahfs-code>
+    <ahfs-code>36:18.00</ahfs-code>
+    <ahfs-code>40:50.00*</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00062.pdf?1529686611</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00062.pdf?1529685058</msds>
+  <patents>
+    <patent>
+      <number>5558094</number>
+      <country>United States</country>
+      <approved>1996-09-24</approved>
+      <expires>2012-02-28</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6723303</number>
+      <country>United States</country>
+      <approved>2004-04-20</approved>
+      <expires>2021-04-20</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt; Human Serum Albumin Sequence
+MKWVTFISLLFLFSSAYSRGVFRRDAHKSEVAHRFKDLGEENFKALVLIAFAQYLQQCPF
+EDHVKLVNEVTEFAKTCVADESAENCDKSLHTLFGDKLCTVATLRETYGEMADCCAKQEP
+ERNECFLQHKDDNPNLPRLVRPEVDVMCTAFHDNEETFLKKYLYEIARRHPYFYAPELLF
+FAKRYKAAFTECCQAADKAACLLPKLDELRDEGKASSAKQRLKCASLQKFGERAFKAWAV
+ARLSQRFPKAEFAEVSKLVTDLTKVHTECCHGDLLECADDRADLAKYICENQDSISSKLK
+ECCEKPLLEKSHCIAEVENDEMPADLPSLAADFVESKDVCKNYAEAKDVFLGMFLYEYAR
+RHPDYSVVLLLRLAKTYETTLEKCCAAADPHECYAKVFDEFKPLVEEPQNLIKQNCELFE
+QLGEYKFQNALLVRYTKKVPQVSTPTLVEVSRNLGKVGSKCCKHPEAKRMPCAEDYLSVV
+LNQLCVLHEKTPVSDRVTKCCTESLVNRRPCFSALEVDETYVPKEFNAETFTFHADICTL
+SEKERQIKKQTALVELVKHKPKATKEQLKAVMDDFAAFVEKCCKADDKETCFAEEGKKLV
+AASQAALGL</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>66472.2</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2936H4624N786O889S41</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7867</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>3275</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46509098</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M12523</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164743293</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P02768</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Serum_albumin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201451</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>828529</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/albumin.htm</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0009576</id>
+      <name>Nitric oxide</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>binder</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A40060</ref-id>
+            <pubmed-id>24333308</pubmed-id>
+            <citation>Caraceni P, Tufoni M, Bonavita ME: Clinical use of albumin. Blood Transfus. 2013 Sep;11 Suppl 4:s18-25. doi: 10.2450/2013.005s.</citation>
+          </article>
+          <article>
+            <ref-id>A40069</ref-id>
+            <pubmed-id>19745558</pubmed-id>
+            <citation>Ishima Y, Kragh-Hansen U, Maruyama T, Otagiri M: Albumin as a nitric oxide-traffic protein: characterization, biochemistry and possible future therapeutic applications. Drug Metab Pharmacokinet. 2009;24(4):308-17.</citation>
+          </article>
+          <article>
+            <ref-id>A40070</ref-id>
+            <pubmed-id>25732553</pubmed-id>
+            <citation>Lee P, Wu X: Review: modifications of human serum albumin and their binding effect. Curr Pharm Des. 2015;21(14):1862-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

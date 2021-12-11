@@ -1,0 +1,2429 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00092</drugbank-id>
+  <drugbank-id>BTD00055</drugbank-id>
+  <drugbank-id>BIOD00055</drugbank-id>
+  <name>Alefacept</name>
+  <description>Immunosuppressive dimeric fusion protein that consists of the extracellular CD2-binding portion of the human leukocyte function antigen-3 (LFA-3) linked to the Fc (hinge, CH2 and CH3 domains) portion of human IgG1. Produced by CHO cells, mW is 91.4 kD.</description>
+  <cas-number>222535-22-0</cas-number>
+  <unii>ELK3V90G6C</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+    <group>withdrawn</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A141</ref-id>
+        <pubmed-id>16865867</pubmed-id>
+        <citation>Koo JY, Bagel J, Sweetser MT, Ticho BS: Alefacept in combination with ultraviolet B phototherapy for the treatment of chronic plaque psoriasis: results from an open-label, multicenter study. J Drugs Dermatol. 2006 Jul-Aug;5(7):623-8.</citation>
+      </article>
+      <article>
+        <ref-id>A142</ref-id>
+        <pubmed-id>16713481</pubmed-id>
+        <citation>Krell JM: Use of alefacept and etanercept in 3 patients whose psoriasis failed to respond to etanercept. J Am Acad Dermatol. 2006 Jun;54(6):1099-101.</citation>
+      </article>
+      <article>
+        <ref-id>A143</ref-id>
+        <pubmed-id>16673801</pubmed-id>
+        <citation>Parrish CA, Sobera JO, Robbins CM, Cantrell WC, Desmond RA, Elewski BE: Alefacept in the treatment of psoriatic nail disease: a proof of concept study. J Drugs Dermatol. 2006 Apr;5(4):339-40.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>As an immunosuppressive drug, Alefacept can be used for treatment of moderate to severe chronic plaque psoriasis</indication>
+  <pharmacodynamics>Interferes with lymphocyte activation by specifically binding to the lymphocyte antigen, CD2, and inhibiting LFA-3/CD2 interaction. Activation of T lymphocytes involving the interaction between LFA-3 on antigen-presenting cells and CD2 on T lymphocytes plays a role in the pathophysiology of chronic plaque psoriasis. Also causes a reduction in subsets of CD2+ T lymphocytes as well as CD4+ and CD8+ T lymphocytes.</pharmacodynamics>
+  <mechanism-of-action>Inhibits T-lymphocyte activation and production by binding to the CD2 lymphocyte antigen.</mechanism-of-action>
+  <toxicity>While it has been found to cross the placenta in monkeys, it is not yet known if it also diffuses into breast milk. </toxicity>
+  <metabolism/>
+  <absorption>Bioavailability after IM administration is 63%.</absorption>
+  <half-life>~270 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Amevive</name>
+      <labeller>Astellas Pharma Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0469-0021</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-01-30</started-marketing-on>
+      <ended-marketing-on>2012-09-28</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>15 mg/0.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA125036</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Amevive</name>
+      <labeller>Astellas Pharma Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02259052</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-10-12</started-marketing-on>
+      <ended-marketing-on>2012-12-01</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>15 mg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Amevive</name>
+      <ingredients>Alefacept</ingredients>
+    </mixture>
+    <mixture>
+      <name>Amevive</name>
+      <ingredients>Alefacept</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Astellas Pharma Inc.</name>
+      <url>http://www.astellas.com</url>
+    </packager>
+    <packager>
+      <name>Ben Venue Laboratories Inc.</name>
+      <url>http://www.benvenue.com</url>
+    </packager>
+    <packager>
+      <name>Pierre Fabre</name>
+      <url>http://www.pierre-fabre.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Amevive 15 mg vial</description>
+      <cost currency="USD">1190.4</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>CD2-directed Antibody Interactions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>CD2-directed LFA-3/Fc Fusion Protein</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>CD58 Antigens</category>
+      <mesh-id>D018968</mesh-id>
+    </category>
+    <category>
+      <category>Dermatologicals</category>
+      <mesh-id>D003879</mesh-id>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Glycoconjugates</category>
+      <mesh-id>D006001</mesh-id>
+    </category>
+    <category>
+      <category>Glycoproteins</category>
+      <mesh-id>D006023</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulin Isotypes</category>
+      <mesh-id>D007132</mesh-id>
+    </category>
+    <category>
+      <category>Immunologic Factors</category>
+      <mesh-id>D007155</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Immunosuppressive Agents</category>
+      <mesh-id>D007166</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Glycoproteins</category>
+      <mesh-id>D008562</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Proteins</category>
+      <mesh-id>D008565</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Recombinant Fusion Proteins</category>
+      <mesh-id>D011993</mesh-id>
+    </category>
+    <category>
+      <category>Recombinant Proteins</category>
+      <mesh-id>D011994</mesh-id>
+    </category>
+    <category>
+      <category>Selective Immunosuppressants</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular</route>
+      <strength>15 mg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>15 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L04AA15">
+      <level code="L04AA">Selective immunosuppressants</level>
+      <level code="L04A">IMMUNOSUPPRESSANTS</level>
+      <level code="L04">IMMUNOSUPPRESSANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00005</drugbank-id>
+      <name>Etanercept</name>
+      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00011</drugbank-id>
+      <name>Interferon alfa-n1</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n1 is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00018</drugbank-id>
+      <name>Interferon alfa-n3</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-n3 is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2b is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00026</drugbank-id>
+      <name>Anakinra</name>
+      <description>The risk or severity of adverse effects can be increased when Anakinra is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00033</drugbank-id>
+      <name>Interferon gamma-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon gamma-1b is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00034</drugbank-id>
+      <name>Interferon alfa-2a, Recombinant</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfa-2a, Recombinant is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00041</drugbank-id>
+      <name>Aldesleukin</name>
+      <description>The risk or severity of adverse effects can be increased when Aldesleukin is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Gemtuzumab ozogamicin is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00059</drugbank-id>
+      <name>Pegaspargase</name>
+      <description>The risk or severity of adverse effects can be increased when Pegaspargase is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Infliximab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00068</drugbank-id>
+      <name>Interferon beta-1b</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon beta-1b is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00069</drugbank-id>
+      <name>Interferon alfacon-1</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon alfacon-1 is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Rituximab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Basiliximab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Muromonab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Ibritumomab tiuxetan is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Tositumomab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alemtuzumab is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00105</drugbank-id>
+      <name>Interferon alfa-2b</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Interferon alfa-2b.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00120</drugbank-id>
+      <name>Phenylalanine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Phenylalanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00180</drugbank-id>
+      <name>Flunisolide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Flunisolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bortezomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00242</drugbank-id>
+      <name>Cladribine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cladribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Carmustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00276</drugbank-id>
+      <name>Amsacrine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Amsacrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00290</drugbank-id>
+      <name>Bleomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bleomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00291</drugbank-id>
+      <name>Chlorambucil</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Chlorambucil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00293</drugbank-id>
+      <name>Raltitrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Raltitrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00305</drugbank-id>
+      <name>Mitomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mitomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00307</drugbank-id>
+      <name>Bexarotene</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bexarotene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00322</drugbank-id>
+      <name>Floxuridine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Floxuridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00328</drugbank-id>
+      <name>Indomethacin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Indomethacin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00352</drugbank-id>
+      <name>Tioguanine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tioguanine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00380</drugbank-id>
+      <name>Dexrazoxane</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dexrazoxane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00394</drugbank-id>
+      <name>Beclomethasone dipropionate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Beclomethasone dipropionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sorafenib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00428</drugbank-id>
+      <name>Streptozocin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Streptozocin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00432</drugbank-id>
+      <name>Trifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Trifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00441</drugbank-id>
+      <name>Gemcitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Gemcitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00443</drugbank-id>
+      <name>Betamethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Betamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00444</drugbank-id>
+      <name>Teniposide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Teniposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00445</drugbank-id>
+      <name>Epirubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Epirubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00446</drugbank-id>
+      <name>Chloramphenicol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Chloramphenicol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00480</drugbank-id>
+      <name>Lenalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Lenalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00488</drugbank-id>
+      <name>Altretamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Altretamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00495</drugbank-id>
+      <name>Zidovudine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Zidovudine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00515</drugbank-id>
+      <name>Cisplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cisplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00526</drugbank-id>
+      <name>Oxaliplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Oxaliplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluorouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00550</drugbank-id>
+      <name>Propylthiouracil</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Propylthiouracil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00552</drugbank-id>
+      <name>Pentostatin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pentostatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00563</drugbank-id>
+      <name>Methotrexate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Methotrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Carbamazepine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00588</drugbank-id>
+      <name>Fluticasone propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluticasone propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00591</drugbank-id>
+      <name>Fluocinolone acetonide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluocinolone acetonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00601</drugbank-id>
+      <name>Linezolid</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Linezolid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Imatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00620</drugbank-id>
+      <name>Triamcinolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Triamcinolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00631</drugbank-id>
+      <name>Clofarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Clofarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00635</drugbank-id>
+      <name>Prednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Prednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pemetrexed.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00687</drugbank-id>
+      <name>Fludrocortisone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fludrocortisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00688</drugbank-id>
+      <name>Mycophenolate mofetil</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mycophenolate mofetil.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00694</drugbank-id>
+      <name>Daunorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Daunorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00755</drugbank-id>
+      <name>Tretinoin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tretinoin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00762</drugbank-id>
+      <name>Irinotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Irinotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00763</drugbank-id>
+      <name>Methimazole</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Methimazole.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Etoposide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00795</drugbank-id>
+      <name>Sulfasalazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sulfasalazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dacarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00853</drugbank-id>
+      <name>Temozolomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Temozolomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00859</drugbank-id>
+      <name>Penicillamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Penicillamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00860</drugbank-id>
+      <name>Prednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Prednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00877</drugbank-id>
+      <name>Sirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00888</drugbank-id>
+      <name>Mechlorethamine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mechlorethamine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00928</drugbank-id>
+      <name>Azacitidine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Azacitidine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00958</drugbank-id>
+      <name>Carboplatin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Carboplatin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00959</drugbank-id>
+      <name>Methylprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Methylprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00970</drugbank-id>
+      <name>Dactinomycin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dactinomycin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00987</drugbank-id>
+      <name>Cytarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cytarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Azathioprine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00997</drugbank-id>
+      <name>Doxorubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Doxorubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01005</drugbank-id>
+      <name>Hydroxyurea</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hydroxyurea.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01008</drugbank-id>
+      <name>Busulfan</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Busulfan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01024</drugbank-id>
+      <name>Mycophenolic acid</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mycophenolic acid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mercaptopurine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01041</drugbank-id>
+      <name>Thalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Thalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01042</drugbank-id>
+      <name>Melphalan</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Melphalan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01073</drugbank-id>
+      <name>Fludarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fludarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01099</drugbank-id>
+      <name>Flucytosine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Flucytosine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01101</drugbank-id>
+      <name>Capecitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Capecitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01108</drugbank-id>
+      <name>Trilostane</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Trilostane.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01168</drugbank-id>
+      <name>Procarbazine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Procarbazine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01169</drugbank-id>
+      <name>Arsenic trioxide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Arsenic trioxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01177</drugbank-id>
+      <name>Idarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Idarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01181</drugbank-id>
+      <name>Ifosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ifosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01196</drugbank-id>
+      <name>Estramustine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Estramustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01204</drugbank-id>
+      <name>Mitoxantrone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mitoxantrone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01206</drugbank-id>
+      <name>Lomustine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Lomustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01222</drugbank-id>
+      <name>Budesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Budesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01229</drugbank-id>
+      <name>Paclitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Paclitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01234</drugbank-id>
+      <name>Dexamethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dexamethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01248</drugbank-id>
+      <name>Docetaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Docetaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dasatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01262</drugbank-id>
+      <name>Decitabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Decitabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01268</drugbank-id>
+      <name>Sunitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sunitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01280</drugbank-id>
+      <name>Nelarabine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Nelarabine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01281</drugbank-id>
+      <name>Abatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Abatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01285</drugbank-id>
+      <name>Corticotropin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Corticotropin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01380</drugbank-id>
+      <name>Cortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01384</drugbank-id>
+      <name>Paramethasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Paramethasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01394</drugbank-id>
+      <name>Colchicine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Colchicine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01410</drugbank-id>
+      <name>Ciclesonide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ciclesonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01423</drugbank-id>
+      <name>Stepronin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Stepronin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01590</drugbank-id>
+      <name>Everolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Everolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01611</drugbank-id>
+      <name>Hydroxychloroquine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hydroxychloroquine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01816</drugbank-id>
+      <name>Castanospermine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Castanospermine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02546</drugbank-id>
+      <name>Vorinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vorinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02806</drugbank-id>
+      <name>2-Methoxyethanol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with 2-Methoxyethanol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03523</drugbank-id>
+      <name>Brequinar</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Brequinar.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04572</drugbank-id>
+      <name>Thiotepa</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Thiotepa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04630</drugbank-id>
+      <name>Aldosterone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Aldosterone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04845</drugbank-id>
+      <name>Ixabepilone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ixabepilone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04868</drugbank-id>
+      <name>Nilotinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Nilotinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pirfenidone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05015</drugbank-id>
+      <name>Belinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Belinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05109</drugbank-id>
+      <name>Trabectedin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Trabectedin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05258</drugbank-id>
+      <name>Interferon alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Interferon alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05259</drugbank-id>
+      <name>Glatiramer</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Glatiramer.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05260</drugbank-id>
+      <name>Gallium nitrate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Gallium nitrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05472</drugbank-id>
+      <name>Human interferon omega-1</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Human interferon omega-1.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Apremilast.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06287</drugbank-id>
+      <name>Temsirolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Temsirolimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06372</drugbank-id>
+      <name>Rilonacept</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Rilonacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pazopanib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06603</drugbank-id>
+      <name>Panobinostat</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Panobinostat.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06616</drugbank-id>
+      <name>Bosutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bosutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06662</drugbank-id>
+      <name>Abetimus</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Abetimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06681</drugbank-id>
+      <name>Belatacept</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Belatacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bendamustine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06772</drugbank-id>
+      <name>Cabazitaxel</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cabazitaxel.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06813</drugbank-id>
+      <name>Pralatrexate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pralatrexate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08059</drugbank-id>
+      <name>Wortmannin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Wortmannin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08871</drugbank-id>
+      <name>Eribulin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Eribulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08877</drugbank-id>
+      <name>Ruxolitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ruxolitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08880</drugbank-id>
+      <name>Teriflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Teriflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08889</drugbank-id>
+      <name>Carfilzomib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Carfilzomib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08901</drugbank-id>
+      <name>Ponatinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ponatinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08906</drugbank-id>
+      <name>Fluticasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluticasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08908</drugbank-id>
+      <name>Dimethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dimethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pomalidomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08970</drugbank-id>
+      <name>Fluprednidene</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluprednidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ibrutinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09054</drugbank-id>
+      <name>Idelalisib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Idelalisib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09073</drugbank-id>
+      <name>Palbociclib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Palbociclib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09074</drugbank-id>
+      <name>Olaparib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Olaparib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09082</drugbank-id>
+      <name>Vilanterol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Vilanterol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09091</drugbank-id>
+      <name>Tixocortol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tixocortol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Peginterferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09378</drugbank-id>
+      <name>Fluprednisolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluprednisolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09383</drugbank-id>
+      <name>Meprednisone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Meprednisone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11466</drugbank-id>
+      <name>Tepoxalin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tepoxalin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11487</drugbank-id>
+      <name>Dexamethasone isonicotinate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Dexamethasone isonicotinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11529</drugbank-id>
+      <name>Melengestrol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Melengestrol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11616</drugbank-id>
+      <name>Pirarubicin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Pirarubicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11693</drugbank-id>
+      <name>Voclosporin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Voclosporin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11708</drugbank-id>
+      <name>Peficitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Peficitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11817</drugbank-id>
+      <name>Baricitinib</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Baricitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11921</drugbank-id>
+      <name>Deflazacort</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Deflazacort.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12025</drugbank-id>
+      <name>Triptolide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Triptolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12371</drugbank-id>
+      <name>Siponimod</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Siponimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12612</drugbank-id>
+      <name>Ozanimod</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Ozanimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12617</drugbank-id>
+      <name>Mizoribine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mizoribine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12692</drugbank-id>
+      <name>Gusperimus</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Gusperimus.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cepeginterferon alfa-2B.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12902</drugbank-id>
+      <name>Trofosfamide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Trofosfamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12947</drugbank-id>
+      <name>Doxifluridine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Doxifluridine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12991</drugbank-id>
+      <name>Deoxyspergualin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Deoxyspergualin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12996</drugbank-id>
+      <name>Acteoside</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Acteoside.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13003</drugbank-id>
+      <name>Cortivazol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cortivazol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13014</drugbank-id>
+      <name>Hypericin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hypericin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13068</drugbank-id>
+      <name>9-(N-methyl-L-isoleucine)-cyclosporin A</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with 9-(N-methyl-L-isoleucine)-cyclosporin A.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13208</drugbank-id>
+      <name>Prednylidene</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Prednylidene.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13223</drugbank-id>
+      <name>Fluocortin</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluocortin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13241</drugbank-id>
+      <name>Begelomab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Begelomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13491</drugbank-id>
+      <name>Fluperolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluperolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13843</drugbank-id>
+      <name>Cloprednol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Cloprednol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13856</drugbank-id>
+      <name>Fluclorolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluclorolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13867</drugbank-id>
+      <name>Fluticasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluticasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14066</drugbank-id>
+      <name>Tetrandrine</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Tetrandrine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14219</drugbank-id>
+      <name>Monomethyl fumarate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Monomethyl fumarate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14512</drugbank-id>
+      <name>Mometasone furoate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mometasone furoate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14539</drugbank-id>
+      <name>Hydrocortisone acetate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hydrocortisone acetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14545</drugbank-id>
+      <name>Hydrocortisone succinate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hydrocortisone succinate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01013</drugbank-id>
+      <name>Clobetasol propionate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Clobetasol propionate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01047</drugbank-id>
+      <name>Fluocinonide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluocinonide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14540</drugbank-id>
+      <name>Hydrocortisone butyrate</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Hydrocortisone butyrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00547</drugbank-id>
+      <name>Desoximetasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Desoximetasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00764</drugbank-id>
+      <name>Mometasone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Mometasone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08971</drugbank-id>
+      <name>Fluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11750</drugbank-id>
+      <name>Clobetasol</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Clobetasol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00324</drugbank-id>
+      <name>Fluorometholone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Fluorometholone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09095</drugbank-id>
+      <name>Difluocortolone</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Difluocortolone.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00337</drugbank-id>
+      <name>Pimecrolimus</name>
+      <description>The risk or severity of adverse effects can be increased when Pimecrolimus is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01656</drugbank-id>
+      <name>Roflumilast</name>
+      <description>Roflumilast may increase the immunosuppressive activities of Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06688</drugbank-id>
+      <name>Sipuleucel-T</name>
+      <description>The therapeutic efficacy of Sipuleucel-T can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01015</drugbank-id>
+      <name>Sulfamethoxazole</name>
+      <description>The risk or severity of myelosuppression can be increased when Sulfamethoxazole is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The risk or severity of adverse effects can be increased when Alefacept is combined with Leflunomide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08895</drugbank-id>
+      <name>Tofacitinib</name>
+      <description>Alefacept may increase the immunosuppressive activities of Tofacitinib.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>Trastuzumab may increase the neutropenic activities of Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08868</drugbank-id>
+      <name>Fingolimod</name>
+      <description>Alefacept may increase the immunosuppressive activities of Fingolimod.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00864</drugbank-id>
+      <name>Tacrolimus</name>
+      <description>Tacrolimus may increase the immunosuppressive activities of Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04914</drugbank-id>
+      <name>G17DT</name>
+      <description>The therapeutic efficacy of G17DT can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05144</drugbank-id>
+      <name>PEV3A</name>
+      <description>The therapeutic efficacy of PEV3A can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05325</drugbank-id>
+      <name>INGN 225</name>
+      <description>The therapeutic efficacy of INGN 225 can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05374</drugbank-id>
+      <name>Rindopepimut</name>
+      <description>The therapeutic efficacy of Rindopepimut can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05440</drugbank-id>
+      <name>SRP 299</name>
+      <description>The therapeutic efficacy of SRP 299 can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05942</drugbank-id>
+      <name>GI-5005</name>
+      <description>The therapeutic efficacy of GI-5005 can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06400</drugbank-id>
+      <name>Vitespen</name>
+      <description>The therapeutic efficacy of Vitespen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06584</drugbank-id>
+      <name>TG4010</name>
+      <description>The therapeutic efficacy of TG4010 can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The therapeutic efficacy of Anthrax immune globulin human can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10062</drugbank-id>
+      <name>Rabies virus inactivated antigen, B</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, B can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10076</drugbank-id>
+      <name>Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 1482 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10276</drugbank-id>
+      <name>Rotavirus vaccine</name>
+      <description>The therapeutic efficacy of Rotavirus vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10283</drugbank-id>
+      <name>Rabies virus inactivated antigen, A</name>
+      <description>The therapeutic efficacy of Rabies virus inactivated antigen, A can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10342</drugbank-id>
+      <name>Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B capsular polysaccharide meningococcal outer membrane protein conjugate antigen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10583</drugbank-id>
+      <name>Clostridium tetani toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Clostridium tetani toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10584</drugbank-id>
+      <name>Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Corynebacterium diphtheriae toxoid antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10600</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10769</drugbank-id>
+      <name>Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Japanese encephalitis virus strain sa 14-14-2 antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10794</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10803</drugbank-id>
+      <name>Typhoid Vi polysaccharide vaccine</name>
+      <description>The therapeutic efficacy of Typhoid Vi polysaccharide vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10989</drugbank-id>
+      <name>Hepatitis A Vaccine</name>
+      <description>The therapeutic efficacy of Hepatitis A Vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10990</drugbank-id>
+      <name>Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen</name>
+      <description>The therapeutic efficacy of Haemophilus influenzae type B strain 20752 capsular polysaccharide tetanus toxoid conjugate antigen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11038</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11040</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11041</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 X-181 (H1N1) hemagglutinin antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11044</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11603</drugbank-id>
+      <name>Human rabies virus immune globulin</name>
+      <description>The therapeutic efficacy of Human rabies virus immune globulin can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11627</drugbank-id>
+      <name>Hepatitis B Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Hepatitis B Vaccine (Recombinant) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12568</drugbank-id>
+      <name>Tecemotide</name>
+      <description>The therapeutic efficacy of Tecemotide can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14022</drugbank-id>
+      <name>Typhoid vaccine</name>
+      <description>The therapeutic efficacy of Typhoid vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14384</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14385</drugbank-id>
+      <name>Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza B virus B/Brisbane/60/2008 hemagglutinin antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14394</drugbank-id>
+      <name>Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/California/7/2009 (H1N1) live (attenuated) antigen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14445</drugbank-id>
+      <name>Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Victoria/210/2009 X-187 (H3N2) antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14449</drugbank-id>
+      <name>Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Perth/16/2009 (H3N2) live (attenuated) antigen can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14619</drugbank-id>
+      <name>Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Uruguay/716/2007(H3N2) antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14620</drugbank-id>
+      <name>Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated)</name>
+      <description>The therapeutic efficacy of Influenza A virus A/Brisbane/59/2007(H1N1) antigen (propiolactone inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14711</drugbank-id>
+      <name>Smallpox (Vaccinia) Vaccine, Live</name>
+      <description>The therapeutic efficacy of Smallpox (Vaccinia) Vaccine, Live can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15274</drugbank-id>
+      <name>Pertussis vaccine</name>
+      <description>The therapeutic efficacy of Pertussis vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15461</drugbank-id>
+      <name>Yersinia pestis 195/p antigen (formaldehyde inactivated)</name>
+      <description>The therapeutic efficacy of Yersinia pestis 195/p antigen (formaldehyde inactivated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13924</drugbank-id>
+      <name>Varicella Zoster Vaccine (Recombinant)</name>
+      <description>The therapeutic efficacy of Varicella Zoster Vaccine (Recombinant) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15483</drugbank-id>
+      <name>Modified vaccinia ankara</name>
+      <description>The therapeutic efficacy of Modified vaccinia ankara can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15654</drugbank-id>
+      <name>Moderna COVID-19 Vaccine</name>
+      <description>The therapeutic efficacy of Moderna COVID-19 Vaccine can be decreased when used in combination with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10317</drugbank-id>
+      <name>Rubella virus vaccine</name>
+      <description>The risk or severity of infection can be increased when Rubella virus vaccine is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10318</drugbank-id>
+      <name>Varicella Zoster Vaccine (Live/attenuated)</name>
+      <description>The risk or severity of infection can be increased when Varicella Zoster Vaccine (Live/attenuated) is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10343</drugbank-id>
+      <name>Bacillus calmette-guerin substrain tice live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain tice live antigen is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10804</drugbank-id>
+      <name>Bacillus calmette-guerin substrain connaught live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain connaught live antigen is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10805</drugbank-id>
+      <name>Yellow Fever Vaccine</name>
+      <description>The risk or severity of infection can be increased when Yellow Fever Vaccine is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11003</drugbank-id>
+      <name>Anthrax vaccine</name>
+      <description>The risk or severity of infection can be increased when Anthrax vaccine is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11050</drugbank-id>
+      <name>Typhoid Vaccine Live</name>
+      <description>The risk or severity of infection can be increased when Typhoid Vaccine Live is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12386</drugbank-id>
+      <name>Bacillus calmette-guerin substrain danish 1331 live antigen</name>
+      <description>The risk or severity of infection can be increased when Bacillus calmette-guerin substrain danish 1331 live antigen is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The risk or severity of infection can be increased when BCG vaccine is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14409</drugbank-id>
+      <name>Human adenovirus e serotype 4 strain cl-68578 antigen</name>
+      <description>The risk or severity of infection can be increased when Human adenovirus e serotype 4 strain cl-68578 antigen is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The risk or severity of infection can be increased when Vibrio cholerae CVD 103-HgR strain live antigen is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14685</drugbank-id>
+      <name>Adenovirus type 7 vaccine live</name>
+      <description>The risk or severity of infection can be increased when Adenovirus type 7 vaccine live is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00091</drugbank-id>
+      <name>Cyclosporine</name>
+      <description>Alefacept may increase the immunosuppressive activities of Cyclosporine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14513</drugbank-id>
+      <name>Magnesium</name>
+      <description>The serum concentration of Magnesium can be decreased when it is combined with Alefacept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01601</drugbank-id>
+      <name>Lopinavir</name>
+      <description>The serum concentration of Alefacept can be increased when it is combined with Lopinavir.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of infection can be increased when Alefacept is combined with Inebilizumab.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Alefacept heavy chain 
+CFSQQIYGVVYGNVTFHVPSNVPLKEVLWKKQKDKVAELENSEFRAFSSFKNRVYLDTVS
+GSLTIYNLTSSDEDEYEMESPNITDTMKFFLYVLESLPSPTLTCALTNGSIEVQCMIPEH
+YNSHRGLIMYSWDCPMEQCKRNSTSIYFKMENDLPQKIQCTLSNPLFNTTSSIILTTCIP
+SSGHSRHRYALIPIPLAVITTCIVLYMNGILKCDRKPDRTNSNRVEPKSCDKTHTCPPCP
+APELLGGPSVFLFPPKPKDTLMISRTPEVTCVVVDVSHEDPQVKFNWYVDGVQVHNAKTK
+PREQQYNSTYRVVSVLTVLHQNWLDGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYT
+LPPSREEMTKNQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKL
+TVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
+    <sequence format="FASTA">&gt;Alefacept light chain
+MVAGSDAGRALGVLSVVCLLHCFGFISCFSQQIYGVVYGNVTFHVPSNVPLKEVLWKKQK
+DKVAELENSEFRAFSSFKNRVYLDTVSGSLTIYNLTSSDEDEYEMESPNITDTMKFFLYV
+LESLPSPTLTCALTNGSIEVQCMIPEHYNSHRGLIMYSWDCPMEQCKRNSTSIYFKMEND
+LPQKIQCTLSNPLFNTTSSIILTTCIPSSGHSRHRYALIPIPLAVITTCIVLYMNGILKC
+DRKPDRTNSN</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.432</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>7.86</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>51801.1</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C2306H3594N610O694S26</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12559</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505772</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164748040</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000540</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Alefacept</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201571</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>299635</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/amevive.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/alefacept.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000719</id>
+      <name>T-cell surface antigen CD2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2102</ref-id>
+            <pubmed-id>17555598</pubmed-id>
+            <citation>Chamian F, Lin SL, Lee E, Kikuchi T, Gilleaudeau P, Sullivan-Whalen M, Cardinale I, Khatcherian A, Novitskaya I, Wittkowski KM, Krueger JG, Lowes MA: Alefacept (anti-CD2) causes a selective reduction in circulating effector memory T cells (Tem) and relative preservation of central memory T cells (Tcm) in psoriasis. J Transl Med. 2007 Jun 7;5:27.</citation>
+          </article>
+          <article>
+            <ref-id>A2104</ref-id>
+            <pubmed-id>11970990</pubmed-id>
+            <citation>da Silva AJ, Brickelmaier M, Majeau GR, Li Z, Su L, Hsu YM, Hochman PS: Alefacept, an immunomodulatory recombinant LFA-3/IgG1 fusion protein, induces CD16 signaling and CD2/CD16-dependent apoptosis of CD2(+) cells. J Immunol. 2002 May 1;168(9):4462-71.</citation>
+          </article>
+          <article>
+            <ref-id>A2106</ref-id>
+            <pubmed-id>17403057</pubmed-id>
+            <citation>Larsen R, Ryder LP, Svejgaard A, Gniadecki R: Changes in circulating lymphocyte subpopulations following administration of the leucocyte function-associated antigen-3 (LFA-3)/IgG1 fusion protein alefacept. Clin Exp Immunol. 2007 Jul;149(1):23-30. Epub 2007 Apr 2.</citation>
+          </article>
+          <article>
+            <ref-id>A2108</ref-id>
+            <pubmed-id>14968366</pubmed-id>
+            <citation>Goedkoop AY, de Rie MA, Picavet DI, Kraan MC, Dinant HJ, van Kuijk AW, Tak PP, Bos JD, Teunissen MB: Alefacept therapy reduces the effector T-cell population in lesional psoriatic epidermis. Arch Dermatol Res. 2004 Apr;295(11):465-73. Epub 2004 Feb 14.</citation>
+          </article>
+          <article>
+            <ref-id>A2110</ref-id>
+            <pubmed-id>12795770</pubmed-id>
+            <citation>Ortonne JP: Clinical response to alefacept: results of a phase 3 study of intramuscular administration of alefacept in patients with chronic plaque psoriasis. J Eur Acad Dermatol Venereol. 2003 Jul;17 Suppl 2:12-6.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P06729" source="Swiss-Prot">
+        <name>T-cell surface antigen CD2</name>
+        <general-function>Receptor binding</general-function>
+        <specific-function>CD2 interacts with lymphocyte function-associated antigen (LFA-3) and CD48/BCM1 to mediate adhesion between T-cells and other cell types. CD2 is implicated in the triggering of T-cells, the cytoplasmic domain is implicated in the signaling function.</specific-function>
+        <gene-name>CD2</gene-name>
+        <locus>1p13</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>210-235</transmembrane-regions>
+        <signal-regions>1-24</signal-regions>
+        <theoretical-pi>10.3</theoretical-pi>
+        <molecular-weight>39447.96</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:1639</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CD2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M19806</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>180081</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P06729</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CD2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Erythrocyte receptor</synonym>
+          <synonym>LFA-2</synonym>
+          <synonym>LFA-3 receptor</synonym>
+          <synonym>Rosette receptor</synonym>
+          <synonym>SRBC</synonym>
+          <synonym>T-cell surface antigen T11/Leu-5</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010504|T-cell surface antigen CD2
+MSFPCKFVASFLLIFNVSSKGAVSKEITNALETWGALGQDINLDIPSFQMSDDIDDIKWE
+KTSDKKKIAQFRKEKETFKEKDTYKLFKNGTLKIKHLKTDDQDIYKVSIYDTKGKNVLEK
+IFDLKIQERVSKPKISWTCINTTLTCEVMNGTDPELNLYQDGKHLKLSQRVITHKWTTSL
+SAKFKCTAGNKVSKESSVEPVSCPEKGLDIYLIIGICGGGSLLMVFVALLVFYITKRKKQ
+RSRRNDEELETRAHRVATEERGRKPHQIPASTPQNPATSQHPPPPPGHRSQAPSHRPPPP
+GHRVQHQPQKRPPAPSGTQVHQQKGPPLPRPRVQPKPPHGAAENSLSPSSN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010505|T-cell surface antigen CD2 (CD2)
+ATGAGCTTTCCATGTAAATTTGTAGCCAGCTTCCTTCTGATTTTCAATGTTTCTTCCAAA
+GGTGCAGTCTCCAAAGAGATTACGAATGCCTTGGAAACCTGGGGTGCCTTGGGTCAGGAC
+ATCAACTTGGACATTCCTAGTTTTCAAATGAGTGATGATATTGACGATATAAAATGGGAA
+AAAACTTCAGACAAGAAAAAGATTGCACAATTCAGAAAAGAGAAAGAGACTTTCAAGGAA
+AAAGATACATATAAGCTATTTAAAAATGGAACTCTGAAAATTAAGCATCTGAAGACCGAT
+GATCAGGATATCTACAAGGTATCAATATATGATACAAAAGGAAAAAATGTGTTGGAAAAA
+ATATTTGATTTGAAGATTCAAGAGAGGGTCTCAAAACCAAAGATCTCCTGGACTTGTATC
+AACACAACCCTGACCTGTGAGGTAATGAATGGAACTGACCCCGAATTAAACCTGTATCAA
+GATGGGAAACATCTAAAACTTTCTCAGAGGGTCATCACACACAAGTGGACCACCAGCCTG
+AGTGCAAAATTCAAGTGCACAGCAGGGAACAAAGTCAGCAAGGAATCCAGTGTCGAGCCT
+GTCAGCTGTCCAGAGAAAGGTCTGGACATCTATCTCATCATTGGCATATGTGGAGGAGGC
+AGCCTCTTGATGGTCTTTGTGGCACTGCTCGTTTTCTATATCACCAAAAGGAAAAAACAG
+AGGAGTCGGAGAAATGATGAGGAGCTGGAGACAAGAGCCCACAGAGTAGCTACTGAAGAA
+AGGGGCCGGAAGCCCCACCAAATTCCAGCTTCAACCCCTCAGAATCCAGCAACTTCCCAA
+CATCCTCCTCCACCACCTGGTCATCGTTCCCAGGCACCTAGTCATCGTCCCCCGCCTCCT
+GGACACCGTGTTCAGCACCAGCCTCAGAAGAGGCCTCCTGCTCCGTCGGGCACACAAGTT
+CACCAGCAGAAAGGCCCGCCCCTCCCCAGACCTCGAGTTCAGCCAAAACCTCCCCATGGG
+GCAGCAGAAAACTCATTGTCCCCTTCCTCTAATTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07686</identifier>
+            <name>V-set</name>
+          </pfam>
+          <pfam>
+            <identifier>PF05790</identifier>
+            <name>C2-set</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>anchored component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell-cell junction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heterotypic cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>membrane raft polarization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>natural killer cell activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interferon-gamma secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-8 secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of myeloid dendritic cell activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of tumor necrosis factor production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of T cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>single organismal cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>T cell activation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0002097</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A2104</ref-id>
+            <pubmed-id>11970990</pubmed-id>
+            <citation>da Silva AJ, Brickelmaier M, Majeau GR, Li Z, Su L, Hsu YM, Hochman PS: Alefacept, an immunomodulatory recombinant LFA-3/IgG1 fusion protein, induces CD16 signaling and CD2/CD16-dependent apoptosis of CD2(+) cells. J Immunol. 2002 May 1;168(9):4462-71.</citation>
+          </article>
+          <article>
+            <ref-id>A13298</ref-id>
+            <pubmed-id>12795239</pubmed-id>
+            <citation>Vaishnaw AK, TenHoor CN: Pharmacokinetics, biologic activity, and tolerability of alefacept by intravenous and intramuscular administration. J Pharmacokinet Pharmacodyn. 2002 Dec;29(5-6):415-26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08637" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-A</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of IgG. Binds complexed or aggregated IgG and also monomeric IgG. Mediates antibody-dependent cellular cytotoxicity (ADCC) and other antibody-dependent responses, such as phagocytosis.</specific-function>
+        <gene-name>FCGR3A</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>209-229</transmembrane-regions>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>8.21</theoretical-pi>
+        <molecular-weight>29088.895</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3619</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52645</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31324</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08637</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3A_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16A</synonym>
+          <synonym>CD16a antigen</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-alpha</synonym>
+          <synonym>Fc-gamma RIIIa</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIa</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004112|Low affinity immunoglobulin gamma Fc region receptor III-A
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYRVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVDDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKGRKYFHHNSDFYIPKATLKDSGSYFCRGLFGSKN
+VSSETVNITITQGLAVSTISSFFPPGYQVSFCLVMVLLFAVDTGLYFSVKTNIRSSTRDW
+KDHKFKWRKDPQDK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011522|Low affinity immunoglobulin gamma Fc region receptor III-A (FCGR3A)
+ATGGGTGGAGGGGCTGGGGAAAGGCTGTTTACTTCCTCCTGTCTAGTCGGTTTGGTCCCT
+TTAGGGCTCCGGATATCTTTGGTGACTTGTCCACTCCAGTGTGGCATCATGTGGCAGCTG
+CTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACTGAAGATCTCCCA
+AAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGGGTGCTCGAGAAGGACAGTGTGACT
+CTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGGTTTCACAATGAG
+AGCCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACAGTCGACGACAGT
+GGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTGCAGCTAGAAGTC
+CATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAGGAAGACCCTATT
+CACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACATATTTACAGAAT
+GGCAAAGGCAGGAAGTATTTTCATCATAATTCTGACTTCTACATTCCAAAAGCCACACTC
+AAAGACAGCGGCTCCTACTTCTGCAGGGGGCTTTTTGGGAGTAAAAATGTGTCTTCAGAG
+ACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCATCATTCTTTCCA
+CCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCAGTGGACACAGGA
+CTATATTTCTCTGTGAAGACAAACATTCGAAGCTCAACAAGAGACTGGAAGGACCATAAA
+TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of immune response</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0000901</id>
+      <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2104</ref-id>
+            <pubmed-id>11970990</pubmed-id>
+            <citation>da Silva AJ, Brickelmaier M, Majeau GR, Li Z, Su L, Hsu YM, Hochman PS: Alefacept, an immunomodulatory recombinant LFA-3/IgG1 fusion protein, induces CD16 signaling and CD2/CD16-dependent apoptosis of CD2(+) cells. J Immunol. 2002 May 1;168(9):4462-71.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O75015" source="Swiss-Prot">
+        <name>Low affinity immunoglobulin gamma Fc region receptor III-B</name>
+        <general-function/>
+        <specific-function>Receptor for the Fc region of immunoglobulins gamma. Low affinity receptor. Binds complexed or aggregated IgG and also monomeric IgG. Contrary to III-A, is not capable to mediate antibody-dependent cytotoxicity and phagocytosis. May serve as a trap for immune complexes in the peripheral circulation which does not activate neutrophils.</specific-function>
+        <gene-name>FCGR3B</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-16</signal-regions>
+        <theoretical-pi>6.71</theoretical-pi>
+        <molecular-weight>26215.64</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3620</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCGR3B</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X16863</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31322</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O75015</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCG3B_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CD16B</synonym>
+          <synonym>Fc-gamma RIII</synonym>
+          <synonym>Fc-gamma RIII-beta</synonym>
+          <synonym>Fc-gamma RIIIb</synonym>
+          <synonym>FCG3</synonym>
+          <synonym>FCGR3</synonym>
+          <synonym>FcR-10</synonym>
+          <synonym>FcRIII</synonym>
+          <synonym>FcRIIIb</synonym>
+          <synonym>IGFR3</synonym>
+          <synonym>IgG Fc receptor III-1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010635|Low affinity immunoglobulin gamma Fc region receptor III-B
+MWQLLLPTALLLLVSAGMRTEDLPKAVVFLEPQWYSVLEKDSVTLKCQGAYSPEDNSTQW
+FHNESLISSQASSYFIDAATVNDSGEYRCQTNLSTLSDPVQLEVHIGWLLLQAPRWVFKE
+EDPIHLRCHSWKNTALHKVTYLQNGKDRKYFHHNSDFHIPKATLKDSGSYFCRGLVGSKN
+VSSETVNITITQGLAVSTISSFSPPGYQVSFCLVMVLLFAVDTGLYFSVKTNI</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010636|Low affinity immunoglobulin gamma Fc region receptor III-B (FCGR3B)
+ATGTGGCAGCTGCTCCTCCCAACTGCTCTGCTACTTCTAGTTTCAGCTGGCATGCGGACT
+GAAGATCTCCCAAAGGCTGTGGTGTTCCTGGAGCCTCAATGGTACAGCGTGCTTGAGAAG
+GACAGTGTGACTCTGAAGTGCCAGGGAGCCTACTCCCCTGAGGACAATTCCACACAGTGG
+TTTCACAATGAGAACCTCATCTCAAGCCAGGCCTCGAGCTACTTCATTGACGCTGCCACA
+GTCAACGACAGTGGAGAGTACAGGTGCCAGACAAACCTCTCCACCCTCAGTGACCCGGTG
+CAGCTAGAAGTCCATATCGGCTGGCTGTTGCTCCAGGCCCCTCGGTGGGTGTTCAAGGAG
+GAAGACCCTATTCACCTGAGGTGTCACAGCTGGAAGAACACTGCTCTGCATAAGGTCACA
+TATTTACAGAATGGCAAAGACAGGAAGTATTTTCATCATAATTCTGACTTCCACATTCCA
+AAAGCCACACTCAAAGATAGCGGCTCCTACTTCTGCAGGGGGCTTGTTGGGAGTAAAAAT
+GTGTCTTCAGAGACTGTGAACATCACCATCACTCAAGGTTTGGCAGTGTCAACCATCTCA
+TCATTCTCTCCACCTGGGTACCAAGTCTCTTTCTGCTTGGTGATGGTACTCCTTTTTGCA
+GTGGACACAGGACTATATTTCTCTGTGAAGACAAACATTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>anchored component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mitophagy in response to mitochondrial depolarization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of defense response to virus by host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenophagy</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

@@ -1,0 +1,405 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00090</drugbank-id>
+  <drugbank-id>BTD00008</drugbank-id>
+  <drugbank-id>BIOD00008</drugbank-id>
+  <name>Laronidase</name>
+  <description>Human recombinant alpha-L-iduronidase, 628 residues (mature form), produced by recombinant DNAtechnology in a Chinese hamster ovary cell line. Laronidase is a glycoprotein with a molecular weight of approximately 83 kD. The predicted amino acid sequence of the recombinant form, as well as the nucleotide sequence that encodes it, are identical to a polymorphic form of human a-L-iduronidase. It contains 6 N-linked oligosaccharide modification sites.</description>
+  <cas-number>210589-09-6</cas-number>
+  <unii>WP58SVM6R4</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A137</ref-id>
+        <pubmed-id>19117887</pubmed-id>
+        <citation>Clarke LA, Wraith JE, Beck M, Kolodny EH, Pastores GM, Muenzer J, Rapoport DM, Berger KI, Sidman M, Kakkis ED, Cox GF: Long-term efficacy and safety of laronidase in the treatment of mucopolysaccharidosis I. Pediatrics. 2009 Jan;123(1):229-40. doi: 10.1542/peds.2007-3847.</citation>
+      </article>
+      <article>
+        <ref-id>A138</ref-id>
+        <pubmed-id>18251718</pubmed-id>
+        <citation>Landry Y, Gies JP: Drugs and their molecular targets: an updated overview. Fundam Clin Pharmacol. 2008 Feb;22(1):1-18. doi: 10.1111/j.1472-8206.2007.00548.x.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the treatment of mucopolysaccharidosis</indication>
+  <pharmacodynamics>Laronidase is used to treat mucopolysaccharide storage disorders (specifically mucopolysaccharidosis 1 or Hurlers syndrome) caused by deficiencies of alpha-L-iduronidase. Reduced or absent a-L-iduronidase activity results in the accumulation of the GAG substrates, dermatan sulfate and heparan sulfate, throughout the body and leads to widespread cellular, tissue, and organ dysfunction.</pharmacodynamics>
+  <mechanism-of-action>Laronidase catalyses the hydrolysis of terminal alpha-L-iduronic acid residues of dermatan sulfate and heparin sulfate.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>1.5-3.6 hrs</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">alpha-L-Idosiduronase</synonym>
+    <synonym language="english" coder="">Human Recombinant alpha-L-iduronidase</synonym>
+    <synonym language="spanish" coder="">Laronidasa</synonym>
+    <synonym language="english" coder="inn/usan">Laronidase</synonym>
+    <synonym language="english" coder="">Laronidase (genetical recombination)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Aldurazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000477</ema-product-code>
+      <ema-ma-number>EU/1/03/253/001</ema-ma-number>
+      <started-marketing-on>2003-06-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>100 U/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Aldurazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000477</ema-product-code>
+      <ema-ma-number>EU/1/03/253/002</ema-ma-number>
+      <started-marketing-on>2003-06-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>100 U/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Aldurazyme</name>
+      <labeller>Genzyme Europe Bv</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000477</ema-product-code>
+      <ema-ma-number>EU/1/03/253/003</ema-ma-number>
+      <started-marketing-on>2003-06-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>100 U/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Aldurazyme</name>
+      <labeller>Genzyme Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code>58468-0070</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-04-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution, concentrate</dosage-form>
+      <strength>2.9 mg/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA125058</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Aldurazyme</name>
+      <labeller>Sanofi Genzyme, a Division of Sanofi Aventis Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02254506</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-08-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>0.58 mg</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Aldurazyme</name>
+      <ingredients>Laronidase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aldurazyme</name>
+      <ingredients>Laronidase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aldurazyme</name>
+      <ingredients>Laronidase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aldurazyme</name>
+      <ingredients>Laronidase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Aldurazyme</name>
+      <ingredients>Laronidase</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>BioMarin Pharmaceuticals Inc.</name>
+      <url>http://www.bmrn.com</url>
+    </packager>
+    <packager>
+      <name>Genzyme Inc.</name>
+      <url>http://www.genzyme.ca</url>
+    </packager>
+    <packager>
+      <name>Hollister-Stier Laboratories LLC</name>
+      <url>http://www.hollisterstier.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Aldurazyme 2.9 mg/5 ml vial</description>
+      <cost currency="USD">168.0</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Alimentary Tract and Metabolism</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolytic Lysosomal Glycosaminoglycan-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>100 U/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>2.9 mg/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous; Parenteral</route>
+      <strength>500 U/5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>0.58 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2.9 mg/5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>2.9 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>100 IU/mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="A16AB05">
+      <level code="A16AB">Enzymes</level>
+      <level code="A16A">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A16">OTHER ALIMENTARY TRACT AND METABOLISM PRODUCTS</level>
+      <level code="A">ALIMENTARY TRACT AND METABOLISM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00090.pdf?1265922802</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00090 sequence
+APHLVQVDAARALWPLRRFWRSTGFCPPLPHSQADQYVLSWDQQLNLAYVGAVPHRGIKQ
+VRTHWLLELVTTRGSTGRGLSYNFTHLDGYLDLLRENQLLPGFELMGSASGHFTDFEDKQ
+QVFEWKDLVSSLARRYIGRYGLAHVSKWNFETWNEPDHHDFDNVSMTMQGFLNYYDACSE
+GLRAASPALRLGGPGDSFHTPPRSPLSWGLLRHCHDGTNFFTGEAGVRLDYISLHRKGAR
+SSISILEQEKVVAQQIRQLFPKFADTPIYNDEADPLVGWSLPQPWRADVTYAAMVVKVIA
+QHQNLLLANTTSAFPYALLSNDNAFLSYHPHPFAQRTLTARFQVNNTRPPHVQLLRKPVL
+TAMGLLALLDEEQLWAEVSQAGTVLDSNHTVGVLASAHRPQGPADAWRAAVLIYASDDTR
+AHPNRSVAVTLRLRGVPPGPGLVYVTRYLDNGLCSPDGEWRRLGRPVFPTAEQFRRMRAA
+EDPVAAAPRPLPAGGRLTLRPALRLPSLLLVHVCARPEKPPGQVTRLRALPLTQGQLVLV
+WSDEHVGSKCLWTYEIQFSQDGKAYTPVSRKPSTFNLFVFSPDTGAVSGSYRVRALDYWA
+RPGPFSDPVPYLEVPVPRGPPSPGNP</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.300</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>9.09</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>69899.4</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C3160H4848N898O881S12</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13106</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505612</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M74715</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164776670</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P35475</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Iduronidase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201595</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>392509</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/aldurazyme.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/laronidase.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0004822</id>
+      <name>Iduronic acid</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A6686</ref-id>
+            <pubmed-id>16283671</pubmed-id>
+            <citation>Kloska A, Bohdanowicz J, Konopa G, Tylki-Szymnska A, Jakobkiewicz-Banecka J, Czartoryska B, Liberek A, Wegrzyn A, Wegrzyn G: Changes in hair morphology of mucopolysaccharidosis I patients treated with recombinant human alpha-L-iduronidase (laronidase, Aldurazyme). Am J Med Genet A. 2005 Dec 15;139(3):199-203.</citation>
+          </article>
+          <article>
+            <ref-id>A6687</ref-id>
+            <pubmed-id>4269173</pubmed-id>
+            <citation>Bach G, Eisenberg F Jr, Cantz M, Neufeld EF: The defect in the Hunter syndrome: deficiency of sulfoiduronate sulfatase. Proc Natl Acad Sci U S A. 1973 Jul;70(7):2134-8.</citation>
+          </article>
+          <article>
+            <ref-id>A6688</ref-id>
+            <pubmed-id>1554373</pubmed-id>
+            <citation>Freeman C, Hopwood JJ: Human alpha-L-iduronidase. Catalytic properties and an integrated role in the lysosomal degradation of heparan sulphate. Biochem J. 1992 Mar 15;282 ( Pt 3):899-908.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

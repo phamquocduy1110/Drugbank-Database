@@ -1,0 +1,2417 @@
+<drug type="small molecule" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00067</drugbank-id>
+  <drugbank-id>BTD00110</drugbank-id>
+  <drugbank-id>BIOD00110</drugbank-id>
+  <drugbank-id>DB09392</drugbank-id>
+  <name>Vasopressin</name>
+  <description>Antidiuretic hormone, also known as vasopressin, is a nine amino acid peptide secreted from the posterior pituitary. Antidiuretic hormone binds to receptors in the distal or collecting tubules of the kidney and promotes reabsorbtion of water back into the circulation</description>
+  <cas-number>11000-17-2</cas-number>
+  <unii>Y87Y826H08</unii>
+  <average-mass>2140.46</average-mass>
+  <monoisotopic-mass>2138.869561874</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A110</ref-id>
+        <pubmed-id>14647484</pubmed-id>
+        <citation>Bielsky IF, Hu SB, Szegda KL, Westphal H, Young LJ: Profound impairment in social recognition and reduction in anxiety-like behavior in vasopressin V1a receptor knockout mice. Neuropsychopharmacology. 2004 Mar;29(3):483-93.</citation>
+      </article>
+      <article>
+        <ref-id>A111</ref-id>
+        <pubmed-id>17083331</pubmed-id>
+        <citation>Wersinger SR, Caldwell HK, Martinez L, Gold P, Hu SB, Young WS 3rd: Vasopressin 1a receptor knockout mice have a subtle olfactory deficit but normal aggression. Genes Brain Behav. 2007 Aug;6(6):540-51. Epub 2006 Nov 3.</citation>
+      </article>
+      <article>
+        <ref-id>A112</ref-id>
+        <pubmed-id>17122081</pubmed-id>
+        <citation>Lolait SJ, Stewart LQ, Jessop DS, Young WS 3rd, O'Carroll AM: The hypothalamic-pituitary-adrenal axis response to stress in mice lacking functional vasopressin V1b receptors. Endocrinology. 2007 Feb;148(2):849-56. Epub 2006 Nov 22.</citation>
+      </article>
+      <article>
+        <ref-id>A113</ref-id>
+        <pubmed-id>15555506</pubmed-id>
+        <citation>Wersinger SR, Kelliher KR, Zufall F, Lolait SJ, O'Carroll AM, Young WS 3rd: Social motivation is reduced in vasopressin 1b receptor null mice despite normal performance in an olfactory discrimination task. Horm Behav. 2004 Dec;46(5):638-45.</citation>
+      </article>
+      <article>
+        <ref-id>A114</ref-id>
+        <pubmed-id>7545469</pubmed-id>
+        <citation>Kanwar S, Woodman RC, Poon MC, Murohara T, Lefer AM, Davenpeck KL, Kubes P: Desmopressin induces endothelial P-selectin expression and leukocyte rolling in postcapillary venules. Blood. 1995 Oct 1;86(7):2760-6.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Nedumparambil A. Abraham, Hans U. Immer, Kazimir Sestanj, "Process for producing triglycyl-lysine vasopressin and intermediates therefor." U.S. Patent US4093610, issued June, 1963.</synthesis-reference>
+  <indication>For the treatment of enuresis, polyuria, diabetes insipidus, polydipsia and oesophageal varices with bleeding</indication>
+  <pharmacodynamics>Vasopressin is an antidiuretic hormone indicated for the prevention and treatment of postoperative abdominal distention, in abdominal roentgenography to dispel interfering gas shadows, and in diabetes insipidus. Vasopressin can cause contraction of smooth muscle of the gastrointestinal tract and of all parts of the vascular bed, especially the capillaries, small arterioles and venules. It has less effect on the smooth musculature of the large veins. Vasopressin may also be used to control bleeding in some forms of von Willebrand disease and to treat extreme cases of bed wetting in children. It may also play a role in memory formation although the mechanism is unknown.</pharmacodynamics>
+  <mechanism-of-action>Vasopressin acts on three different receptors, vasopressin receptor V1a (which initiates vasoconstriction, liver gluconeogenesis, platelet aggregation and release of factor VIII), vasopressin receptor V1b (which mediates corticotrophin secretion from the pituitary) and vasopressin receptor V2 which controls free water reabsorption in the renal medullar. The binding of vasopressin to the V2 receptor activates adenylate cyclase which causes the release of aquaporin 2 channels into the cells lining the renal medullar duct. This allows water to be reabsorbed down an osmotic gradient so the urine is more concentrated.</mechanism-of-action>
+  <toxicity/>
+  <metabolism>The majority of a dose of vasopressin is metabolized and rapidly destroyed in the liver and kidneys.</metabolism>
+  <absorption/>
+  <half-life>10-20 minutes</half-life>
+  <protein-binding>1%</protein-binding>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT002464</drugbank-id>
+      <name>Argipressin</name>
+      <unii>Y4907O6MFD</unii>
+      <cas-number>113-79-1</cas-number>
+      <inchikey>KBZOIRJILGZLEJ-LGYYRGKSSA-N</inchikey>
+      <average-mass>1084.24</average-mass>
+      <monoisotopic-mass>1083.437854941</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="">Vasopressin, unspecified</synonym>
+    <synonym language="spanish" coder="">Vasopressina</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Pitressin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-1738</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-05-17</started-marketing-on>
+      <ended-marketing-on>2011-09-30</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitressin</name>
+      <labeller>Par Pharmaceutical</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-117</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-10-01</started-marketing-on>
+      <ended-marketing-on>2016-06-30</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitressin</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-5925</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-10-01</started-marketing-on>
+      <ended-marketing-on>2016-05-31</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pitressin Inj 10 Unit/0.5ml</name>
+      <labeller>Parke Davis Division, Warner Lambert Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00222577</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1971-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-25</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pressyn Ar</name>
+      <labeller>Ferring Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02246133</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-11-04</started-marketing-on>
+      <ended-marketing-on>2017-03-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5740</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2007-01-02</started-marketing-on>
+      <ended-marketing-on>2013-01-15</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-6267</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-05-17</started-marketing-on>
+      <ended-marketing-on>2013-01-15</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>General Injectables &amp; Vaccines</labeller>
+      <ndc-id/>
+      <ndc-product-code>52584-302</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-12-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>General Injectables &amp; Vaccines</labeller>
+      <ndc-id/>
+      <ndc-product-code>52584-020</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-08-01</started-marketing-on>
+      <ended-marketing-on>2013-03-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>General Injectables &amp; Vaccines</labeller>
+      <ndc-id/>
+      <ndc-product-code>52584-053</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-03-01</started-marketing-on>
+      <ended-marketing-on>2013-02-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-0410</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-08-15</started-marketing-on>
+      <ended-marketing-on>2013-07-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-0510</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-10-01</started-marketing-on>
+      <ended-marketing-on>2013-05-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>American Regent</labeller>
+      <ndc-id/>
+      <ndc-product-code>0517-1020</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-10-01</started-marketing-on>
+      <ended-marketing-on>2013-06-01</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>Fresenius Kabi USA, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>63323-302</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2001-07-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>HF Acquisition Co LLC, DBA HealthFirst</labeller>
+      <ndc-id/>
+      <ndc-product-code>51662-1314</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-11-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin</name>
+      <labeller>Cardinal Health</labeller>
+      <ndc-id/>
+      <ndc-product-code>55154-5724</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-10-17</started-marketing-on>
+      <ended-marketing-on>2012-03-31</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasopressin Inj 20unit/ml USP</name>
+      <labeller>Lyphomed, Division Of Fujisawa Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01944800</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasopressin Inj 20unit/ml USP</name>
+      <labeller>Ferring Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00693820</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1988-12-31</started-marketing-on>
+      <ended-marketing-on>2015-07-22</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Intramuscular; Nasal; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasopressin Injection</name>
+      <labeller>Fresenius Kabi</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02139502</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-08-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasopressin Injection USP</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247938</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-12-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Intramuscular; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Vasostrict</name>
+      <labeller>Medical Purchasin Solutions, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>71872-7014</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-11-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasostrict</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-164</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-11-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasostrict</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-190</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-02-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>20 [USP'U]/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasostrict</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-219</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-10-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>40 [USP'U]/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Vasostrict</name>
+      <labeller>Par Pharmaceutical, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>42023-220</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-10-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>60 [USP'U]/100mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>NDA204485</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Pitressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasostrict</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasostrict</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasostrict</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasostrict</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasostrict</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin Injection USP</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pitressin Inj 10 Unit/0.5ml</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin Inj 20unit/ml USP</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin Inj 20unit/ml USP</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Vasopressin Injection</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pressyn Ar</name>
+      <ingredients>Vasopressin</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>American Regent</name>
+      <url>http://www.americanregent.com</url>
+    </packager>
+    <packager>
+      <name>APP Pharmaceuticals</name>
+      <url>http://www.apppharma.com</url>
+    </packager>
+    <packager>
+      <name>APPD</name>
+      <url/>
+    </packager>
+    <packager>
+      <name>A-S Medication Solutions LLC</name>
+      <url>http://orders.a-smeds.com</url>
+    </packager>
+    <packager>
+      <name>Cardinal Health</name>
+      <url>http://www.cardinal.com</url>
+    </packager>
+    <packager>
+      <name>JHP Pharmaceuticals LLC</name>
+      <url>http://www.jhppharma.com</url>
+    </packager>
+    <packager>
+      <name>Luitpold Pharmaceuticals Inc.</name>
+      <url>http://www.luitpold.com</url>
+    </packager>
+    <packager>
+      <name>Monarch Pharmacy</name>
+      <url>http://www.monarch-pharmacy.co.uk</url>
+    </packager>
+    <packager>
+      <name>PD-Rx Pharmaceuticals Inc.</name>
+      <url>http://www.pdrx.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Parke davis div warner lambert co</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Vasopressin 20 unit/ml vial</description>
+      <cost currency="USD">1.86</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Vasopressin 10 unit/0.5 ml vial</description>
+      <cost currency="USD">2.88</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Pitressin 20 unit/ml vial</description>
+      <cost currency="USD">7.68</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antidiuretic Agents</category>
+      <mesh-id>D050034</mesh-id>
+    </category>
+    <category>
+      <category>Arginine Vasopressin</category>
+      <mesh-id>D001127</mesh-id>
+    </category>
+    <category>
+      <category>Arginine Vasopressin, agonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Arginine Vasopressin, analogs &amp; derivatives</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Arginine Vasopressin, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cardiovascular Agents</category>
+      <mesh-id>D002317</mesh-id>
+    </category>
+    <category>
+      <category>Coagulants</category>
+      <mesh-id>D003029</mesh-id>
+    </category>
+    <category>
+      <category>Hematologic Agents</category>
+      <mesh-id>D006401</mesh-id>
+    </category>
+    <category>
+      <category>Hemostatics</category>
+      <mesh-id>D006490</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Natriuretic Agents</category>
+      <mesh-id>D045283</mesh-id>
+    </category>
+    <category>
+      <category>Nerve Tissue Proteins</category>
+      <mesh-id>D009419</mesh-id>
+    </category>
+    <category>
+      <category>Neuropeptides</category>
+      <mesh-id>D009479</mesh-id>
+    </category>
+    <category>
+      <category>Oligopeptides</category>
+      <mesh-id>D009842</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pituitary Hormones</category>
+      <mesh-id>D010907</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary Hormones, Posterior</category>
+      <mesh-id>D010909</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Vasoconstrictor Agents</category>
+      <mesh-id>D014662</mesh-id>
+    </category>
+    <category>
+      <category>Vasopressin and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Vasopressins</category>
+      <mesh-id>D014667</mesh-id>
+    </category>
+    <category>
+      <category>Vasopressins, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>20 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>40 I.E./2ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution, concentrate</form>
+      <route>Intravenous</route>
+      <strength>40 U.I./2ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>20 IU/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>20 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>20 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength>20 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>20 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 IU/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Intravenous; Subcutaneous</route>
+      <strength>20 U</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>20 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous; Subcutaneous</route>
+      <strength>20 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Intramuscular; Nasal; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intravenous</route>
+      <strength>20 U/mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>20 [USP'U]/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>40 [USP'U]/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intravenous</route>
+      <strength>60 [USP'U]/100mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes>
+    <ahfs-code>68:28.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00067.pdf?1265922751</msds>
+  <patents>
+    <patent>
+      <number>9687526</number>
+      <country>United States</country>
+      <approved>2017-06-27</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9375478</number>
+      <country>United States</country>
+      <approved>2016-06-28</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9744209</number>
+      <country>United States</country>
+      <approved>2017-08-29</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9744239</number>
+      <country>United States</country>
+      <approved>2017-08-29</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9750785</number>
+      <country>United States</country>
+      <approved>2017-09-05</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9937223</number>
+      <country>United States</country>
+      <approved>2018-04-10</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>10010575</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9925233</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9974827</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9968649</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9962422</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9925234</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9981006</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>9919026</number>
+      <country>United States</country>
+      <approved>2015-01-30</approved>
+      <expires>2035-01-30</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions>
+    <food-interaction>Avoid alcohol.</food-interaction>
+  </food-interactions>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB13967</drugbank-id>
+      <name>Patent Blue</name>
+      <description>The risk or severity of hypotension can be increased when Patent Blue is combined with Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00564</drugbank-id>
+      <name>Carbamazepine</name>
+      <description>The risk or severity of water intoxication can be increased when Carbamazepine is combined with Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00368</drugbank-id>
+      <name>Norepinephrine</name>
+      <description>The risk or severity of adverse effects can be increased when Norepinephrine is combined with Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14507</drugbank-id>
+      <name>Lithium citrate</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Lithium citrate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14509</drugbank-id>
+      <name>Lithium carbonate</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Lithium carbonate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14506</drugbank-id>
+      <name>Lithium hydroxide</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Lithium hydroxide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00407</drugbank-id>
+      <name>Ardeparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Ardeparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01109</drugbank-id>
+      <name>Heparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Heparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01225</drugbank-id>
+      <name>Enoxaparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Enoxaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06271</drugbank-id>
+      <name>Sulodexide</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Sulodexide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06294</drugbank-id>
+      <name>Semuloparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Semuloparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06754</drugbank-id>
+      <name>Danaparoid</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Danaparoid.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06779</drugbank-id>
+      <name>Dalteparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Dalteparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06822</drugbank-id>
+      <name>Tinzaparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Tinzaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08813</drugbank-id>
+      <name>Nadroparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Nadroparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09258</drugbank-id>
+      <name>Bemiparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Bemiparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09260</drugbank-id>
+      <name>Parnaparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Parnaparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09259</drugbank-id>
+      <name>Reviparin</name>
+      <description>The therapeutic efficacy of Vasopressin can be decreased when used in combination with Reviparin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00024</drugbank-id>
+      <name>Thyrotropin alfa</name>
+      <description>Thyrotropin alfa may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00279</drugbank-id>
+      <name>Liothyronine</name>
+      <description>Liothyronine may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00451</drugbank-id>
+      <name>Levothyroxine</name>
+      <description>Levothyroxine may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01583</drugbank-id>
+      <name>Liotrix</name>
+      <description>Liotrix may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03604</drugbank-id>
+      <name>Tiratricol</name>
+      <description>Tiratricol may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09100</drugbank-id>
+      <name>Thyroid, porcine</name>
+      <description>Thyroid, porcine may increase the vasoconstricting activities of Vasopressin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The risk or severity of hypertension can be increased when Vasopressin is combined with Lidocaine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-1.4</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-3.9</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.24e-01 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-7.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>2-({1-[19-amino-13-benzyl-10-(2-carbamoylethyl)-7-(carbamoylmethyl)-16-[(4-hydroxyphenyl)methyl]-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentaazacycloicosane-4-carbonyl]pyrrolidin-2-yl}formamido)-N-(carbamoylmethyl)-5-[(diaminomethylidene)amino]pentanamide; 6-amino-2-({1-[19-amino-13-benzyl-10-(2-carbamoylethyl)-7-(carbamoylmethyl)-16-[(4-hydroxyphenyl)methyl]-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentaazacycloicosane-4-carbonyl]pyrrolidin-2-yl}formamido)-N-(carbamoylmethyl)hexanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(2S)-2-{[(2S)-1-[(4R,7S,10S,13S,16S,19R)-19-amino-13-benzyl-10-(2-carbamoylethyl)-7-(carbamoylmethyl)-16-[(4-hydroxyphenyl)methyl]-6,9,12,15,18-pentaoxo-1,2-dithia-5,8,11,14,17-pentaazacycloicosane-4-carbonyl]pyrrolidin-2-yl]formamido}-5-carbamimidamido-N-(carbamoylmethyl)pentanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>2140.46</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>2138.869561874</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>NCCCCC(NC(=O)C1CCCN1C(=O)C1CSSCC(N)C(=O)NC(CC2=CC=C(O)C=C2)C(=O)NC(CC2=CC=CC=C2)C(=O)NC(CCC(N)=O)C(=O)NC(CC(N)=O)C(=O)N1)C(=O)NCC(N)=O.NC1CSSCC(NC(=O)C(CC(N)=O)NC(=O)C(CCC(N)=O)NC(=O)C(CC2=CC=CC=C2)NC(=O)C(CC2=CC=C(O)C=C2)NC1=O)C(=O)N1CCCC1C(=O)NC(CCCN=C(N)N)C(=O)NCC(N)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C92H130N28O24S4</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C46H65N15O12S2.C46H65N13O12S2/c47-27-22-74-75-23-33(45(73)61-17-5-9-34(61)44(72)56-28(8-4-16-53-46(51)52)39(67)54-21-37(50)65)60-43(71)32(20-36(49)64)59-40(68)29(14-15-35(48)63)55-41(69)31(18-24-6-2-1-3-7-24)58-42(70)30(57-38(27)66)19-25-10-12-26(62)13-11-25;47-17-5-4-9-29(40(65)52-22-38(51)63)54-45(70)35-10-6-18-59(35)46(71)34-24-73-72-23-28(48)39(64)55-31(20-26-11-13-27(60)14-12-26)43(68)56-32(19-25-7-2-1-3-8-25)42(67)53-30(15-16-36(49)61)41(66)57-33(21-37(50)62)44(69)58-34/h1-3,6-7,10-13,27-34,62H,4-5,8-9,14-23,47H2,(H2,48,63)(H2,49,64)(H2,50,65)(H,54,67)(H,55,69)(H,56,72)(H,57,66)(H,58,70)(H,59,68)(H,60,71)(H4,51,52,53);1-3,7-8,11-14,28-35,60H,4-6,9-10,15-24,47-48H2,(H2,49,61)(H2,50,62)(H2,51,63)(H,52,65)(H,53,67)(H,54,70)(H,55,64)(H,56,68)(H,57,66)(H,58,69)</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>JLTCWSBVQSZVLT-UHFFFAOYSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>463.93</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>272.59</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>108.29</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>7.65</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>11.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>Soluble</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>7387</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505933</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00840</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D00101</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>10152658</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA451858</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000018</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Vasopressin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL373742</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>11149</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/vasopressin.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/mtm/vasopressin.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000293</id>
+      <name>Vasopressin V2 receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A6712</ref-id>
+            <pubmed-id>17020465</pubmed-id>
+            <citation>Boson WL, Della Manna T, Damiani D, Miranda DM, Gadelha MR, Liberman B, Correa H, Romano-Silva MA, Friedman E, Silva FF, Ribeiro PA, De Marco L: Novel vasopressin type 2 (AVPR2) gene mutations in Brazilian nephrogenic diabetes insipidus patients. Genet Test. 2006 Fall;10(3):157-62.</citation>
+          </article>
+          <article>
+            <ref-id>A6713</ref-id>
+            <pubmed-id>16333859</pubmed-id>
+            <citation>Slusarz MJ, Slusarz R, Ciarkowski J: Investigation of mechanism of desmopressin binding in vasopressin V2 receptor versus vasopressin V1a and oxytocin receptors: molecular dynamics simulation of the agonist-bound state in the membrane-aqueous system. Biopolymers. 2006 Apr 5;81(5):321-38.</citation>
+          </article>
+          <article>
+            <ref-id>A6714</ref-id>
+            <pubmed-id>16563128</pubmed-id>
+            <citation>Bouley R, Hawthorn G, Russo LM, Lin HY, Ausiello DA, Brown D: Aquaporin 2 (AQP2) and vasopressin type 2 receptor (V2R) endocytosis in kidney epithelial cells: AQP2 is located in 'endocytosis-resistant' membrane domains after vasopressin treatment. Biol Cell. 2006 Apr;98(4):215-32.</citation>
+          </article>
+          <article>
+            <ref-id>A6715</ref-id>
+            <pubmed-id>17287200</pubmed-id>
+            <citation>Yi X, Bouley R, Lin HY, Bechoua S, Sun TX, Del Re E, Shioda T, Raychowdhury MK, Lu HA, Abou-Samra AB, Brown D, Ausiello DA: Alix (AIP1) is a vasopressin receptor (V2R)-interacting protein that increases lysosomal degradation of the V2R. Am J Physiol Renal Physiol. 2007 May;292(5):F1303-13. Epub 2007 Feb 6.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P30518" source="Swiss-Prot">
+        <name>Vasopressin V2 receptor</name>
+        <general-function>Vasopressin receptor activity</general-function>
+        <specific-function>Receptor for arginine vasopressin. The activity of this receptor is mediated by G proteins which activate adenylate cyclase. Involved in renal water reabsorption.</specific-function>
+        <gene-name>AVPR2</gene-name>
+        <locus>Xq28</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>39-63
+78-98
+114-135
+160-180
+201-220
+272-293
+309-328</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.41</theoretical-pi>
+        <molecular-weight>40278.57</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:897</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>AVPR2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U04357</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>28418</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>368</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>368</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P30518</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>V2R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>ADHR</synonym>
+          <synonym>Antidiuretic hormone receptor</synonym>
+          <synonym>AVPR V2</synonym>
+          <synonym>DIR</synonym>
+          <synonym>DIR3</synonym>
+          <synonym>Renal-type arginine vasopressin receptor</synonym>
+          <synonym>V2R</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000583|Vasopressin V2 receptor
+MLMASTTSAVPGHPSLPSLPSNSSQERPLDTRDPLLARAELALLSIVFVAVALSNGLVLA
+ALARRGRRGHWAPIHVFIGHLCLADLAVALFQVLPQLAWKATDRFRGPDALCRAVKYLQM
+VGMYASSYMILAMTLDRHRAICRPMLAYRHGSGAHWNRPVLVAWAFSLLLSLPQLFIFAQ
+RNVEGGSGVTDCWACFAEPWGRRTYVTWIALMVFVAPTLGIAACQVLIFREIHASLVPGP
+SERPGGRRRGRRTGSPGEGAHVSAAVAKTVRMTLVIVVVYVLCWAPFFLVQLWAAWDPEA
+PLEGAPFVLLMLLASLNSCTNPWIYASFSSSVSSELRSLLCCARGRTPPSLGPQDESCTT
+ASSSLAKDTSS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010065|Vasopressin V2 receptor (AVPR2)
+ATGCTCATGGCGTCCACCACTTCCGCTGTGCCTGGGCATCCCTCTCTGCCCAGCCTGCCC
+AGCAACAGCAGCCAGGAGAGGCCACTGGACACCCGGGACCCGCTGCTAGCCCGGGCGGAG
+CTGGCGCTGCTCTCCATAGTCTTTGTGGCTGTGGCCCTGAGCAATGGCCTGGTGCTGGCG
+GCCCTAGCTCGGCGGGGCCGGCGGGGCCACTGGGCACCCATACACGTCTTCATTGGCCAC
+TTGTGCCTGGCCGACCTGGCCGTGGCTCTGTTCCAAGTGCTGCCCCAGCTGGCCTGGAAG
+GCCACCGACCGCTTCCGTGGGCCAGATGCCCTGTGTCGGGCCGTGAAGTATCTGCAGATG
+GTGGGCATGTATGCCTCCTCCTACATGATCCTGGCCATGACGCTGGACCGCCACCGTGCC
+ATCTGCCGTCCCATGCTGGCGTACCGCCATGGAAGTGGGGCTCACTGGAACCGGCCGGTG
+CTAGTGGCTTGGGCCTTCTCGCTCCTTCTCAGCCTGCCCCAGCTCTTCATCTTCGCCCAG
+CGCAACGTGGAAGGTGGCAGCGGGGTCACTGACTGCTGGGCCTGCTTTGCGGAGCCCTGG
+GGCCGTCGCACCTATGTCACCTGGATTGCCCTGATGGTGTTCGTGGCACCTACCCTGGGT
+ATCGCCGCCTGCCAGGTGCTCATCTTCCGGGAGATTCATGCCAGTCTGGTGCCAGGGCCA
+TCAGAGAGGCCTGGGGGGCGCCGCAGGGGACGCCGGACAGGCAGCCCCGGTGAGGGAGCC
+CACGTGTCAGCAGCTGTGGCCAAGACTGTGAGGATGACGCTAGTGATTGTGGTCGTCTAT
+GTGCTGTGCTGGGCACCCTTCTTCCTGGTGCAGCTGTGGGCCGCGTGGGACCCGGAGGCA
+CCTCTGGAAGGGGCGCCCTTTGTGCTACTCATGTTGCTGGCCAGCCTCAACAGCTGCACC
+AACCCCTGGATCTATGCATCTTTCAGCAGCAGCGTGTCCTCAGAGCTGCGAAGCTTGCTC
+TGCTGTGCCCGGGGACGCACCCCACCCAGCCTGGGTCCCCAAGATGAGTCCTGCACCACC
+GCCAGCTCCTCCCTGGCCAAGGACACTTCATCGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vasopressin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-modulating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hormone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>excretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hemostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>I-kappaB kinase/NF-kappaB signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interferon-gamma production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of renal sodium excretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of urine volume</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of protein ubiquitination</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of systemic arterial blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasoconstriction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of systemic arterial blood pressure by vasopressin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>renal water homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cytokine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>telencephalon development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>water transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000165</id>
+      <name>Vasopressin V1a receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2021</ref-id>
+            <pubmed-id>17275806</pubmed-id>
+            <citation>Hiroyama M, Wang S, Aoyagi T, Oikawa R, Sanbe A, Takeo S, Tanoue A: Vasopressin promotes cardiomyocyte hypertrophy via the vasopressin V1A receptor in neonatal mice. Eur J Pharmacol. 2007 Mar 22;559(2-3):89-97. Epub 2006 Dec 29.</citation>
+          </article>
+          <article>
+            <ref-id>A2023</ref-id>
+            <pubmed-id>16532916</pubmed-id>
+            <citation>Liedman R, Grant L, Igidbashian S, James I, McLeod A, Skillern L, Akerlund M: Intrauterine pressure, ischemia markers, and experienced pain during administration of a vasopressin V1a receptor antagonist in spontaneous and vasopressin-induced dysmenorrhea. Acta Obstet Gynecol Scand. 2006;85(2):207-11.</citation>
+          </article>
+          <article>
+            <ref-id>A2025</ref-id>
+            <pubmed-id>16511036</pubmed-id>
+            <citation>Adikesavan NV, Mahmood SS, Stanley N, Xu Z, Wu N, Thibonnier M, Shoham M: A C-terminal segment of the V1R vasopressin receptor is unstructured in the crystal structure of its chimera with the maltose-binding protein. Acta Crystallogr Sect F Struct Biol Cryst Commun. 2005 Apr 1;61(Pt 4):341-5. Epub 2005 Mar 24.</citation>
+          </article>
+          <article>
+            <ref-id>A2026</ref-id>
+            <pubmed-id>16011575</pubmed-id>
+            <citation>Hammock EA, Lim MM, Nair HP, Young LJ: Association of vasopressin 1a receptor levels with a regulatory microsatellite and behavior. Genes Brain Behav. 2005 Jul;4(5):289-301.</citation>
+          </article>
+          <article>
+            <ref-id>A2030</ref-id>
+            <pubmed-id>17303660</pubmed-id>
+            <citation>Aoyagi T, Birumachi J, Hiroyama M, Fujiwara Y, Sanbe A, Yamauchi J, Tanoue A: Alteration of glucose homeostasis in V1a vasopressin receptor-deficient mice. Endocrinology. 2007 May;148(5):2075-84. Epub 2007 Feb 15.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P37288" source="Swiss-Prot">
+        <name>Vasopressin V1a receptor</name>
+        <general-function>Vasopressin receptor activity</general-function>
+        <specific-function>Receptor for arginine vasopressin. The activity of this receptor is mediated by G proteins which activate a phosphatidyl-inositol-calcium second messenger system. Has been involved in social behaviors, including affiliation and attachment.</specific-function>
+        <gene-name>AVPR1A</gene-name>
+        <locus>12q14-q15</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>53-76
+89-110
+126-147
+169-190
+219-239
+294-313
+332-351</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.67</theoretical-pi>
+        <molecular-weight>46799.105</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:895</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>AVPR1A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L25615</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>667068</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>366</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>366</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P37288</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>V1AR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Antidiuretic hormone receptor 1a</synonym>
+          <synonym>AVPR V1a</synonym>
+          <synonym>AVPR1</synonym>
+          <synonym>V1aR</synonym>
+          <synonym>Vascular/hepatic-type arginine vasopressin receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0009979|Vasopressin V1a receptor
+MRLSAGPDAGPSGNSSPWWPLATGAGNTSREAEALGEGNGPPRDVRNEELAKLEIAVLAV
+TFAVAVLGNSSVLLALHRTPRKTSRMHLFIRHLSLADLAVAFFQVLPQMCWDITYRFRGP
+DWLCRVVKHLQVFGMFASAYMLVVMTADRYIAVCHPLKTLQQPARRSRLMIAAAWVLSFV
+LSTPQYFVFSMIEVNNVTKARDCWATFIQPWGSRAYVTWMTGGIFVAPVVILGTCYGFIC
+YNIWCNVRGKTASRQSKGAEQAGVAFQKGFLLAPCVSSVKSISRAKIRTVKMTFVIVTAY
+IVCWAPFFIIQMWSVWDPMSVWTESENPTITITALLGSLNSCCNPWIYMFFSGHLLQDCV
+QSFPCCQNMKEKFNKEDTDSMSRRQTFYSNNRSPTNSTGMWKDSPKSSKSIKFIPVST</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0009980|Vasopressin V1a receptor (AVPR1A)
+ATGCGTCTCTCCGCCGGTCCCGACGCGGGGCCCTCGGGCAACTCCAGCCCATGGTGGCCT
+CTGGCCACCGGCGCTGGCAACACAAGCCGGGAGGCCGAAGCCCTCGGGGAGGGCAACGGC
+CCACCGAGGGACGTGCGCAACGAGGAGCTGGCCAAACTGGAGATCGCCGTGCTGGCGGTG
+ACTTTCGCGGTGGCCGTGCTGGGCAACAGCAGCGTACTGCTGGCTCTGCACCGGACGCCG
+CGCAAGACGTCCCGCATGCACCTCTTCATCCGACACCTCAGCCTGGCCGACCTGGCCGTG
+GCATTCTTCCAGGTGCTGCCGCAAATGTGCTGGGACATCACCTACCGCTTCCGCGGCCCC
+GACTGGCTGTGCCGCGTGGTGAAGCACCTGCAGGTGTTCGGCATGTTTGCGTCGGCCTAC
+ATGCTGGTAGTCATGACAGCCGACCGCTACATCGCGGTGTGCCACCCGCTCAAGACTCTG
+CAACAGCCCGCGCGCCGCTCGCGCCTCATGATCGCGGCCGCCTGGGTGCTGAGCTTCGTG
+CTGAGCACGCCGCAGTACTTCGTCTTCTCCATGATCGAGGTGAACAATGTCACCAAGGCC
+CGCGACTGCTGGGCCACCTTCATCCAGCCCTGGGGTTCTCGTGCCTACGTGACCTGGATG
+ACGGGCGGCATCTTTGTGGCGCCCGTGGTCATCTTGGGTACCTGCTACGGCTTCATCTGC
+TACAACATCTGGTGCAACGTCCGCGGGAAGACGGCGTCGCGCCAGAGCAAGGGTGCAGAG
+CAAGCGGGTGTGGCCTTCCAAAAGGGGTTCCTGCTCGCACCCTGTGTCAGCAGCGTGAAG
+TCCATTTCCCGGGCCAAGATCCGCACGGTGAAGATGACTTTTGTGATCGTGACGGCTTAC
+ATCGTCTGCTGGGCGCCTTTCTTCATCATCCAGATGTGGTCTGTCTGGGATCCCATGTCC
+GTCTGGACCGAATCGGAAAACCCTACCATCACCATCACTGCATTACTGGGTTCCTTGAAT
+AGCTGCTGTAATCCCTGGATATACATGTTTTTTAGTGGCCATCTCCTTCAAGACTGTGTT
+CAAAGCTTCCCATGCTGCCAAAACATGAAGGAAAAATTCAACAAAGAAGATACTGACAGT
+ATGAGCAGAAGACAGACTTTTTATTCTAACAATCGAAGCCCAACAAACAGTACGGGTATG
+TGGAAGGACTCGCCTAAATCTTCCAAGTCCATCAAATTCATTCCTGTTTCAACTTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08983</identifier>
+            <name>DUF1856</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasmic vesicle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase C binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vasopressin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood circulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hormone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to water deprivation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>generation of precursor metabolites and energy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>grooming behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal aggressive behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>myotube differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of female receptivity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transmission of nerve impulse</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>penile erection</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cellular pH reduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of glutamate secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of heart rate</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of prostaglandin biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of renal sodium excretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of systemic arterial blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasoconstriction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of systemic arterial blood pressure by vasopressin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to corticosterone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>social behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sperm ejaculation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>telencephalon development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0000773</id>
+      <name>Vasopressin V1b receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A6716</ref-id>
+            <pubmed-id>17027167</pubmed-id>
+            <citation>Young WS, Li J, Wersinger SR, Palkovits M: The vasopressin 1b receptor is prominent in the hippocampal area CA2 where it is unaffected by restraint stress or adrenalectomy. Neuroscience. 2006 Dec 28;143(4):1031-9. Epub 2006 Oct 4.</citation>
+          </article>
+          <article>
+            <ref-id>A6717</ref-id>
+            <pubmed-id>16720725</pubmed-id>
+            <citation>Volpi S, Liu Y, Aguilera G: Vasopressin increases GAGA binding activity to the V1b receptor promoter through transactivation of the MAP kinase pathway. J Mol Endocrinol. 2006 Jun;36(3):581-90.</citation>
+          </article>
+          <article>
+            <ref-id>A6718</ref-id>
+            <pubmed-id>17284170</pubmed-id>
+            <citation>Wersinger SR, Caldwell HK, Christiansen M, Young WS 3rd: Disruption of the vasopressin 1b receptor gene impairs the attack component of aggressive behavior in mice. Genes Brain Behav. 2007 Oct;6(7):653-60. Epub 2006 Dec 20.</citation>
+          </article>
+          <article>
+            <ref-id>A6719</ref-id>
+            <pubmed-id>16114100</pubmed-id>
+            <citation>Slusarz MJ, Gieldon A, Slusarz R, Ciarkowski J: Analysis of interactions responsible for vasopressin binding to human neurohypophyseal hormone receptors-molecular dynamics study of the activated receptor-vasopressin-G(alpha) systems. J Pept Sci. 2006 Mar;12(3):180-9.</citation>
+          </article>
+          <article>
+            <ref-id>A6720</ref-id>
+            <pubmed-id>15993108</pubmed-id>
+            <citation>Jurkevich A, Berghman LR, Cornett LE, Kuenzel WJ: Characterization and immunohistochemical visualization of the vasotocin VT2 receptor in the pituitary gland of the chicken, Gallus gallus. Gen Comp Endocrinol. 2005 Aug;143(1):82-91. Epub 2005 Mar 23.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P47901" source="Swiss-Prot">
+        <name>Vasopressin V1b receptor</name>
+        <general-function>Vasopressin receptor activity</general-function>
+        <specific-function>Receptor for arginine vasopressin. The activity of this receptor is mediated by G proteins which activate a phosphatidyl-inositol-calcium second messenger system.</specific-function>
+        <gene-name>AVPR1B</gene-name>
+        <locus>1q32</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>36-59
+72-93
+109-130
+152-173
+202-222
+284-303
+322-341</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.05</theoretical-pi>
+        <molecular-weight>46970.345</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:896</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>AVPR1B</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D31833</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>563982</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>367</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>367</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P47901</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>V1BR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Antidiuretic hormone receptor 1b</synonym>
+          <synonym>AVPR V1b</synonym>
+          <synonym>AVPR V3</synonym>
+          <synonym>AVPR3</synonym>
+          <synonym>V1bR</synonym>
+          <synonym>Vasopressin V3 receptor</synonym>
+          <synonym>VPR3</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010547|Vasopressin V1b receptor
+MDSGPLWDANPTPRGTLSAPNATTPWLGRDEELAKVEIGVLATVLVLATGGNLAVLLTLG
+QLGRKRSRMHLFVLHLALTDLAVALFQVLPQLLWDITYRFQGPDLLCRAVKYLQVLSMFA
+STYMLLAMTLDRYLAVCHPLRSLQQPGQSTYLLIAAPWLLAAIFSLPQVFIFSLREVIQG
+SGVLDCWADFGFPWGPRAYLTWTTLAIFVLPVTMLTACYSLICHEICKNLKVKTQAWRVG
+GGGWRTWDRPSPSTLAATTRGLPSRVSSINTISRAKIRTVKMTFVIVLAYIACWAPFFSV
+QMWSVWDKNAPDEDSTNVAFTISMLLGNLNSCCNPWIYMGFNSHLLPRPLRHLACCGGPQ
+PRMRRRLSDGSLSSRHTTLLTRSSCPATLSLSLSLTLSGRPRPEESPRDLELADGEGTAE
+TIIF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010548|Vasopressin V1b receptor (AVPR1B)
+ATGGATTCTGGGCCTCTGTGGGATGCCAACCCCACCCCTCGGGGCACCCTCTCTGCCCCC
+AATGCCACAACACCCTGGCTGGGCCGGGATGAGGAGCTGGCCAAGGTGGAGATCGGAGTC
+CTGGCCACTGTCCTGGTGCTGGCGACCGGGGGCAACCTGGCTGTGCTGCTGACCCTGGGC
+CAGCTGGGCCGCAAGCGCTCCCGCATGCACCTGTTCGTGCTGCACTTAGCCCTGACAGAC
+CTGGCCGTGGCGCTCTTCCAGGTGCTGCCACAGCTGCTGTGGGACATCACCTACCGCTTC
+CAGGGCCCCGACCTCCTGTGCAGGGCCGTCAAGTACCTGCAGGTGCTCAGCATGTTTGCC
+TCCACCTACATGCTGCTGGCCATGACGCTGGACCGCTACCTGGCTGTCTGTCACCCCCTG
+CGCAGCCTCCAGCAGCCAGGCCAGTCCACCTACCTGCTCATCGCTGCTCCCTGGCTGCTG
+GCCGCCATCTTCAGCCTCCCTCAAGTCTTCATTTTTTCCCTGCGGGAGGTGATCCAGGGC
+TCAGGGGTGCTGGACTGCTGGGCAGACTTCGGCTTCCCTTGGGGGCCACGGGCCTACCTC
+ACCTGGACCACCCTGGCTATCTTCGTTCTGCCGGTGACCATGCTCACGGCCTGCTACAGC
+CTCATCTGCCATGAGATCTGTAAAAACCTAAAAGTCAAGACACAGGCCTGGCGGGTGGGA
+GGAGGGGGCTGGAGGACTTGGGACAGGCCCTCACCTTCCACCTTAGCTGCCACCACTCGG
+GGGCTGCCATCTCGGGTCAGCAGCATCAACACCATCTCACGGGCCAAGATCCGAACAGTG
+AAGATGACCTTTGTCATCGTGCTGGCCTACATCGCTTGCTGGGCTCCCTTCTTCAGTGTC
+CAGATGTGGTCCGTGTGGGACAAGAATGCCCCTGATGAAGATTCCACCAATGTGGCTTTC
+ACCATCTCTATGCTTTTGGGCAACCTCAACAGCTGCTGCAACCCCTGGATCTACATGGGC
+TTCAACAGCCACCTGTTACCGCGGCCCCTGCGTCACCTTGCCTGCTGTGGGGGTCCCCAG
+CCCAGGATGCGCCGGCGGCTCTCCGACGGCAGCCTCTCGAGCCGCCACACCACGCTGCTG
+ACCCGCTCCAGCTGCCCGGCCACCCTCAGCCTCAGCCTCAGCCTAACCCTCAGTGGGAGG
+CCCAGGCCTGAAGAGTCACCAAGGGACTTGGAGCTGGCAGATGGGGAAGGCACCGCTGAG
+ACCATCATCTTTTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF08983</identifier>
+            <name>DUF1856</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase C binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vasopressin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hormone stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of vasoconstriction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of systemic arterial blood pressure by vasopressin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to peptide</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters>
+    <transporter position="4">
+      <id>BE0001069</id>
+      <name>Canalicular multispecific organic anion transporter 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A15802</ref-id>
+            <pubmed-id>10692506</pubmed-id>
+            <citation>Madon J, Hagenbuch B, Landmann L, Meier PJ, Stieger B: Transport function and hepatocellular localization of mrp6 in rat liver. Mol Pharmacol. 2000 Mar;57(3):634-41.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q92887" source="Swiss-Prot">
+        <name>Canalicular multispecific organic anion transporter 1</name>
+        <general-function>Organic anion transmembrane transporter activity</general-function>
+        <specific-function>Mediates hepatobiliary excretion of numerous organic anions. May function as a cellular cisplatin transporter.</specific-function>
+        <gene-name>ABCC2</gene-name>
+        <locus>10q24</locus>
+        <cellular-location>Apical cell membrane</cellular-location>
+        <transmembrane-regions>28-48
+69-89
+94-114
+127-147
+166-186
+314-334
+361-381
+438-458
+462-482
+545-565
+588-608
+972-992
+1034-1054
+1098-1118
+1120-1140
+1212-1232
+1235-1255</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.46</theoretical-pi>
+        <molecular-weight>174205.64</molecular-weight>
+        <chromosome-location>10</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:53</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ABCC2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U63970</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1764162</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>780</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q92887</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>MRP2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>ATP-binding cassette sub-family C member 2</synonym>
+          <synonym>Canalicular multidrug resistance protein</synonym>
+          <synonym>CMOAT</synonym>
+          <synonym>CMOAT1</synonym>
+          <synonym>CMRP</synonym>
+          <synonym>MRP2</synonym>
+          <synonym>Multidrug resistance-associated protein 2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010748|Canalicular multispecific organic anion transporter 1
+MLEKFCNSTFWNSSFLDSPEADLPLCFEQTVLVWIPLGYLWLLAPWQLLHVYKSRTKRSS
+TTKLYLAKQVFVGFLLILAAIELALVLTEDSGQATVPAVRYTNPSLYLGTWLLVLLIQYS
+RQWCVQKNSWFLSLFWILSILCGTFQFQTLIRTLLQGDNSNLAYSCLFFISYGFQILILI
+FSAFSENNESSNNPSSIASFLSSITYSWYDSIILKGYKRPLTLEDVWEVDEEMKTKTLVS
+KFETHMKRELQKARRALQRRQEKSSQQNSGARLPGLNKNQSQSQDALVLEDVEKKKKKSG
+TKKDVPKSWLMKALFKTFYMVLLKSFLLKLVNDIFTFVSPQLLKLLISFASDRDTYLWIG
+YLCAILLFTAALIQSFCLQCYFQLCFKLGVKVRTAIMASVYKKALTLSNLARKEYTVGET
+VNLMSVDAQKLMDVTNFMHMLWSSVLQIVLSIFFLWRELGPSVLAGVGVMVLVIPINAIL
+STKSKTIQVKNMKNKDKRLKIMNEILSGIKILKYFAWEPSFRDQVQNLRKKELKNLLAFS
+QLQCVVIFVFQLTPVLVSVVTFSVYVLVDSNNILDAQKAFTSITLFNILRFPLSMLPMMI
+SSMLQASVSTERLEKYLGGDDLDTSAIRHDCNFDKAMQFSEASFTWEHDSEATVRDVNLD
+IMAGQLVAVIGPVGSGKSSLISAMLGEMENVHGHITIKGTTAYVPQQSWIQNGTIKDNIL
+FGTEFNEKRYQQVLEACALLPDLEMLPGGDLAEIGEKGINLSGGQKQRISLARATYQNLD
+IYLLDDPLSAVDAHVGKHIFNKVLGPNGLLKGKTRLLVTHSMHFLPQVDEIVVLGNGTIV
+EKGSYSALLAKKGEFAKNLKTFLRHTGPEEEATVHDGSEEEDDDYGLISSVEEIPEDAAS
+ITMRRENSFRRTLSRSSRSNGRHLKSLRNSLKTRNVNSLKEDEELVKGQKLIKKEFIETG
+KVKFSIYLEYLQAIGLFSIFFIILAFVMNSVAFIGSNLWLSAWTSDSKIFNSTDYPASQR
+DMRVGVYGALGLAQGIFVFIAHFWSAFGFVHASNILHKQLLNNILRAPMRFFDTTPTGRI
+VNRFAGDISTVDDTLPQSLRSWITCFLGIISTLVMICMATPVFTIIVIPLGIIYVSVQMF
+YVSTSRQLRRLDSVTRSPIYSHFSETVSGLPVIRAFEHQQRFLKHNEVRIDTNQKCVFSW
+ITSNRWLAIRLELVGNLTVFFSALMMVIYRDTLSGDTVGFVLSNALNITQTLNWLVRMTS
+EIETNIVAVERITEYTKVENEAPWVTDKRPPPDWPSKGKIQFNNYQVRYRPELDLVLRGI
+TCDIGSMEKIGVVGRTGAGKSSLTNCLFRILEAAGGQIIIDGVDIASIGLHDLREKLTII
+PQDPILFSGSLRMNLDPFNNYSDEEIWKALELAHLKSFVASLQLGLSHEVTEAGGNLSIG
+QRQLLCLGRALLRKSKILVLDEATAAVDLETDNLIQTTIQNEFAHCTVITIAHRLHTIMD
+SDKVMVLDNGKIIECGSPEELLQIPGPFYFMAKEAGIENVNSTKF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010749|Canalicular multispecific organic anion transporter 1 (ABCC2)
+ATGCTGGAGAAGTTCTGCAACTCTACTTTTTGGAATTCCTCATTCCTGGACAGTCCGGAG
+GCAGACCTGCCACTTTGTTTTGAGCAAACTGTTCTGGTGTGGATTCCCTTGGGCTTCCTA
+TGGCTCCTGGCCCCCTGGCAGCTTCTCCACGTGTATAAATCCAGGACCAAGAGATCCTCT
+ACCACCAAACTCTATCTTGCTAAGCAGGTATTCGTTGGTTTTCTTCTTATTCTAGCAGCC
+ATAGAGCTGGCCCTTGTACTCACAGAAGACTCTGGACAAGCCACAGTCCCTGCTGTTCGA
+TATACCAATCCAAGCCTCTACCTAGGCACATGGCTCCTGGTTTTGCTGATCCAATACAGC
+AGACAATGGTGTGTACAGAAAAACTCCTGGTTCCTGTCCCTATTCTGGATTCTCTCGATA
+CTCTGTGGCACTTTCCAATTTCAGACTCTGATCCGGACACTCTTACAGGGTGACAATTCT
+AATCTAGCCTACTCCTGCCTGTTCTTCATCTCCTACGGATTCCAGATCCTGATCCTGATC
+TTTTCAGCATTTTCAGAAAATAATGAGTCATCAAATAATCCATCATCCATAGCTTCATTC
+CTGAGTAGCATTACCTACAGCTGGTATGACAGCATCATTCTGAAAGGCTACAAGCGTCCT
+CTGACACTCGAGGATGTCTGGGAAGTTGATGAAGAGATGAAAACCAAGACATTAGTGAGC
+AAGTTTGAAACGCACATGAAGAGAGAGCTGCAGAAAGCCAGGCGGGCACTCCAGAGACGG
+CAGGAGAAGAGCTCCCAGCAGAACTCTGGAGCCAGGCTGCCTGGCTTGAACAAGAATCAG
+AGTCAAAGCCAAGATGCCCTTGTCCTGGAAGATGTTGAAAAGAAAAAAAAGAAGTCTGGG
+ACCAAAAAAGATGTTCCAAAATCCTGGTTGATGAAGGCTCTGTTCAAAACTTTCTACATG
+GTGCTCCTGAAATCATTCCTACTGAAGCTAGTGAATGACATCTTCACGTTTGTGAGTCCT
+CAGCTGCTGAAATTGCTGATCTCCTTTGCAAGTGACCGTGACACATATTTGTGGATTGGA
+TATCTCTGTGCAATCCTCTTATTCACTGCGGCTCTCATTCAGTCTTTCTGCCTTCAGTGT
+TATTTCCAACTGTGCTTCAAGCTGGGTGTAAAAGTACGGACAGCTATCATGGCTTCTGTA
+TATAAGAAGGCATTGACCCTATCCAACTTGGCCAGGAAGGAGTACACCGTTGGAGAAACA
+GTGAACCTGATGTCTGTGGATGCCCAGAAGCTCATGGATGTGACCAACTTCATGCACATG
+CTGTGGTCAAGTGTTCTACAGATTGTCTTATCTATCTTCTTCCTATGGAGAGAGTTGGGA
+CCCTCAGTCTTAGCAGGTGTTGGGGTGATGGTGCTTGTAATCCCAATTAATGCGATACTG
+TCCACCAAGAGTAAGACCATTCAGGTCAAAAATATGAAGAATAAAGACAAACGTTTAAAG
+ATCATGAATGAGATTCTTAGTGGAATCAAGATCCTGAAATATTTTGCCTGGGAACCTTCA
+TTCAGAGACCAAGTACAAAACCTCCGGAAGAAAGAGCTCAAGAACCTGCTGGCCTTTAGT
+CAACTACAGTGTGTAGTAATATTCGTCTTCCAGTTAACTCCAGTCCTGGTATCTGTGGTC
+ACATTTTCTGTTTATGTCCTGGTGGATAGCAACAATATTTTGGATGCACAAAAGGCCTTC
+ACCTCCATTACCCTCTTCAATATCCTGCGCTTTCCCCTGAGCATGCTTCCCATGATGATC
+TCCTCCATGCTCCAGGCCAGTGTTTCCACAGAGCGGCTAGAGAAGTACTTGGGAGGGGAT
+GACTTGGACACATCTGCCATTCGACATGACTGCAATTTTGACAAAGCCATGCAGTTTTCT
+GAGGCCTCCTTTACCTGGGAACATGATTCGGAAGCCACAGTCCGAGATGTGAACCTGGAC
+ATTATGGCAGGCCAACTTGTGGCTGTGATAGGCCCTGTCGGCTCTGGGAAATCCTCCTTG
+ATATCAGCCATGCTGGGAGAAATGGAAAATGTCCACGGGCACATCACCATCAAGGGCACC
+ACTGCCTATGTCCCACAGCAGTCCTGGATTCAGAATGGCACCATAAAGGACAACATCCTT
+TTTGGAACAGAGTTTAATGAAAAGAGGTACCAGCAAGTACTGGAGGCCTGTGCTCTCCTC
+CCAGACTTGGAAATGCTGCCTGGAGGAGATTTGGCTGAGATTGGAGAGAAGGGTATAAAT
+CTTAGTGGGGGTCAGAAGCAGCGGATCAGCCTGGCCAGAGCTACCTACCAAAATTTAGAC
+ATCTATCTTCTAGATGACCCCCTGTCTGCAGTGGATGCTCATGTAGGAAAACATATTTTT
+AATAAGGTCTTGGGCCCCAATGGCCTGTTGAAAGGCAAGACTCGACTCTTGGTTACACAT
+AGCATGCACTTTCTTCCTCAAGTGGATGAGATTGTAGTTCTGGGGAATGGAACAATTGTA
+GAGAAAGGATCCTACAGTGCTCTCCTGGCCAAAAAAGGAGAGTTTGCTAAGAATCTGAAG
+ACATTTCTAAGACATACAGGCCCTGAAGAGGAAGCCACAGTCCATGATGGCAGTGAAGAA
+GAAGACGATGACTATGGGCTGATATCCAGTGTGGAAGAGATCCCCGAAGATGCAGCCTCC
+ATAACCATGAGAAGAGAGAACAGCTTTCGTCGAACACTTAGCCGCAGTTCTAGGTCCAAT
+GGCAGGCATCTGAAGTCCCTGAGAAACTCCTTGAAAACTCGGAATGTGAATAGCCTGAAG
+GAAGACGAAGAACTAGTGAAAGGACAAAAACTAATTAAGAAGGAATTCATAGAAACTGGA
+AAGGTGAAGTTCTCCATCTACCTGGAGTACCTACAAGCAATAGGATTGTTTTCGATATTC
+TTCATCATCCTTGCGTTTGTGATGAATTCTGTGGCTTTTATTGGATCCAACCTCTGGCTC
+AGTGCTTGGACCAGTGACTCTAAAATCTTCAATAGCACCGACTATCCAGCATCTCAGAGG
+GACATGAGAGTTGGAGTCTACGGAGCTCTGGGATTAGCCCAAGGTATATTTGTGTTCATA
+GCACATTTCTGGAGTGCCTTTGGTTTCGTCCATGCATCAAATATCTTGCACAAGCAACTG
+CTGAACAATATCCTTCGAGCACCTATGAGATTTTTTGACACAACACCCACAGGCCGGATT
+GTGAACAGGTTTGCCGGCGATATTTCCACAGTGGATGACACCCTGCCTCAGTCCTTGCGC
+AGCTGGATTACATGCTTCCTGGGGATAATCAGCACCCTTGTCATGATCTGCATGGCCACT
+CCTGTCTTCACCATCATCGTCATTCCTCTTGGCATTATTTATGTATCTGTTCAGATGTTT
+TATGTGTCTACCTCCCGCCAGCTGAGGCGTCTGGACTCTGTCACCAGGTCCCCAATCTAC
+TCTCACTTCAGCGAGACCGTATCAGGTTTGCCAGTTATCCGTGCCTTTGAGCACCAGCAG
+CGATTTCTGAAACACAATGAGGTGAGGATTGACACCAACCAGAAATGTGTCTTTTCCTGG
+ATCACCTCCAACAGGTGGCTTGCAATTCGCCTGGAGCTGGTTGGGAACCTGACTGTCTTC
+TTTTCAGCCTTGATGATGGTTATTTATAGAGATACCCTAAGTGGGGACACTGTTGGCTTT
+GTTCTGTCCAATGCACTCAATATCACACAAACCCTGAACTGGCTGGTGAGGATGACATCA
+GAAATAGAGACCAACATTGTGGCTGTTGAGCGAATAACTGAGTACACAAAAGTGGAAAAT
+GAGGCACCCTGGGTGACTGATAAGAGGCCTCCGCCAGATTGGCCCAGCAAAGGCAAGATC
+CAGTTTAACAACTACCAAGTGCGGTACCGACCTGAGCTGGATCTGGTCCTCAGAGGGATC
+ACTTGTGACATCGGTAGCATGGAGAAGATTGGTGTGGTGGGCAGGACAGGAGCTGGAAAG
+TCATCCCTCACAAACTGCCTCTTCAGAATCTTAGAGGCTGCCGGTGGTCAGATTATCATT
+GATGGAGTAGATATTGCTTCCATTGGGCTCCACGACCTCCGAGAGAAGCTGACCATCATC
+CCCCAGGACCCCATCCTGTTCTCTGGAAGCCTGAGGATGAATCTCGACCCTTTCAACAAC
+TACTCAGATGAGGAGATTTGGAAGGCCTTGGAGCTGGCTCACCTCAAGTCTTTTGTGGCC
+AGCCTGCAACTTGGGTTATCCCACGAAGTGACAGAGGCTGGTGGCAACCTGAGCATAGGC
+CAGAGGCAGCTGCTGTGCCTGGGCAGGGCTCTGCTTCGGAAATCCAAGATCCTGGTCCTG
+GATGAGGCCACTGCTGCGGTGGATCTAGAGACAGACAACCTCATTCAGACGACCATCCAA
+AACGAGTTCGCCCACTGCACAGTGATCACCATCGCCCACAGGCTGCACACCATCATGGAC
+AGTGACAAGGTAATGGTCCTAGACAACGGGAAGATTATAGAGTGCGGCAGCCCTGAAGAA
+CTGCTACAAATCCCTGGACCCTTTTACTTTATGGCTAAGGAAGCTGGCATTGAGAATGTG
+AACAGCACAAAATTCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00005</identifier>
+            <name>ABC_tran</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00664</identifier>
+            <name>ABC_membrane</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>apical plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATPase activity, coupled to transmembrane movement of substances</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>organic anion transmembrane transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular chloride ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drug transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>prostaglandin transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to arsenic-containing substance</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to heat</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to methotrexate</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to oxidative stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>thyroid hormone transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

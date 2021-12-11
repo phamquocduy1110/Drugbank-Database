@@ -1,0 +1,1781 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00019</drugbank-id>
+  <drugbank-id>BTD00094</drugbank-id>
+  <drugbank-id>BIOD00094</drugbank-id>
+  <name>Pegfilgrastim</name>
+  <description>Pegfilgrastim is a PEGylated form of the recombinant human granulocyte colony-stimulating factor (G-CSF) analogue, [filgrastim].[A187601] It is used to decrease the incidence of infection, as manifested by febrile neutropenia, in patients with with non-myeloid cancer receiving myelosuppressive anti-cancer treatment. Some patients with greater risk factors may develop febrile neutropenia from myelosuppressive therapy and are susceptible to an increased risk of developing infections. Although the risk of developing febrile neutropenia is less than 20% in many readily used chemotherapy regimens,[L9782] infections pose risks of hospitalization and mortalities.[A187631] Due to the relatively short circulating half-life of filgrastim, a 20 kDa PEG moiety was covalently conjugated to the N-terminus of filgrastim (at the methionine residue) to develop a longer acting version of the drug.[A29, A187607] Due to a longer half-life and slower elimination rate than filgrastim, pegfilgrastim requires less frequent dosing than filgrastim. However, pegfilgrastim retains the same biological activity as filgrastim and binds to the same G-CSF receptor to stimulate the proliferation, differentiation, and activation of neutrophils.[A187607]&#13;
+&#13;
+First developed by Amgen, pegfilgrastim was initially approved by the FDA in 2002 and marketed as Neulasta®. It is typically administered via a subcutaneous injection. There are several pegfilgrastim biosimilars (Fulphila®, Pelgraz® or Lapelga®, Pelmeg®, Udenyca®, Ziextenzo®, and Grasustek®) that are approved for the same therapeutic indication by Health Canada, European Union (EU), and FDA.[L9779,L9785] These biosimilars are highly similar to the reference product, Neulasta®, in terms of pharmacological and pharmacokinetic profile and condition(s) of use, such as the therapeutic indication(s), dosing regimen(s), strength(s), dosage form(s), and route(s) of administration.[L9974]</description>
+  <cas-number>208265-92-3</cas-number>
+  <unii>3A58010674</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A29</ref-id>
+        <pubmed-id>21456630</pubmed-id>
+        <citation>Yang BB, Kido A: Pharmacokinetics and pharmacodynamics of pegfilgrastim. Clin Pharmacokinet. 2011 May;50(5):295-306. doi: 10.2165/11586040-000000000-00000.</citation>
+      </article>
+      <article>
+        <ref-id>A187601</ref-id>
+        <pubmed-id>12010086</pubmed-id>
+        <citation>Curran MP, Goa KL: Pegfilgrastim. Drugs. 2002;62(8):1207-13; discussion 1214-5. doi: 10.2165/00003495-200262080-00012.</citation>
+      </article>
+      <article>
+        <ref-id>A187607</ref-id>
+        <pubmed-id>15078138</pubmed-id>
+        <citation>Molineux G: The design and development of pegfilgrastim (PEG-rmetHuG-CSF, Neulasta). Curr Pharm Des. 2004;10(11):1235-44. doi: 10.2174/1381612043452613.</citation>
+      </article>
+      <article>
+        <ref-id>A187631</ref-id>
+        <pubmed-id>25998211</pubmed-id>
+        <citation>Arvedson T, O'Kelly J, Yang BB: Design Rationale and Development Approach for Pegfilgrastim as a Long-Acting Granulocyte Colony-Stimulating Factor. BioDrugs. 2015 Jun;29(3):185-98. doi: 10.1007/s40259-015-0127-4.</citation>
+      </article>
+      <article>
+        <ref-id>A187868</ref-id>
+        <pubmed-id>27789332</pubmed-id>
+        <citation>Dwivedi P, Greis KD: Granulocyte colony-stimulating factor receptor signaling in severe congenital neutropenia, chronic neutrophilic leukemia, and related malignancies. Exp Hematol. 2017 Feb;46:9-20. doi: 10.1016/j.exphem.2016.10.008. Epub 2016 Oct 24.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L9746</ref-id>
+        <title>Neulasta (pegfilgrastim) - FDA Label</title>
+        <url>https://www.accessdata.fda.gov/drugsatfda_docs/label/2017/125031s189s191lbl.pdf</url>
+      </link>
+      <link>
+        <ref-id>L9761</ref-id>
+        <title>Neulasta Safety Data Sheet - Amgen</title>
+        <url>https://www.msds.amgen.com/~/media/amgen/repositorysites/msds-amgen-com/neulasta_sds.ashx</url>
+      </link>
+      <link>
+        <ref-id>L9779</ref-id>
+        <title>Biosimilars of pegfilgrastim</title>
+        <url>http://gabionline.net/Biosimilars/General/Biosimilars-of-pegfilgrastim</url>
+      </link>
+      <link>
+        <ref-id>L9782</ref-id>
+        <title>Pegfilgrastim - StatPearls - NCBI Bookshelf</title>
+        <url>https://www.ncbi.nlm.nih.gov/books/NBK532893/</url>
+      </link>
+      <link>
+        <ref-id>L9785</ref-id>
+        <title>EMA approval for pegfilgrastim biosimilar Grasustek</title>
+        <url>http://gabionline.net/Biosimilars/News/EMA-approval-for-pegfilgrastim-biosimilar-Grasustek</url>
+      </link>
+      <link>
+        <ref-id>L9974</ref-id>
+        <title>Biosimilar and Interchangeable Products | FDA</title>
+        <url>https://www.fda.gov/drugs/biosimilars/biosimilar-and-interchangeable-products</url>
+      </link>
+      <link>
+        <ref-id>L10022</ref-id>
+        <title>pegfilgrastim | Cancer Care Ontario</title>
+        <url>https://www.cancercareontario.ca/en/node/43921</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Pegfilgrastim is indicated to decrease the incidence of infection, as manifested by febrile neutropenia, in patients with non­ myeloid malignancies receiving myelosuppressive anti-cancer drugs associated with a clinically significant incidence of febrile neutropenia.[L9746]&#13;
+&#13;
+It is also indicated to increase survival in patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome).[L9746]</indication>
+  <pharmacodynamics>Pegfilgrastim is a recombinant human granulocyte colony-stimulating factor (G-CSF) that promotes the production, proliferation, and maturation of neutrophils, which are white blood cells involved in both innate and adaptive immune responses.[A187631,L9782] The safety and efficacy of pegfilgrastim in reducing the risk of febrile neutropenia and infections have been demonstrated in various tumor types and settings.[A187631] &#13;
+&#13;
+During chemotherapy-induced neutropenia, the clearance of pegfilgrastim is significantly reduced and the concentration of pegfilgrastim is sustained until the onset of neutrophil recovery.[A29] Serum concentrations of pegfilgrastim decline as the neutrophil count increases as neutrophil and neutrophil precursors are involved in cell-mediated clearance of the drug.[A187601] Due the addition of polyethylene glycol group to its structure, Pegfilgrastim is a long-acting form of filgrastim with an extended serum half-life and reduced renal clearance.[A187607] Although it is more slowly absorbed than filgrastim, self-regulation of pegfilgrastim is more efficient and the drug effects are maintained during one chemotherapy cycle (2-3 weeks).[A29]</pharmacodynamics>
+  <mechanism-of-action>Neutrophils are short-lived immune cells that are highly susceptible to cell death following myelosuppressive chemotherapy. This marked reduction in neutrophil numbers during chemotherapy increases the risk of hospitalization, infection, and infection-related mortality. It also directly impacts the clinical outcome of patients if cases of febrile neutropenia requires dose reductions or schedule delay of chemotherapy, thus reducing the clinical efficacy of chemotherapy and patient benefit from receiving appropriate treatment.[A187631] &#13;
+&#13;
+G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoietic cells of the neutrophil lineage. Pegfilgrastim mimics its biological actions and binds to the same G-CSF receptor expressed on cells of myeloid lineage, such as granulocytic precursors and mature neutrophils.[A29] Upon binding of the ligand, G-CSF receptor undergoes a conformational change and activates several downstream signalling pathways including JAK/STAT, PI3K/AKT and MAPK/ERK.[A187868] These pathways work to increase proliferation and differentiation of granulocyte progenitor cells, induce maturation of the progenitor cells, and enhance survival and function of mature neutrophils.[A29]</mechanism-of-action>
+  <toxicity>The maximum safe dose of pegfilgrastim has not been established; however, the highest dose used in clinical trials was 300 mcg/kg.[L9782] Overdosage of pegfilgrastim may result in leukocytosis and bone pain. Events of edema, dyspnea, and pleural effusion have been reported in a single patient who self-administered pegfilgrastim on 8 consecutive days in error. In the event of overdose, the patient should be monitored for signs and symptoms of toxicity and responded with appropriate general supportive care.[L9746,L9782]</toxicity>
+  <metabolism>It is not know whether pegfilgrastim is metabolized into major metabolites.[L10022] Once it binds to the therapeutic target, pegfilgrastim is internalized by the neutrophil and undergoes nonspecific degradation.[A29]</metabolism>
+  <absorption>Pegfilgrastim has a lower absolute bioavailability than filgrastim following subcutaneous administration. The absorption of pegfilgrastim is largely dependent on the lymphatic system due to the attached PEG group contributing to the large size of the drug. It is slowly absorbed following subcutaneous administration with a time to peak concentration (Tmax) of about 1-2 days.[A29]</absorption>
+  <half-life>The serum half-life of Pegfilgrastim is highly variable depending on the absolute neutrophil count, with the range of 15 to 80 hours following subcutaneous administration. The median serum half-life of 42 hours.[A187607,L9746]</half-life>
+  <protein-binding>The plasma protein binding of pegfilgrastim is unlikely.[L10022]</protein-binding>
+  <route-of-elimination>The polyethylene glycol moiety limits the renal clearance by glomerular filtration of pegfilgrastim, making neutrophil-mediated clearance as the predominant route of elimination.[A187607] This elimination pathway is initiated by the binding of pegfilgrastim to the G-CSF receptor on the neutrophil cell surface, leading to the internalization of the pegfilgrastim-receptor complex via endocytosis and subsequent degradation inside the cell. While hepatic clearance has not been well characterized for pegfilgrastim, its non-PEGylated precursor filgrastim is known to be unaffected by changes in hepatic clearance.[A29]</route-of-elimination>
+  <volume-of-distribution>Pegfilgrastim appears to have a volume of distribution of approximately 170L.[A33290]</volume-of-distribution>
+  <clearance>Pegfilgrastim has a self-regulating clearance that involves neutrophil-induced clearance.[A29,A187631] The clearance is dependent on the number of neutrophils and body weight of the patient: the clearance increases with increasing number of granulocytes and lower body weights.[L9746] Pegfilgrastim is not eliminated from the circulation until neutrophils start to recover following chemotherapy-induced neutropenia and its clearance is increased as neutrophil counts also increase.[A187631] The apparent serum clearance is 14 mL/h/kg.[L10022]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Granulocyte colony-stimulating factor pegfilgrastim</synonym>
+    <synonym language="english" coder="">peg-filgrastim</synonym>
+    <synonym language="english" coder="">pegfilgrastim-apgf</synonym>
+    <synonym language="english" coder="">pegfilgrastim-bmez</synonym>
+    <synonym language="english" coder="">pegfilgrastim-cbqv</synonym>
+    <synonym language="english" coder="">pegfilgrastim-jmdb</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cegfila</name>
+      <labeller>Mundipharma Corporation (Ireland) Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/005312</ema-product-code>
+      <ema-ma-number>EU/1/19/1409/001</ema-ma-number>
+      <started-marketing-on>2019-12-19</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fulphila</name>
+      <labeller>Mylan Institutional LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>67457-833</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-07-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761075</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fulphila</name>
+      <labeller>Mylan S.A.S.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004915</ema-product-code>
+      <ema-ma-number>EU/1/18/1329/001</ema-ma-number>
+      <started-marketing-on>2018-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fulphila</name>
+      <labeller>Mylan S.A.S.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004915</ema-product-code>
+      <ema-ma-number>EU/1/18/1329/002</ema-ma-number>
+      <started-marketing-on>2018-11-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fulphila</name>
+      <labeller>Bgp Pharma Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02484153</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-02-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Grasustek</name>
+      <labeller>Juta Pharma Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004556</ema-product-code>
+      <ema-ma-number>EU/1/19/1375/001</ema-ma-number>
+      <started-marketing-on>2019-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Lapelga</name>
+      <labeller>Apotex Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02474565</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-02-27</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-5229</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-02-23</started-marketing-on>
+      <ended-marketing-on>2011-12-31</ended-marketing-on>
+      <dosage-form>Injection</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125031</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-192</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125031</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>AMGEN INC</labeller>
+      <ndc-id/>
+      <ndc-product-code>55513-190</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-04-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA125031</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Amgen Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000420</ema-product-code>
+      <ema-ma-number>EU/1/02/227/001</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Amgen Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000420</ema-product-code>
+      <ema-ma-number>EU/1/02/227/002</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Amgen Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000420</ema-product-code>
+      <ema-ma-number>EU/1/02/227/004</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Amgen Europe B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000420</ema-product-code>
+      <ema-ma-number>EU/1/02/227/005</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neulasta</name>
+      <labeller>Amgen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02249790</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-03-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>10 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neupopeg</name>
+      <labeller>Dompé Biotec S.P.A.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000422</ema-product-code>
+      <ema-ma-number>EU/1/02/228/001</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on>2008-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neupopeg</name>
+      <labeller>Dompé Biotec S.P.A.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000422</ema-product-code>
+      <ema-ma-number>EU/1/02/228/002</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on>2008-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Neupopeg</name>
+      <labeller>Dompé Biotec S.P.A.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000422</ema-product-code>
+      <ema-ma-number>EU/1/02/228/003</ema-ma-number>
+      <started-marketing-on>2002-08-22</started-marketing-on>
+      <ended-marketing-on>2008-12-22</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nyvepria</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>0069-0324</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-12-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761111</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Nyvepria</name>
+      <labeller>Pfizer Europe Ma Eeig</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/005085</ema-product-code>
+      <ema-ma-number>EU/1/20/1486/001</ema-ma-number>
+      <started-marketing-on>2020-11-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Nyvepria</name>
+      <labeller>Pfizer Canada Ulc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02506238</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Pelgraz</name>
+      <labeller>Accord Healthcare S.L.U.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003961</ema-product-code>
+      <ema-ma-number>EU/1/18/1313/001</ema-ma-number>
+      <started-marketing-on>2018-09-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Pelgraz</name>
+      <labeller>Accord Healthcare S.L.U.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/003961</ema-product-code>
+      <ema-ma-number>EU/1/18/1313/002</ema-ma-number>
+      <started-marketing-on>2018-09-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Udenyca</name>
+      <labeller>Coherus BioSciences Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>70114-101</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-11-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761039</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Udenyca</name>
+      <labeller>Era Consulting Gmb H</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/004413</ema-product-code>
+      <ema-ma-number>EU/1/18/1303/001</ema-ma-number>
+      <started-marketing-on>2018-09-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Ziextenzo</name>
+      <labeller>Sandoz Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>61314-866</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-11-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection</dosage-form>
+      <strength>6 mg/0.6mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA761045</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ziextenzo</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02497395</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2020-06-15</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>6 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Neupopeg</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupopeg</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neupopeg</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Udenyca</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziextenzo</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fulphila</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nyvepria</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pelgraz</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fulphila</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Udenyca</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Grasustek</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cegfila</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nyvepria</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pelgraz</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fulphila</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neulasta</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lapelga</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fulphila</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Ziextenzo</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+    <mixture>
+      <name>Nyvepria</name>
+      <ingredients>Pegfilgrastim</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Amgen Inc.</name>
+      <url>http://www.amgen.com</url>
+    </packager>
+    <packager>
+      <name>Physicians Total Care Inc.</name>
+      <url>http://www.physicianstotalcare.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Neulasta 6 mg/0.6ml Solution 0.6ml Syringe</description>
+      <cost currency="USD">4026.05</cost>
+      <unit>syringe</unit>
+    </price>
+    <price>
+      <description>Neulasta 6 mg/0.6 ml syringe</description>
+      <cost currency="USD">4102.37</cost>
+      <unit>syringe</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Adjuvants, Immunologic</category>
+      <mesh-id>D000276</mesh-id>
+    </category>
+    <category>
+      <category>Alcohols</category>
+      <mesh-id>D000438</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Carbohydrates</category>
+      <mesh-id>D002241</mesh-id>
+    </category>
+    <category>
+      <category>Colony-Stimulating Factors</category>
+      <mesh-id>D003115</mesh-id>
+    </category>
+    <category>
+      <category>Compounds used in a research, industrial, or household setting</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Cytokines</category>
+      <mesh-id>D016207</mesh-id>
+    </category>
+    <category>
+      <category>Ethylene Glycols</category>
+      <mesh-id>D005026</mesh-id>
+    </category>
+    <category>
+      <category>Glycoconjugates</category>
+      <mesh-id>D006001</mesh-id>
+    </category>
+    <category>
+      <category>Glycols</category>
+      <mesh-id>D006018</mesh-id>
+    </category>
+    <category>
+      <category>Glycoproteins</category>
+      <mesh-id>D006023</mesh-id>
+    </category>
+    <category>
+      <category>Granulocyte Colony-Stimulating Factors</category>
+      <mesh-id>D016179</mesh-id>
+    </category>
+    <category>
+      <category>Hematinics</category>
+      <mesh-id>D006397</mesh-id>
+    </category>
+    <category>
+      <category>Hematopoietic Cell Growth Factors</category>
+      <mesh-id>D016298</mesh-id>
+    </category>
+    <category>
+      <category>Increased Myeloid Cell Production</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Intercellular Signaling Peptides and Proteins</category>
+      <mesh-id>D036341</mesh-id>
+    </category>
+    <category>
+      <category>Leukocyte Growth Factor</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Macromolecular Substances</category>
+      <mesh-id>D046911</mesh-id>
+    </category>
+    <category>
+      <category>Pegylated agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Polymers</category>
+      <mesh-id>D011108</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>6 mg/0.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength>6 mg/0.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>6 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>6 mg/0.6mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>6 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>6 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>10 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>10 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>6 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>6 mg/0.6mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L03AA13">
+      <level code="L03AA">Colony stimulating factors</level>
+      <level code="L03A">IMMUNOSTIMULANTS</level>
+      <level code="L03">IMMUNOSTIMULANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>20:16.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <patents>
+    <patent>
+      <number>1341537</number>
+      <country>Canada</country>
+      <approved>2007-07-31</approved>
+      <expires>2024-07-31</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>1339071</number>
+      <country>Canada</country>
+      <approved>1997-07-29</approved>
+      <expires>2014-07-29</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00531</drugbank-id>
+      <name>Cyclophosphamide</name>
+      <description>The risk or severity of pulmonary toxicity can be increased when Pegfilgrastim is combined with Cyclophosphamide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01030</drugbank-id>
+      <name>Topotecan</name>
+      <description>The risk or severity of neutropenia can be increased when Pegfilgrastim is combined with Topotecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00008</drugbank-id>
+      <name>Peginterferon alfa-2a</name>
+      <description>The therapeutic efficacy of Pegfilgrastim can be decreased when used in combination with Peginterferon alfa-2a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00022</drugbank-id>
+      <name>Peginterferon alfa-2b</name>
+      <description>The therapeutic efficacy of Peginterferon alfa-2b can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00059</drugbank-id>
+      <name>Pegaspargase</name>
+      <description>The therapeutic efficacy of Pegaspargase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00061</drugbank-id>
+      <name>Pegademase</name>
+      <description>The therapeutic efficacy of Pegademase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00082</drugbank-id>
+      <name>Pegvisomant</name>
+      <description>The therapeutic efficacy of Pegvisomant can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01839</drugbank-id>
+      <name>Propylene glycol</name>
+      <description>The therapeutic efficacy of Propylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03394</drugbank-id>
+      <name>Heptaethylene glycol</name>
+      <description>The therapeutic efficacy of Heptaethylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04895</drugbank-id>
+      <name>Pegaptanib</name>
+      <description>The therapeutic efficacy of Pegaptanib can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05202</drugbank-id>
+      <name>Egaptivon pegol</name>
+      <description>The therapeutic efficacy of Egaptivon pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05321</drugbank-id>
+      <name>PEG-uricase</name>
+      <description>The therapeutic efficacy of PEG-uricase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05860</drugbank-id>
+      <name>Peginterferon alfacon-1</name>
+      <description>The therapeutic efficacy of Peginterferon alfacon-1 can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06022</drugbank-id>
+      <name>GlycoPEG-GCSF</name>
+      <description>The therapeutic efficacy of GlycoPEG-GCSF can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06293</drugbank-id>
+      <name>Pegnivacogin</name>
+      <description>The therapeutic efficacy of Pegnivacogin can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06325</drugbank-id>
+      <name>Pegpleranib</name>
+      <description>The therapeutic efficacy of Pegpleranib can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06611</drugbank-id>
+      <name>Pegsunercept</name>
+      <description>The therapeutic efficacy of Pegsunercept can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06811</drugbank-id>
+      <name>Polidocanol</name>
+      <description>The therapeutic efficacy of Polidocanol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08894</drugbank-id>
+      <name>Peginesatide</name>
+      <description>The therapeutic efficacy of Peginesatide can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The therapeutic efficacy of Certolizumab pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09107</drugbank-id>
+      <name>Methoxy polyethylene glycol-epoetin beta</name>
+      <description>The therapeutic efficacy of Methoxy polyethylene glycol-epoetin beta can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09122</drugbank-id>
+      <name>Peginterferon beta-1a</name>
+      <description>The therapeutic efficacy of Peginterferon beta-1a can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09208</drugbank-id>
+      <name>Pegloticase</name>
+      <description>The therapeutic efficacy of Pegloticase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09287</drugbank-id>
+      <name>Polyethylene glycol</name>
+      <description>The therapeutic efficacy of Polyethylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09329</drugbank-id>
+      <name>Antihemophilic Factor (Recombinant), PEGylated</name>
+      <description>The therapeutic efficacy of Antihemophilic Factor (Recombinant), PEGylated can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11077</drugbank-id>
+      <name>Polyethylene glycol 400</name>
+      <description>The therapeutic efficacy of Polyethylene glycol 400 can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11567</drugbank-id>
+      <name>Insulin peglispro</name>
+      <description>The therapeutic efficacy of Insulin peglispro can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11661</drugbank-id>
+      <name>Eptacog alfa pegol (activated)</name>
+      <description>The therapeutic efficacy of Eptacog alfa pegol (activated) can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11707</drugbank-id>
+      <name>Olaptesed Pegol</name>
+      <description>The therapeutic efficacy of Olaptesed Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12258</drugbank-id>
+      <name>Abicipar Pegol</name>
+      <description>The therapeutic efficacy of Abicipar Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12578</drugbank-id>
+      <name>Lexaptepid Pegol</name>
+      <description>The therapeutic efficacy of Lexaptepid Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12814</drugbank-id>
+      <name>Cepeginterferon alfa-2B</name>
+      <description>The therapeutic efficacy of Cepeginterferon alfa-2B can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12839</drugbank-id>
+      <name>Pegvaliase</name>
+      <description>The therapeutic efficacy of Pegvaliase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12842</drugbank-id>
+      <name>Pegamotecan</name>
+      <description>The therapeutic efficacy of Pegamotecan can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13200</drugbank-id>
+      <name>Lipegfilgrastim</name>
+      <description>The therapeutic efficacy of Lipegfilgrastim can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13933</drugbank-id>
+      <name>Nonacog beta pegol</name>
+      <description>The therapeutic efficacy of Nonacog beta pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14700</drugbank-id>
+      <name>Damoctocog alfa pegol</name>
+      <description>The therapeutic efficacy of Damoctocog alfa pegol can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14712</drugbank-id>
+      <name>Elapegademase</name>
+      <description>The therapeutic efficacy of Elapegademase can be decreased when used in combination with Pegfilgrastim.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00309</drugbank-id>
+      <name>Vindesine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vindesine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00361</drugbank-id>
+      <name>Vinorelbine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinorelbine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00541</drugbank-id>
+      <name>Vincristine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vincristine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00570</drugbank-id>
+      <name>Vinblastine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinblastine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05168</drugbank-id>
+      <name>Vintafolide</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vintafolide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11641</drugbank-id>
+      <name>Vinflunine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinflunine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13374</drugbank-id>
+      <name>Vincamine</name>
+      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vincamine.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt; Pegfilgrastim sequence
+MTPLGPASSLPQSFLLKCLEQVRKIQGDGAALQEKLCATYKLCHPEELVLLGHSLGIPWA
+PLSSCPSQALQLAGCLSQLHSGLFLYQGLLQALEGISPELGPTLDTLQLDVADFATTIWQ
+QMEELGMAPALQPTQGAMPAFASAFQRRAGGVLVASHLQSFLEVSYRVLRHLAQP</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>60 °C</value>
+      <source>Luo, P., Protein Science 11:1218-1226 (2002)</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>39000.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C845H1343N223O243S9</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>12313</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505853</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D06889</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X03438</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164781387</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P09919</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000395</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Pegfilgrastim</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201568</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>338036</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/neulasta.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/pegfilgrastim.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000793</id>
+      <name>Granulocyte colony-stimulating factor receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1792</ref-id>
+            <pubmed-id>17001306</pubmed-id>
+            <citation>Erkeland SJ, Aarts LH, Irandoust M, Roovers O, Klomp A, Valkhof M, Gits J, Eyckerman S, Tavernier J, Touw IP: Novel role of WD40 and SOCS box protein-2 in steady-state distribution of granulocyte colony-stimulating factor receptor and G-CSF-controlled proliferation and differentiation signaling. Oncogene. 2007 Mar 29;26(14):1985-94. Epub 2006 Sep 25.</citation>
+          </article>
+          <article>
+            <ref-id>A1794</ref-id>
+            <pubmed-id>12944913</pubmed-id>
+            <citation>Elsasser A, Franzen M, Kohlmann A, Weisser M, Schnittger S, Schoch C, Reddy VA, Burel S, Zhang DE, Ueffing M, Tenen DG, Hiddemann W, Behre G: The fusion protein AML1-ETO in acute myeloid leukemia with translocation t(8;21) induces c-jun protein expression via the proximal AP-1 site of the c-jun promoter in an indirect, JNK-dependent manner. Oncogene. 2003 Aug 28;22(36):5646-57.</citation>
+          </article>
+          <article>
+            <ref-id>A1797</ref-id>
+            <pubmed-id>17127322</pubmed-id>
+            <citation>Ward AC: The role of the granulocyte colony-stimulating factor receptor (G-CSF-R) in disease. Front Biosci. 2007 Jan 1;12:608-18.</citation>
+          </article>
+          <article>
+            <ref-id>A1798</ref-id>
+            <pubmed-id>16033816</pubmed-id>
+            <citation>Zhuang D, Qiu Y, Haque SJ, Dong F: Tyrosine 729 of the G-CSF receptor controls the duration of receptor signaling: involvement of SOCS3 and SOCS1. J Leukoc Biol. 2005 Oct;78(4):1008-15. Epub 2005 Jul 20.</citation>
+          </article>
+          <article>
+            <ref-id>A1800</ref-id>
+            <pubmed-id>15949269</pubmed-id>
+            <citation>Cao YR, Shao ZH, Liu H, Shi J, Bai J, Tu MF, Wang HQ, Xing LM, Cui ZZ, Sun J, Jia HR, Yang TY: [The response of bone marrow hematopoietic cells to G-CSF in paroxysmal nocturnal hemoglobinuria patients]. Zhonghua Xue Ye Xue Za Zhi. 2005 Apr;26(4):235-8.</citation>
+          </article>
+          <article>
+            <ref-id>A1802</ref-id>
+            <pubmed-id>15082029</pubmed-id>
+            <citation>Kotto-Kome AC, Fox SE, Lu W, Yang BB, Christensen RD, Calhoun DA: Evidence that the granulocyte colony-stimulating factor (G-CSF) receptor plays a role in the pharmacokinetics of G-CSF and PegG-CSF using a G-CSF-R KO model. Pharmacol Res. 2004 Jul;50(1):55-8.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q99062" source="Swiss-Prot">
+        <name>Granulocyte colony-stimulating factor receptor</name>
+        <general-function>Receptor activity</general-function>
+        <specific-function>Receptor for granulocyte colony-stimulating factor (CSF3), essential for granulocytic maturation. Plays a crucial role in the proliferation, differientation and survival of cells along the neutrophilic lineage. In addition it may function in some adhesion or recognition events at the cell surface.</specific-function>
+        <gene-name>CSF3R</gene-name>
+        <locus>1p35-p34.3</locus>
+        <cellular-location>Secreted</cellular-location>
+        <transmembrane-regions>628-650</transmembrane-regions>
+        <signal-regions>1-24</signal-regions>
+        <theoretical-pi>6.14</theoretical-pi>
+        <molecular-weight>92155.615</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2439</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CSF3R</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X55721</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31697</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q99062</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CSF3R_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>G-CSF receptor</synonym>
+          <synonym>GCSFR</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001582|Granulocyte colony-stimulating factor receptor
+MARLGNCSLTWAALIILLLPGSLEECGHISVSAPIVHLGDPITASCIIKQNCSHLDPEPQ
+ILWRLGAELQPGGRQQRLSDGTQESIITLPHLNHTQAFLSCCLNWGNSLQILDQVELRAG
+YPPAIPHNLSCLMNLTTSSLICQWEPGPETHLPTSFTLKSFKSRGNCQTQGDSILDCVPK
+DGQSHCCIPRKHLLLYQNMGIWVQAENALGTSMSPQLCLDPMDVVKLEPPMLRTMDPSPE
+AAPPQAGCLQLCWEPWQPGLHINQKCELRHKPQRGEASWALVGPLPLEALQYELCGLLPA
+TAYTLQIRCIRWPLPGHWSDWSPSLELRTTERAPTVRLDTWWRQRQLDPRTVQLFWKPVP
+LEEDSGRIQGYVVSWRPSGQAGAILPLCNTTELSCTFHLPSEAQEVALVAYNSAGTSRPT
+PVVFSESRGPALTRLHAMARDPHSLWVGWEPPNPWPQGYVIEWGLGPPSASNSNKTWRME
+QNGRATGFLLKENIRPFQLYEIIVTPLYQDTMGPSQHVYAYSQEMAPSHAPELHLKHIGK
+TWAQLEWVPEPPELGKSPLTHYTIFWTNAQNQSFSAILNASSRGFVLHGLEPASLYHIHL
+MAASQAGATNSTVLTLMTLTPEGSELHIILGLFGLLLLLTCLCGTAWLCCSPNRKNPLWP
+SVPDPAHSSLGSWVPTIMEEDAFQLPGLGTPPITKLTVLEEDEKKPVPWESHNSSETCGL
+PTLVQTYVLQGDPRAVSTQPQSQSGTSDQVLYGQLLGSPTSPGPGHYLRCDSTQPLLAGL
+TPSPKSYENLWFQASPLGTLVTPAPSQEDDCVFGPLLNFPLLQGIRVHGMEALGSF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010560|Granulocyte colony-stimulating factor receptor (CSF3R)
+ATGGCAAGGCTGGGAAACTGCAGCCTGACTTGGGCTGCCCTGATCATCCTGCTGCTCCCC
+GGAAGTCTGGAGGAGTGCGGGCACATCAGTGTCTCAGCCCCCATCGTCCACCTGGGGGAT
+CCCATCACAGCCTCCTGCATCATCAAGCAGAACTGCAGCCATCTGGACCCGGAGCCACAG
+ATTCTGTGGAGACTGGGAGCAGAGCTTCAGCCCGGGGGCAGGCAGCAGCGTCTGTCTGAT
+GGGACCCAGGAATCTATCATCACCCTGCCCCACCTCAACCACACTCAGGCCTTTCTCTCC
+TGCTGCCTGAACTGGGGCAACAGCCTGCAGATCCTGGACCAGGTTGAGCTGCGCGCAGGC
+TACCCTCCAGCCATACCCCACAACCTCTCCTGCCTCATGAACCTCACAACCAGCAGCCTC
+ATCTGCCAGTGGGAGCCAGGACCTGAGACCCACCTACCCACCAGCTTCACTCTGAAGAGT
+TTCAAGAGCCGGGGCAACTGTCAGACCCAAGGGGACTCCATCCTGGACTGCGTGCCCAAG
+GACGGGCAGAGCCACTGCTGCATCCCACGCAAACACCTGCTGTTGTACCAGAATATGGGC
+ATCTGGGTGCAGGCAGAGAATGCGCTGGGGACCAGCATGTCCCCACAACTGTGTCTTGAT
+CCCATGGATGTTGTGAAACTGGAGCCCCCCATGCTGCGGACCATGGACCCCAGCCCTGAA
+GCGGCCCCTCCCCAGGCAGGCTGCCTACAGCTGTGCTGGGAGCCATGGCAGCCAGGCCTG
+CACATAAATCAGAAGTGTGAGCTGCGCCACAAGCCGCAGCGTGGAGAAGCCAGCTGGGCA
+CTGGTGGGCCCCCTCCCCTTGGAGGCCCTTCAGTATGAGCTCTGCGGGCTCCTCCCAGCC
+ACGGCCTACACCCTGCAGATACGCTGCATCCGCTGGCCCCTGCCTGGCCACTGGAGCGAC
+TGGAGCCCCAGCCTGGAGCTGAGAACTACCGAACGGGCCCCCACTGTCAGACTGGACACA
+TGGTGGCGGCAGAGGCAGCTGGACCCCAGGACAGTGCAGCTGTTCTGGAAGCCAGTGCCC
+CTGGAGGAAGACAGCGGACGGATCCAAGGTTATGTGGTTTCTTGGAGACCCTCAGGCCAG
+GCTGGGGCCATCCTGCCCCTCTGCAACACCACAGAGCTCAGCTGCACCTTCCACCTGCCT
+TCAGAAGCCCAGGAGGTGGCCCTTGTGGCCTATAACTCAGCCGGGACCTCTCGTCCCACT
+CCGGTGGTCTTCTCAGAAAGCAGAGGCCCAGCTCTGACCAGACTCCATGCCATGGCCCGA
+GACCCTCACAGCCTCTGGGTAGGCTGGGAGCCCCCCAATCCATGGCCTCAGGGCTATGTG
+ATTGAGTGGGGCCTGGGCCCCCCCAGCGCGAGCAATAGCAACAAGACCTGGAGGATGGAA
+CAGAATGGGAGAGCCACGGGGTTTCTGCTGAAGGAGAACATCAGGCCCTTTCAGCTCTAT
+GAGATCATCGTGACTCCCTTGTACCAGGACACCATGGGACCCTCCCAGCATGTCTATGCC
+TACTCTCAAGAAATGGCTCCCTCCCATGCCCCAGAGCTGCATCTAAAGCACATTGGCAAG
+ACCTGGGCACAGCTGGAGTGGGTGCCTGAGCCCCCTGAGCTGGGGAAGAGCCCCCTTACC
+CACTACACCATCTTCTGGACCAACGCTCAGAACCAGTCCTTCTCCGCCATCCTGAATGCC
+TCCTCCCGTGGCTTTGTCCTCCATGGCCTGGAGCCCGCCAGTCTGTATCACATCCACCTC
+ATGGCTGCCAGCCAGGCTGGGGCCACCAACAGTACAGTCCTCACCCTGATGACCTTGACC
+CCAGAGGGGTCGGAGCTACACATCATCCTGGGCCTGTTCGGCCTCCTGCTGTTGCTCACC
+TGCCTCTGTGGAACTGCCTGGCTCTGTTGCAGCCCCAACAGGAAGAATCCCCTCTGGCCA
+AGTGTCCCAGACCCAGCTCACAGCAGCCTGGGCTCCTGGGTGCCCACAATCATGGAGGAG
+GATGCCTTCCAGCTGCCCGGCCTTGGCACGCCACCCATCACCAAGCTCACAGTGCTGGAG
+GAGGATGAAAAGAAGCCGGTGCCCTGGGAGTCCCATAACAGCTCAGAGACCTGTGGCCTC
+CCCACTCTGGTCCAGACCTATGTGCTCCAGGGGGACCCAAGAGCAGTTTCCACCCAGCCC
+CAATCCCAGTCTGGCACCAGCGATCAGGTCCTTTATGGGCAGCTGCTGGGCAGCCCCACA
+AGCCCAGGGCCAGGGCACTATCTCCGCTGTGACTCCACTCAGCCCCTCTTGGCGGGCCTC
+ACCCCCAGCCCCAAGTCCTATGAGAACCTCTGGTTCCAGGCCAGCCCCTTGGGGACCCTG
+GTAACCCCAGCCCCAAGCCAGGAGGACGACTGTGTCTTTGGGCCACTGCTCAACTTCCCC
+CTCCTGCAGGGGATCCGGGTCCATGGGATGGAGGCGCTGGGGAGCTTCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00041</identifier>
+            <name>fn3</name>
+          </pfam>
+          <pfam>
+            <identifier>PF06328</identifier>
+            <name>Lep_receptor_Ig</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>amelogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of myeloid cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="1">
+      <id>BE0000394</id>
+      <name>Neutrophil elastase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13096</ref-id>
+            <pubmed-id>14657210</pubmed-id>
+            <citation>Carter CR, Whitmore KM, Thorpe R: The significance of carbohydrates on G-CSF: differential sensitivity of G-CSFs to human neutrophil elastase degradation. J Leukoc Biol. 2004 Mar;75(3):515-22. Epub 2003 Dec 4.</citation>
+          </article>
+          <article>
+            <ref-id>A13097</ref-id>
+            <pubmed-id>16245075</pubmed-id>
+            <citation>Jian MY, Koizumi T, Tsushima K, Fujimoto K, Kubo K: Effects of granulocyte colony-stimulating factor (G-CSF) and neutrophil elastase inhibitor (ONO-5046) on acid-induced lung injury in rats. Inflammation. 2004 Dec;28(6):327-36.</citation>
+          </article>
+          <article>
+            <ref-id>A13098</ref-id>
+            <pubmed-id>12958067</pubmed-id>
+            <citation>Pelus LM, Bian H, King AG, Fukuda S: Neutrophil-derived MMP-9 mediates synergistic mobilization of hematopoietic stem and progenitor cells by the combination of G-CSF and the chemokines GRObeta/CXCL2 and GRObetaT/CXCL2delta4. Blood. 2004 Jan 1;103(1):110-9. Epub 2003 Sep 4.</citation>
+          </article>
+          <article>
+            <ref-id>A13099</ref-id>
+            <pubmed-id>15353486</pubmed-id>
+            <citation>Druhan LJ, Ai J, Massullo P, Kindwall-Keller T, Ranalli MA, Avalos BR: Novel mechanism of G-CSF refractoriness in patients with severe congenital neutropenia. Blood. 2005 Jan 15;105(2):584-91. Epub 2004 Sep 7.</citation>
+          </article>
+          <article>
+            <ref-id>A13100</ref-id>
+            <pubmed-id>17475913</pubmed-id>
+            <citation>Schepers H, Wierenga AT, van Gosliga D, Eggen BJ, Vellenga E, Schuringa JJ: Reintroduction of C/EBPalpha in leukemic CD34+ stem/progenitor cells impairs self-renewal and partially restores myelopoiesis. Blood. 2007 Aug 15;110(4):1317-25. Epub 2007 May 2.</citation>
+          </article>
+          <article>
+            <ref-id>A187841</ref-id>
+            <pubmed-id>26105553</pubmed-id>
+            <citation>Abdolzade-Bavil A, von Kerczek A, Cooksey BA, Kaufman T, Krasney PA, Pukac L, Gorlach M, Lammerich A, Scheckermann C, Allgaier H, Shen WD, Liu PM: Differential sensitivity of lipegfilgrastim and pegfilgrastim to neutrophil elastase correlates with differences in clinical pharmacokinetic profile. J Clin Pharmacol. 2016 Feb;56(2):186-94. doi: 10.1002/jcph.578. Epub 2015 Sep 1.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>no</known-action>
+      <polypeptide id="P08246" source="Swiss-Prot">
+        <name>Neutrophil elastase</name>
+        <general-function>Serine-type endopeptidase activity</general-function>
+        <specific-function>Modifies the functions of natural killer cells, monocytes and granulocytes. Inhibits C5a-dependent neutrophil enzyme release and chemotaxis.</specific-function>
+        <gene-name>ELANE</gene-name>
+        <locus>19p13.3</locus>
+        <cellular-location>Cytoplasmic</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>9.41</theoretical-pi>
+        <molecular-weight>28517.81</molecular-weight>
+        <chromosome-location>19</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3309</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ELA2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Y00477</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>296665</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>2358</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08246</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ELNE_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.21.37</synonym>
+          <synonym>Bone marrow serine protease</synonym>
+          <synonym>ELA2</synonym>
+          <synonym>Elastase-2</synonym>
+          <synonym>HLE</synonym>
+          <synonym>Human leukocyte elastase</synonym>
+          <synonym>Medullasin</synonym>
+          <synonym>PMN elastase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000785|Neutrophil elastase
+MTLGRRLACLFLACVLPALLLGGTALASEIVGGRRARPHAWPFMVSLQLRGGHFCGATLI
+APNFVMSAAHCVANVNVRAVRVVLGAHNLSRREPTRQVFAVQRIFENGYDPVNLLNDIVI
+LQLNGSATINANVQVAQLPAQGRRLGNGVQCLAMGWGLLGRNRGIASVLQELNVTVVTSL
+CRRSNVCTLVRGRQAGVCFGDSGSPLVCNGLIHGIASFVRGGCASGLYPDAFAPVAQFVN
+WIDSIIQRSEDNPCPHPRDPDPASRTH</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010273|Neutrophil elastase (ELANE)
+ATGACCCTCGGCCGCCGACTCGCGTGTCTTTTCCTCGCCTGTGTCCTGCCGGCCTTGCTG
+CTGGGGGGCACCGCGCTGGCCTCGGAGATTGTGGGGGGCCGGCGAGCGCGGCCCCACGCG
+TGGCCCTTCATGGTGTCCCTGCAGCTGCGCGGAGGCCACTTCTGCGGCGCCACCCTGATT
+GCGCCCAACTTCGTCATGTCGGCCGCGCACTGCGTGGCGAATGTAAACGTCCGCGCGGTG
+CGGGTGGTCCTGGGAGCCCATAACCTCTCGCGGCGGGAGCCCACCCGGCAGGTGTTCGCC
+GTGCAGCGCATCTTCGAAAACGGCTACGACCCCGTAAACTTGCTCAACGACATCGTGATT
+CTCCAGCTCAACGGGTCGGCCACCATCAACGCCAACGTGCAGGTGGCCCAGCTGCCGGCT
+CAGGGACGCCGCCTGGGCAACGGGGTGCAGTGCCTGGCCATGGGCTGGGGCCTTCTGGGC
+AGGAACCGTGGGATCGCCAGCGTCCTGCAGGAGCTCAACGTGACGGTGGTGACGTCCCTC
+TGCCGTCGCAGCAACGTCTGCACTCTCGTGAGGGGCCGGCAGGCCGGCGTCTGTTTCGGG
+GACTCCGGCAGCCCCTTGGTCTGCAACGGGCTAATCCACGGAATTGCCTCCTTCGTCCGG
+GGAGGCTGCGCCTCAGGGCTCTACCCCGATGCCTTTGCCCCGGTGGCACAGTTTGTAAAC
+TGGATCGACTCTATCATCCAACGCTCCGAGGACAACCCCTGTCCCCACCCCCGGGACCCG
+GACCCGGCCAGCAGGACCCACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00089</identifier>
+            <name>Trypsin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>secretory granule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>transcriptional repressor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytokine binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heparin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protease binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription corepressor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>serine-type endopeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute inflammatory response to antigenic stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>collagen catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to bacterium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix disassembly</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemokine biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of chemotaxis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of growth of symbiont in host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neutrophil mediated killing of fungus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phagocytosis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-8 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of MAP kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of smooth muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to UV</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to yeast</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength/>
+      <induction-strength/>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

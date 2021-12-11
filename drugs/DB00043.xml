@@ -1,0 +1,2889 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00043</drugbank-id>
+  <drugbank-id>BTD00081</drugbank-id>
+  <drugbank-id>BIOD00081</drugbank-id>
+  <name>Omalizumab</name>
+  <description>Omalizumab, manufactured by _Genentech_, was first FDA approved in 2003 to treat adults and children 12 years of age and older with moderate to severe persistent allergic asthma which is not controlled by inhaled steroids [L4670]. Since its U.S. approval, more than 200,000 patients older than 12 with allergic asthma have been treated [L4670].  In September 2018, a new prefilled syringe formulation of this drug was approved by the FDA [L4671].</description>
+  <cas-number>242138-07-4</cas-number>
+  <unii>2P471X1Z11</unii>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A39518</ref-id>
+        <pubmed-id>25849503</pubmed-id>
+        <citation>Jensen RK, Plum M, Tjerrild L, Jakob T, Spillner E, Andersen GR: Structure of the omalizumab Fab. Acta Crystallogr F Struct Biol Commun. 2015 Apr;71(Pt 4):419-26. doi: 10.1107/S2053230X15004100. Epub 2015 Mar 20.</citation>
+      </article>
+      <article>
+        <ref-id>A39519</ref-id>
+        <pubmed-id>18489791</pubmed-id>
+        <citation>Miller CW, Krishnaswamy N, Johnston C, Krishnaswamy G: Severe asthma and the omalizumab option. Clin Mol Allergy. 2008 May 20;6:4. doi: 10.1186/1476-7961-6-4.</citation>
+      </article>
+      <article>
+        <ref-id>A39520</ref-id>
+        <pubmed-id>26288408</pubmed-id>
+        <citation>Godse K, Mehta A, Patil S, Gautam M, Nadkarni N: Omalizumab-A Review. Indian J Dermatol. 2015 Jul-Aug;60(4):381-4. doi: 10.4103/0019-5154.160490.</citation>
+      </article>
+      <article>
+        <ref-id>A39521</ref-id>
+        <pubmed-id>18774392</pubmed-id>
+        <citation>Kaplan AP, Joseph K, Maykut RJ, Geba GP, Zeldin RK: Treatment of chronic autoimmune urticaria with omalizumab. J Allergy Clin Immunol. 2008 Sep;122(3):569-73. doi: 10.1016/j.jaci.2008.07.006.</citation>
+      </article>
+      <article>
+        <ref-id>A31470</ref-id>
+        <pubmed-id>16478695</pubmed-id>
+        <citation>Tabrizi MA, Tseng CM, Roskos LK: Elimination mechanisms of therapeutic monoclonal antibodies. Drug Discov Today. 2006 Jan;11(1-2):81-8. doi: 10.1016/S1359-6446(05)03638-X.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L4670</ref-id>
+        <title>FDA Approves Genentech’s Xolair® (omalizumab) for Allergic Asthma in Children</title>
+        <url>https://www.gene.com/media/press-releases/14632/2016-07-07/fda-approves-genentechs-xolair-omalizuma</url>
+      </link>
+      <link>
+        <ref-id>L4671</ref-id>
+        <title>FDA Approves Genentech's Xolair (omalizumab) Prefilled Syringe Formulation</title>
+        <url>https://www.drugs.com/newdrugs/fda-approves-genentech-s-xolair-omalizumab-prefilled-syringe-formulation-4830.html</url>
+      </link>
+      <link>
+        <ref-id>L4672</ref-id>
+        <title>Omalizumab properties, THPdb Database</title>
+        <url>http://crdd.osdd.net/raghava/thpdb/display_thppid_sub.php?details=Th1038</url>
+      </link>
+    </links>
+    <attachments>
+      <attachment>
+        <ref-id>F1946</ref-id>
+        <title>Xolair EMA label</title>
+        <url>//s3-us-west-2.amazonaws.com/drugbank/cite_this/attachments/files/000/001/946/original/Xolair_EMA_label.pdf?1540236449</url>
+      </attachment>
+    </attachments>
+  </general-references>
+  <synthesis-reference/>
+  <indication>This drug is an anti-IgE antibody indicated for:&#13;
+&#13;
+1. Moderate to severe persistent asthma in patients 6 years of age and older&#13;
+with a positive skin test or in vitro reactivity to a perennial aeroallergen and symptoms that are inadequately controlled with inhaled corticosteroids [FDA label]&#13;
+&#13;
+2. Chronic idiopathic urticaria in adults and adolescents 12 years of age and older who remain symptomatic despite H1 antihistamine treatment [FDA label]</indication>
+  <pharmacodynamics>Omalizumab is a recombinant, humanized, monoclonal antibody against human immunoglobulin E (IgE) which treats the symptoms of asthma and chronic idiopathic urticaria by limiting the allergic response [FDA label], [A39520].  It inhibits the binding of IgE to receptors on mast cells and basophils, blocking the IgE-mediated secretion of inflammatory mediators from these cells [A39518].&#13;
+&#13;
+Mast cell activation and the release of mediators, in response to allergen exposure and IgE, results in a cascade of events. This cascade culminates in the activation of B-lymphocytes, T-lymphocytes, eosinophils, fibroblasts, smooth muscle cells, and the endothelium. This cellular interaction, as well as the release of cytokines, chemokines and growth factors and inflammatory remodeling of the airway results in chronic asthma [A39519].&#13;
+&#13;
+After 4 weeks of use of this medication in patients with chronic urticaria, it was found that rescue medication use was reduced significantly and quality of life improved [A39521].</pharmacodynamics>
+  <mechanism-of-action>When an environmental allergen first enters the body, is taken up by antigen-presenting cells (APCs). It is then processed, and presented to T and B immune cells. This is followed by the activation of B-lymphocyte and production of allergen-specific IgE. This IgE is then released by plasma cells (converted B lymphocytes) and is therefore available to bind to IgE receptors on several other cells [A39520].&#13;
+&#13;
+IgE binds to high-affinity (Fc€RI) and low-affinity (Fc€RII) receptors on multiple cells of the immune system. Following subsequent antigen exposure, cross-linking of the antigen occurs by several Fc€RI-bound IgE molecules on the surface of both basophils and mast cells. This leads to the activation of mast cells and histamine release, producing a wheal and other symptoms of urticaria [A39520].&#13;
+&#13;
+The following are explanations of the mechanism of action for both indications of this drug:&#13;
+&#13;
+**Asthma**&#13;
+&#13;
+Omalizumab inhibits the binding of IgE to the high-affinity IgE receptor (FcεRI) on the surface of both mast cells and basophils. The reduction in surface-bound IgE on FcεRI-bearing cells limits the degree of release of mediators of the typical allergic response. Treatment with omalizumab also reduces the number of FcεRI receptors on basophils in atopic patients [FDA label].&#13;
+&#13;
+Omalizumab binds to free IgE with a higher affinity than IgE itself binds to the high-affinity Fc€RI receptors found on basophils. Therefore, it decreases the availability of free IgE for binding [A39520]. Omalizumab by itself does not bind to the Fc€RI receptors, nor does the drug bind to receptor-bound IgE. These binding characteristics allow omalizumab to neutralize the typical IgE-mediated responses without causing the degranulation of basophils or cross-linking with basophil-bound IgE [A39520].&#13;
+&#13;
+**Chronic Idiopathic Urticaria**&#13;
+Omalizumab binds to IgE and decreases free IgE levels. Subsequently, IgE receptors (FcεRI) on cells are down-regulated. The mechanism by which these effects of omalizumab result in an improvement of CIU symptoms is unclear[FDA label].</mechanism-of-action>
+  <toxicity>**Anaphylaxis**&#13;
+&#13;
+Anaphylaxis may occur rarely with this agent, either after the first dose or multiple doses [FDA label], [A39519]. Anaphylaxis presenting clinically as bronchospasm, hypotension, syncope, urticaria, and/or angioedema of the throat or tongue, has been reported during and after this use of this drug. Therefore, close clinical monitoring should be performed during and shortly after administration [FDA label].&#13;
+&#13;
+**Maximum Dosage**&#13;
+&#13;
+The maximum tolerated dosage of omalizumab has not yet been determined. Single intravenous (IV) doses of up to 4000 mg have been administered to patients without evidence of dose-limiting toxicity. The highest cumulative dose administered to patients was 44,000 mg over a 20 week time period, which was not associated with any toxicities [FDA label].&#13;
+&#13;
+**The use in Pregnancy**&#13;
+&#13;
+The data with omalizumab use in pregnant women are insufficient to inform on drug-associated risk. Monoclonal antibodies, such as omalizumab, are transported across the placenta in a linear fashion as a pregnancy progresses; therefore, potential effects on a fetus are likely to be greater in frequency during the second and third trimesters [FDA label].&#13;
+&#13;
+In women with inadequately or moderately controlled asthma, the current evidence suggests that there is an increased risk of preeclampsia in the mother and prematurity, low birth weight, and small fetal size [FDA label].&#13;
+&#13;
+**The use During Breastfeeding**&#13;
+&#13;
+There is no information regarding the presence of omalizumab in human milk, the effects on the breastfed infant, or the effects on milk production [FDA label]. The developmental and health benefits of breastfeeding should be considered along with the mother’s clinical need for omalizumab and any potential adverse effects on the breastfed child from omalizumab or from the underlying maternal condition [FDA label].</toxicity>
+  <metabolism>Monoclonal antibodies, in general, are believed to be internalized in endothelial cells bound to the Fc receptor and rescued from metabolism by recycling. At a later time, they are degraded in the reticuloendothelial system to smaller peptides and amino acids, which can then be used for de-novo protein synthesis [A31470]. Several factors may influence this process, however. These include factors related to the target antigen, antibody, and patient [A31470].&#13;
+&#13;
+The metabolism of omalizumab is determined by its IgG1 framework, and by its specific binding to IgE. The elimination of omalizumab is dose-dependent. The reticuloendothelial system and the liver are two sites of elimination for IgG (including degradation in the liver reticuloendothelial system and endothelial cells) [F1946], [A31470].  The omalizumab:IgE complexes are thought to be to cleared via interactions with Fc- gamma-Rs (Fc gamma RI, Fc gamma RII, and Fc gamma RIII) at rates that are more rapid than that of IgG clearance. The relative clearance of free omalizumab, free IgE, and complexes is summarized as: free IgE clearance &gt; &gt; omalizumab:IgE clearance &gt; omalizumab clearance [F1946].&#13;
+&#13;
+</metabolism>
+  <absorption>After subcutaneous administration in pharmacokinetic studies, omalizumab was absorbed with a mean absolute bioavailability of 62% [FDA label]. After the administration of a single subcutanous dose in adult and adolescent patients with asthma, omalizumab was absorbed slowly. The peak serum concentrations peaked after an average of 7­-8 days. In patients with CIU, the peak serum concentration was reached at a similar time after a single SC dose. The pharmacokinetics of omalizumab was linear at doses which were higher than 0.5 mg/kg. In patients with asthma, after several doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after one dose. In patients with CIU, omalizumab showed linear pharmacokinetics in the dose range of 75 mg to 600 mg administered as a single subcutaneous dose. After repeated dosing from 75mg-300 mg every 4 weeks, trough serum concentrations of omalizumab increased proportionally with the dose [FDA label].</absorption>
+  <half-life>In chronic idiopathic urticaria (CIU) patients, at steady state, based on population pharmacokinetics, omalizumab serum elimination half-life averaged 24 days [FDA label].&#13;
+&#13;
+In asthmatic patients omalizumab serum elimination half-life averaged 26 days [FDA label].</half-life>
+  <protein-binding>Monoclonal antibodies are usually not required to have protein binding studies.</protein-binding>
+  <route-of-elimination>Liver elimination of IgG includes degradation in the liver reticuloendothelial system (RES) and endothelial cells. &#13;
+Intact IgG was also shown to be excreted in bile, in pharmacokinetic studies [FDA label].</route-of-elimination>
+  <volume-of-distribution>The apparent volume of distribution of omalizumab in patients with asthma after subcutaneous administration was 78 ± 32 mL/kg. In patients with CIU, the distribution of omalizumab was similar to that in asthmatic patients [FDA label].</volume-of-distribution>
+  <clearance>In pharmacokinetic studies, the clearance of omalizumab involved IgG clearance as well as clearance by specific binding and complex formation with its target ligand, IgE [FDA label], [F1946].&#13;
+&#13;
+The apparent clearance averaging 2.4 ± 1.1 mL/kg/day was measured in asthmatic patients [FDA label].&#13;
+&#13;
+In chronic idiopathic urticaria  (CIU) patients, at steady state, based on population pharmacokinetics, omalizumab apparent clearance averaged 240 mL/day (corresponding to 3.0 mL/kg/day for an 80 kg patient)[FDA label].</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms/>
+  <products>
+    <product>
+      <name>Xolair</name>
+      <labeller>Genentech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50242-040</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-06-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>202.5 mg/1.4mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103976</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/001</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>75 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/002</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>150 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/003</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>150 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/004</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>150 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/005</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/006</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/007</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/008</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/009</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/010</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis Europharm Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000606</ema-product-code>
+      <ema-ma-number>EU/1/05/319/011</ema-ma-number>
+      <started-marketing-on>2005-10-25</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02260565</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-02-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>150 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02459787</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-06-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>75 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xolair</name>
+      <labeller>Novartis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02459795</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-07-06</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>150 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Xolair PFS</name>
+      <labeller>Genentech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50242-214</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-09-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>75 mg/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103976</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Xolair PFS</name>
+      <labeller>Genentech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50242-215</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-09-28</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>150 mg/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103976</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair PFS</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair PFS</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+    <mixture>
+      <name>Xolair</name>
+      <ingredients>Omalizumab</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Genentech Inc.</name>
+      <url>http://www.gene.com</url>
+    </packager>
+    <packager>
+      <name>Novartis AG</name>
+      <url>http://www.novartis.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Xolair 150 mg vial</description>
+      <cost currency="USD">715.42</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Agents to Treat Airway Disease</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Allergic Agents</category>
+      <mesh-id>D018926</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Asthmatic Agents</category>
+      <mesh-id>D018927</mesh-id>
+    </category>
+    <category>
+      <category>Anti-IgE</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal</category>
+      <mesh-id>D000911</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies, Monoclonal, Humanized</category>
+      <mesh-id>D061067</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Decreased IgE Activity</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>IgE-directed Antibody Interactions</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Respiratory Agents, Miscellaneous</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Respiratory System Agents</category>
+      <mesh-id>D019141</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>150 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>150 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>75 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>202.5 mg/1.4mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>150 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Subcutaneous</route>
+      <strength>75 mg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>150 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>75 mg/0.5mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="R03DX05">
+      <level code="R03DX">Other systemic drugs for obstructive airway diseases</level>
+      <level code="R03D">OTHER SYSTEMIC DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES</level>
+      <level code="R03">DRUGS FOR OBSTRUCTIVE AIRWAY DISEASES</level>
+      <level code="R">RESPIRATORY SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>48:92.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00043.pdf?1540222370</msds>
+  <patents>
+    <patent>
+      <number>2113813</number>
+      <country>Canada</country>
+      <approved>2005-04-12</approved>
+      <expires>2012-08-14</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>1340233</number>
+      <country>Canada</country>
+      <approved>1998-12-15</approved>
+      <expires>2015-12-15</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00408</drugbank-id>
+      <name>Loxapine</name>
+      <description>The therapeutic efficacy of Omalizumab can be decreased when used in combination with Loxapine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>Conjugated estrogens may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>Ethinylestradiol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>Estrone sulfate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>Esterified estrogens may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>Equol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>Epimestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>Moxestrol may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>Estradiol acetate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>Estradiol benzoate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>Estradiol cypionate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>Estradiol valerate may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>Biochanin A may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>Formononetin may increase the thrombogenic activities of Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00002</drugbank-id>
+      <name>Cetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00028</drugbank-id>
+      <name>Human immunoglobulin G</name>
+      <description>The risk or severity of adverse effects can be increased when Human immunoglobulin G is combined with Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Adalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Abciximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gemtuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00057</drugbank-id>
+      <name>Indium In-111 satumomab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Indium In-111 satumomab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Infliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Basiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Muromonab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00076</drugbank-id>
+      <name>Digoxin Immune Fab (Ovine)</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Digoxin Immune Fab (Ovine).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ibritumomab tiuxetan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tositumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Alemtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00089</drugbank-id>
+      <name>Capromab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00110</drugbank-id>
+      <name>Palivizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00113</drugbank-id>
+      <name>Technetium Tc-99m arcitumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Technetium Tc-99m arcitumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04901</drugbank-id>
+      <name>Galiximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Galiximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04949</drugbank-id>
+      <name>Pexelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pexelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04958</drugbank-id>
+      <name>Epratuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Epratuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04962</drugbank-id>
+      <name>Bectumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bectumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04964</drugbank-id>
+      <name>Oregovomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Oregovomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04988</drugbank-id>
+      <name>IGN311</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with IGN311.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05006</drugbank-id>
+      <name>Adecatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Adecatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05097</drugbank-id>
+      <name>Labetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Labetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05101</drugbank-id>
+      <name>Matuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Matuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05111</drugbank-id>
+      <name>Fontolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fontolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05136</drugbank-id>
+      <name>Bavituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bavituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05139</drugbank-id>
+      <name>CR002</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with CR002.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05209</drugbank-id>
+      <name>Rozrolimupab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rozrolimupab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05304</drugbank-id>
+      <name>Girentuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Girentuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05336</drugbank-id>
+      <name>Obiltoxaximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Obiltoxaximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05405</drugbank-id>
+      <name>XTL-001</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with XTL-001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05437</drugbank-id>
+      <name>NAV 1800</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with NAV 1800.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05496</drugbank-id>
+      <name>Otelixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Otelixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05545</drugbank-id>
+      <name>AMG 108</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with AMG 108.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05550</drugbank-id>
+      <name>Iratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Iratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05555</drugbank-id>
+      <name>Enokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Enokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05595</drugbank-id>
+      <name>Farletuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Farletuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05656</drugbank-id>
+      <name>Veltuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Veltuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05679</drugbank-id>
+      <name>Ustekinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ustekinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05793</drugbank-id>
+      <name>PRO-542</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with PRO-542.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05797</drugbank-id>
+      <name>TNX-901</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with TNX-901.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05889</drugbank-id>
+      <name>Inotuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Inotuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05892</drugbank-id>
+      <name>RI 624</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with RI 624.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05915</drugbank-id>
+      <name>MYO-029</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with MYO-029.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05916</drugbank-id>
+      <name>CT-011</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with CT-011.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05941</drugbank-id>
+      <name>Leronlimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Leronlimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05996</drugbank-id>
+      <name>Glembatumumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Glembatumumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06043</drugbank-id>
+      <name>Olaratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Olaratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06049</drugbank-id>
+      <name>IPH 2101</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with IPH 2101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06050</drugbank-id>
+      <name>TB-402</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with TB-402.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06101</drugbank-id>
+      <name>IMC-1C11</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with IMC-1C11.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06116</drugbank-id>
+      <name>Eldelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Eldelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06162</drugbank-id>
+      <name>Lumiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lumiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06192</drugbank-id>
+      <name>Nimotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Nimotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06241</drugbank-id>
+      <name>Clenoliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Clenoliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06304</drugbank-id>
+      <name>BIIB015</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with BIIB015.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06305</drugbank-id>
+      <name>Sonepcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sonepcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06310</drugbank-id>
+      <name>Motavizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Motavizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06317</drugbank-id>
+      <name>Elotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Elotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06318</drugbank-id>
+      <name>AVE9633</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with AVE9633.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06322</drugbank-id>
+      <name>Carotuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Carotuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06324</drugbank-id>
+      <name>XmAb 2513</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with XmAb 2513.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06342</drugbank-id>
+      <name>Coltuximab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Coltuximab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06343</drugbank-id>
+      <name>Teprotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Teprotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06360</drugbank-id>
+      <name>Lucatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lucatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06371</drugbank-id>
+      <name>Siplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Siplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06467</drugbank-id>
+      <name>Apolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Apolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06474</drugbank-id>
+      <name>Sibrotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sibrotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06550</drugbank-id>
+      <name>Bivatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bivatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06557</drugbank-id>
+      <name>Lerdelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lerdelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06599</drugbank-id>
+      <name>Lexatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lexatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06602</drugbank-id>
+      <name>Reslizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Reslizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06606</drugbank-id>
+      <name>Teplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Teplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Denosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06647</drugbank-id>
+      <name>Volociximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Volociximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08902</drugbank-id>
+      <name>Raxibacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Raxibacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Anthrax immune globulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09105</drugbank-id>
+      <name>Asfotase alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Asfotase alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09264</drugbank-id>
+      <name>Idarucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Idarucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09302</drugbank-id>
+      <name>Alirocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Alirocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09303</drugbank-id>
+      <name>Evolocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Evolocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11595</drugbank-id>
+      <name>Atezolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11604</drugbank-id>
+      <name>Tetanus Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tetanus Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11621</drugbank-id>
+      <name>Human Varicella-Zoster Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11646</drugbank-id>
+      <name>Conatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Conatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11657</drugbank-id>
+      <name>Tabalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tabalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11680</drugbank-id>
+      <name>Ficlatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ficlatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11685</drugbank-id>
+      <name>Figitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Figitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11714</drugbank-id>
+      <name>Durvalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Durvalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11715</drugbank-id>
+      <name>Bapineuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bapineuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11731</drugbank-id>
+      <name>Depatuxizumab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Depatuxizumab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11746</drugbank-id>
+      <name>Onartuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Onartuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11756</drugbank-id>
+      <name>Solanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Solanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11771</drugbank-id>
+      <name>Tremelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tremelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11826</drugbank-id>
+      <name>Lampalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lampalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11840</drugbank-id>
+      <name>Dalotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dalotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11849</drugbank-id>
+      <name>Emibetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Emibetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11850</drugbank-id>
+      <name>Ublituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ublituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11856</drugbank-id>
+      <name>Ligelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ligelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11857</drugbank-id>
+      <name>Seribantumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Seribantumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11862</drugbank-id>
+      <name>Landogrozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Landogrozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11866</drugbank-id>
+      <name>Romosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Romosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11884</drugbank-id>
+      <name>Vadastuximab Talirine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Vadastuximab Talirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11914</drugbank-id>
+      <name>Lebrikizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lebrikizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11930</drugbank-id>
+      <name>Varlilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Varlilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11945</drugbank-id>
+      <name>Avelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Avelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11959</drugbank-id>
+      <name>Crenezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Crenezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11972</drugbank-id>
+      <name>Rilotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rilotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11976</drugbank-id>
+      <name>Anifrolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Anifrolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12023</drugbank-id>
+      <name>Benralizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Benralizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12034</drugbank-id>
+      <name>Gantenerumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gantenerumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12053</drugbank-id>
+      <name>Visilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Visilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12077</drugbank-id>
+      <name>Urelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Urelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12089</drugbank-id>
+      <name>Lorvotuzumab mertansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lorvotuzumab mertansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12090</drugbank-id>
+      <name>Patritumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Patritumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12102</drugbank-id>
+      <name>Fulranumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fulranumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12104</drugbank-id>
+      <name>Tarextumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tarextumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12118</drugbank-id>
+      <name>Sotatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sotatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12119</drugbank-id>
+      <name>Gevokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gevokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12142</drugbank-id>
+      <name>Duligotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Duligotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12152</drugbank-id>
+      <name>Simtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Simtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12157</drugbank-id>
+      <name>Fasinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fasinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12159</drugbank-id>
+      <name>Dupilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dupilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12169</drugbank-id>
+      <name>Tralokinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tralokinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12189</drugbank-id>
+      <name>Etrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Etrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12202</drugbank-id>
+      <name>Zalutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Zalutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12205</drugbank-id>
+      <name>Ganitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ganitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12213</drugbank-id>
+      <name>Etaracizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Etaracizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12240</drugbank-id>
+      <name>Polatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Polatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12246</drugbank-id>
+      <name>Inclacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Inclacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12250</drugbank-id>
+      <name>Cixutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Cixutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12261</drugbank-id>
+      <name>Ascrinvacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ascrinvacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12274</drugbank-id>
+      <name>Aducanumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Aducanumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12281</drugbank-id>
+      <name>Luspatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Luspatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12296</drugbank-id>
+      <name>GS-5745</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with GS-5745.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12317</drugbank-id>
+      <name>Vanucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Vanucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12331</drugbank-id>
+      <name>Labetuzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Labetuzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12335</drugbank-id>
+      <name>Tanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12342</drugbank-id>
+      <name>Ensituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ensituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12344</drugbank-id>
+      <name>Fezakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fezakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12363</drugbank-id>
+      <name>Dusigitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dusigitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12396</drugbank-id>
+      <name>Fresolimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fresolimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12413</drugbank-id>
+      <name>Indusatumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Indusatumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12456</drugbank-id>
+      <name>Bococizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bococizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12489</drugbank-id>
+      <name>Mirvetuximab Soravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Mirvetuximab Soravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12498</drugbank-id>
+      <name>Mogamulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Mogamulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12520</drugbank-id>
+      <name>Plozalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Plozalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Inebilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12534</drugbank-id>
+      <name>Mavrilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Mavrilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12560</drugbank-id>
+      <name>Blosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Blosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12584</drugbank-id>
+      <name>Bimagrumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bimagrumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12589</drugbank-id>
+      <name>Dacetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dacetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12609</drugbank-id>
+      <name>Tovetumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tovetumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12683</drugbank-id>
+      <name>Lumretuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lumretuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12698</drugbank-id>
+      <name>Ibalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ibalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12701</drugbank-id>
+      <name>Intetumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Intetumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12718</drugbank-id>
+      <name>Carlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Carlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12734</drugbank-id>
+      <name>Demcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Demcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12773</drugbank-id>
+      <name>Sifalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sifalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12775</drugbank-id>
+      <name>Abituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Abituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12797</drugbank-id>
+      <name>Ecromeximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ecromeximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12807</drugbank-id>
+      <name>Naptumomab Estafenatox</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Naptumomab Estafenatox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12815</drugbank-id>
+      <name>Crotedumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Crotedumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12820</drugbank-id>
+      <name>Concizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Concizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12826</drugbank-id>
+      <name>Depatuxizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Depatuxizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12844</drugbank-id>
+      <name>Rontalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rontalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12845</drugbank-id>
+      <name>Amatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Amatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12849</drugbank-id>
+      <name>Clazakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Clazakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12891</drugbank-id>
+      <name>Ozanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ozanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12893</drugbank-id>
+      <name>Sacituzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sacituzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12917</drugbank-id>
+      <name>Bimekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bimekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12943</drugbank-id>
+      <name>Milatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Milatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12976</drugbank-id>
+      <name>Robatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Robatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13017</drugbank-id>
+      <name>Rovalpituzumab Tesirine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rovalpituzumab Tesirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13037</drugbank-id>
+      <name>Namilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Namilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13045</drugbank-id>
+      <name>Racotumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Racotumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13073</drugbank-id>
+      <name>Tregalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tregalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13127</drugbank-id>
+      <name>Olokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Olokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13140</drugbank-id>
+      <name>Bezlotoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bezlotoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13375</drugbank-id>
+      <name>Edrecolomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Edrecolomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13535</drugbank-id>
+      <name>Nebacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Nebacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13886</drugbank-id>
+      <name>Human cytomegalovirus immune globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Human cytomegalovirus immune globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13976</drugbank-id>
+      <name>Sulesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sulesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13979</drugbank-id>
+      <name>Besilesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Besilesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14004</drugbank-id>
+      <name>Tildrakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tildrakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14012</drugbank-id>
+      <name>Burosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Burosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14039</drugbank-id>
+      <name>Erenumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Erenumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14040</drugbank-id>
+      <name>Eptinezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Eptinezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14041</drugbank-id>
+      <name>Fremanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fremanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14042</drugbank-id>
+      <name>Galcanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Galcanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14211</drugbank-id>
+      <name>Fanolesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Fanolesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14580</drugbank-id>
+      <name>Lecanemab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lecanemab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14597</drugbank-id>
+      <name>Lanadelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lanadelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14707</drugbank-id>
+      <name>Cemiplimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Cemiplimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14776</drugbank-id>
+      <name>Camrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Camrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14778</drugbank-id>
+      <name>Setrusumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Setrusumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14784</drugbank-id>
+      <name>Gancotamab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gancotamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14809</drugbank-id>
+      <name>Anetumab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Anetumab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14811</drugbank-id>
+      <name>Isatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Isatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14824</drugbank-id>
+      <name>Icrucumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Icrucumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14843</drugbank-id>
+      <name>Codrituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Codrituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14864</drugbank-id>
+      <name>Brolucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Brolucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14871</drugbank-id>
+      <name>Xentuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Xentuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14877</drugbank-id>
+      <name>Lintuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lintuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14891</drugbank-id>
+      <name>Vobarilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Vobarilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14897</drugbank-id>
+      <name>Parsatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Parsatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14905</drugbank-id>
+      <name>Emactuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Emactuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14907</drugbank-id>
+      <name>Bevacizumab zirconium Zr-89</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bevacizumab zirconium Zr-89.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14908</drugbank-id>
+      <name>Refanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Refanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14947</drugbank-id>
+      <name>Bermekimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bermekimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14952</drugbank-id>
+      <name>Pamrevlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pamrevlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14959</drugbank-id>
+      <name>Opicinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Opicinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14962</drugbank-id>
+      <name>Trastuzumab deruxtecan</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Trastuzumab deruxtecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14967</drugbank-id>
+      <name>Margetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Margetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14988</drugbank-id>
+      <name>Dalantercept</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Dalantercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14997</drugbank-id>
+      <name>Pateclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pateclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15014</drugbank-id>
+      <name>Gremubamab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gremubamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15022</drugbank-id>
+      <name>Apomab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Apomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15044</drugbank-id>
+      <name>Tafasitamab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tafasitamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15045</drugbank-id>
+      <name>Ipafricept</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ipafricept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15076</drugbank-id>
+      <name>Abrilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Abrilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15089</drugbank-id>
+      <name>Frovocimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Frovocimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15090</drugbank-id>
+      <name>Tezepelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tezepelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15101</drugbank-id>
+      <name>Tigatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tigatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15104</drugbank-id>
+      <name>Telisotuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Telisotuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15113</drugbank-id>
+      <name>Utomilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Utomilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15118</drugbank-id>
+      <name>Zolbetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Zolbetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15135</drugbank-id>
+      <name>Ponezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ponezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15160</drugbank-id>
+      <name>Asunercept</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Asunercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15172</drugbank-id>
+      <name>Suvratoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Suvratoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15225</drugbank-id>
+      <name>Mitazalimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Mitazalimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15252</drugbank-id>
+      <name>Nemolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Nemolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15277</drugbank-id>
+      <name>Gedivumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Gedivumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15336</drugbank-id>
+      <name>Valanafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Valanafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15349</drugbank-id>
+      <name>Sofituzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Sofituzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15354</drugbank-id>
+      <name>Evinacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Evinacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15363</drugbank-id>
+      <name>Istiratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Istiratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15383</drugbank-id>
+      <name>Pidilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pidilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15397</drugbank-id>
+      <name>GMA-161</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with GMA-161.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15409</drugbank-id>
+      <name>Ladiratuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Ladiratuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15415</drugbank-id>
+      <name>Tomaralimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Tomaralimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15428</drugbank-id>
+      <name>Vesencumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Vesencumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15432</drugbank-id>
+      <name>Pinatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Pinatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15441</drugbank-id>
+      <name>Lulizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lulizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15443</drugbank-id>
+      <name>Lorukafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Lorukafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15453</drugbank-id>
+      <name>Naratuximab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Naratuximab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15559</drugbank-id>
+      <name>Zenocutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Zenocutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15898</drugbank-id>
+      <name>Atoltivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Atoltivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15899</drugbank-id>
+      <name>Maftivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Maftivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15900</drugbank-id>
+      <name>Odesivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Odesivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15719</drugbank-id>
+      <name>Belantamab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Belantamab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Omalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15258</drugbank-id>
+      <name>Imlifidase</name>
+      <description>The therapeutic efficacy of Omalizumab can be decreased when used in combination with Imlifidase.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;Omalizumab heavy chain
+EVQLVESGGGLVQPGGSLRLSCAVSGYSITSGYSWNWIRQAPGKGLEWVASITYDGSTNY
+ADSVKGRFTISRDDSKNTFYLQMNSLRAEDTAVYYCARGSHYFGHWHFAVWGQGTLVTVS
+SGPSVFPLAPSSKSTSGGTAALGCLVKDYFPEPVTVSWNSGALTSGVHTFPAVLQSSGLY
+SLSSVVTVPSSSLGTQTYICNVNHKPSNTKVDKKAEPKSCDKTHTCPPCPAPELLGGPSV
+FLFPPKPKDTLMISRTPEVTCVVVDVSHEDPEVKFNWYVDGVEVHNAKTKPREEQYNSTY
+RVVSVLTVLHQDWLNGKEYKCKVSNKALPAPIEKTISKAKGQPREPQVYTLPPSRDELTK
+NQVSLTCLVKGFYPSDIAVEWESNGQPENNYKTTPPVLDSDGSFFLYSKLTVDKSRWQQG
+NVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
+    <sequence format="FASTA">&gt;Omalizumab light chain
+DIQLTQSPSSLSASVGDRVTITCRASQSVDYDGDSYMNWYQQKPGKAPKLLIYAASYLES
+GVPSRFSGSGSGTDFTLTISSLQPEDFATYYCQQSHEDPYTFGQGTKVEIKRTVAAPSVF
+IFPPSDEQLKSGTASVVCLLNNFYPREAKVQWKVDNALQSGNSQESVTEQDSKDSTYSLS
+STLTLSKADYEKHKVYACEVTHQGLSSPVTKSFNR</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>61 °C (FAB fragment)</value>
+      <source>http://crdd.osdd.net/raghava/thpdb/display_thppid_sub.php?details=Th1038</source>
+    </property>
+    <property>
+      <kind>Boiling Point</kind>
+      <value>Fab and Fc domains denaturates at 60 and 70 ºC respectively</value>
+      <source>Arnoldus W. et al. (2000). Biophysical Journal. Vol 78. 394-404</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.432</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>6.6 - 7.2</value>
+      <source>Jin, et al. Electrophoresis. Sep;23(19):3385-91. (2002).</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>149000.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C6450H9916N1714O2023S38</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13365</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507002</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>J00228</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164752253</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01857</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000387</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Omalizumab</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201589</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>302379</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/xolair.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/omalizumab.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000015</id>
+      <name>High affinity immunoglobulin epsilon receptor subunit alpha</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1919</ref-id>
+            <pubmed-id>15356552</pubmed-id>
+            <citation>Beck LA, Marcotte GV, MacGlashan D, Togias A, Saini S: Omalizumab-induced reductions in mast cell Fce psilon RI expression and function. J Allergy Clin Immunol. 2004 Sep;114(3):527-30.</citation>
+          </article>
+          <article>
+            <ref-id>A1921</ref-id>
+            <pubmed-id>17368811</pubmed-id>
+            <citation>Mirkina I, Schweighoffer T, Kricek F: Inhibition of human cord blood-derived mast cell responses by anti-Fc epsilon RI mAb 15/1 versus anti-IgE Omalizumab. Immunol Lett. 2007 Apr 15;109(2):120-8. Epub 2007 Mar 1.</citation>
+          </article>
+          <article>
+            <ref-id>A39520</ref-id>
+            <pubmed-id>26288408</pubmed-id>
+            <citation>Godse K, Mehta A, Patil S, Gautam M, Nadkarni N: Omalizumab-A Review. Indian J Dermatol. 2015 Jul-Aug;60(4):381-4. doi: 10.4103/0019-5154.160490.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P12319" source="Swiss-Prot">
+        <name>High affinity immunoglobulin epsilon receptor subunit alpha</name>
+        <general-function>Ige receptor activity</general-function>
+        <specific-function>Binds to the Fc region of immunoglobulins epsilon. High affinity receptor. Responsible for initiating the allergic response. Binding of allergen to receptor-bound IgE leads to cell activation and the release of mediators (such as histamine) responsible for the manifestations of allergy. The same receptor also induces the secretion of important lymphokines.</specific-function>
+        <gene-name>FCER1A</gene-name>
+        <locus>1q23</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>206-224</transmembrane-regions>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>6.67</theoretical-pi>
+        <molecular-weight>29595.67</molecular-weight>
+        <chromosome-location>1</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3609</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FCER1A</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X06948</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>31318</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P12319</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCERA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Fc-epsilon RI-alpha</synonym>
+          <synonym>FCE1A</synonym>
+          <synonym>FcERI</synonym>
+          <synonym>IgE Fc receptor subunit alpha</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0015997|High affinity immunoglobulin epsilon receptor subunit alpha
+MAPAMESPTLLCVALLFFAPDGVLAVPQKPKVSLNPPWNRIFKGENVTLTCNGNNFFEVS
+STKWFHNGSLSEETNSSLNIVNAKFEDSGEYKCQHQQVNESEPVYLEVFSDWLLLQASAE
+VVMEGQPLFLRCHGWRNWDVYKVIYYKDGEALKYWYENHNISITNATVEDSGTYYCTGKV
+WQLDYESEPLNITVIKAPREKYWLQFFIPLLVVILFAVDTGLFISTQQQVTFLLKIKRTR
+KGFRLLNPHPKPNPKNN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0015998|High affinity immunoglobulin epsilon receptor subunit alpha (FCER1A)
+ATGGCTCCTGCCATGGAATCCCCTACTCTACTGTGTGTAGCCTTACTGTTCTTCGCTCCA
+GATGGCGTGTTAGCAGTCCCTCAGAAACCTAAGGTCTCCTTGAACCCTCCATGGAATAGA
+ATATTTAAAGGAGAGAATGTGACTCTTACATGTAATGGGAACAATTTCTTTGAAGTCAGT
+TCCACCAAATGGTTCCACAATGGCAGCCTTTCAGAAGAGACAAATTCAAGTTTGAATATT
+GTGAATGCCAAATTTGAAGACAGTGGAGAATACAAATGTCAGCACCAACAAGTTAATGAG
+AGTGAACCTGTGTACCTGGAAGTCTTCAGTGACTGGCTGCTCCTTCAGGCCTCTGCTGAG
+GTGGTGATGGAGGGCCAGCCCCTCTTCCTCAGGTGCCATGGTTGGAGGAACTGGGATGTG
+TACAAGGTGATCTATTATAAGGATGGTGAAGCTCTCAAGTACTGGTATGAGAACCACAAC
+ATCTCCATTACAAATGCCACAGTTGAAGACAGTGGAACCTACTACTGTACGGGCAAAGTG
+TGGCAGCTGGACTATGAGTCTGAGCCCCTCAACATTACTGTAATAAAAGCTCCGCGTGAG
+AAGTACTGGCTACAATTTTTTATCCCATTGTTGGTGGTGATTCTGTTTGCTGTGGACACA
+GGATTATTTATCTCAACTCAGCAGCAGGTCACATTTCTCTTGAAGATTAAGAGAACCAGG
+AAAGGCTTCAGACTTCTGAACCCACATCCTAAGCCAAACCCCAAAAACAACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF13895</identifier>
+            <name>Ig_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>IgE receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of JUN kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukotriene biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of calcium-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of granulocyte macrophage colony-stimulating factor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-3 biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of mast cell degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of type I hypersensitivity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>serotonin secretion</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002139</id>
+      <name>High affinity immunoglobulin epsilon receptor subunit beta</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13192</ref-id>
+            <pubmed-id>17073688</pubmed-id>
+            <citation>DuBuske LM: IgE, allergic diseases, and omalizumab. Curr Pharm Des. 2006;12(30):3929-44.</citation>
+          </article>
+          <article>
+            <ref-id>A39250</ref-id>
+            <pubmed-id>11678779</pubmed-id>
+            <citation>Raunio H, Rautio A, Gullsten H, Pelkonen O: Polymorphisms of CYP2A6 and its practical consequences. Br J Clin Pharmacol. 2001 Oct;52(4):357-63.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q01362" source="Swiss-Prot">
+        <name>High affinity immunoglobulin epsilon receptor subunit beta</name>
+        <general-function>Ige receptor activity</general-function>
+        <specific-function>High affinity receptor that binds to the Fc region of immunoglobulins epsilon. Aggregation of FCER1 by multivalent antigens is required for the full mast cell response, including the release of preformed mediators (such as histamine) by degranulation and de novo production of lipid mediators and cytokines. Also mediates the secretion of important lymphokines. Binding of allergen to receptor-bound IgE leads to cell activation and the release of mediators responsible for the manifestations of allergy.</specific-function>
+        <gene-name>MS4A2</gene-name>
+        <locus>11q13</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>60-79
+98-117
+131-150
+181-200</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>4.78</theoretical-pi>
+        <molecular-weight>26533.365</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:7316</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>MS4A2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D10583</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>219882</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q01362</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FCERB_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>APY</synonym>
+          <synonym>Fc epsilon receptor I beta-chain</synonym>
+          <synonym>FCER1B</synonym>
+          <synonym>FcERI</synonym>
+          <synonym>IgE Fc receptor subunit beta</synonym>
+          <synonym>IGER</synonym>
+          <synonym>Membrane-spanning 4-domains subfamily A member 2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011551|High affinity immunoglobulin epsilon receptor subunit beta
+MDTESNRRANLALPQEPSSVPAFEVLEISPQEVSSGRLLKSASSPPLHTWLTVLKKEQEF
+LGVTQILTAMICLCFGTVVCSVLDISHIEGDIFSSFKAGYPFWGAIFFSISGMLSIISER
+RNATYLVRGSLGANTASSIAGGTGITILIINLKKSLAYIHIHSCQKFFETKCFMASFSTE
+IVVMMLFLTILGLGSAVSLTICGAGEELKGNKVPEDRVYEELNIYSATYSELEDPGEMSP
+PIDL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011552|High affinity immunoglobulin epsilon receptor subunit beta (MS4A2)
+ATGGACACAGAAAGTAATAGGAGAGCAAATCTTGCTCTCCCACAGGAGCCTTCCAGTGTG
+CCTGCATTTGAAGTCTTGGAAATATCTCCCCAGGAAGTATCTTCAGGCAGACTATTGAAG
+TCGGCCTCATCCCCACCACTGCATACATGGCTGACAGTTTTGAAAAAAGAGCAGGAGTTC
+CTGGGGGTAACACAAATTCTGACTGCTATGATATGCCTTTGTTTTGGAACAGTTGTCTGC
+TCTGTACTTGATATTTCACACATTGAGGGAGACATTTTTTCATCATTTAAAGCAGGTTAT
+CCATTCTGGGGAGCCATATTTTTTTCTATTTCTGGAATGTTGTCAATTATATCTGAAAGG
+AGAAATGCAACATATCTGGTGAGAGGAAGCCTGGGAGCAAACACTGCCAGCAGCATAGCT
+GGGGGAACGGGAATTACCATCCTGATCATCAACCTGAAGAAGAGCTTGGCCTATATCCAC
+ATCCACAGTTGCCAGAAATTTTTTGAGACCAAGTGCTTTATGGCTTCCTTTTCCACTGAA
+ATTGTAGTGATGATGCTGTTTCTCACCATTCTGGGACTTGGTAGTGCTGTGTCACTCACA
+ATCTGTGGAGCTGGGGAAGAACTCAAAGGAAACAAGGTTCCAGAGGATCGTGTTTATGAA
+GAATTAAACATATATTCAGCTACTTACAGTGAGTTGGAAGACCCAGGGGAAATGTCTCCT
+CCCATTGATTTATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF04103</identifier>
+            <name>CD20</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Fc-epsilon receptor I complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane raft</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>IgE receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of phospholipase C activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Fc-epsilon receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of mast cell degranulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein kinase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of release of sequestered calcium ion into cytosol</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

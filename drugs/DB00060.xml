@@ -1,0 +1,2890 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00060</drugbank-id>
+  <drugbank-id>BTD00093</drugbank-id>
+  <drugbank-id>BIOD00093</drugbank-id>
+  <name>Interferon beta-1a</name>
+  <description>Human interferon beta (166 residues), glycosylated, MW=22.5kD. It is produced by mammalian cells (Chinese Hamster Ovary cells) into which the human interferon beta gene has been introduced. The amino acid sequence is identical to that of natural human interferon beta.</description>
+  <cas-number>145258-61-3</cas-number>
+  <unii>XRO4566Q4R</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Heinz-Jurgen Friesen, Sidney Pestka, "Preparation of homogeneous human fibroblast interferon." U.S. Patent US4289689, issued December, 1968.</synthesis-reference>
+  <indication>For treatment of relapsing/remitting multiple sclerosis, also for condyloma acuminatum</indication>
+  <pharmacodynamics>Interferon beta upregulates the expression of MHC I proteins, allowing for increased presentation of peptides derived from viral antigens. This enhances the activation of CD8+ T cells that are the precursors for cytotoxic T lymphocytes (CTLs) and makes the macrophage a better target for CTL-mediated killing. Type I interferons also induce the synthesis of several key antiviral mediators including 2'-5' oligoadenylate synthetase (2'-5' A synthetase), beta-2 microglobulin and neopterin.</pharmacodynamics>
+  <mechanism-of-action>Interferon beta binds to type I interferon receptors (IFNAR1 and IFNAR2c) which, upon dimerization, activate two Jak (Janus kinase) tyrosine kinases (Jak1 and Tyk2). These transphosphorylate themselves and phosphorylate the receptors. The phosphorylated INFAR receptors then bind to Stat1 and Stat2 (signal transducers and activators of transcription) which dimerize and activate multiple (~100) immunomodulatory and antiviral proteins. Interferon beta binds more stably to type I interferon receptors than interferon alpha.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>10 hrs</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance>* 33-55 L/hour [Healthy SC injection of 60 mcg]</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Interferon beta 1-a</synonym>
+    <synonym language="english" coder="">Interferon beta 1a</synonym>
+    <synonym language="english" coder="">Interferon beta-1a (recombinant human)</synonym>
+    <synonym language="english" coder="">Interferon beta-1a,recombinant</synonym>
+    <synonym language="english" coder="">Interferon-beta-1a</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-05-17</started-marketing-on>
+      <ended-marketing-on>2016-07-31</ended-marketing-on>
+      <dosage-form>Injection, powder, lyophilized, for solution</dosage-form>
+      <strength>30 ug/1mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-333</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-08-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-222</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-08-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-111</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2014-08-29</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-002</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-05-23</started-marketing-on>
+      <ended-marketing-on>2016-08-31</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 ug/0.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Netherlands B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000102</ema-product-code>
+      <ema-ma-number>EU/1/97/033/003</ema-ma-number>
+      <started-marketing-on>1997-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Netherlands B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000102</ema-product-code>
+      <ema-ma-number>EU/1/97/033/004</ema-ma-number>
+      <started-marketing-on>1997-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Netherlands B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000102</ema-product-code>
+      <ema-ma-number>EU/1/97/033/005</ema-ma-number>
+      <started-marketing-on>1997-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen Netherlands B.V.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000102</ema-product-code>
+      <ema-ma-number>EU/1/97/033/006</ema-ma-number>
+      <started-marketing-on>1997-03-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237770</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-06-19</started-marketing-on>
+      <ended-marketing-on>2010-10-30</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02267594</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>60 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Avonex</name>
+      <labeller>Biogen</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02269201</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-12-02</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>30 mcg</strength>
+      <route>Intramuscular</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Avonex Pen</name>
+      <labeller>Biogen Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>59627-003</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-05-23</started-marketing-on>
+      <ended-marketing-on>2016-06-30</ended-marketing-on>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>30 ug/0.5mL</strength>
+      <route>Intramuscular</route>
+      <fda-application-number>BLA103628</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-8822</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-12-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-8822</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-12-17</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-0022</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-03-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>22 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-0044</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-03-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>44 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237319</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>22 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237320</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-02-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>44 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02318253</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-05-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>66 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02318261</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-05-14</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>132 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237317</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-04-03</started-marketing-on>
+      <ended-marketing-on>2011-05-09</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder</dosage-form>
+      <strength/>
+      <route>Intralesional; Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02277492</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-05-30</started-marketing-on>
+      <ended-marketing-on>2013-08-09</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength>8.8 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02318288</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>132 mcg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02281708</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-06-19</started-marketing-on>
+      <ended-marketing-on>2013-08-09</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02281708</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-06-19</started-marketing-on>
+      <ended-marketing-on>2013-08-09</ended-marketing-on>
+      <dosage-form>Kit; Liquid; Powder, for solution</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Rebif Rebidose</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-0188</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif Rebidose</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-0188</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif Rebidose</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-3322</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>22 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Rebif Rebidose</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-3344</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-12-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, solution</dosage-form>
+      <strength>44 ug/0.5mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>BLA103780</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Betaferon</name>
+      <company>Bayer</company>
+    </international-brand>
+    <international-brand>
+      <name>Blastoferon</name>
+      <company>Sidus</company>
+    </international-brand>
+    <international-brand>
+      <name>Uribeta</name>
+      <company>Probiomed</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex Pen</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif Rebidose</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif Rebidose</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif Rebidose</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif Rebidose</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a + Sodium chloride</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a + Water</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Rebif</name>
+      <ingredients>Interferon beta-1a + Interferon beta-1a</ingredients>
+    </mixture>
+    <mixture>
+      <name>Avonex</name>
+      <ingredients>Interferon beta-1a</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Biogen Idec Inc.</name>
+      <url>http://www.biogenidec.com</url>
+    </packager>
+    <packager>
+      <name>EMD Canada Inc.</name>
+      <url>http://www.emdcanada.com</url>
+    </packager>
+    <packager>
+      <name>Merck KGaA</name>
+      <url>http://www.merck.de</url>
+    </packager>
+    <packager>
+      <name>Merck Serono SPA</name>
+      <url>http://www.merckserono.net</url>
+    </packager>
+    <packager>
+      <name>Pierre Fabre</name>
+      <url>http://www.pierre-fabre.com</url>
+    </packager>
+    <packager>
+      <name>Vetter Pharma Fertigung GmbH and Co. KG</name>
+      <url>http://www.vetter-pharma.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Biogen Idec</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Rebif 22 mcg/0.5 ml syringe</description>
+      <cost currency="USD">247.79</cost>
+      <unit>syringe</unit>
+    </price>
+    <price>
+      <description>Rebif 44 mcg/0.5 ml syringe</description>
+      <cost currency="USD">247.79</cost>
+      <unit>syringe</unit>
+    </price>
+    <price>
+      <description>Avonex admin pack 30 mcg vial</description>
+      <cost currency="USD">781.8</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Avonex 4 30 mcg/vial Kit 1 Box = 4 Vials ( 0.5ml Per Vial)</description>
+      <cost currency="USD">3252.29</cost>
+      <unit>box</unit>
+    </price>
+    <price>
+      <description>Avonex Prefilled (1 Box = 1 Kit = Four 30 mcg/0.5ml Syringes) Box</description>
+      <cost currency="USD">3252.29</cost>
+      <unit>box</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Adjuvants, Immunologic</category>
+      <mesh-id>D000276</mesh-id>
+    </category>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents</category>
+      <mesh-id>D000890</mesh-id>
+    </category>
+    <category>
+      <category>Antineoplastic and Immunomodulating Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Antiviral Agents</category>
+      <mesh-id>D000998</mesh-id>
+    </category>
+    <category>
+      <category>Biological Factors</category>
+      <mesh-id>D001685</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP1A2 Inhibitors</category>
+      <mesh-id>D065609</mesh-id>
+    </category>
+    <category>
+      <category>Cytochrome P-450 CYP1A2 Inhibitors (strength unknown)</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Cytochrome P-450 Enzyme Inhibitors</category>
+      <mesh-id>D065607</mesh-id>
+    </category>
+    <category>
+      <category>Cytokines</category>
+      <mesh-id>D016207</mesh-id>
+    </category>
+    <category>
+      <category>Immunologic Factors</category>
+      <mesh-id>D007155</mesh-id>
+    </category>
+    <category>
+      <category>Immunomodulatory Agents</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Intercellular Signaling Peptides and Proteins</category>
+      <mesh-id>D036341</mesh-id>
+    </category>
+    <category>
+      <category>Interferon Type I</category>
+      <mesh-id>D007370</mesh-id>
+    </category>
+    <category>
+      <category>Interferon-beta</category>
+      <mesh-id>D016899</mesh-id>
+    </category>
+    <category>
+      <category>Interferons</category>
+      <mesh-id>D007372</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Recombinant Human Interferon beta</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms/>
+  <dosages>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>30 µg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>30 MCG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intramuscular</route>
+      <strength>30 ug/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>30 MCG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>60 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>30 MCG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>30 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Intramuscular</route>
+      <strength>30 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intramuscular</route>
+      <strength>30 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>22 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Cutaneous; Parenteral</route>
+      <strength>8.8 mcg/0.1ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>22 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Parenteral; Subcutaneous</route>
+      <strength>44 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>22 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>22 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>44 ug/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>44 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>8.8 MCG</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; liquid; powder</form>
+      <route>Intralesional; Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit; liquid; powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>132 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>44 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>66 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Subcutaneous</route>
+      <strength>8.8 mcg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>132 mcg/1.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route>Intramuscular</route>
+      <strength>22 MCG/0.5ML</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>22 mcg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>22 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route/>
+      <strength>44 mcg/0.5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>44 mcg/0.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, solution</form>
+      <route>Subcutaneous</route>
+      <strength>66 mcg/1.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>1000.000 U.I.</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intramuscular</route>
+      <strength>3000.000 U.I.</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="L03AB07">
+      <level code="L03AB">Interferons</level>
+      <level code="L03A">IMMUNOSTIMULANTS</level>
+      <level code="L03">IMMUNOSTIMULANTS</level>
+      <level code="L">ANTINEOPLASTIC AND IMMUNOMODULATING AGENTS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>92:20.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00060.pdf?1265922813</fda-label>
+  <patents>
+    <patent>
+      <number>1341604</number>
+      <country>Canada</country>
+      <approved>2010-05-04</approved>
+      <expires>2027-05-04</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00315</drugbank-id>
+      <name>Zolmitriptan</name>
+      <description>The metabolism of Zolmitriptan can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00201</drugbank-id>
+      <name>Caffeine</name>
+      <description>The metabolism of Caffeine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00651</drugbank-id>
+      <name>Dyphylline</name>
+      <description>The metabolism of Dyphylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00806</drugbank-id>
+      <name>Pentoxifylline</name>
+      <description>The metabolism of Pentoxifylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01033</drugbank-id>
+      <name>Mercaptopurine</name>
+      <description>The metabolism of Mercaptopurine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01303</drugbank-id>
+      <name>Oxtriphylline</name>
+      <description>The metabolism of Oxtriphylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01412</drugbank-id>
+      <name>Theobromine</name>
+      <description>The metabolism of Theobromine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01482</drugbank-id>
+      <name>Fenethylline</name>
+      <description>The metabolism of Fenethylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01667</drugbank-id>
+      <name>8-azaguanine</name>
+      <description>The metabolism of 8-azaguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01978</drugbank-id>
+      <name>7,9-Dimethylguanine</name>
+      <description>The metabolism of 7,9-Dimethylguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02134</drugbank-id>
+      <name>Xanthine</name>
+      <description>The metabolism of Xanthine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02245</drugbank-id>
+      <name>7-Deazaguanine</name>
+      <description>The metabolism of 7-Deazaguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02377</drugbank-id>
+      <name>Guanine</name>
+      <description>The metabolism of Guanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02489</drugbank-id>
+      <name>9-Methylguanine</name>
+      <description>The metabolism of 9-Methylguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02568</drugbank-id>
+      <name>Peldesine</name>
+      <description>The metabolism of Peldesine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04076</drugbank-id>
+      <name>Hypoxanthine</name>
+      <description>The metabolism of Hypoxanthine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04356</drugbank-id>
+      <name>9-Deazaguanine</name>
+      <description>The metabolism of 9-Deazaguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06479</drugbank-id>
+      <name>Propentofylline</name>
+      <description>The metabolism of Propentofylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06575</drugbank-id>
+      <name>Valomaciclovir</name>
+      <description>The metabolism of Valomaciclovir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07954</drugbank-id>
+      <name>3-isobutyl-1-methyl-7H-xanthine</name>
+      <description>The metabolism of 3-isobutyl-1-methyl-7H-xanthine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08844</drugbank-id>
+      <name>Uric acid</name>
+      <description>The metabolism of Uric acid can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09273</drugbank-id>
+      <name>Doxofylline</name>
+      <description>The metabolism of Doxofylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11919</drugbank-id>
+      <name>6-O-benzylguanine</name>
+      <description>The metabolism of 6-O-benzylguanine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12406</drugbank-id>
+      <name>Lisofylline</name>
+      <description>The metabolism of Lisofylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12531</drugbank-id>
+      <name>Lobucavir</name>
+      <description>The metabolism of Lobucavir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12926</drugbank-id>
+      <name>Cafedrine</name>
+      <description>The metabolism of Cafedrine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12927</drugbank-id>
+      <name>Theodrenaline</name>
+      <description>The metabolism of Theodrenaline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13203</drugbank-id>
+      <name>Bamifylline</name>
+      <description>The metabolism of Bamifylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13449</drugbank-id>
+      <name>Proxyphylline</name>
+      <description>The metabolism of Proxyphylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13573</drugbank-id>
+      <name>Acefylline</name>
+      <description>The metabolism of Acefylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13592</drugbank-id>
+      <name>Etamiphylline</name>
+      <description>The metabolism of Etamiphylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13634</drugbank-id>
+      <name>Pentifylline</name>
+      <description>The metabolism of Pentifylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13812</drugbank-id>
+      <name>Bufylline</name>
+      <description>The metabolism of Bufylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14018</drugbank-id>
+      <name>Bromotheophylline</name>
+      <description>The metabolism of Bromotheophylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14029</drugbank-id>
+      <name>Furafylline</name>
+      <description>The metabolism of Furafylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14132</drugbank-id>
+      <name>8-chlorotheophylline</name>
+      <description>The metabolism of 8-chlorotheophylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15122</drugbank-id>
+      <name>PCS-499</name>
+      <description>The metabolism of PCS-499 can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00176</drugbank-id>
+      <name>Fluvoxamine</name>
+      <description>The metabolism of Fluvoxamine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00184</drugbank-id>
+      <name>Nicotine</name>
+      <description>The metabolism of Nicotine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00188</drugbank-id>
+      <name>Bortezomib</name>
+      <description>The metabolism of Bortezomib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00195</drugbank-id>
+      <name>Betaxolol</name>
+      <description>The metabolism of Betaxolol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00262</drugbank-id>
+      <name>Carmustine</name>
+      <description>The metabolism of Carmustine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00280</drugbank-id>
+      <name>Disopyramide</name>
+      <description>The metabolism of Disopyramide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00281</drugbank-id>
+      <name>Lidocaine</name>
+      <description>The metabolism of Lidocaine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>The metabolism of Conjugated estrogens can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00296</drugbank-id>
+      <name>Ropivacaine</name>
+      <description>The metabolism of Ropivacaine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00316</drugbank-id>
+      <name>Acetaminophen</name>
+      <description>The metabolism of Acetaminophen can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00334</drugbank-id>
+      <name>Olanzapine</name>
+      <description>The metabolism of Olanzapine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00356</drugbank-id>
+      <name>Chlorzoxazone</name>
+      <description>The metabolism of Chlorzoxazone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00363</drugbank-id>
+      <name>Clozapine</name>
+      <description>The metabolism of Clozapine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00365</drugbank-id>
+      <name>Grepafloxacin</name>
+      <description>The metabolism of Grepafloxacin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00370</drugbank-id>
+      <name>Mirtazapine</name>
+      <description>The metabolism of Mirtazapine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00379</drugbank-id>
+      <name>Mexiletine</name>
+      <description>The metabolism of Mexiletine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00382</drugbank-id>
+      <name>Tacrine</name>
+      <description>The metabolism of Tacrine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00384</drugbank-id>
+      <name>Triamterene</name>
+      <description>The metabolism of Triamterene can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00420</drugbank-id>
+      <name>Promazine</name>
+      <description>The metabolism of Promazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00425</drugbank-id>
+      <name>Zolpidem</name>
+      <description>The metabolism of Zolpidem can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00442</drugbank-id>
+      <name>Entecavir</name>
+      <description>The metabolism of Entecavir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00461</drugbank-id>
+      <name>Nabumetone</name>
+      <description>The metabolism of Nabumetone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00468</drugbank-id>
+      <name>Quinine</name>
+      <description>The metabolism of Quinine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00472</drugbank-id>
+      <name>Fluoxetine</name>
+      <description>The metabolism of Fluoxetine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00476</drugbank-id>
+      <name>Duloxetine</name>
+      <description>The metabolism of Duloxetine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00477</drugbank-id>
+      <name>Chlorpromazine</name>
+      <description>The metabolism of Chlorpromazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00499</drugbank-id>
+      <name>Flutamide</name>
+      <description>The metabolism of Flutamide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00502</drugbank-id>
+      <name>Haloperidol</name>
+      <description>The metabolism of Haloperidol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00518</drugbank-id>
+      <name>Albendazole</name>
+      <description>The metabolism of Albendazole can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00533</drugbank-id>
+      <name>Rofecoxib</name>
+      <description>The metabolism of Rofecoxib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00568</drugbank-id>
+      <name>Cinnarizine</name>
+      <description>The metabolism of Cinnarizine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00571</drugbank-id>
+      <name>Propranolol</name>
+      <description>The metabolism of Propranolol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00586</drugbank-id>
+      <name>Diclofenac</name>
+      <description>The metabolism of Diclofenac can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00619</drugbank-id>
+      <name>Imatinib</name>
+      <description>The metabolism of Imatinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00629</drugbank-id>
+      <name>Guanabenz</name>
+      <description>The metabolism of Guanabenz can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00642</drugbank-id>
+      <name>Pemetrexed</name>
+      <description>The metabolism of Pemetrexed can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00661</drugbank-id>
+      <name>Verapamil</name>
+      <description>The metabolism of Verapamil can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00715</drugbank-id>
+      <name>Paroxetine</name>
+      <description>The metabolism of Paroxetine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00730</drugbank-id>
+      <name>Thiabendazole</name>
+      <description>The metabolism of Thiabendazole can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00740</drugbank-id>
+      <name>Riluzole</name>
+      <description>The metabolism of Riluzole can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00744</drugbank-id>
+      <name>Zileuton</name>
+      <description>The metabolism of Zileuton can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00758</drugbank-id>
+      <name>Clopidogrel</name>
+      <description>The metabolism of Clopidogrel can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>The metabolism of Estradiol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00787</drugbank-id>
+      <name>Acyclovir</name>
+      <description>The metabolism of Acyclovir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00788</drugbank-id>
+      <name>Naproxen</name>
+      <description>The metabolism of Naproxen can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00831</drugbank-id>
+      <name>Trifluoperazine</name>
+      <description>The metabolism of Trifluoperazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00850</drugbank-id>
+      <name>Perphenazine</name>
+      <description>The metabolism of Perphenazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00857</drugbank-id>
+      <name>Terbinafine</name>
+      <description>The metabolism of Terbinafine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00863</drugbank-id>
+      <name>Ranitidine</name>
+      <description>The metabolism of Ranitidine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00898</drugbank-id>
+      <name>Ethanol</name>
+      <description>The metabolism of Ethanol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00934</drugbank-id>
+      <name>Maprotiline</name>
+      <description>The metabolism of Maprotiline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00969</drugbank-id>
+      <name>Alosetron</name>
+      <description>The metabolism of Alosetron can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00978</drugbank-id>
+      <name>Lomefloxacin</name>
+      <description>The metabolism of Lomefloxacin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00980</drugbank-id>
+      <name>Ramelteon</name>
+      <description>The metabolism of Ramelteon can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00993</drugbank-id>
+      <name>Azathioprine</name>
+      <description>The metabolism of Azathioprine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00998</drugbank-id>
+      <name>Frovatriptan</name>
+      <description>The metabolism of Frovatriptan can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01002</drugbank-id>
+      <name>Levobupivacaine</name>
+      <description>The metabolism of Levobupivacaine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01012</drugbank-id>
+      <name>Cinacalcet</name>
+      <description>The metabolism of Cinacalcet can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01037</drugbank-id>
+      <name>Selegiline</name>
+      <description>The metabolism of Selegiline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01056</drugbank-id>
+      <name>Tocainide</name>
+      <description>The metabolism of Tocainide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01058</drugbank-id>
+      <name>Praziquantel</name>
+      <description>The metabolism of Praziquantel can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01065</drugbank-id>
+      <name>Melatonin</name>
+      <description>The metabolism of Melatonin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01087</drugbank-id>
+      <name>Primaquine</name>
+      <description>The metabolism of Primaquine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01094</drugbank-id>
+      <name>Hesperetin</name>
+      <description>The metabolism of Hesperetin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01097</drugbank-id>
+      <name>Leflunomide</name>
+      <description>The metabolism of Leflunomide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01115</drugbank-id>
+      <name>Nifedipine</name>
+      <description>The metabolism of Nifedipine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01136</drugbank-id>
+      <name>Carvedilol</name>
+      <description>The metabolism of Carvedilol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01166</drugbank-id>
+      <name>Cilostazol</name>
+      <description>The metabolism of Cilostazol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01182</drugbank-id>
+      <name>Propafenone</name>
+      <description>The metabolism of Propafenone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01184</drugbank-id>
+      <name>Domperidone</name>
+      <description>The metabolism of Domperidone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01191</drugbank-id>
+      <name>Dexfenfluramine</name>
+      <description>The metabolism of Dexfenfluramine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01367</drugbank-id>
+      <name>Rasagiline</name>
+      <description>The metabolism of Rasagiline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01405</drugbank-id>
+      <name>Temafloxacin</name>
+      <description>The metabolism of Temafloxacin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01424</drugbank-id>
+      <name>Aminophenazone</name>
+      <description>The metabolism of Aminophenazone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01435</drugbank-id>
+      <name>Antipyrine</name>
+      <description>The metabolism of Antipyrine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01558</drugbank-id>
+      <name>Bromazepam</name>
+      <description>The metabolism of Bromazepam can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01623</drugbank-id>
+      <name>Thiothixene</name>
+      <description>The metabolism of Thiothixene can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01628</drugbank-id>
+      <name>Etoricoxib</name>
+      <description>The metabolism of Etoricoxib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01645</drugbank-id>
+      <name>Genistein</name>
+      <description>The metabolism of Genistein can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB02709</drugbank-id>
+      <name>Resveratrol</name>
+      <description>The metabolism of Resveratrol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03783</drugbank-id>
+      <name>Phenacetin</name>
+      <description>The metabolism of Phenacetin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>The metabolism of Estrone sulfate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04841</drugbank-id>
+      <name>Flunarizine</name>
+      <description>The metabolism of Flunarizine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04871</drugbank-id>
+      <name>Lorcaserin</name>
+      <description>The metabolism of Lorcaserin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04948</drugbank-id>
+      <name>Lofexidine</name>
+      <description>The metabolism of Lofexidine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04951</drugbank-id>
+      <name>Pirfenidone</name>
+      <description>The metabolism of Pirfenidone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05676</drugbank-id>
+      <name>Apremilast</name>
+      <description>The metabolism of Apremilast can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06148</drugbank-id>
+      <name>Mianserin</name>
+      <description>The metabolism of Mianserin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06210</drugbank-id>
+      <name>Eltrombopag</name>
+      <description>The metabolism of Eltrombopag can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06216</drugbank-id>
+      <name>Asenapine</name>
+      <description>The metabolism of Asenapine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06235</drugbank-id>
+      <name>Vadimezan</name>
+      <description>The metabolism of Vadimezan can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06292</drugbank-id>
+      <name>Dapagliflozin</name>
+      <description>The metabolism of Dapagliflozin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06589</drugbank-id>
+      <name>Pazopanib</name>
+      <description>The metabolism of Pazopanib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06594</drugbank-id>
+      <name>Agomelatine</name>
+      <description>The metabolism of Agomelatine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06770</drugbank-id>
+      <name>Benzyl alcohol</name>
+      <description>The metabolism of Benzyl alcohol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06774</drugbank-id>
+      <name>Capsaicin</name>
+      <description>The metabolism of Capsaicin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The metabolism of (R)-warfarin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08883</drugbank-id>
+      <name>Perampanel</name>
+      <description>The metabolism of Perampanel can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09071</drugbank-id>
+      <name>Tasimelteon</name>
+      <description>The metabolism of Tasimelteon can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09118</drugbank-id>
+      <name>Stiripentol</name>
+      <description>The metabolism of Stiripentol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09225</drugbank-id>
+      <name>Zotepine</name>
+      <description>The metabolism of Zotepine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09288</drugbank-id>
+      <name>Propacetamol</name>
+      <description>The metabolism of Propacetamol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09290</drugbank-id>
+      <name>Ramosetron</name>
+      <description>The metabolism of Ramosetron can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11967</drugbank-id>
+      <name>Binimetinib</name>
+      <description>The metabolism of Binimetinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12026</drugbank-id>
+      <name>Voxilaprevir</name>
+      <description>The metabolism of Voxilaprevir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12245</drugbank-id>
+      <name>Triclabendazole</name>
+      <description>The metabolism of Triclabendazole can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12332</drugbank-id>
+      <name>Rucaparib</name>
+      <description>The metabolism of Rucaparib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12945</drugbank-id>
+      <name>Dihydralazine</name>
+      <description>The metabolism of Dihydralazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>The metabolism of Estradiol acetate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>The metabolism of Estradiol benzoate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>The metabolism of Estradiol cypionate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13955</drugbank-id>
+      <name>Estradiol dienanthate</name>
+      <description>The metabolism of Estradiol dienanthate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>The metabolism of Estradiol valerate can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11757</drugbank-id>
+      <name>Istradefylline</name>
+      <description>The metabolism of Istradefylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00972</drugbank-id>
+      <name>Azelastine</name>
+      <description>The metabolism of Azelastine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00625</drugbank-id>
+      <name>Efavirenz</name>
+      <description>The metabolism of Efavirenz can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01233</drugbank-id>
+      <name>Metoclopramide</name>
+      <description>The metabolism of Metoclopramide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04889</drugbank-id>
+      <name>Bicifadine</name>
+      <description>The metabolism of Bicifadine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05708</drugbank-id>
+      <name>GTS-21</name>
+      <description>The metabolism of GTS-21 can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01195</drugbank-id>
+      <name>Flecainide</name>
+      <description>The metabolism of Flecainide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>The metabolism of Ethinylestradiol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00321</drugbank-id>
+      <name>Amitriptyline</name>
+      <description>The metabolism of Amitriptyline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01142</drugbank-id>
+      <name>Doxepin</name>
+      <description>The metabolism of Doxepin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00532</drugbank-id>
+      <name>Mephenytoin</name>
+      <description>The metabolism of Mephenytoin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00924</drugbank-id>
+      <name>Cyclobenzaprine</name>
+      <description>The metabolism of Cyclobenzaprine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11689</drugbank-id>
+      <name>Selumetinib</name>
+      <description>The metabolism of Selumetinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>The metabolism of Estrone can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00299</drugbank-id>
+      <name>Penciclovir</name>
+      <description>The metabolism of Penciclovir can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00277</drugbank-id>
+      <name>Theophylline</name>
+      <description>The metabolism of Theophylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The metabolism of Warfarin can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00697</drugbank-id>
+      <name>Tizanidine</name>
+      <description>The metabolism of Tizanidine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01100</drugbank-id>
+      <name>Pimozide</name>
+      <description>The metabolism of Pimozide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01223</drugbank-id>
+      <name>Aminophylline</name>
+      <description>The metabolism of Aminophylline can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The metabolism of Acenocoumarol can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00261</drugbank-id>
+      <name>Anagrelide</name>
+      <description>The metabolism of Anagrelide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00398</drugbank-id>
+      <name>Sorafenib</name>
+      <description>The metabolism of Sorafenib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00530</drugbank-id>
+      <name>Erlotinib</name>
+      <description>The metabolism of Erlotinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00544</drugbank-id>
+      <name>Fluorouracil</name>
+      <description>The metabolism of Fluorouracil can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00773</drugbank-id>
+      <name>Etoposide</name>
+      <description>The metabolism of Etoposide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00851</drugbank-id>
+      <name>Dacarbazine</name>
+      <description>The metabolism of Dacarbazine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01254</drugbank-id>
+      <name>Dasatinib</name>
+      <description>The metabolism of Dasatinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06626</drugbank-id>
+      <name>Axitinib</name>
+      <description>The metabolism of Axitinib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06769</drugbank-id>
+      <name>Bendamustine</name>
+      <description>The metabolism of Bendamustine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08910</drugbank-id>
+      <name>Pomalidomide</name>
+      <description>The metabolism of Pomalidomide can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09256</drugbank-id>
+      <name>Tegafur</name>
+      <description>The metabolism of Tegafur can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13874</drugbank-id>
+      <name>Enasidenib</name>
+      <description>The metabolism of Enasidenib can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00675</drugbank-id>
+      <name>Tamoxifen</name>
+      <description>The metabolism of Tamoxifen can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00458</drugbank-id>
+      <name>Imipramine</name>
+      <description>The metabolism of Imipramine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00575</drugbank-id>
+      <name>Clonidine</name>
+      <description>The metabolism of Clonidine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01242</drugbank-id>
+      <name>Clomipramine</name>
+      <description>The metabolism of Clomipramine can be decreased when combined with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10317</drugbank-id>
+      <name>Rubella virus vaccine</name>
+      <description>The therapeutic efficacy of Rubella virus vaccine can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10343</drugbank-id>
+      <name>Bacillus calmette-guerin substrain tice live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain tice live antigen can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10804</drugbank-id>
+      <name>Bacillus calmette-guerin substrain connaught live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain connaught live antigen can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10805</drugbank-id>
+      <name>Yellow Fever Vaccine</name>
+      <description>The therapeutic efficacy of Yellow Fever Vaccine can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11003</drugbank-id>
+      <name>Anthrax vaccine</name>
+      <description>The therapeutic efficacy of Anthrax vaccine can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11050</drugbank-id>
+      <name>Typhoid Vaccine Live</name>
+      <description>The therapeutic efficacy of Typhoid Vaccine Live can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12386</drugbank-id>
+      <name>Bacillus calmette-guerin substrain danish 1331 live antigen</name>
+      <description>The therapeutic efficacy of Bacillus calmette-guerin substrain danish 1331 live antigen can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The therapeutic efficacy of BCG vaccine can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14409</drugbank-id>
+      <name>Human adenovirus e serotype 4 strain cl-68578 antigen</name>
+      <description>The therapeutic efficacy of Human adenovirus e serotype 4 strain cl-68578 antigen can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The therapeutic efficacy of Vibrio cholerae CVD 103-HgR strain live antigen can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14685</drugbank-id>
+      <name>Adenovirus type 7 vaccine live</name>
+      <description>The therapeutic efficacy of Adenovirus type 7 vaccine live can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB10318</drugbank-id>
+      <name>Varicella Zoster Vaccine (Live/attenuated)</name>
+      <description>The therapeutic efficacy of Varicella Zoster Vaccine (Live/attenuated) can be decreased when used in combination with Interferon beta-1a.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00268</drugbank-id>
+      <name>Ropinirole</name>
+      <description>The risk or severity of adverse effects can be increased when Interferon beta-1a is combined with Ropinirole.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00060 sequence
+MSYNLLGFLQRSSNFQCQKLLWQLNGRLEYCLKDRMNFDIPEEIKQLQQFQKEDAALTIY
+EMLQNIFAIFRQDSSSTGWNETIVENLLANVYHQINHLKTVLEEKLEKEDFTRGKLMSSL
+HLKRYYGRILHYLKAKEYSHCAWTIVRVEILRNFYFINRLTGYLRN</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.427</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>8.93</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>20027.0</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C908H1408N246O252S7</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>11746</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46504899</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>V00534</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA450037</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P01574</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001282</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Interferon_beta-1a</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201562</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>75917</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/rebif.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/interferon-beta-1a.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000661</id>
+      <name>Interferon alpha/beta receptor 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A14065</ref-id>
+            <pubmed-id>10049744</pubmed-id>
+            <citation>Russell-Harde D, Wagner TC, Perez HD, Croze E: Formation of a uniquely stable type I interferon receptor complex by interferon beta is dependent upon particular interactions between interferon beta and its receptor and independent of tyrosine phosphorylation. Biochem Biophys Res Commun. 1999 Feb 16;255(2):539-44.</citation>
+          </article>
+          <article>
+            <ref-id>A16953</ref-id>
+            <pubmed-id>16912135</pubmed-id>
+            <citation>van Koetsveld PM, Vitale G, de Herder WW, Feelders RA, van der Wansem K, Waaijers M, van Eijck CH, Speel EJ, Croze E, van der Lely AJ, Lamberts SW, Hofland LJ: Potent inhibitory effects of type I interferons on human adrenocortical carcinoma cell growth. J Clin Endocrinol Metab. 2006 Nov;91(11):4537-43. Epub 2006 Aug 15.</citation>
+          </article>
+          <article>
+            <ref-id>A16954</ref-id>
+            <pubmed-id>12034032</pubmed-id>
+            <citation>Dupont SA, Goelz S, Goyal J, Green M: Mechanisms for regulation of cellular responsiveness to human IFN-beta1a. J Interferon Cytokine Res. 2002 Apr;22(4):491-501.</citation>
+          </article>
+          <article>
+            <ref-id>A16955</ref-id>
+            <pubmed-id>11747625</pubmed-id>
+            <citation>Runkel L, De Dios C, Karpusas M, Baker D, Li Z, Zafari M, Betzenhauser M, Muldowney C, Miller S, Redlich PN, Grossberg SE, Whitty A, Hochman PS: Mapping of IFN-beta epitopes important for receptor binding and biologic activation: comparison of results achieved using antibody-based methods and alanine substitution mutagenesis. J Interferon Cytokine Res. 2001 Nov;21(11):931-41.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P17181" source="Swiss-Prot">
+        <name>Interferon alpha/beta receptor 1</name>
+        <general-function>Type i interferon receptor activity</general-function>
+        <specific-function>Associates with IFNAR2 to form the type I interferon receptor. Receptor for interferons alpha and beta. Binding to type I IFNs triggers tyrosine phosphorylation of a number of proteins including JAKs, TYK2, STAT proteins and IFNR alpha- and beta-subunits themselves. Can also transduce IFNB signals without the help of IFNAR2, and not activating the Jak-STAT pathway.</specific-function>
+        <gene-name>IFNAR1</gene-name>
+        <locus/>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>437-457</transmembrane-regions>
+        <signal-regions>1-27</signal-regions>
+        <theoretical-pi>5.56</theoretical-pi>
+        <molecular-weight>63524.81</molecular-weight>
+        <chromosome-location>21</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:5432</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>IFNAR1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>J03171</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>306914</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1723</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P17181</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>INAR1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CRF2-1</synonym>
+          <synonym>Cytokine receptor class-II member 1</synonym>
+          <synonym>Cytokine receptor family 2 member 1</synonym>
+          <synonym>IFN-R-1</synonym>
+          <synonym>IFNAR</synonym>
+          <synonym>Type I interferon receptor 1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001318|Interferon alpha/beta receptor 1
+MMVVLLGATTLVLVAVAPWVLSAAAGGKNLKSPQKVEVDIIDDNFILRWNRSDESVGNVT
+FSFDYQKTGMDNWIKLSGCQNITSTKCNFSSLKLNVYEEIKLRIRAEKENTSSWYEVDSF
+TPFRKAQIGPPEVHLEAEDKAIVIHISPGTKDSVMWALDGLSFTYSLVIWKNSSGVEERI
+ENIYSRHKIYKLSPETTYCLKVKAALLTSWKIGVYSPVHCIKTTVENELPPPENIEVSVQ
+NQNYVLKWDYTYANMTFQVQWLHAFLKRNPGNHLYKWKQIPDCENVKTTQCVFPQNVFQK
+GIYLLRVQASDGNNTSFWSEEIKFDTEIQAFLLPPVFNIRSLSDSFHIYIGAPKQSGNTP
+VIQDYPLIYEIIFWENTSNAERKIIEKKTDVTVPNLKPLTVYCVKARAHTMDEKLNKSSV
+FSDAVCEKTKPGNTSKIWLIVGICIALFALPFVIYAAKVFLRCINYVFFPSLKPSSSIDE
+YFSEQPLKNLLLSTSEEQIEKCFIIENISTIATVEETNQTDEDHKKYSSQTSQDSGNYSN
+EDESESKTSEELQQDFV</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018987|Interferon alpha/beta receptor 1 (IFNAR1)
+ATGATGGTCGTCCTCCTGGGCGCGACGACCCTAGTGCTCGTCGCCGTGGCGCCATGGGTG
+TTGTCCGCAGCCGCAGGTGGAAAAAATCTAAAATCTCCTCAAAAAGTAGAGGTCGACATC
+ATAGATGACAACTTTATCCTGAGGTGGAACAGGAGCGATGAGTCTGTCGGGAATGTGACT
+TTTTCATTCGATTATCAAAAAACTGGGATGGATAATTGGATAAAATTGTCTGGGTGTCAG
+AATATTACTAGTACCAAATGCAACTTTTCTTCACTCAAGCTGAATGTTTATGAAGAAATT
+AAATTGCGTATAAGAGCAGAAAAAGAAAACACTTCTTCATGGTATGAGGTTGACTCATTT
+ACACCATTTCGCAAAGCTCAGATTGGTCCTCCAGAAGTACATTTAGAAGCTGAAGATAAG
+GCAATAGTGATACACATCTCTCCTGGAACAAAAGATAGTGTTATGTGGGCTTTGGATGGT
+TTAAGCTTTACATATAGCTTAGTTATCTGGAAAAACTCTTCAGGTGTAGAAGAAAGGATT
+GAAAATATTTATTCCAGACATAAAATTTATAAACTCTCACCAGAGACTACTTATTGTCTA
+AAAGTTAAAGCAGCACTACTTACGTCATGGAAAATTGGTGTCTATAGTCCAGTACATTGT
+ATAAAGACCACAGTTGAAAATGAACTACCTCCACCAGAAAATATAGAAGTCAGTGTCCAA
+AATCAGAACTATGTTCTTAAATGGGATTATACATATGCAAACATGACCTTTCAAGTTCAG
+TGGCTCCACGCCTTTTTAAAAAGGAATCCTGGAAACCATTTGTATAAATGGAAACAAATA
+CCTGACTGTGAAAATGTCAAAACTACCCAGTGTGTCTTTCCTCAAAACGTTTTCCAAAAA
+GGAATTTACCTTCTCCGCGTACAAGCATCTGATGGAAATAACACATCTTTTTGGTCTGAA
+GAGATAAAGTTTGATACTGAAATACAAGCTTTCCTACTTCCTCCAGTCTTTAACATTAGA
+TCCCTTAGTGATTCATTCCATATCTATATCGGTGCTCCAAAACAGTCTGGAAACACGCCT
+GTGATCCAGGATTATCCACTGATTTATGAAATTATTTTTTGGGAAAACACTTCAAATGCT
+GAGAGAAAAATTATCGAGAAAAAAACTGATGTTACAGTTCCTAATTTGAAACCACTGACT
+GTATATTGTGTGAAAGCCAGAGCACACACCATGGATGAAAAGCTGAATAAAAGCAGTGTT
+TTTAGTGACGCTGTATGTGAGAAAACAAAACCAGGAAATACCTCTAAAATTTGGCTTATA
+GTTGGAATTTGTATTGCATTATTTGCTCTCCCGTTTGTCATTTATGCTGCGAAAGTCTTC
+TTGAGATGCATCAATTATGTCTTCTTTCCATCACTTAAACCTTCTTCCAGTATAGATGAG
+TATTTCTCTGAACAGCCATTGAAGAATCTTCTGCTTTCAACTTCTGAGGAACAAATCGAA
+AAATGTTTCATAATTGAAAATATAAGCACAATTGCTACAGTAGAAGAAACTAATCAAACT
+GATGAAGATCATAAAAAATACAGTTCCCAAACTAGCCAAGATTCAGGAAATTATTCTAAT
+GAAGATGAAAGCGAAAGTAAAACAAGTGAAGAACTACAGCAGGACTTTGTATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01108</identifier>
+            <name>Tissue_fac</name>
+          </pfam>
+          <pfam>
+            <identifier>PF09294</identifier>
+            <name>Interfer-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type I interferon receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>JAK-STAT cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interferon-beta production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interferon-gamma production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-1 beta secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of peptidyl-tyrosine phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of type I interferon-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>T cell activation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>type I interferon biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>type I interferon signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0000385</id>
+      <name>Interferon alpha/beta receptor 2</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A16953</ref-id>
+            <pubmed-id>16912135</pubmed-id>
+            <citation>van Koetsveld PM, Vitale G, de Herder WW, Feelders RA, van der Wansem K, Waaijers M, van Eijck CH, Speel EJ, Croze E, van der Lely AJ, Lamberts SW, Hofland LJ: Potent inhibitory effects of type I interferons on human adrenocortical carcinoma cell growth. J Clin Endocrinol Metab. 2006 Nov;91(11):4537-43. Epub 2006 Aug 15.</citation>
+          </article>
+          <article>
+            <ref-id>A16955</ref-id>
+            <pubmed-id>11747625</pubmed-id>
+            <citation>Runkel L, De Dios C, Karpusas M, Baker D, Li Z, Zafari M, Betzenhauser M, Muldowney C, Miller S, Redlich PN, Grossberg SE, Whitty A, Hochman PS: Mapping of IFN-beta epitopes important for receptor binding and biologic activation: comparison of results achieved using antibody-based methods and alanine substitution mutagenesis. J Interferon Cytokine Res. 2001 Nov;21(11):931-41.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P48551" source="Swiss-Prot">
+        <name>Interferon alpha/beta receptor 2</name>
+        <general-function>Type i interferon receptor activity</general-function>
+        <specific-function>Associates with IFNAR1 to form the type I interferon receptor. Receptor for interferons alpha and beta. Involved in IFN-mediated STAT1, STAT2 and STAT3 activation. Isoform 1 and isoform 2 are directly involved in signal transduction due to their association with the TYR kinase, JAK1. Isoform 3 is a potent inhibitor of type I IFN receptor activity.</specific-function>
+        <gene-name>IFNAR2</gene-name>
+        <locus/>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>244-264</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi>4.11</theoretical-pi>
+        <molecular-weight>57758.24</molecular-weight>
+        <chromosome-location>21</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:5433</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>IFNAR2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L42243</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>995300</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P48551</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>INAR2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>IFN-R-2</synonym>
+          <synonym>IFNABR</synonym>
+          <synonym>IFNARB</synonym>
+          <synonym>Interferon alpha binding protein</synonym>
+          <synonym>Type I interferon receptor 2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000767|Interferon alpha/beta receptor 2
+MLLSQNAFIFRSLNLVLMVYISLVFGISYDSPDYTDESCTFKISLRNFRSILSWELKNHS
+IVPTHYTLLYTIMSKPEDLKVVKNCANTTRSFCDLTDEWRSTHEAYVTVLEGFSGNTTLF
+SCSHNFWLAIDMSFEPPEFEIVGFTNHINVMVKFPSIVEEELQFDLSLVIEEQSEGIVKK
+HKPEIKGNMSGNFTYIIDKLIPNTNYCVSVYLEHSDEQAVIKSPLKCTLLPPGQESESAE
+SAKIGGIITVFLIALVLTSTIVTLKWIGYICLRNSLPKVLNFHNFLAWPFPNLPPLEAMD
+MVEVIYINRKKKVWDYNYDDESDSDTEAAPRTSGGGYTMHGLTVRPLGQASATSTESQLI
+DPESEEEPDLPEVDVELPTMPKDSPQQLELLSGPCERRKSPLQDPFPEEDYSSTEGSGGR
+ITFNVDLNSVFLRVLDDEDSDDLEAPLMLSSHLEEMVDPEDPDNVQSNHLLASGEGTQPT
+FPSPSSEGLWSEDAPSDQSDTSESDVDLGDGYIMR</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018941|Interferon alpha/beta receptor 2 (IFNAR2)
+ATGCTTTTGAGCCAGAATGCCTTCATCTTCAGATCACTTAATTTGGTTCTCATGGTGTAT
+ATCAGCCTCGTGTTTGGTATTTCATATGATTCGCCTGATTACACAGATGAATCTTGCACT
+TTCAAGATATCATTGCGAAATTTCCGGTCCATCTTATCATGGGAATTAAAAAACCACTCC
+ATTGTACCAACTCACTATACATTGCTGTATACAATCATGAGTAAACCAGAAGATTTGAAG
+GTGGTTAAGAACTGTGCAAATACCACAAGATCATTTTGTGACCTCACAGATGAGTGGAGA
+AGCACACACGAGGCCTATGTCACCGTCCTAGAAGGATTCAGCGGGAACACAACGTTGTTC
+AGTTGCTCACACAATTTCTGGCTGGCCATAGACATGTCTTTTGAACCACCAGAGTTTGAG
+ATTGTTGGTTTTACCAACCACATTAATGTGATGGTGAAATTTCCATCTATTGTTGAGGAA
+GAATTACAGTTTGATTTATCTCTCGTCATTGAAGAACAGTCAGAGGGAATTGTTAAGAAG
+CATAAACCCGAAATAAAAGGAAACATGAGTGGAAATTTCACCTATATCATTGACAAGTTA
+ATTCCAAACACGAACTACTGTGTATCTGTTTATTTAGAGCACAGTGATGAGCAAGCAGTA
+ATAAAGTCTCCCTTAAAATGCACCCTCCTTCCACCTGGCCAGGAATCAGAATCAGCAGAA
+TCTGCCAAAATAGGAGGAATAATTACTGTGTTTTTGATAGCATTGGTCTTGACAAGCACC
+ATAGTGACACTGAAATGGATTGGTTATATATGCTTAAGAAATAGCCTCCCCAAAGTCTTG
+AGGCAAGGTCTCGCTAAGGGCTGGAATGCAGTGGCTATTCACAGGTGCAGTCATAATGCA
+CTACAGTCTGAAACTCCTGAGCTCAAACAGTCGTCCTGCCTAAGCTTCCCCAGTAGCTGG
+GATTACAAGCGTGCATCCCTGTGCCCCAGTGATTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01108</identifier>
+            <name>Tissue_fac</name>
+          </pfam>
+          <pfam>
+            <identifier>PF09294</identifier>
+            <name>Interfer-bind</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular region</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein kinase binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type I interferon binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>type I interferon receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>JAK-STAT cascade</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of type I interferon-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to interferon-alpha</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to virus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>type I interferon signaling pathway</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes>
+    <enzyme position="3">
+      <id>BE0002433</id>
+      <name>Cytochrome P450 1A2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A181307</ref-id>
+            <pubmed-id>9064483</pubmed-id>
+            <citation>Delaporte E, Renton KW: Cytochrome P4501A1 and cytochrome P4501A2 are downregulated at both transcriptional and post-transcriptional levels by conditions resulting in interferon-alpha/beta induction. Life Sci. 1997;60(10):787-96. doi: 10.1016/s0024-3205(97)00006-4.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P05177" source="Swiss-Prot">
+        <name>Cytochrome P450 1A2</name>
+        <general-function>Oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</general-function>
+        <specific-function>Cytochromes P450 are a group of heme-thiolate monooxygenases. In liver microsomes, this enzyme is involved in an NADPH-dependent electron transport pathway. It oxidizes a variety of structurally unrelated compounds, including steroids, fatty acids, and xenobiotics. Most active in catalyzing 2-hydroxylation. Caffeine is metabolized primarily by cytochrome CYP1A2 in the liver through an initial N3-demethylation. Also acts in the metabolism of aflatoxin B1 and acetaminophen. Participates in the bioactivation of carcinogenic aromatic and heterocyclic amines. Catalizes the N-hydroxylation of heterocyclic amines and the O-deethylation of phenacetin.</specific-function>
+        <gene-name>CYP1A2</gene-name>
+        <locus>15q24</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>9.43</theoretical-pi>
+        <molecular-weight>58293.76</molecular-weight>
+        <chromosome-location>15</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:2596</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>CYP1A2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>Z00036</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1319</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P05177</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>CP1A2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.14.14.1</synonym>
+          <synonym>Cholesterol 25-hydroxylase</synonym>
+          <synonym>CYPIA2</synonym>
+          <synonym>Cytochrome P(3)450</synonym>
+          <synonym>Cytochrome P450 4</synonym>
+          <synonym>Cytochrome P450-P3</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004778|Cytochrome P450 1A2
+MALSQSVPFSATELLLASAIFCLVFWVLKGLRPRVPKGLKSPPEPWGWPLLGHVLTLGKN
+PHLALSRMSQRYGDVLQIRIGSTPVLVLSRLDTIRQALVRQGDDFKGRPDLYTSTLITDG
+QSLTFSTDSGPVWAARRRLAQNALNTFSIASDPASSSSCYLEEHVSKEAKALISRLQELM
+AGPGHFDPYNQVVVSVANVIGAMCFGQHFPESSDEMLSLVKNTHEFVETASSGNPLDFFP
+ILRYLPNPALQRFKAFNQRFLWFLQKTVQEHYQDFDKNSVRDITGALFKHSKKGPRASGN
+LIPQEKIVNLVNDIFGAGFDTVTTAISWSLMYLVTKPEIQRKIQKELDTVIGRERRPRLS
+DRPQLPYLEAFILETFRHSSFLPFTIPHSTTRDTTLNGFYIPKKCCVFVNQWQVNHDPEL
+WEDPSEFRPERFLTADGTAINKPLSEKMMLFGMGKRRCIGEVLAKWEIFLFLAILLQQLE
+FSVPPGVKVDLTPIYGLTMKHARCEHVQARRFSIN</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011742|Cytochrome P450 1A2 (CYP1A2)
+ATGGCATTGTCCCAGTCTGTTCCCTTCTCGGCCACAGAGCTTCTCCTGGCCTCTGCCATC
+TTCTGCCTGGTATTCTGGGTGCTCAAGGGTTTGAGGCCTCGGGTCCCCAAAGGCCTGAAA
+AGTCCACCAGAGCCATGGGGCTGGCCCTTGCTCGGGCATGTGCTGACCCTGGGGAAGAAC
+CCGCACCTGGCACTGTCAAGGATGAGCCAGCGCTACGGGGACGTCCTGCAGATCCGCATT
+GGCTCCACGCCCGTGCTGGTGCTGAGCCGCCTGGACACCATCCGGCAGGCCCTGGTGCGG
+CAGGGCGACGATTTCAAGGGCCGGCCTGACCTCTACACCTCCACCCTCATCACTGATGGC
+CAGAGCTTGACCTTCAGCACAGACTCTGGACCGGTGTGGGCTGCCCGCCGGCGCCTGGCC
+CAGAATGCCCTCAACACCTTCTCCATCGCCTCTGACCCAGCTTCCTCATCCTCCTGCTAC
+CTGGAGGAGCATGTGAGCAAGGAGGCTAAGGCCCTGATCAGCAGGTTGCAGGAGCTGATG
+GCAGGGCCTGGGCACTTCGACCCTTACAATCAGGTGGTGGTGTCAGTGGCCAACGTCATT
+GGTGCCATGTGCTTCGGACAGCACTTCCCTGAGAGTAGCGATGAGATGCTCAGCCTCGTG
+AAGAACACTCATGAGTTCGTGGAGACTGCCTCCTCCGGGAACCCCCTGGACTTCTTCCCC
+ATCCTTCGCTACCTGCCTAACCCTGCCCTGCAGAGGTTCAAGGCCTTCAACCAGAGGTTC
+CTGTGGTTCCTGCAGAAAACAGTCCAGGAGCACTATCAGGACTTTGACAAGAACAGTGTC
+CGGGACATCACGGGTGCCCTGTTCAAGCACAGCAAGAAGGGGCCTAGAGCCAGCGGCAAC
+CTCATCCCACAGGAGAAGATTGTCAACCTTGTCAATGACATCTTTGGAGCAGGATTTGAC
+ACAGTCACCACAGCCATCTCCTGGAGCCTCATGTACCTTGTGACCAAGCCTGAGATACAG
+AGGAAGATCCAGAAGGAGCTGGACACTGTGATTGGCAGGGAGCGGCGGCCCCGGCTCTCT
+GACAGACCCCAGCTGCCCTACTTGGAGGCCTTCATCCTGGAGACCTTCCGACACTCCTCC
+TTCTTGCCCTTCACCATCCCCCACAGCACAACAAGGGACACAACGCTGAATGGCTTCTAC
+ATCCCCAAGAAATGCTGTGTCTTCGTAAACCAGTGGCAGGTCAACCATGACCCAGAGCTG
+TGGGAGGACCCCTCTGAGTTCCGGCCTGAGCGGTTCCTCACCGCCGATGGCACTGCCATT
+AACAAGCCCTTGAGTGAGAAGATGATGCTGTTTGGCATGGGCAAGCGCCGGTGTATCGGG
+GAAGTCCTGGCCAAGTGGGAGATCTTCCTCTTCCTGGCCATCCTGCTACAGCAACTGGAG
+TTCAGCGTGCCGCCGGGCGTGAAAGTCGACCTGACCCCCATCTACGGGCTGACCATGAAG
+CACGCCCGCTGTGAACATGTCCAGGCGCGGCTGCGCTTCTCCATCAATTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00067</identifier>
+            <name>p450</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>aromatase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>caffeine oxidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>demethylase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>electron carrier activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>heme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>iron ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>monooxygenase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen, reduced flavin or flavoprotein as one donor, and incorporation of one atom of oxygen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>alkaloid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>arachidonic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular respiration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to cadmium ion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>dibenzo-p-dioxin metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drug catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drug metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epoxygenase P450 pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>exogenous drug catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heterocycle metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hydrogen peroxide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lung development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>methylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>monocarboxylic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>monoterpenoid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>omega-hydroxylase P450 pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oxidation-reduction process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oxidative deethylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oxidative demethylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>porphyrin-containing compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estradiol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to immobilization stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipopolysaccharide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>steroid catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toxin biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>xenobiotic metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+      <inhibition-strength>unknown</inhibition-strength>
+      <induction-strength/>
+    </enzyme>
+  </enzymes>
+  <carriers/>
+  <transporters/>
+</drug>

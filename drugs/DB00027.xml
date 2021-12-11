@@ -1,0 +1,2711 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00027</drugbank-id>
+  <drugbank-id>BTD00036</drugbank-id>
+  <drugbank-id>BIOD00036</drugbank-id>
+  <name>Gramicidin D</name>
+  <description>Gramcidin D is a heterogeneous mixture of three antibiotic compounds, gramicidins A, B and C, making up 80%, 6%, and 14% respectively all of which are obtained from the soil bacterial species Bacillus brevis and called collectively gramicidin D. Gramcidins are 15 residue peptides with alternating D and L amino acids, which assemble inside of the hydrophobic interior of the cellular lipid bilayer to form a β-helix. Active against most Gram-positive bacteria and some Gram-negative organisms, Gramicidin D is used primarily as a topical antibiotic and is also found in Polysporin ophthalmic solution.</description>
+  <cas-number>1405-97-6</cas-number>
+  <unii>5IE62321P4</unii>
+  <average-mass>1811.253</average-mass>
+  <monoisotopic-mass>1810.033419343</monoisotopic-mass>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A33</ref-id>
+        <pubmed-id>8810522</pubmed-id>
+        <citation>Ketchem RR, Lee KC, Huo S, Cross TA: Macromolecular structural elucidation with solid-state NMR-derived orientational constraints. J Biomol NMR. 1996 Jul;8(1):1-14.</citation>
+      </article>
+      <article>
+        <ref-id>A34</ref-id>
+        <pubmed-id>11570868</pubmed-id>
+        <citation>Townsley LE, Tucker WA, Sham S, Hinton JF: Structures of gramicidins A, B, and C incorporated into sodium dodecyl sulfate micelles. Biochemistry. 2001 Oct 2;40(39):11676-86.</citation>
+      </article>
+      <article>
+        <ref-id>A35</ref-id>
+        <pubmed-id>10397797</pubmed-id>
+        <citation>Burkhart BM, Gassman RM, Langs DA, Pangborn WA, Duax WL, Pletnev V: Gramicidin D conformation, dynamics and membrane ion transport. Biopolymers. 1999;51(2):129-44.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>U.S.Patent 2,534,541.</synthesis-reference>
+  <indication>For treatment of skin lesions, surface wounds and eye infections.</indication>
+  <pharmacodynamics>Gramicidin is particularly effective against gram-positive bacteria. Because the drug is highly hemolytic, it cannot be administered internally and so is used only on the skin as a lotion or ointment. It is used primarily in the treatment of infected surface wounds, and in eye, nose, and throat infections. It is normally given with two other antibiotics (neomycin and polymixin B) as an ophthalmic solution.</pharmacodynamics>
+  <mechanism-of-action>Gramicidin D binds to and inserts itself into bacterial membranes (with a strong preference to gram-positive cell membranes). This results in membrane disruption and permeabilization (it acts as a channel). This leads to (i) loss of intracellular solutes (e.g., K+ and amino acids); (ii) dissipation of the transmembrane potential; (iii) inhibition of respiration; (iv) a reduction in ATP pools; and (v) inhibition of DNA, RNA, and protein synthesis, which leads to cell death.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as polypeptides. These are peptides containing ten or more amino acid residues.</description>
+    <direct-parent>Polypeptides</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic Polymers</superclass>
+    <class>Polypeptides</class>
+    <subclass/>
+    <alternative-parent>3-alkylindoles</alternative-parent>
+    <alternative-parent>Alanine and derivatives</alternative-parent>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Benzenoids</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Leucine and derivatives</alternative-parent>
+    <alternative-parent>N-acyl amines</alternative-parent>
+    <alternative-parent>N-acyl-alpha amino acids and derivatives</alternative-parent>
+    <alternative-parent>N-acylethanolamines</alternative-parent>
+    <alternative-parent>N-formyl-alpha amino acids</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Peptides</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Substituted pyrroles</alternative-parent>
+    <alternative-parent>Tryptamines and derivatives</alternative-parent>
+    <alternative-parent>Valine and derivatives</alternative-parent>
+    <substituent>3-alkylindole</substituent>
+    <substituent>Alanine or derivatives</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Alkanolamine</substituent>
+    <substituent>Alpha peptide</substituent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Alpha-amino acid or derivatives</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Fatty acyl</substituent>
+    <substituent>Fatty amide</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Indole</substituent>
+    <substituent>Indole or derivatives</substituent>
+    <substituent>Leucine or derivatives</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-amine</substituent>
+    <substituent>N-acylethanolamine</substituent>
+    <substituent>N-formyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-formyl-alpha-amino acid</substituent>
+    <substituent>N-substituted-alpha-amino acid</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Polypeptide</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Pyrrole</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Substituted pyrrole</substituent>
+    <substituent>Triptan</substituent>
+    <substituent>Valine or derivatives</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Bacillus brevis gramicidin D</synonym>
+    <synonym language="english" coder="">Gramicidin</synonym>
+    <synonym language="english" coder="">Gramicidin A</synonym>
+    <synonym language="english" coder="">Gramicidin B</synonym>
+    <synonym language="english" coder="">Gramicidin C</synonym>
+    <synonym language="spanish" coder="">Gramicidina</synonym>
+    <synonym language="english" coder="">Gramicidine</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Antibiotic Cream</name>
+      <labeller>Cellchem Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02311844</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream</name>
+      <labeller>Canadian Custom Packaging Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02372029</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-03-22</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream</name>
+      <labeller>Technilab Pharma Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02208288</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-11-03</started-marketing-on>
+      <ended-marketing-on>2005-08-05</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream for Kids</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02315033</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-07-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream for Kids</name>
+      <labeller>Cellchem Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02317974</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream Plus Pain Relief</name>
+      <labeller>Cellchem Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02317834</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream Plus Pain Relief</name>
+      <labeller>Canadian Custom Packaging Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02372045</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-04-09</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Cream Plus Pain Relief for Kids</name>
+      <labeller>Canadian Custom Packaging Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02377187</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-07-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Drops</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02457512</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Ear Drops</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02458705</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Eye Drops</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02458713</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2017-09-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Antibiotic Plus Pain Relief Cream</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02304457</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-07-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Complete Antibiotic Ointment</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02304465</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-01-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kenacomb Cream</name>
+      <labeller>Westwood Squibb, Division Of Bristol Myers Squibb Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01999850</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1965-12-31</started-marketing-on>
+      <ended-marketing-on>2004-08-05</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kenacomb Mild Cream</name>
+      <labeller>Westwood Squibb, Division Of Bristol Myers Squibb Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01999842</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on>2004-08-05</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kenacomb Mild Ointment</name>
+      <labeller>Westwood Squibb, Division Of Bristol Myers Squibb Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01999834</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1968-12-31</started-marketing-on>
+      <ended-marketing-on>2004-08-05</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kenacomb Ointment</name>
+      <labeller>Westwood Squibb, Division Of Bristol Myers Squibb Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01999826</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-07-31</started-marketing-on>
+      <ended-marketing-on>2004-08-05</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Kenacomb Ont</name>
+      <labeller>Squibb Canada Inc., Division Of Bristol Myers Squibb Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00245267</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1965-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-14</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lidecomb Cream</name>
+      <labeller>Medicis Pharmaceutical Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00492442</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1980-12-31</started-marketing-on>
+      <ended-marketing-on>1998-09-25</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lidosporin Cream</name>
+      <labeller>Glaxo Wellcome</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01966006</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1971-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-03</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Lidosporin Cream</name>
+      <labeller>Warner Lambert Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230842</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-07-08</started-marketing-on>
+      <ended-marketing-on>2000-11-27</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Mecomb Crm 0.1%</name>
+      <labeller>Medic Laboratory LtÉe</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00464554</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1979-12-31</started-marketing-on>
+      <ended-marketing-on>2003-07-17</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neocidin</name>
+      <labeller>Major</labeller>
+      <ndc-id/>
+      <ndc-product-code>0904-3016</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-06-07</started-marketing-on>
+      <ended-marketing-on>2011-07-31</ended-marketing-on>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-6253</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-04-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>Rebel Distributors</labeller>
+      <ndc-id/>
+      <ndc-product-code>21695-528</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>Dispensing Solutions, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>55045-1194</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>A S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>54569-1188</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>Paddock Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>0574-4009</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-01-02</started-marketing-on>
+      <ended-marketing-on>2014-09-30</ended-marketing-on>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA065187</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>Bausch &amp; Lomb Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code>24208-790</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <labeller>A-S Medication Solutions</labeller>
+      <ndc-id/>
+      <ndc-product-code>50090-0247</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA064047</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neosporin</name>
+      <labeller>Physicians Total Care, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>54868-0593</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-04-11</started-marketing-on>
+      <ended-marketing-on>2012-06-30</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA060582</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neosporin</name>
+      <labeller>Pfizer Laboratories Div Pfizer Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code>61570-045</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1955-04-11</started-marketing-on>
+      <ended-marketing-on>2017-03-31</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number>ANDA060582</fda-application-number>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Neosporin Antibiotic Cream</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00666203</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1986-12-31</started-marketing-on>
+      <ended-marketing-on>2007-12-19</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Neosporin Eye-ear Solution</name>
+      <labeller>Glaxosmithkline Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00694371</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2006-11-21</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Odan-spor</name>
+      <labeller>Odan Laboratories Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00635065</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Ophthalmic</route>
+      <fda-application-number/>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Optimyxin</name>
+      <labeller>Euro Pharm International Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00701785</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Optimyxin Plus</name>
+      <labeller>Euro Pharm International Canada Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00807435</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Original Antibiotic Cream</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02317656</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-10-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Original Antibiotic Cream</name>
+      <labeller>Crls</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02401002</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polycidin Eye, Ear Drops</name>
+      <labeller>Novartis Ophthalmics Novartis Pharmaceuticals (Canada) Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02229903</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-01-30</started-marketing-on>
+      <ended-marketing-on>2002-09-10</ended-marketing-on>
+      <dosage-form>Liquid</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Antibiotic Burn Cream</name>
+      <labeller>Warner Lambert Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230843</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-07-08</started-marketing-on>
+      <ended-marketing-on>1999-06-18</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Antibiotic Cream</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230844</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-08-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Burn Formula Cream</name>
+      <labeller>Glaxo Wellcome</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00068535</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1991-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-03</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Cold Sore Ointment</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02284200</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Complete</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02240568</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-05-24</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Cream</name>
+      <labeller>Glaxo Wellcome</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00035335</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1971-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-03</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Eye and Ear Drops Sterile</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239156</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-02-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Eye and Ear Drops Sterile</name>
+      <labeller>Glaxo Wellcome</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00035343</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1971-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-03</ended-marketing-on>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin for Kids</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248189</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-04-05</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin for Stitches</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02446960</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Plus Pain Relief</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02239201</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-06-18</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <labeller>Johnson &amp; Johnson</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02237226</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-08-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <labeller>Glaxo Wellcome</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02194104</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-03</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <labeller>Warner Lambert Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02230847</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-07-08</started-marketing-on>
+      <ended-marketing-on>1999-08-13</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Polytopic Cream</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00422908</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1997-01-27</started-marketing-on>
+      <ended-marketing-on>2020-07-20</ended-marketing-on>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sandoz Opticort</name>
+      <labeller>Sandoz Canada Incorporated</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247920</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-01-16</started-marketing-on>
+      <ended-marketing-on>2019-08-01</ended-marketing-on>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02224623</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-07-26</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort Ear/eye Ointment</name>
+      <labeller>Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00173606</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1966-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort Eye/ear Drops</name>
+      <labeller>Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00228052</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1966-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort Sterile Ear/eye Drops</name>
+      <labeller>Hoechst Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01987712</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1966-12-31</started-marketing-on>
+      <ended-marketing-on>2004-07-30</ended-marketing-on>
+      <dosage-form>Solution / drops</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort Sterile Ear/eye Ointment</name>
+      <labeller>Aventis Pharma Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02224631</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1999-10-25</started-marketing-on>
+      <ended-marketing-on>2006-07-28</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Auricular (otic); Ophthalmic</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Sofracort Sterile Ear/eye Ointment</name>
+      <labeller>Hoechst Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01987720</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1966-12-31</started-marketing-on>
+      <ended-marketing-on>2001-07-20</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Nasal Spray</name>
+      <labeller>Erfa Canada 2012 Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02224860</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2001-05-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Spray</dosage-form>
+      <strength/>
+      <route>Nasal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Nasal Spray</name>
+      <labeller>Hoechst Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01987690</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on>1998-08-12</ended-marketing-on>
+      <dosage-form>Spray</dosage-form>
+      <strength/>
+      <route>Nasal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Nasal Spray</name>
+      <labeller>Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00173584</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1959-12-31</started-marketing-on>
+      <ended-marketing-on>1996-09-09</ended-marketing-on>
+      <dosage-form>Spray</dosage-form>
+      <strength/>
+      <route>Nasal</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Ointment</name>
+      <labeller>Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00026972</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1961-12-31</started-marketing-on>
+      <ended-marketing-on>1997-08-05</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Skin Ointment</name>
+      <labeller>Hoechst Roussel Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>01987674</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1995-12-31</started-marketing-on>
+      <ended-marketing-on>2000-07-28</ended-marketing-on>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Soframycin Skin Ointment</name>
+      <labeller>Erfa Canada 2012 Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02224879</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2001-05-04</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Teva-triacomb</name>
+      <labeller>TEVA Canada Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00550507</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1992-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>true</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Theraderm Cream</name>
+      <labeller>Bimeda Mtc Animal Health Inc</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02022818</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1993-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Triple Antibiotic Ointment</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02246693</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2003-01-20</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Triple Antibiotic Ointment</name>
+      <labeller>Cellchem Pharmaceuticals Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02297949</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Triple Antibiotic Ointment</name>
+      <labeller>Canadian Custom Packaging Company</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02381435</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Triple Antibiotic Ointment</name>
+      <labeller>Melaleuca, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02088339</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Triple Antibiotic Ointment</name>
+      <labeller>Jamp Pharma Corporation</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248818</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2005-01-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Viaderm Kc Crm</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00717002</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1983-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Viaderm Kc Ont</name>
+      <labeller>Taro Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00717029</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1983-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Ointment</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Sofradex</name>
+      <company>Sanofi</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neosporin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neocidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neomycin and Polymyxin B Sulfates and Gramicidin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neosporin</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Theraderm Cream</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Nasal Spray</name>
+      <ingredients>Framycetin + Gramicidin D + Phenylephrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polytopic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Eye and Ear Drops Sterile</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Plus Pain Relief</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Complete</name>
+      <ingredients>Bacitracin + Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin for Kids</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Complete Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream for Kids</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Original Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream Plus Pain Relief</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream Plus Pain Relief</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream Plus Pain Relief for Kids</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Viaderm Kc Crm</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Viaderm Kc Ont</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Eye and Ear Drops Sterile</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lidosporin Cream</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Burn Formula Cream</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kenacomb Ont</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Nasal Spray</name>
+      <ingredients>Framycetin + Gramicidin D + Phenylephrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kenacomb Mild Cream</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kenacomb Cream</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Skin Ointment</name>
+      <ingredients>Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kenacomb Mild Ointment</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Kenacomb Ointment</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Nasal Spray</name>
+      <ingredients>Framycetin + Gramicidin D + Phenylephrine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Mecomb Crm 0.1%</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort Sterile Ear/eye Ointment</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lidecomb Cream</name>
+      <ingredients>Fluocinonide + Gramicidin D + Neomycin + Nystatin</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polycidin Eye, Ear Drops</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Antibiotic Burn Cream</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Lidosporin Cream</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neosporin Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Neosporin Eye-ear Solution</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Ointment</name>
+      <ingredients>Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Cream for Kids</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Original Antibiotic Cream</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin for Stitches</name>
+      <ingredients>Bacitracin + Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Optimyxin</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Polysporin Cold Sore Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Drops</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Odan-spor</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Soframycin Skin Ointment</name>
+      <ingredients>Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sandoz Opticort</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Triple Antibiotic Ointment</name>
+      <ingredients>Bacitracin + Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Ear Drops</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Eye Drops</name>
+      <ingredients>Gramicidin D + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Optimyxin Plus</name>
+      <ingredients>Gramicidin D + Neomycin + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Teva-triacomb</name>
+      <ingredients>Gramicidin D + Neomycin + Nystatin + Triamcinolone</ingredients>
+    </mixture>
+    <mixture>
+      <name>Antibiotic Plus Pain Relief Cream</name>
+      <ingredients>Gramicidin D + Lidocaine + Polymyxin B</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort Eye/ear Drops</name>
+      <ingredients>Dexamethasone metasulfobenzoate + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort Sterile Ear/eye Drops</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort Sterile Ear/eye Ointment</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+    <mixture>
+      <name>Sofracort Ear/eye Ointment</name>
+      <ingredients>Dexamethasone + Framycetin + Gramicidin D</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Johnson &amp; Johnson Healthcare</name>
+      <url>http://www.jnjcanada.com</url>
+    </packager>
+    <packager>
+      <name>Monarch Pharmacy</name>
+      <url>http://www.monarch-pharmacy.co.uk</url>
+    </packager>
+    <packager>
+      <name>Professional Co.</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Neosporin gu irr 40 mg/ml amp</description>
+      <cost currency="USD">23.12</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Gramicidin d powder</description>
+      <cost currency="USD">240.0</cost>
+      <unit>g</unit>
+    </price>
+    <price>
+      <description>Neosporin + pain relief cream</description>
+      <cost currency="USD">0.32</cost>
+      <unit>g</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Bacterial Agents</category>
+      <mesh-id>D000900</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents</category>
+      <mesh-id>D000890</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Infective Agents, Local</category>
+      <mesh-id>D000891</mesh-id>
+    </category>
+    <category>
+      <category>Membrane Proteins</category>
+      <mesh-id>D008565</mesh-id>
+    </category>
+    <category>
+      <category>P-glycoprotein inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>P-glycoprotein substrates</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Peptides, Cyclic</category>
+      <mesh-id>D010456</mesh-id>
+    </category>
+    <category>
+      <category>Pore Forming Cytotoxic Proteins</category>
+      <mesh-id>D052899</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Throat Preparations</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Staphylococcus aureus</affected-organism>
+    <affected-organism>Streptococcus agalactiae</affected-organism>
+    <affected-organism>Streptococcus pneumoniae</affected-organism>
+    <affected-organism>Escherichia coli</affected-organism>
+    <affected-organism>Haemophilus influenzae</affected-organism>
+    <affected-organism>Klebsiella</affected-organism>
+    <affected-organism>Enterobacter</affected-organism>
+    <affected-organism>Neisseria gonorrhoeae</affected-organism>
+    <affected-organism>Neisseria meningitidis</affected-organism>
+    <affected-organism>Pseudomonas aeruginosa</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Auricular (otic)</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength>250 mcg/1g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Auricular (otic); Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength>25 IU</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength>25 iu/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Liquid</form>
+      <route>Auricular (otic); Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Ophthalmic</route>
+      <strength>0.025 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Auricular (otic); Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Ointment</form>
+      <route>Auricular (otic); Ophthalmic</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Auricular (otic); Ophthalmic</route>
+      <strength>50 mg/100mL</strength>
+    </dosage>
+    <dosage>
+      <form>Spray</form>
+      <route>Nasal</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route/>
+      <strength>250 mg/100g</strength>
+    </dosage>
+    <dosage>
+      <form>Solution / drops</form>
+      <route>Ophthalmic</route>
+      <strength>25 mcg/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="R02AB30">
+      <level code="R02AB">Antibiotics</level>
+      <level code="R02A">THROAT PREPARATIONS</level>
+      <level code="R02">THROAT PREPARATIONS</level>
+      <level code="R">RESPIRATORY SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00027.pdf?1265922740</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB12768</drugbank-id>
+      <name>BCG vaccine</name>
+      <description>The therapeutic efficacy of BCG vaccine can be decreased when used in combination with Gramicidin D.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00266</drugbank-id>
+      <name>Dicoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Dicoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00498</drugbank-id>
+      <name>Phenindione</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Phenindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00682</drugbank-id>
+      <name>Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00946</drugbank-id>
+      <name>Phenprocoumon</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Phenprocoumon.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01418</drugbank-id>
+      <name>Acenocoumarol</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Acenocoumarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB03410</drugbank-id>
+      <name>4-hydroxycoumarin</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with 4-hydroxycoumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04665</drugbank-id>
+      <name>Coumarin</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Coumarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08496</drugbank-id>
+      <name>(R)-warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with (R)-warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08794</drugbank-id>
+      <name>Ethyl biscoumacetate</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Ethyl biscoumacetate.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13136</drugbank-id>
+      <name>Fluindione</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Fluindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13275</drugbank-id>
+      <name>Clorindione</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Clorindione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13347</drugbank-id>
+      <name>Diphenadione</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Diphenadione.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13451</drugbank-id>
+      <name>Tioclomarol</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with Tioclomarol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14055</drugbank-id>
+      <name>(S)-Warfarin</name>
+      <description>The risk or severity of bleeding can be increased when Gramicidin D is combined with (S)-Warfarin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14443</drugbank-id>
+      <name>Vibrio cholerae CVD 103-HgR strain live antigen</name>
+      <description>The therapeutic efficacy of Vibrio cholerae CVD 103-HgR strain live antigen can be decreased when used in combination with Gramicidin D.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>4.38</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.7</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>3.90e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>5.96</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2R)-N-[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-[(2-hydroxyethyl)carbamoyl]-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-2-methylpropyl]carbamoyl}-2-methylpropyl]carbamoyl}-2-methylpropyl]carbamoyl}ethyl]-2-{2-[(2S)-2-formamido-3-methylbutanamido]acetamido}-4-methylpentanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>(2R)-N-[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-{[(1R)-1-{[(1S)-1-[(2-hydroxyethyl)carbamoyl]-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-3-methylbutyl]carbamoyl}-2-(1H-indol-3-yl)ethyl]carbamoyl}-2-methylpropyl]carbamoyl}-2-methylpropyl]carbamoyl}-2-methylpropyl]carbamoyl}ethyl]-2-{2-[(2S)-2-formamido-3-methylbutanamido]acetamido}-4-methylpentanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>1811.253</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>1810.033419343</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC(C)C[C@@H](NC(=O)CNC(=O)[C@@H](NC=O)C(C)C)C(=O)N[C@@H](C)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](C(C)C)C(=O)N[C@H](C(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)N[C@H](CC(C)C)C(=O)N[C@@H](CC1=CNC2=C1C=CC=C2)C(=O)NCCO</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C96H135N19O16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C96H135N19O16/c1-50(2)36-71(105-79(118)48-102-93(128)80(54(9)10)103-49-117)86(121)104-58(17)84(119)113-82(56(13)14)95(130)115-83(57(15)16)96(131)114-81(55(11)12)94(129)112-78(43-62-47-101-70-33-25-21-29-66(62)70)92(127)108-74(39-53(7)8)89(124)111-77(42-61-46-100-69-32-24-20-28-65(61)69)91(126)107-73(38-52(5)6)88(123)110-76(41-60-45-99-68-31-23-19-27-64(60)68)90(125)106-72(37-51(3)4)87(122)109-75(85(120)97-34-35-116)40-59-44-98-67-30-22-18-26-63(59)67/h18-33,44-47,49-58,71-78,80-83,98-101,116H,34-43,48H2,1-17H3,(H,97,120)(H,102,128)(H,103,117)(H,104,121)(H,105,118)(H,106,125)(H,107,126)(H,108,127)(H,109,122)(H,110,123)(H,111,124)(H,112,129)(H,113,119)(H,114,131)(H,115,130)/t58-,71+,72+,73+,74+,75-,76-,77-,78-,80-,81+,82+,83-/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>NDAYQJDHGXTBJL-MWWSRJDJSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>519.89</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>492.33</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>194.73</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>50</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>20</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>11.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>8</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>229 °C</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>8523</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>45267103</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507412</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D04369</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>24623445</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449808</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001327</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Gramicidin</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL557217</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>5011</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets/>
+  <enzymes/>
+  <carriers/>
+  <transporters>
+    <transporter position="1">
+      <id>BE0001032</id>
+      <name>P-glycoprotein 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A15836</ref-id>
+            <pubmed-id>14985103</pubmed-id>
+            <citation>Nagy H, Goda K, Fenyvesi F, Bacso Z, Szilasi M, Kappelmayer J, Lustyik G, Cianfriglia M, Szabo G Jr: Distinct groups of multidrug resistance modulating agents are distinguished by competition of P-glycoprotein-specific antibodies. Biochem Biophys Res Commun. 2004 Mar 19;315(4):942-9.</citation>
+          </article>
+          <article>
+            <ref-id>A15854</ref-id>
+            <pubmed-id>8621716</pubmed-id>
+            <citation>Borgnia MJ, Eytan GD, Assaraf YG: Competition of hydrophobic peptides, cytotoxic drugs, and chemosensitizers on a common P-glycoprotein pharmacophore as revealed by its ATPase activity. J Biol Chem. 1996 Feb 9;271(6):3163-71.</citation>
+          </article>
+          <article>
+            <ref-id>A191203</ref-id>
+            <pubmed-id>11707575</pubmed-id>
+            <citation>Kondratov RV, Komarov PG, Becker Y, Ewenson A, Gudkov AV: Small molecules that dramatically alter multidrug resistance phenotype by modulating the substrate specificity of P-glycoprotein. Proc Natl Acad Sci U S A. 2001 Nov 20;98(24):14078-83. doi: 10.1073/pnas.241314798. Epub 2001 Nov 13.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P08183" source="Swiss-Prot">
+        <name>Multidrug resistance protein 1</name>
+        <general-function>Xenobiotic-transporting atpase activity</general-function>
+        <specific-function>Energy-dependent efflux pump responsible for decreased drug accumulation in multidrug-resistant cells.</specific-function>
+        <gene-name>ABCB1</gene-name>
+        <locus>7q21.1</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>45-67
+117-137
+187-208
+216-236
+293-316
+331-352
+712-732
+757-777
+833-853
+855-874
+935-957
+974-995</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.44</theoretical-pi>
+        <molecular-weight>141477.255</molecular-weight>
+        <chromosome-location>7</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:40</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>ABCB1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M14758</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>307180</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P08183</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>MDR1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.6.3.44</synonym>
+          <synonym>ATP-binding cassette sub-family B member 1</synonym>
+          <synonym>MDR1</synonym>
+          <synonym>P-glycoprotein 1</synonym>
+          <synonym>PGY1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037114|Multidrug resistance protein 1
+MDLEGDRNGGAKKKNFFKLNNKSEKDKKEKKPTVSVFSMFRYSNWLDKLYMVVGTLAAII
+HGAGLPLMMLVFGEMTDIFANAGNLEDLMSNITNRSDINDTGFFMNLEEDMTRYAYYYSG
+IGAGVLVAAYIQVSFWCLAAGRQIHKIRKQFFHAIMRQEIGWFDVHDVGELNTRLTDDVS
+KINEGIGDKIGMFFQSMATFFTGFIVGFTRGWKLTLVILAISPVLGLSAAVWAKILSSFT
+DKELLAYAKAGAVAEEVLAAIRTVIAFGGQKKELERYNKNLEEAKRIGIKKAITANISIG
+AAFLLIYASYALAFWYGTTLVLSGEYSIGQVLTVFFSVLIGAFSVGQASPSIEAFANARG
+AAYEIFKIIDNKPSIDSYSKSGHKPDNIKGNLEFRNVHFSYPSRKEVKILKGLNLKVQSG
+QTVALVGNSGCGKSTTVQLMQRLYDPTEGMVSVDGQDIRTINVRFLREIIGVVSQEPVLF
+ATTIAENIRYGRENVTMDEIEKAVKEANAYDFIMKLPHKFDTLVGERGAQLSGGQKQRIA
+IARALVRNPKILLLDEATSALDTESEAVVQVALDKARKGRTTIVIAHRLSTVRNADVIAG
+FDDGVIVEKGNHDELMKEKGIYFKLVTMQTAGNEVELENAADESKSEIDALEMSSNDSRS
+SLIRKRSTRRSVRGSQAQDRKLSTKEALDESIPPVSFWRIMKLNLTEWPYFVVGVFCAII
+NGGLQPAFAIIFSKIIGVFTRIDDPETKRQNSNLFSLLFLALGIISFITFFLQGFTFGKA
+GEILTKRLRYMVFRSMLRQDVSWFDDPKNTTGALTTRLANDAAQVKGAIGSRLAVITQNI
+ANLGTGIIISFIYGWQLTLLLLAIVPIIAIAGVVEMKMLSGQALKDKKELEGSGKIATEA
+IENFRTVVSLTQEQKFEHMYAQSLQVPYRNSLRKAHIFGITFSFTQAMMYFSYAGCFRFG
+AYLVAHKLMSFEDVLLVFSAVVFGAMAVGQVSSFAPDYAKAKISAAHIIMIIEKTPLIDS
+YSTEGLMPNTLEGNVTFGEVVFNYPTRPDIPVLQGLSLEVKKGQTLALVGSSGCGKSTVV
+QLLERFYDPLAGKVLLDGKEIKRLNVQWLRAHLGIVSQEPILFDCSIAENIAYGDNSRVV
+SQEEIVRAAKEANIHAFIESLPNKYSTKVGDKGTQLSGGQKQRIAIARALVRQPHILLLD
+EATSALDTESEKVVQEALDKAREGRTCIVIAHRLSTIQNADLIVVFQNGRVKEHGTHQQL
+LAQKGIYFSMVSVQAGTKRQ</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016291|Multidrug resistance protein 1 (ABCB1)
+ATGGATCTTGAAGGGGACCGCAATGGAGGAGCAAAGAAGAAGAACTTTTTTAAACTGAAC
+AATAAAAGTGAAAAAGATAAGAAGGAAAAGAAACCAACTGTCAGTGTATTTTCAATGTTT
+CGCTATTCAAATTGGCTTGACAAGTTGTATATGGTGGTGGGAACTTTGGCTGCCATCATC
+CATGGGGCTGGACTTCCTCTCATGATGCTGGTGTTTGGAGAAATGACAGATATCTTTGCA
+AATGCAGGAAATTTAGAAGATCTGATGTCAAACATCACTAATAGAAGTGATATCAATGAT
+ACAGGGTTCTTCATGAATCTGGAGGAAGACATGACCAGGTATGCCTATTATTACAGTGGA
+ATTGGTGCTGGGGTGCTGGTTGCTGCTTACATTCAGGTTTCATTTTGGTGCCTGGCAGCT
+GGAAGACAAATACACAAAATTAGAAAACAGTTTTTTCATGCTATAATGCGACAGGAGATA
+GGCTGGTTTGATGTGCACGATGTTGGGGAGCTTAACACCCGACTTACAGATGATGTCTCC
+AAGATTAATGAAGGAATTGGTGACAAAATTGGAATGTTCTTTCAGTCAATGGCAACATTT
+TTCACTGGGTTTATAGTAGGATTTACACGTGGTTGGAAGCTAACCCTTGTGATTTTGGCC
+ATCAGTCCTGTTCTTGGACTGTCAGCTGCTGTCTGGGCAAAGATACTATCTTCATTTACT
+GATAAAGAACTCTTAGCGTATGCAAAAGCTGGAGCAGTAGCTGAAGAGGTCTTGGCAGCA
+ATTAGAACTGTGATTGCATTTGGAGGACAAAAGAAAGAACTTGAAAGGTACAACAAAAAT
+TTAGAAGAAGCTAAAAGAATTGGGATAAAGAAAGCTATTACAGCCAATATTTCTATAGGT
+GCTGCTTTCCTGCTGATCTATGCATCTTATGCTCTGGCCTTCTGGTATGGGACCACCTTG
+GTCCTCTCAGGGGAATATTCTATTGGACAAGTACTCACTGTATTCTTTTCTGTATTAATT
+GGGGCTTTTAGTGTTGGACAGGCATCTCCAAGCATTGAAGCATTTGCAAATGCAAGAGGA
+GCAGCTTATGAAATCTTCAAGATAATTGATAATAAGCCAAGTATTGACAGCTATTCGAAG
+AGTGGGCACAAACCAGATAATATTAAGGGAAATTTGGAATTCAGAAATGTTCACTTCAGT
+TACCCATCTCGAAAAGAAGTTAAGATCTTGAAGGGTCTGAACCTGAAGGTGCAGAGTGGG
+CAGACGGTGGCCCTGGTTGGAAACAGTGGCTGTGGGAAGAGCACAACAGTCCAGCTGATG
+CAGAGGCTCTATGACCCCACAGAGGGGATGGTCAGTGTTGATGGACAGGATATTAGGACC
+ATAAATGTAAGGTTTCTACGGGAAATCATTGGTGTGGTGAGTCAGGAACCTGTATTGTTT
+GCCACCACGATAGCTGAAAACATTCGCTATGGCCGTGAAAATGTCACCATGGATGAGATT
+GAGAAAGCTGTCAAGGAAGCCAATGCCTATGACTTTATCATGAAACTGCCTCATAAATTT
+GACACCCTGGTTGGAGAGAGAGGGGCCCAGTTGAGTGGTGGGCAGAAGCAGAGGATCGCC
+ATTGCACGTGCCCTGGTTCGCAACCCCAAGATCCTCCTGCTGGATGAGGCCACGTCAGCC
+TTGGACACAGAAAGCGAAGCAGTGGTTCAGGTGGCTCTGGATAAGGCCAGAAAAGGTCGG
+ACCACCATTGTGATAGCTCATCGTTTGTCTACAGTTCGTAATGCTGACGTCATCGCTGGT
+TTCGATGATGGAGTCATTGTGGAGAAAGGAAATCATGATGAACTCATGAAAGAGAAAGGC
+ATTTACTTCAAACTTGTCACAATGCAGACAGCAGGAAATGAAGTTGAATTAGAAAATGCA
+GCTGATGAATCCAAAAGTGAAATTGATGCCTTGGAAATGTCTTCAAATGATTCAAGATCC
+AGTCTAATAAGAAAAAGATCAACTCGTAGGAGTGTCCGTGGATCACAAGCCCAAGACAGA
+AAGCTTAGTACCAAAGAGGCTCTGGATGAAAGTATACCTCCAGTTTCCTTTTGGAGGATT
+ATGAAGCTAAATTTAACTGAATGGCCTTATTTTGTTGTTGGTGTATTTTGTGCCATTATA
+AATGGAGGCCTGCAACCAGCATTTGCAATAATATTTTCAAAGATTATAGGGGTTTTTACA
+AGAATTGATGATCCTGAAACAAAACGACAGAATAGTAACTTGTTTTCACTATTGTTTCTA
+GCCCTTGGAATTATTTCTTTTATTACATTTTTCCTTCAGGGTTTCACATTTGGCAAAGCT
+GGAGAGATCCTCACCAAGCGGCTCCGATACATGGTTTTCCGATCCATGCTCAGACAGGAT
+GTGAGTTGGTTTGATGACCCTAAAAACACCACTGGAGCATTGACTACCAGGCTCGCCAAT
+GATGCTGCTCAAGTTAAAGGGGCTATAGGTTCCAGGCTTGCTGTAATTACCCAGAATATA
+GCAAATCTTGGGACAGGAATAATTATATCCTTCATCTATGGTTGGCAACTAACACTGTTA
+CTCTTAGCAATTGTACCCATCATTGCAATAGCAGGAGTTGTTGAAATGAAAATGTTGTCT
+GGACAAGCACTGAAAGATAAGAAAGAACTAGAAGGTTCTGGGAAGATCGCTACTGAAGCA
+ATAGAAAACTTCCGAACCGTTGTTTCTTTGACTCAGGAGCAGAAGTTTGAACATATGTAT
+GCTCAGAGTTTGCAGGTACCATACAGAAACTCTTTGAGGAAAGCACACATCTTTGGAATT
+ACATTTTCCTTCACCCAGGCAATGATGTATTTTTCCTATGCTGGATGTTTCCGGTTTGGA
+GCCTACTTGGTGGCACATAAACTCATGAGCTTTGAGGATGTTCTGTTAGTATTTTCAGCT
+GTTGTCTTTGGTGCCATGGCCGTGGGGCAAGTCAGTTCATTTGCTCCTGACTATGCCAAA
+GCCAAAATATCAGCAGCCCACATCATCATGATCATTGAAAAAACCCCTTTGATTGACAGC
+TACAGCACGGAAGGCCTAATGCCGAACACATTGGAAGGAAATGTCACATTTGGTGAAGTT
+GTATTCAACTATCCCACCCGACCGGACATCCCAGTGCTTCAGGGACTGAGCCTGGAGGTG
+AAGAAGGGCCAGACGCTGGCTCTGGTGGGCAGCAGTGGCTGTGGGAAGAGCACAGTGGTC
+CAGCTCCTGGAGCGGTTCTACGACCCCTTGGCAGGGAAAGTGCTGCTTGATGGCAAAGAA
+ATAAAGCGACTGAATGTTCAGTGGCTCCGAGCACACCTGGGCATCGTGTCCCAGGAGCCC
+ATCCTGTTTGACTGCAGCATTGCTGAGAACATTGCCTATGGAGACAACAGCCGGGTGGTG
+TCACAGGAAGAGATTGTGAGGGCAGCAAAGGAGGCCAACATACATGCCTTCATCGAGTCA
+CTGCCTAATAAATATAGCACTAAAGTAGGAGACAAAGGAACTCAGCTCTCTGGTGGCCAG
+AAACAACGCATTGCCATAGCTCGTGCCCTTGTTAGACAGCCTCATATTTTGCTTTTGGAT
+GAAGCCACGTCAGCTCTGGATACAGAAAGTGAAAAGGTTGTCCAAGAAGCCCTGGACAAA
+GCCAGAGAAGGCCGCACCTGCATTGTGATTGCTCACCGCCTGTCCACCATCCAGAATGCA
+GACTTAATAGTGGTGTTTCAGAATGGCAGAGTCAAGGAGCATGGCACGCATCAGCAGCTG
+CTGGCACAGAAAGGCATCTATTTTTCAATGGTCAGTGTCCAGGCTGGAACAAAGCGCCAG
+TGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00005</identifier>
+            <name>ABC_tran</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00664</identifier>
+            <name>ABC_membrane</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATPase activity, coupled to transmembrane movement of substances</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>xenobiotic-transporting ATPase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>drug transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G2/M transition of mitotic cell cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>stem cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </transporter>
+  </transporters>
+</drug>

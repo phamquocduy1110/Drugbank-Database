@@ -1,0 +1,4098 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00132</drugbank-id>
+  <drugbank-id>NUTR00034</drugbank-id>
+  <name>alpha-Linolenic acid</name>
+  <description>Alpha-linolenic acid (ALA) is a polyunsaturated omega-3 fatty acid. It is a component of many common vegetable oils and is important to human nutrition.</description>
+  <cas-number>463-40-1</cas-number>
+  <unii>0RBV727H71</unii>
+  <average-mass>278.4296</average-mass>
+  <monoisotopic-mass>278.224580204</monoisotopic-mass>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A7294</ref-id>
+        <pubmed-id>12438303</pubmed-id>
+        <citation>Kris-Etherton PM, Harris WS, Appel LJ: Fish consumption, fish oil, omega-3 fatty acids, and cardiovascular disease. Circulation. 2002 Nov 19;106(21):2747-57.</citation>
+      </article>
+      <article>
+        <ref-id>A7295</ref-id>
+        <pubmed-id>10617967</pubmed-id>
+        <citation>Connor WE: Importance of n-3 fatty acids in health and disease. Am J Clin Nutr. 2000 Jan;71(1 Suppl):171S-5S.</citation>
+      </article>
+      <article>
+        <ref-id>A7296</ref-id>
+        <pubmed-id>15051847</pubmed-id>
+        <citation>Brouwer IA, Katan MB, Zock PL: Dietary alpha-linolenic acid is associated with reduced risk of fatal coronary heart disease, but increased prostate cancer risk: a meta-analysis. J Nutr. 2004 Apr;134(4):919-22.</citation>
+      </article>
+      <article>
+        <ref-id>A7297</ref-id>
+        <pubmed-id>11157315</pubmed-id>
+        <citation>Cho E, Hung S, Willett WC, Spiegelman D, Rimm EB, Seddon JM, Colditz GA, Hankinson SE: Prospective study of dietary fat and the risk of age-related macular degeneration. Am J Clin Nutr. 2001 Feb;73(2):209-18.</citation>
+      </article>
+      <article>
+        <ref-id>A7298</ref-id>
+        <pubmed-id>10775263</pubmed-id>
+        <citation>Lauritzen I, Blondeau N, Heurteaux C, Widmann C, Romey G, Lazdunski M: Polyunsaturated fatty acids are potent neuroprotectors. EMBO J. 2000 Apr 17;19(8):1784-93.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Jean-Pierre Masse, "Therapeutic composition containing alpha-linolenic acid and a compound capable of promoting the passage of the acid through the cell membrane, plant extract comprising the acid and the compound, and process for the preparation of the extract." U.S. Patent US5002767, issued February, 1986.</synthesis-reference>
+  <indication>For nutritional supplementation and for treating dietary shortage or imbalance.</indication>
+  <pharmacodynamics>Alpha Linolenic Acid (ALA) is an 18-carbon polyunsaturated fatty acid with three double bonds. It is also called an omega-3 fatty acid, and is essential for all mammals. Alpha-linolenic acid (or omega 3 fatty acid) intake can decrease the risk of cardiovascular diseases by 1) preventing arrhythmias that can lead to sudden cardiac death, 2) decreasing the risk of thrombosis (blood clot formation) that can lead to heart attack or stroke, 3) decreasing serum triglyceride levels, 4) slowing the growth of atherosclerotic plaque, 5) improving vascular endothelial function, 6) lowering blood pressure slightly, and 7) decreasing inflammation. ALA deficiencies can lead to visual problems and sensory neuropathy. Scaly and hemorrhagic skin or scalp inflammations may also develop.</pharmacodynamics>
+  <mechanism-of-action>Alpha Linolenic Acid or ALA is considered an essential fatty acid because it is required for human health, but cannot be synthesized by humans. It is in fact  a plant-derived fatty acid. Humans can synthesize other omega-3 fatty acids from ALA, including eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA). EPA is a precursor of the series-3 prostaglandins, the series-5 leukotrienes and the series-3 thromboxanes. These eicosanoids have anti-inflammatory and anti-atherogenic properties. ALA metabolites may also inhibit the production of the pro-inflammatory eicosanoids, prostaglandin E2 (PGE2) and leukotriene B4 (LTB4), as well as the pro-inflammatory cytokines, tumor necrosis factor-alpha (TNF-alpha) and interleukin-1 beta (IL-1 beta). Omega-3 fatty acids like ALA and its byproducts can modulate the expression of a number of genes, including those involved with fatty acid metabolism and inflammation. They regulate gene expression through their effects on the activity of transcription factors including NF-kappa B and members of the peroxisome proliferator-activated receptor (PPAR) family. Incorporation of ALA and its metabolites in cell membranes can affect membrane fluidity and may play a role in anti-inflammatory activity, inhibition of platelet aggregation and possibly in anti-proliferative actions of ALA. ALA is first metabolized by delta6 desaturease into steridonic acid.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as lineolic acids and derivatives. These are derivatives of lineolic acid. Lineolic acid is a polyunsaturated omega-6 18 carbon long fatty acid, with two CC double bonds at the 9- and 12-positions.</description>
+    <direct-parent>Lineolic acids and derivatives</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Lipids and lipid-like molecules</superclass>
+    <class>Fatty Acyls</class>
+    <subclass>Lineolic acids and derivatives</subclass>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboxylic acids</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Long-chain fatty acids</alternative-parent>
+    <alternative-parent>Monocarboxylic acids and derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Straight chain fatty acids</alternative-parent>
+    <alternative-parent>Unsaturated fatty acids</alternative-parent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxylic acid</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Fatty acid</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Long-chain fatty acid</substituent>
+    <substituent>Monocarboxylic acid or derivatives</substituent>
+    <substituent>Octadecanoid</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Straight chain fatty acid</substituent>
+    <substituent>Unsaturated fatty acid</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">(9,12,15)-linolenic acid</synonym>
+    <synonym language="english" coder="">(9Z,12Z,15Z)-Octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">(Z,Z,Z)-9,12,15-octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">9-cis,12-cis,15-cis-octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">9,12,15-Octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">ALA</synonym>
+    <synonym language="english" coder="">all-cis-9,12,15-Octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">alpha-Linolenic acid</synonym>
+    <synonym language="english" coder="">cis-delta(9,12,15)-Octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">cis,cis,cis-9,12,15-Octadecatrienoic acid</synonym>
+    <synonym language="english" coder="">Linolenic acid</synonym>
+    <synonym language="english" coder="">α-linolenic acid</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Advanced AM PM</name>
+      <labeller>Trigen Laboratories, LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>13811-064</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2013-07-13</started-marketing-on>
+      <ended-marketing-on>2016-03-31</ended-marketing-on>
+      <dosage-form/>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Bio-efa Borage Gla 90 Cap</name>
+      <labeller>Pge Canada (86) Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00756385</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1989-12-31</started-marketing-on>
+      <ended-marketing-on>2006-06-19</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cavan One</name>
+      <labeller>Seton Pharmaceuticals</labeller>
+      <ndc-id/>
+      <ndc-product-code>13925-080</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-10-30</started-marketing-on>
+      <ended-marketing-on>2011-11-27</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Flaxseed Oil Capsules</name>
+      <labeller>General Nutrition Canada Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02185792</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1998-05-27</started-marketing-on>
+      <ended-marketing-on>2007-08-01</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Folcaps Care One</name>
+      <labeller>Mayne Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>68308-167</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-05-01</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Folcaps Omega-3</name>
+      <labeller>Mayne Pharma</labeller>
+      <ndc-id/>
+      <ndc-product-code>68308-269</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2011-01-03</started-marketing-on>
+      <ended-marketing-on>2016-12-31</ended-marketing-on>
+      <dosage-form>Capsule, gelatin coated</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>HemeNatal OB plus DHA</name>
+      <labeller>Wh Nutritionals, Llc</labeller>
+      <ndc-id/>
+      <ndc-product-code>76331-904</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2012-03-08</started-marketing-on>
+      <ended-marketing-on>2019-04-30</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Huile D'onagre Vitamin E</name>
+      <labeller>Le Naturiste J.M.B. Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>00658332</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1987-12-31</started-marketing-on>
+      <ended-marketing-on>2000-08-23</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>UltimateCare ONE NF</name>
+      <labeller>Trigen Laboratories, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>13811-050</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2009-12-04</started-marketing-on>
+      <ended-marketing-on>2014-02-11</ended-marketing-on>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Cavan One</name>
+      <ingredients>alpha-Linolenic acid + Calcium + Calcium ascorbate + Cholecalciferol + DL-alpha tocopheryl acetate + Doconexent + Ferrous asparto glycinate + Folic acid + Icosapent + Iron + Linoleic acid + Pyridoxine</ingredients>
+    </mixture>
+    <mixture>
+      <name>UltimateCare ONE NF</name>
+      <ingredients>alpha-Linolenic acid + Biotin + Calcium + Calcium ascorbate + Calcium threonate + Cholecalciferol + DL-alpha tocopheryl acetate + Doconexent + Docusate + Ferrous asparto glycinate + Folic acid + Icosapent + Iodine + Iron + Magnesium oxide + Nicotinamide + Omega-3 fatty acids + Pyridoxine + Riboflavin + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Folcaps Omega-3</name>
+      <ingredients>alpha-Linolenic acid + alpha-Tocopherol acetate + Calcium + Calcium ascorbate + Calcium threonate + Cholecalciferol + Doconexent + Ferrous asparto glycinate + Folic acid + Icosapent + Iron + Pyridoxine</ingredients>
+    </mixture>
+    <mixture>
+      <name>Folcaps Care One</name>
+      <ingredients>alpha-Linolenic acid + alpha-Tocopherol acetate + Biotin + Calcium ascorbate + Calcium carbonate + Calcium threonate + Cholecalciferol + Doconexent + Docusate + Folic acid + Icosapent + Iodine + Iron + Magnesium + Nicotinamide + Pyridoxine + Riboflavin + Zinc</ingredients>
+    </mixture>
+    <mixture>
+      <name>HemeNatal OB plus DHA</name>
+      <ingredients>alpha-Linolenic acid + alpha-Tocopherol succinate + Biotin + Cholecalciferol + Cupric sulfate + Cyanocobalamin + Doconexent + Folic acid + Heme iron polypeptide + Iron sucrose + Nicotinamide + Osbond acid + Pantothenic acid + Potassium Iodide + Pyridoxine + Riboflavin + Selenic acid + Thiamine + Zinc oxide</ingredients>
+    </mixture>
+    <mixture>
+      <name>Advanced AM PM</name>
+      <ingredients>alpha-Linolenic acid + Ascorbic acid + Ascorbic acid + Calcium carbonate + Calcium carbonate + Cholecalciferol + Cholecalciferol + Folic acid + Folic acid + Omega-3 fatty acids + Pyridoxine + Pyridoxine + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Flaxseed Oil Capsules</name>
+      <ingredients>alpha-Linolenic acid + Linoleic acid + Oleic Acid + Palmitic Acid</ingredients>
+    </mixture>
+    <mixture>
+      <name>Bio-efa Borage Gla 90 Cap</name>
+      <ingredients>alpha-Linolenic acid + Gamolenic acid + Linoleic acid + Vitamin E</ingredients>
+    </mixture>
+    <mixture>
+      <name>Huile D'onagre Vitamin E</name>
+      <ingredients>alpha-Linolenic acid + Linoleic acid + Oleic Acid + Palmitic Acid + Stearic acid + Vitamin E</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Freeda Vitamins</name>
+      <url>http://www.freedavitamins.com</url>
+    </packager>
+    <packager>
+      <name>Sundown Inc.</name>
+      <url>http://www.sundownnaturals.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Alpha-lipoic acid 50 mg caplet</description>
+      <cost currency="USD">0.12</cost>
+      <unit>caplet</unit>
+    </price>
+    <price>
+      <description>Alpha lipoic acid 200 mg tablet</description>
+      <cost currency="USD">0.22</cost>
+      <unit>tablet</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Diet, Food, and Nutrition</category>
+      <mesh-id>D000066888</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Fats</category>
+      <mesh-id>D004041</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Fats, Unsaturated</category>
+      <mesh-id>D004042</mesh-id>
+    </category>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Fats</category>
+      <mesh-id>D005223</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids</category>
+      <mesh-id>D005227</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Essential</category>
+      <mesh-id>D005228</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Omega-3</category>
+      <mesh-id>D015525</mesh-id>
+    </category>
+    <category>
+      <category>Fatty Acids, Unsaturated</category>
+      <mesh-id>D005231</mesh-id>
+    </category>
+    <category>
+      <category>Fish Oils</category>
+      <mesh-id>D005395</mesh-id>
+    </category>
+    <category>
+      <category>Food</category>
+      <mesh-id>D005502</mesh-id>
+    </category>
+    <category>
+      <category>Food and Beverages</category>
+      <mesh-id>D019602</mesh-id>
+    </category>
+    <category>
+      <category>Linolenic Acids</category>
+      <mesh-id>D008042</mesh-id>
+    </category>
+    <category>
+      <category>Lipids</category>
+      <mesh-id>D008055</mesh-id>
+    </category>
+    <category>
+      <category>Oils</category>
+      <mesh-id>D009821</mesh-id>
+    </category>
+    <category>
+      <category>Physiological Phenomena</category>
+      <mesh-id>D010829</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form/>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule, gelatin coated</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength>15 mg</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route/>
+      <strength>0.54 g/100ml</strength>
+    </dosage>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries>
+    <pdb-entry>1fk6</pdb-entry>
+    <pdb-entry>2byo</pdb-entry>
+    <pdb-entry>4e1g</pdb-entry>
+  </pdb-entries>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00132.pdf?1265922751</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB09053</drugbank-id>
+      <name>Ibrutinib</name>
+      <description>alpha-Linolenic acid may increase the antiplatelet activities of Ibrutinib.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>6.62</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-6</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>2.66e-04 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>6.06</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(9Z,12Z,15Z)-octadeca-9,12,15-trienoic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>α linolenic acid</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>278.4296</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>278.224580204</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC\C=C/C\C=C/C\C=C/CCCCCCCC(O)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C18H30O2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C18H30O2/c1-2-3-4-5-6-7-8-9-10-11-12-13-14-15-16-17-18(19)20/h3-4,6-7,9-10H,2,5,8,11-17H2,1H3,(H,19,20)/b4-3-,7-6-,10-9-</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>DTOSIQBPPRVQHS-PDBXOOCHSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>37.3</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>89.64</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>34.98</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>13</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>4.99</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>-1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>0.000124 mg/mL at 25 °C</value>
+      <source>MEYLAN,WM et al. (1996)</source>
+    </property>
+    <property>
+      <kind>Melting Point</kind>
+      <value>-16.5 °C</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>Boiling Point</kind>
+      <value>231 °C at 1.70E+01 mm Hg</value>
+      <source>PhysProp</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>6.46</value>
+      <source>SANGSTER (1993)</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>1351</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>27432</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>5280934</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507620</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C06427</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>4444437</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>BindingDB</resource>
+      <identifier>50240347</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA449384</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>LNL</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>IUPHAR</resource>
+      <identifier>1049</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Guide to Pharmacology</resource>
+      <identifier>1049</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Alpha-Linolenic_acid</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL8739</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000003802189</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>52071</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000018</smpdb-id>
+      <name>Alpha Linolenic Acid and Linoleic Acid Metabolism</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00132</drugbank-id>
+          <name>alpha-Linolenic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00154</drugbank-id>
+          <name>Dihomo-gamma-linolenic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00159</drugbank-id>
+          <name>Icosapent</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01373</drugbank-id>
+          <name>Calcium</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04557</drugbank-id>
+          <name>Arachidonic Acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>O95864</uniprot-id>
+        <uniprot-id>Q9NYP7</uniprot-id>
+        <uniprot-id>O60427</uniprot-id>
+        <uniprot-id>Q9GZR5</uniprot-id>
+        <uniprot-id>P0C869</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000888</id>
+      <name>Fatty acid desaturase 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13644</ref-id>
+            <pubmed-id>16988497</pubmed-id>
+            <citation>Xiang M, Rahman MA, Ai H, Li X, Harbige LS: Diet and gene expression: delta-5 and delta-6 desaturases in healthy Chinese and European subjects. Ann Nutr Metab. 2006;50(6):492-8. Epub 2006 Sep 19.</citation>
+          </article>
+          <article>
+            <ref-id>A13645</ref-id>
+            <pubmed-id>8673626</pubmed-id>
+            <citation>Descomps B, Rodriguez A: [Essential fatty acids and prematurity: a triple experimental approach]. C R Seances Soc Biol Fil. 1995;189(5):781-96.</citation>
+          </article>
+          <article>
+            <ref-id>A13646</ref-id>
+            <pubmed-id>11518758</pubmed-id>
+            <citation>Hoffman DR, DeMar JC, Heird WC, Birch DG, Anderson RE: Impaired synthesis of DHA in patients with X-linked retinitis pigmentosa. J Lipid Res. 2001 Sep;42(9):1395-401.</citation>
+          </article>
+          <article>
+            <ref-id>A13647</ref-id>
+            <pubmed-id>8487621</pubmed-id>
+            <citation>Maniongui C, Blond JP, Ulmann L, Durand G, Poisson JP, Bezard J: Age-related changes in delta 6 and delta 5 desaturase activities in rat liver microsomes. Lipids. 1993 Apr;28(4):291-7.</citation>
+          </article>
+          <article>
+            <ref-id>A13648</ref-id>
+            <pubmed-id>10765977</pubmed-id>
+            <citation>Mohan IK, Das UN: Effect of L-arginine-nitric oxide system on the metabolism of essential fatty acids in chemical-induced diabetes mellitus. Prostaglandins Leukot Essent Fatty Acids. 2000 Jan;62(1):35-46.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="O60427" source="Swiss-Prot">
+        <name>Fatty acid desaturase 1</name>
+        <general-function>Oxidoreductase activity</general-function>
+        <specific-function>Isoform 2 does not exhibit any catalytic activity toward 20:3n-6, but it may enhance FADS2 activity (By similarity). Isoform 1 is a component of a lipid metabolic pathway that catalyzes biosynthesis of highly unsaturated fatty acids (HUFA) from precursor essential polyunsaturated fatty acids (PUFA) linoleic acid (LA) (18:2n-6) and alpha-linolenic acid (ALA) (18:3n-3). Catalyzes the desaturation of dihomo-gamma-linoleic acid (DHGLA) (20:3n-6) and eicosatetraenoic acid (20:4n-3) to generate arachidonic acid (AA) (20:4n-6) and eicosapentaenoic acid (EPA)(20:5n-3), respectively.</specific-function>
+        <gene-name>FADS1</gene-name>
+        <locus/>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>122-142
+146-170
+268-288
+306-326</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.15</theoretical-pi>
+        <molecular-weight>51963.945</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3574</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>DKFZp762M2311</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AC004770</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>3169158</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O60427</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FADS1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.14.19.-</synonym>
+          <synonym>D5D</synonym>
+          <synonym>Delta-5 desaturase</synonym>
+          <synonym>Delta(5) desaturase</synonym>
+          <synonym>Delta(5) fatty acid desaturase</synonym>
+          <synonym>FADSD5</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001770|Fatty acid desaturase 1
+MAPDPVAAETAAQGPTPRYFTWDEVAQRSGCEERWLVIDRKVYNISEFTRRHPGGSRVIS
+HYAGQDATDPFVAFHINKGLVKKYMNSLLIGELSPEQPSFEPTKNKELTDEFRELRATVE
+RMGLMKANHVFFLLYLLHILLLDGAAWLTLWVFGTSFLPFLLCAVLLSAVQAQAGWLQHD
+FGHLSVFSTSKWNHLLHHFVIGHLKGAPASWWNHMHFQHHAKPNCFRKDPDINMHPFFFA
+LGKILSVELGKQKKKYMPYNHQHKYFFLIGPPALLPLYFQWYIFYFVIQRKKWVDLAWMI
+TFYVRFFLTYVPLLGLKAFLGLFFIVRFLESNWFVWVTQMNHIPMHIDHDRNMDWVSTQL
+QATCNVHKSAFNDWFSGHLNFQIEHHLFPTMPRHNYHKVAPLVQSLCAKHGIEYQSKPLL
+SAFADIIHSLKESGQLWLDAYLHQ</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010626|Fatty acid desaturase 1 (FADS1)
+ATGGGAACGCGCGCTGCGAGGCCCGCCGGTCTGCCCTGCGGTGCTGAAAACCCGGCGCGC
+AGGCGGCTGGCTCTGGGCGCGCGCCAGCAAATCCACTCCTGGAGCCCGCGGACCCCGAGC
+ACGCGCCTGACAGCCCCTGCTGGCCCGGCGCGCGGCGTCGCCAGGCCAGCTATGGCCCCC
+GACCCGGTGGCCGCCGAGACCGCGGCTCAGGGACCTACCCCGCGCTACTTCACCTGGGAC
+GAGGTGGCCCAGCGCTCAGGGTGCGAGGAGCGGTGGCTAGTGATCGACCGTAAGGTGTAC
+AACATCAGCGAGTTCACCCGCCGGCATCCAGGGGGCTCCCGGGTCATCAGCCACTACGCC
+GGGCAGGATGCCACGGATCCCTTTGTGGCCTTCCACATCAACAAGGGCCTTGTGAAGAAG
+TATATGAACTCTCTCCTGATTGGAGAACTGTCTCCAGAGCAGCCCAGCTTTGAGCCCACC
+AAGAATAAAGAGCTGACAGATGAGTTCCGGGAGCTGCGGGCCACAGTGGAGCGGATGGGG
+CTCATGAAGGCCAACCATGTCTTCTTCCTGCTGTACCTGCTGCACATCTTGCTGCTGGAT
+GGTGCAGCCTGGCTCACCCTTTGGGTCTTTGGGACGTCCTTTTTGCCCTTCCTCCTCTGT
+GCGGTGCTGCTCAGTGCAGTTCAGGCCCAGGCTGGCTGGCTGCAGCATGACTTTGGGCAC
+CTGTCGGTCTTCAGCACCTCAAAGTGGAACCATCTGCTACATCATTTTGTGATTGGCCAC
+CTGAAGGGGGCCCCCGCCAGTTGGTGGAACCACATGCACTTCCAGCACCATGCCAAGCCC
+AACTGCTTCCGCAAAGACCCAGACATCAACATGCATCCCTTCTTCTTTGCCTTGGGGAAG
+ATCCTCTCTGTGGAGCTTGGGAAACAGAAGAAAAAATATATGCCGTACAACCACCAGCAC
+AAATACTTCTTCCTAATTGGGCCCCCAGCCTTGCTGCCTCTCTACTTCCAGTGGTATATT
+TTCTATTTTGTTATCCAGCGAAAGAAGTGGGTGGACTTGGCCTGGATGATTACCTTCTAC
+GTCCGCTTCTTCCTCACTTATGTGCCACTATTGGGGCTGAAAGCCTTCCTGGGCCTTTTC
+TTCATAGTCAGGTTCCTGGAAAGCAACTGGTTTGTGTGGGTGACACAGATGAACCATATT
+CCCATGCACATTGATCATGACCGGAACATGGACTGGGTTTCCACCCAGCTCCAGGCCACA
+TGCAATGTCCACAAGTCTGCCTTCAATGACTGGTTCAGTGGACACCTCAACTTCCAGATT
+GAGCACCATCTTTTTCCCACGATGCCTCGACACAATTACCACAAAGTGGCTCCCCTGGTG
+CAGTCCTTGTGTGCCAAGCATGGCATAGAGTACCAGTCCAAGCCCCTGCTGTCAGCCTTC
+GCCGACATCATCCACTCACTAAAGGAGTCAGGGCAGCTCTGGCTAGATGCCTATCTTCAC
+CAATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00173</identifier>
+            <name>Cyt-b5</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00487</identifier>
+            <name>FA_desaturase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>C-5 sterol desaturase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>oxidoreductase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>alpha-linolenic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-cell signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to starvation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>icosanoid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>linoleic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0002246</id>
+      <name>Fatty acid desaturase 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>ligand</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13649</ref-id>
+            <pubmed-id>17409318</pubmed-id>
+            <citation>Portolesi R, Powell BC, Gibson RA: Competition between 24:5n-3 and ALA for Delta 6 desaturase may limit the accumulation of DHA in HepG2 cell membranes. J Lipid Res. 2007 Jul;48(7):1592-8. Epub 2007 Apr 4.</citation>
+          </article>
+          <article>
+            <ref-id>A13644</ref-id>
+            <pubmed-id>16988497</pubmed-id>
+            <citation>Xiang M, Rahman MA, Ai H, Li X, Harbige LS: Diet and gene expression: delta-5 and delta-6 desaturases in healthy Chinese and European subjects. Ann Nutr Metab. 2006;50(6):492-8. Epub 2006 Sep 19.</citation>
+          </article>
+          <article>
+            <ref-id>A13650</ref-id>
+            <pubmed-id>17284757</pubmed-id>
+            <citation>Baylin A, Ruiz-Narvaez E, Kraft P, Campos H: alpha-Linolenic acid, Delta6-desaturase gene polymorphism, and the risk of nonfatal myocardial infarction. Am J Clin Nutr. 2007 Feb;85(2):554-60.</citation>
+          </article>
+          <article>
+            <ref-id>A13651</ref-id>
+            <pubmed-id>15481543</pubmed-id>
+            <citation>Li MC, Bu YP, Wang GK, Hu GW, Xing LJ: [Heteologous expression of Mortierella isabellina delta6 -fatty acid desaturase gene in soybean]. Yi Chuan Xue Bao. 2004 Aug;31(8):858-63.</citation>
+          </article>
+          <article>
+            <ref-id>A13652</ref-id>
+            <pubmed-id>12713571</pubmed-id>
+            <citation>Ge L, Gordon JS, Hsuan C, Stenn K, Prouty SM: Identification of the delta-6 desaturase of human sebaceous glands: expression and enzyme activity. J Invest Dermatol. 2003 May;120(5):707-14.</citation>
+          </article>
+          <article>
+            <ref-id>A13653</ref-id>
+            <pubmed-id>21210105</pubmed-id>
+            <citation>Tan L, Meesapyodsuk D, Qiu X: Molecular analysis of 6 desaturase and 6 elongase from Conidiobolus obscurus in the biosynthesis of eicosatetraenoic acid, a omega3 fatty acid with nutraceutical potentials. Appl Microbiol Biotechnol. 2011 Apr;90(2):591-601. doi: 10.1007/s00253-010-3060-y. Epub 2011 Jan 6.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="O95864" source="Swiss-Prot">
+        <name>Fatty acid desaturase 2</name>
+        <general-function>Stearoyl-coa 9-desaturase activity</general-function>
+        <specific-function>Component of a lipid metabolic pathway that catalyzes biosynthesis of highly unsaturated fatty acids (HUFA) from precursor essential polyunsaturated fatty acids (PUFA) linoleic acid (LA) (18:2n-6) and alpha-linolenic acid (ALA) (18:3n-3). Catalyzes the first and rate limiting step in this pathway which is the desaturation of LA (18:2n-6) and ALA (18:3n-3) into gamma-linoleic acid (GLA) (18:3n-6) and stearidonic acid (18:4n-3) respectively and other desaturation steps. Highly unsaturated fatty acids (HUFA) play pivotal roles in many biological functions. It catalizes as well the introduction of a cis double bond in palmitate to produce the mono-unsaturated fatty acid sapienate, the most abundant fatty acid in sebum.</specific-function>
+        <gene-name>FADS2</gene-name>
+        <locus>11q12-q13.1</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>132-152
+158-178
+265-285
+306-326</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.18</theoretical-pi>
+        <molecular-weight>52259.075</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3575</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FADS2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF126799</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>4406528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O95864</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FADS2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>1.14.19.3</synonym>
+          <synonym>Acyl-CoA 6-desaturase</synonym>
+          <synonym>D6D</synonym>
+          <synonym>Delta-6 desaturase</synonym>
+          <synonym>Delta(6) desaturase</synonym>
+          <synonym>Delta(6) fatty acid desaturase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004408|Fatty acid desaturase 2
+MGKGGNQGEGAAEREVSVPTFSWEEIQKHNLRTDRWLVIDRKVYNITKWSIQHPGGQRVI
+GHYAGEDATDAFRAFHPDLEFVGKFLKPLLIGELAPEEPSQDHGKNSKITEDFRALRKTA
+EDMNLFKTNHVFFLLLLAHIIALESIAWFTVFYFGNGWIPTLITAFVLATSQAQAGWLQH
+DYGHLSVYRKPKWNHLVHKFVIGHLKGASANWWNHRHFQHHAKPNIFHKDPDVNMLHVFV
+LGEWQPIEYGKKKLKYLPYNHQHEYFFLIGPPLLIPMYFQYQIIMTMIVHKNWVDLAWAV
+SYYIRFFITYIPFYGILGALLFLNFIRFLESHWFVWVTQMNHIVMEIDQEAYRDWFSSQL
+TATCNVEQSFFNDWFSGHLNFQIEHHLFPTMPRHNLHKIAPLVKSLCAKHGIEYQEKPLL
+RALLDIIRSLKKSGKLWLDAYLHK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011620|Fatty acid desaturase 2 (FADS2)
+ATGCACGGCAGGGAGGCGGGACCCTTTGTTTGTGTGTGCGTGTTGTTGGCCTCCATCCCC
+ACTCCCCAGACTCCACTTCTCCAGGCCTCTCTCCCGCCTTTTCATCCCGCATCCGCAGGA
+CACCCAATCACCGGGCAACAGGATGCCTTCCGCGCCTTCCACCCTGACCTGGAATTCGTG
+GGCAAGTTCTTGAAACCCCTGCTGATTGGTGAACTGGCCCCGGAGGAGCCCAGCCAGGAC
+CACGGCAAGAACTCAAAGATCACTGAGGACTTCCGGGCCCTGAGGAAGACGGCTGAGGAC
+ATGAACCTGTTCAAGACCAACCACGTGTTCTTCCTCCTCCTCCTGGCCCACATCATCGCC
+CTGGAGAGCATTGCATGGTTCACTGTCTTTTACTTTGGCAATGGCTGGATTCCTACCCTC
+ATCACGGCCTTTGTCCTTGCTACCTCTCAGGCCCAAGCTGGATGGCTGCAACATGATTAT
+GGCCACCTGTCTGTCTACAGAAAACCCAAGTGGAACCACCTTGTCCACAAATTCGTCATT
+GGCCACTTAAAGGGTGCCTCTGCCAACTGGTGGAATCATCGCCACTTCCAGCACCACGCC
+AAGCCTAACATCTTCCACAAGGATCCCGATGTGAACATGCTGCACGTGTTTGTTCTGGGC
+GAATGGCAGCCCATCGAGTACGGCAAGAAGAAGCTGAAATACCTGCCCTACAATCACCAG
+CACGAATACTTCTTCCTGATTGGGCCGCCGCTGCTCATCCCCATGTATTTCCAGTACCAG
+ATCATCATGACCATGATCGTCCATAAGAACTGGGTGGACCTGGCCTGGGCCGTCAGCTAC
+TACATCCGGTTCTTCATCACCTACATCCCTTTCTACGGCATCCTGGGAGCCCTCCTTTTC
+CTCAACTTCATCAGGTTCCTGGAGAGCCACTGGTTTGTGTGGGTCACACAGATGAATCAC
+ATCGTCATGGAGATTGACCAGGAGGCCTACCGTGACTGGTTCAGTAGCCAGCTGACAGCC
+ACCTGCAACGTGGAGCAGTCCTTCTTCAACGACTGGTTCAGTGGACACCTTAACTTCCAG
+ATTGAGCACCACCTCTTCCCCACCATGCCCCGGCACAACTTACACAAGATCGCCCCGCTG
+GTGAAGTCTCTATGTGCCAAGCATGGCATTGAATACCAGGAGAAGCCGCTACTGAGGGCC
+CTGCTGGACATCATCAGGTCCCTGAAGAAGTCTGGGAAGCTGTGGCTGGACGCCTACCTT
+CACAAATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00173</identifier>
+            <name>Cyt-b5</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00487</identifier>
+            <name>FA_desaturase</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>linoleoyl-CoA desaturase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>stearoyl-CoA 9-desaturase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>alpha-linolenic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>linoleic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000986</id>
+      <name>Sodium/calcium exchanger 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13654</ref-id>
+            <pubmed-id>17059813</pubmed-id>
+            <citation>Ander BP, Hurtado C, Raposo CS, Maddaford TG, Deniset JF, Hryshko LV, Pierce GN, Lukas A: Differential sensitivities of the NCX1.1 and NCX1.3 isoforms of the Na+-Ca2+ exchanger to alpha-linolenic acid. Cardiovasc Res. 2007 Jan 15;73(2):395-403. Epub 2006 Sep 23.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P32418" source="Swiss-Prot">
+        <name>Sodium/calcium exchanger 1</name>
+        <general-function>Ion channel binding</general-function>
+        <specific-function>Mediates the exchange of one Ca(2+) ion against three to four Na(+) ions across the cell membrane, and thereby contributes to the regulation of cytoplasmic Ca(2+) levels and Ca(2+)-dependent cellular processes (PubMed:1374913, PubMed:11241183, PubMed:1476165). Contributes to Ca(2+) transport during excitation-contraction coupling in muscle. In a first phase, voltage-gated channels mediate the rapid increase of cytoplasmic Ca(2+) levels due to release of Ca(2+) stores from the endoplasmic reticulum. SLC8A1 mediates the export of Ca(2+) from the cell during the next phase, so that cytoplasmic Ca(2+) levels rapidly return to baseline. Required for normal embryonic heart development and the onset of heart contractions.</specific-function>
+        <gene-name>SLC8A1</gene-name>
+        <locus>2p23-p22</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>75-95
+137-157
+171-191
+205-225
+232-252
+801-821
+825-845
+875-895
+907-927
+945-965</transmembrane-regions>
+        <signal-regions>1-35</signal-regions>
+        <theoretical-pi>4.64</theoretical-pi>
+        <molecular-weight>108546.06</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11068</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>SLC8A1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M91368</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>180673</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P32418</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NAC1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>CNC</synonym>
+          <synonym>Na(+)/Ca(2+)-exchange protein 1</synonym>
+          <synonym>NCX1</synonym>
+          <synonym>Solute carrier family 8 member 1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001963|Sodium/calcium exchanger 1
+MYNMRRLSLSPTFSMGFHLLVTVSLLFSHVDHVIAETEMEGEGNETGECTGSYYCKKGVI
+LPIWEPQDPSFGDKIARATVYFVAMVYMFLGVSIIADRFMSSIEVITSQEKEITIKKPNG
+ETTKTTVRIWNETVSNLTLMALGSSAPEILLSVIEVCGHNFTAGDLGPSTIVGSAAFNMF
+IIIALCVYVVPDGETRKIKHLRVFFVTAAWSIFAYTWLYIILSVISPGVVEVWEGLLTFF
+FFPICVVFAWVADRRLLFYKYVYKRYRAGKQRGMIIEHEGDRPSSKTEIEMDGKVVNSHV
+ENFLDGALVLEVDERDQDDEEARREMARILKELKQKHPDKEIEQLIELANYQVLSQQQKS
+RAFYRIQATRLMTGAGNILKRHAADQARKAVSMHEVNTEVTENDPVSKIFFEQGTYQCLE
+NCGTVALTIIRRGGDLTNTVFVDFRTEDGTANAGSDYEFTEGTVVFKPGDTQKEIRVGII
+DDDIFEEDENFLVHLSNVKVSSEASEDGILEANHVSTLACLGSPSTATVTIFDDDHAGIF
+TFEEPVTHVSESIGIMEVKVLRTSGARGNVIVPYKTIEGTARGGGEDFEDTCGELEFQND
+EIVKTISVKVIDDEEYEKNKTFFLEIGEPRLVEMSEKKALLLNELGGFTITGKYLFGQPV
+FRKVHAREHPILSTVITIADEYDDKQPLTSKEEEERRIAEMGRPILGEHTKLEVIIEESY
+EFKSTVDKLIKKTNLALVVGTNSWREQFIEAITVSAGEDDDDDECGEEKLPSCFDYVMHF
+LTVFWKVLFAFVPPTEYWNGWACFIVSILMIGLLTAFIGDLASHFGCTIGLKDSVTAVVF
+VALGTSVPDTFASKVAATQDQYADASIGNVTGSNAVNVFLGIGVAWSIAAIYHAANGEQF
+KVSPGTLAFSVTLFTIFAFINVGVLLYRRRPEIGGELGGPRTAKLLTSCLFVLLWLLYIF
+FSSLEAYCHIKGF</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016275|Sodium/calcium exchanger 1 (SLC8A1)
+ATGTACAACATGCGGCGATTAAGTCTTTCACCCACCTTTTCAATGGGATTTCATCTGTTA
+GTTACTGTGAGTCTCTTATTTTCCCATGTGGACCATGTAATTGCTGAGACAGAAATGGAA
+GGAGAAGGAAATGAAACTGGTGAATGTACTGGATCATATTACTGTAAGAAAGGGGTGATT
+TTGCCCATTTGGGAACCCCAAGACCCTTCTTTTGGGGACAAAATTGCTAGAGCTACTGTG
+TATTTTGTGGCCATGGTCTACATGTTTCTTGGAGTCTCTATCATAGCTGATCGGTTCATG
+TCCTCTATAGAAGTCATCACATCTCAAGAAAAAGAAATAACCATAAAGAAACCCAATGGA
+GAGACCACCAAGACAACTGTGAGGATCTGGAATGAAACAGTTTCTAACCTGACCTTGATG
+GCCCTGGGATCTTCTGCTCCTGAGATTCTCCTTTCAGTAATTGAAGTGTGTGGCCATAAC
+TTCACTGCAGGAGACCTCGGTCCTAGCACCATCGTGGGAAGTGCTGCATTCAATATGTTC
+ATCATTATTGCACTCTGTGTTTATGTGGTGCCTGACGGAGAGACAAGGAAGATTAAGCAT
+TTGCGTGTCTTCTTTGTGACAGCAGCCTGGAGCATCTTTGCCTACACCTGGCTTTACATT
+ATTTTGTCTGTCATATCTCCTGGTGTTGTGGAGGTCTGGGAAGGTTTGCTTACTTTCTTC
+TTCTTTCCCATCTGTGTTGTGTTCGCTTGGGTAGCGGATAGGAGACTTCTGTTTTACAAG
+TATGTCTACAAGAGGTATCGAGCTGGCAAGCAGAGGGGGATGATTATTGAACATGAAGGA
+GACAGGCCATCTTCTAAGACTGAAATTGAAATGGACGGGAAAGTGGTCAATTCTCATGTT
+GAAAATTTCTTAGATGGTGCTCTGGTTCTGGAGGTGGATGAGAGGGACCAAGATGATGAA
+GAAGCTAGGCGAGAAATGGCTAGGATTCTGAAGGAACTTAAGCAGAAGCATCCAGATAAA
+GAAATAGAGCAATTAATAGAATTAGCTAACTACCAAGTCCTAAGTCAGCAGCAAAAAAGT
+AGAGCATTTTATCGCATTCAAGCTACTCGCCTCATGACTGGAGCTGGCAACATTTTAAAG
+AGGCATGCAGCTGACCAAGCAAGGAAGGCTGTCAGCATGCACGAGGTCAACACTGAAGTG
+ACTGAAAATGACCCTGTTAGTAAGATCTTCTTTGAACAAGGGACATATCAGTGTCTGGAG
+AACTGTGGTACTGTGGCCCTTACCATTATCCGCAGAGGTGGTGATTTGACTAACACTGTG
+TTTGTTGACTTCAGAACAGAGGATGGCACAGCAAATGCTGGGTCTGATTATGAATTTACT
+GAAGGAACTGTGGTGTTTAAGCCTGGTGATACCCAGAAGGAAATCAGAGTGGGTATCATA
+GATGATGATATCTTTGAGGAGGATGAAAATTTCCTTGTGCATCTCAGCAATGTCAAAGTA
+TCTTCTGAAGCTTCAGAAGATGGCATACTGGAAGCCAATCATGTTTCTACACTTGCTTGC
+CTCGGATCTCCCTCCACTGCCACTGTAACTATTTTTGATGATGACCACGCAGGCATTTTT
+ACTTTTGAGGAACCTGTGACTCATGTGAGTGAGAGCATTGGCATCATGGAGGTGAAAGTA
+TTGAGAACATCTGGAGCTCGAGGAAATGTTATCGTTCCATATAAAACCATCGAAGGGACT
+GCCAGAGGTGGAGGGGAGGATTTTGAGGACACTTGTGGAGAGCTCGAATTCCAGAATGAT
+GAAATTGTCAAAACAATATCAGTCAAGGTAATTGATGATGAGGAGTATGAGAAAAACAAG
+ACCTTCTTCCTTGAGATTGGAGAGCCCCGCCTGGTGGAGATGAGTGAGAAGAAAGCCCTG
+TTATTGAATGAGCTTGGTGGCTTCACAATAACAGGCCAACCTGTCTTCAGGAAGGTTCAT
+GCTAGAGAACATCCGATTCTCTCTACTGTAATCACCATTGCAGACGAATATGATGACAAG
+CAGCCACTGACCAGCAAAGAGGAAGAGGAGAGGCGCATTGCAGAAATGGGGCGCCCCATC
+CTGGGAGAGCACACCAAGTTGGAAGTGATCATTGAAGAATCCTATGAATTCAAGAGTACT
+GTGGACAAACTCATTAAGAAGACAAACCTGGCCCTTGTGGTTGGGACTAACAGCTGGAGA
+GAACAGTTCATTGAAGCTATCACTGTCAGTGCTGGGGAAGATGATGACGACGATGAATGT
+GGGGAAGAGAAGCTGCCCTCCTGTTTCGATTACGTGATGCACTTTCTGACTGTGTTCTGG
+AAGGTCCTGTTTGCCTTCGTCCCCCCTACTGAATACTGGAATGGCTGGGCGTGTTTCATT
+GTCTCCATCCTCATGATTGGCCTACTGACAGCTTTCATTGGAGACCTGGCTTCCCACTTT
+GGCTGCACCATTGGCCTGAAAGATTCTGTGACTGCAGTCGTGTTCGTCGCACTTGGAACA
+TCAGTGCCAGACACATTTGCCAGCAAAGTGGCAGCCACCCAGGACCAGTATGCAGACGCC
+TCCATAGGTAACGTCACGGGCAGCAACGCGGTGAATGTCTTCCTGGGAATCGGTGTGGCC
+TGGTCCATCGCTGCCATCTACCACGCAGCCAATGGGGAACAGTTCAAAGTGTCCCCTGGC
+ACACTAGCTTTCTCTGTCACTCTCTTCACCATTTTTGCTTTCATCAATGTGGGGGTGCTG
+CTGTATCGGCGGAGGCCAGAAATCGGAGGTGAGCTGGGTGGGCCCCGGACTGCCAAGCTC
+CTCACATCCTGCCTCTTTGTGCTCCTATGGCTCTTGTACATTTTCTTCTCCTCCCTGGAG
+GCCTACTGCCACATAAAAGGCTTCTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF03160</identifier>
+            <name>Calx-beta</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01699</identifier>
+            <name>Na_Ca_ex</name>
+          </pfam>
+          <pfam>
+            <identifier>PF16494</identifier>
+            <name>Na_Ca_ex_C</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basolateral plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendritic shaft</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendritic spine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intercalated disc</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>microtubule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>mitochondrion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>sarcolemma</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>T-tubule</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Z disc</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ankyrin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>cytoskeletal protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ion channel binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>blood coagulation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion export</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion import</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion transport into cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cardiac muscle cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cardiac muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell communication by electrical coupling involved in cardiac conduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to caffeine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to cAMP</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hypoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to reactive oxygen species</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular sodium ion homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytosolic calcium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic heart tube development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryonic placenta development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>membrane depolarization during cardiac muscle cell action potential</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>muscle contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>muscle fiber development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cytosolic calcium ion concentration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of bone mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fibroblast migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of the force of heart contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cardiac muscle contraction by calcium ion signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cardiac muscle contraction by regulation of the release of sequestered calcium ion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cell communication by electrical coupling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of heart rate</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of sodium ion transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of the force of heart contraction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>relaxation of cardiac muscle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>relaxation of smooth muscle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to ATP</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to drug</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to glucose</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to hydrogen peroxide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to immobilization stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to muscle stretch</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to nutrient</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium ion export</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium ion import</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sodium ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>telencephalon development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vascular smooth muscle contraction</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0001023</id>
+      <name>Transient receptor potential cation channel subfamily V member 1</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>inhibitor</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13886</ref-id>
+            <pubmed-id>17038422</pubmed-id>
+            <citation>Matta JA, Miyares RL, Ahern GP: TRPV1 is a novel target for omega-3 polyunsaturated fatty acids. J Physiol. 2007 Jan 15;578(Pt 2):397-411. Epub 2006 Oct 12.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q8NER1" source="Swiss-Prot">
+        <name>Transient receptor potential cation channel subfamily V member 1</name>
+        <general-function>Transmembrane signaling receptor activity</general-function>
+        <specific-function>Ligand-activated non-selective calcium permeant cation channel involved in detection of noxious chemical and thermal stimuli. Seems to mediate proton influx and may be involved in intracellular acidosis in nociceptive neurons. Involved in mediation of inflammatory pain and hyperalgesia. Sensitized by a phosphatidylinositol second messenger system activated by receptor tyrosine kinases, which involves PKC isozymes and PCL. Can be activated by endogenous compounds, including 12-hydroperoxytetraenoic acid and bradykinin. Acts as ionotropic endocannabinoid receptor with central neuromodulatory effects. Triggers a form of long-term depression (TRPV1-LTD) mediated by the endocannabinoid anandamine in the hippocampus and nucleus accumbens by affecting AMPA receptors endocytosis (By similarity). Activation by vanilloids, like capsaicin, and temperatures higher than 42 degrees Celsius, exhibits a time- and Ca(2+)-dependent outward rectification, followed by a long-lasting refractory state. Mild extracellular acidic pH (6.5) potentiates channel activation by noxious heat and vanilloids, whereas acidic conditions (pH &lt;6) directly activate the channel.</specific-function>
+        <gene-name>TRPV1</gene-name>
+        <locus>17p13.3</locus>
+        <cellular-location>Cell junction</cellular-location>
+        <transmembrane-regions>434-454
+472-497
+511-531
+536-556
+572-599
+659-687</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>7.26</theoretical-pi>
+        <molecular-weight>94955.33</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:12716</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>TRPV1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AJ277028</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>8977866</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>507</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>507</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q8NER1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TRPV1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>Capsaicin receptor</synonym>
+          <synonym>Osm-9-like TRP channel 1</synonym>
+          <synonym>OTRPC1</synonym>
+          <synonym>TrpV1</synonym>
+          <synonym>Vanilloid receptor 1</synonym>
+          <synonym>VR1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037113|Transient receptor potential cation channel subfamily V member 1
+MKKWSSTDLGAAADPLQKDTCPDPLDGDPNSRPPPAKPQLSTAKSRTRLFGKGDSEEAFP
+VDCPHEEGELDSCPTITVSPVITIQRPGDGPTGARLLSQDSVAASTEKTLRLYDRRSIFE
+AVAQNNCQDLESLLLFLQKSKKHLTDNEFKDPETGKTCLLKAMLNLHDGQNTTIPLLLEI
+ARQTDSLKELVNASYTDSYYKGQTALHIAIERRNMALVTLLVENGADVQAAAHGDFFKKT
+KGRPGFYFGELPLSLAACTNQLGIVKFLLQNSWQTADISARDSVGNTVLHALVEVADNTA
+DNTKFVTSMYNEILMLGAKLHPTLKLEELTNKKGMTPLALAAGTGKIGVLAYILQREIQE
+PECRHLSRKFTEWAYGPVHSSLYDLSCIDTCEKNSVLEVIAYSSSETPNRHDMLLVEPLN
+RLLQDKWDRFVKRIFYFNFLVYCLYMIIFTMAAYYRPVDGLPPFKMEKTGDYFRVTGEIL
+SVLGGVYFFFRGIQYFLQRRPSMKTLFVDSYSEMLFFLQSLFMLATVVLYFSHLKEYVAS
+MVFSLALGWTNMLYYTRGFQQMGIYAVMIEKMILRDLCRFMFVYIVFLFGFSTAVVTLIE
+DGKNDSLPSESTSHRWRGPACRPPDSSYNSLYSTCLELFKFTIGMGDLEFTENYDFKAVF
+IILLLAYVILTYILLLNMLIALMGETVNKIAQESKNIWKLQRAITILDTEKSFLKCMRKA
+FRSGKLLQVGYTPDGKDDYRWCFRVDEVNWTTWNTNVGIINEDPGNCEGVKRTLSFSLRS
+SRVSGRHWKNFALVPLLREASARDRQSAQPEEVYLRQFSGSLKPEDAEVFKSPAASGEK</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0020500|Transient receptor potential cation channel subfamily V member 1 (TRPV1)
+ATGAAGAAATGGAGCAGCACAGACTTGGGGGCAGCTGCGGACCCACTCCAAAAGGACACC
+TGCCCAGACCCCCTGGATGGAGACCCTAACTCCAGGCCACCTCCAGCCAAGCCCCAGCTC
+TCCACGGCCAAGAGCCGCACCCGGCTCTTTGGGAAGGGTGACTCGGAGGAGGCTTTCCCG
+GTGGATTGCCCTCACGAGGAAGGTGAGCTGGACTCCTGCCCGACCATCACAGTCAGCCCT
+GTTATCACCATCCAGAGGCCAGGAGACGGCCCCACCGGTGCCAGGCTGCTGTCCCAGGAC
+TCTGTCGCCGCCAGCACCGAGAAGACCCTCAGGCTCTATGATCGCAGGAGTATCTTTGAA
+GCCGTTGCTCAGAATAACTGCCAGGATCTGGAGAGCCTGCTGCTCTTCCTGCAGAAGAGC
+AAGAAGCACCTCACAGACAACGAGTTCAAAGACCCTGAGACAGGGAAGACCTGTCTGCTG
+AAAGCCATGCTCAACCTGCACGACGGACAGAACACCACCATCCCCCTGCTCCTGGAGATC
+GCGCGGCAAACGGACAGCCTGAAGGAGCTTGTCAACGCCAGCTACACGGACAGCTACTAC
+AAGGGCCAGACAGCACTGCACATCGCCATCGAGAGACGCAACATGGCCCTGGTGACCCTC
+CTGGTGGAGAACGGAGCAGACGTCCAGGCTGCGGCCCATGGGGACTTCTTTAAGAAAACC
+AAAGGGCGGCCTGGATTCTACTTCGGTGAACTGCCCCTGTCCCTGGCCGCGTGCACCAAC
+CAGCTGGGCATCGTGAAGTTCCTGCTGCAGAACTCCTGGCAGACGGCCGACATCAGCGCC
+AGGGACTCGGTGGGCAACACGGTGCTGCACGCCCTGGTGGAGGTGGCCGACAACACGGCC
+GACAACACGAAGTTTGTGACGAGCATGTACAATGAGATTCTGATGCTGGGGGCCAAACTG
+CACCCGACGCTGAAGCTGGAGGAGCTCACCAACAAGAAGGGAATGACGCCGCTGGCTCTG
+GCAGCTGGGACCGGGAAGATCGGGGTCTTGGCCTATATTCTCCAGCGGGAGATCCAGGAG
+CCCGAGTGCAGGCACCTGTCCAGGAAGTTCACCGAGTGGGCCTACGGGCCCGTGCACTCC
+TCGCTGTACGACCTGTCCTGCATCGACACCTGCGAGAAGAACTCGGTGCTGGAGGTGATC
+GCCTACAGCAGCAGCGAGACCCCTAATCGCCACGACATGCTCTTGGTGGAGCCGCTGAAC
+CGACTCCTGCAGGACAAGTGGGACAGATTCGTCAAGCGCATCTTCTACTTCAACTTCCTG
+GTCTACTGCCTGTACATGATCATCTTCACCATGGCTGCCTACTACAGGCCCGTGGATGGC
+TTGCCTCCCTTTAAGATGGAAAAAACTGGAGACTATTTCCGAGTTACTGGAGAGATCCTG
+TCTGTGTTAGGAGGAGTCTACTTCTTTTTCCGAGGGATTCAGTATTTCCTGCAGAGGCGG
+CCGTCGATGAAGACCCTGTTTGTGGACAGCTACAGTGAGATGCTTTTCTTTCTGCAGTCA
+CTGTTCATGCTGGCCACCGTGGTGCTGTACTTCAGCCACCTCAAGGAGTATGTGGCTTCC
+ATGGTATTCTCCCTGGCCTTGGGCTGGACCAACATGCTCTACTACACCCGCGGTTTCCAG
+CAGATGGGCATCTATGCCGTCATGATAGAGAAGATGATCCTGAGAGACCTGTGCCGTTTC
+ATGTTTGTCTACATCGTCTTCTTGTTCGGGTTTTCCACAGCGGTGGTGACGCTGATTGAA
+GACGGGAAGAATGACTCCCTGCCGTCTGAGTCCACGTCGCACAGGTGGCGGGGGCCTGCC
+TGCAGGCCCCCCGATAGCTCCTACAACAGCCTGTACTCCACCTGCCTGGAGCTGTTCAAG
+TTCACCATCGGCATGGGCGACCTGGAGTTCACTGAGAACTATGACTTCAAGGCTGTCTTC
+ATCATCCTGCTGCTGGCCTATGTAATTCTCACCTACATCCTCCTGCTCAACATGCTCATC
+GCCCTCATGGGTGAGACTGTCAACAAGATCGCACAGGAGAGCAAGAACATCTGGAAGCTG
+CAGAGAGCCATCACCATCCTGGACACGGAGAAGAGCTTCCTTAAGTGCATGAGGAAGGCC
+TTCCGCTCAGGCAAGCTGCTGCAGGTGGGGTACACACCTGATGGCAAGGACGACTACCGG
+TGGTGCTTCAGGGTGGACGAGGTGAACTGGACCACCTGGAACACCAACGTGGGCATCATC
+AACGAAGACCCGGGCAACTGTGAGGGCGTCAAGCGCACCCTGAGCTTCTCCCTGCGGTCA
+AGCAGAGTTTCAGGCAGACACTGGAAGAACTTTGCCCTGGTCCCCCTTTTAAGAGAGGCA
+AGTGCTCGAGATAGGCAGTCTGCTCAGCCCGAGGAAGTTTATCTGCGACAGTTTTCAGGG
+TCTCTGAAGCCAGAGGACGCTGAGGTCTTCAAGAGTCCTGCCGCTTCCGGGGAGAAGTGA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00520</identifier>
+            <name>Ion_trans</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12796</identifier>
+            <name>Ank_2</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell junction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendritic spine membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intrinsic component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>postsynaptic membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium channel activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>calcium-release channel activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>excitatory extracellular ligand-gated ion channel activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>phosphoprotein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>calcium ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to alkaloid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to ATP</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chemosensory behavior</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ion transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>thermoception</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transmembrane transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transport</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="1">
+      <id>BE0000071</id>
+      <name>Peroxisome proliferator-activated receptor alpha</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A19808</ref-id>
+            <pubmed-id>10403814</pubmed-id>
+            <citation>Murakami K, Ide T, Suzuki M, Mochizuki T, Kadowaki T: Evidence for direct binding of fatty acids and eicosanoids to human peroxisome proliferators-activated receptor alpha. Biochem Biophys Res Commun. 1999 Jul 14;260(3):609-13.</citation>
+          </article>
+          <article>
+            <ref-id>A19810</ref-id>
+            <pubmed-id>16731579</pubmed-id>
+            <citation>Vanden Heuvel JP, Thompson JT, Frame SR, Gillies PJ: Differential activation of nuclear receptors by perfluorinated fatty acid analogs and natural fatty acids: a comparison of human, mouse, and rat peroxisome proliferator-activated receptor-alpha, -beta, and -gamma, liver X receptor-beta, and retinoid X receptor-alpha. Toxicol Sci. 2006 Aug;92(2):476-89. Epub 2006 May 26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q07869" source="Swiss-Prot">
+        <name>Peroxisome proliferator-activated receptor alpha</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Ligand-activated transcription factor. Key regulator of lipid metabolism. Activated by the endogenous ligand 1-palmitoyl-2-oleoyl-sn-glycerol-3-phosphocholine (16:0/18:1-GPC). Activated by oleylethanolamide, a naturally occurring lipid that regulates satiety. Receptor for peroxisome proliferators such as hypolipidemic drugs and fatty acids. Regulates the peroxisomal beta-oxidation pathway of fatty acids. Functions as transcription activator for the ACOX1 and P450 genes. Transactivation activity requires heterodimerization with RXRA and is antagonized by NR2C2. May be required for the propagation of clock information to metabolic pathways regulated by PER2.</specific-function>
+        <gene-name>PPARA</gene-name>
+        <locus>22q12-q13.1|22q13.31</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.2</theoretical-pi>
+        <molecular-weight>52224.595</molecular-weight>
+        <chromosome-location>22</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9232</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PPARA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L02932</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>307341</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>593</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>593</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q07869</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PPARA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>NR1C1</synonym>
+          <synonym>Nuclear receptor subfamily 1 group C member 1</synonym>
+          <synonym>PPAR</synonym>
+          <synonym>PPAR-alpha</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000142|Peroxisome proliferator-activated receptor alpha
+MVDTESPLCPLSPLEAGDLESPLSEEFLQEMGNIQEISQSIGEDSSGSFGFTEYQYLGSC
+PGSDGSVITDTLSPASSPSSVTYPVVPGSVDESPSGALNIECRICGDKASGYHYGVHACE
+GCKGFFRRTIRLKLVYDKCDRSCKIQKKNRNKCQYCRFHKCLSVGMSHNAIRFGRMPRSE
+KAKLKAEILTCEHDIEDSETADLKSLAKRIYEAYLKNFNMNKVKARVILSGKASNNPPFV
+IHDMETLCMAEKTLVAKLVANGIQNKEAEVRIFHCCQCTSVETVTELTEFAKAIPGFANL
+DLNDQVTLLKYGVYEAIFAMLSSVMNKDGMLVAYGNGFITREFLKSLRKPFCDIMEPKFD
+FAMKFNALELDDSDISLFVAAIICCGDRPGLLNVGHIEKMQEGIVHVLRLHLQSNHPDDI
+FLFPKLLQKMADLRQLVTEHAQLVQIIKKTESDAALHPLLQEIYRDMY</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021925|Peroxisome proliferator-activated receptor alpha (PPARA)
+ATGGTGGACACGGAAAGCCCACTCTGCCCCCTCTCCCCACTCGAGGCCGGCGATCTAGAG
+AGCCCGTTATCTGAAGAGTTCCTGCAAGAAATGGGAAACATCCAAGAGATTTCGCAATCC
+ATCGGCGAGGATAGTTCTGGAAGCTTTGGCTTTACGGAATACCAGTATTTAGGAAGCTGT
+CCTGGCTCAGATGGCTCGGTCATCACGGACACGCTTTCACCAGCTTCGAGCCCCTCCTCG
+GTGACTTATCCTGTGGTCCCCGGCAGCGTGGACGAGTCTCCCAGTGGAGCATTGAACATC
+GAATGTAGAATCTGCGGGGACAAGGCCTCAGGCTATCATTACGGAGTCCACGCGTGTGAA
+GGCTGCAAGGGCTTCTTTCGGCGAACGATTCGACTCAAGCTGGTGTATGACAAGTGCGAC
+CGCAGCTGCAAGATCCAGAAAAAGAACAGAAACAAATGCCAGTATTGTCGATTTCACAAG
+TGCCTTTCTGTCGGGATGTCACACAACGCGATTCGTTTTGGACGAATGCCAAGATCTGAG
+AAAGCAAAACTGAAAGCAGAAATTCTTACCTGTGAACATGACATAGAAGATTCTGAAACT
+GCAGATCTCAAATCTCTGGCCAAGAGAATCTACGAGGCCTACTTGAAGAACTTCAACATG
+AACAAGGTCAAAGCCCGGGTCATCCTCTCAGGAAAGGCCAGTAACAATCCACCTTTTGTC
+ATACATGATATGGAGACACTGTGTATGGCTGAGAAGACGCTGGTGGCCAAGCTGGTGGCC
+AATGGCATCCAGAACAAGGAGGCGGAGGTCCGCATCTTTCACTGCTGCCAGTGCACGTCA
+GTGGAGACCGTCACGGAGCTCACGGAATTCGCCAAGGCCATCCCAGGCTTCGCAAACTTG
+GACCTGAACGATCAAGTGACATTGCTAAAATACGGAGTTTATGAGGCCATATTCGCCATG
+CTGTCTTCTGTGATGAACAAAGACGGGATGCTGGTAGCGTATGGAAATGGGTTTATAACT
+CGTGAATTCCTAAAAAGCCTAAGGAAACCGTTCTGTGATATCATGGAACCCAAGTTTGAT
+TTTGCCATGAAGTTCAATGCACTGGAACTGGATGACAGTGATATCTCCCTTTTTGTGGCT
+GCTATCATTTGCTGTGGAGATCGTCCTGGCCTTCTAAACGTAGGACACATTGAAAAAATG
+CAGGAGGGTATTGTACATGTGCTCAGACTCCACCTGCAGAGCAACCACCCGGACGATATC
+TTTCTCTTCCCAAAACTTCTTCAAAAAATGGCAGACCTCCGGCAGCTGGTGACGGAGCAT
+GCGCAGCTGGTGCAGATCATCAAGAAGACGGAGTCGGATGCTGCGCTGCACCCGCTACTG
+CAGGAGATCTACAGGGACATGTACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II core promoter proximal region sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II repressing transcription factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional activator activity, RNA polymerase II transcription factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional repressor activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ubiquitin conjugating enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>behavioral response to nicotine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>circadian regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>circadian rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>enamel mineralization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epidermis development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of appetite</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cholesterol storage</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of glycolytic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of leukocyte cell-cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage derived foam cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of neuron death</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of pri-miRNA transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of protein binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of receptor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of sequestering of triglyceride</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription regulatory region DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fatty acid beta-oxidation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fatty acid oxidation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gluconeogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cellular ketone metabolic process by positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of circadian rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of glycolytic process by positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of lipid transport by positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to hypoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to insulin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0001777</id>
+      <name>Bile acid receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>agonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A19916</ref-id>
+            <pubmed-id>21658928</pubmed-id>
+            <citation>Zhang J, Kris-Etherton PM, Thompson JT, Hannon DB, Gillies PJ, Heuvel JP: Alpha-linolenic acid increases cholesterol efflux in macrophage-derived foam cells by decreasing stearoyl CoA desaturase 1 expression: evidence for a farnesoid-X-receptor mechanism of action. J Nutr Biochem. 2012 Apr;23(4):400-9. doi: 10.1016/j.jnutbio.2011.01.004. Epub 2011 Jun 11.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q96RI1" source="Swiss-Prot">
+        <name>Bile acid receptor</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Ligand-activated transcription factor. Receptor for bile acids such as chenodeoxycholic acid, lithocholic acid and deoxycholic acid. Represses the transcription of the cholesterol 7-alpha-hydroxylase gene (CYP7A1) through the induction of NR0B2 or FGF19 expression, via two distinct mechanisms. Activates the intestinal bile acid-binding protein (IBABP). Activates the transcription of bile salt export pump ABCB11 by directly recruiting histone methyltransferase CARM1 to this locus.</specific-function>
+        <gene-name>NR1H4</gene-name>
+        <locus>12q23.1</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.81</theoretical-pi>
+        <molecular-weight>55913.915</molecular-weight>
+        <chromosome-location>12</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:7967</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>NR1H4</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U68233</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1546084</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>603</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>603</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q96RI1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NR1H4_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>BAR</synonym>
+          <synonym>Farnesoid X-activated receptor</synonym>
+          <synonym>Farnesol receptor HRR-1</synonym>
+          <synonym>FXR</synonym>
+          <synonym>HRR1</synonym>
+          <synonym>Nuclear receptor subfamily 1 group H member 4</synonym>
+          <synonym>Retinoid X receptor-interacting protein 14</synonym>
+          <synonym>RIP14</synonym>
+          <synonym>RXR-interacting protein 14</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0003523|Bile acid receptor
+MVMQFQGLENPIQISPHCSCTPSGFFMEMMSMKPAKGVLTEQVAGPLGQNLEVEPYSQYS
+NVQFPQVQPQISSSSYYSNLGFYPQQPEEWYSPGIYELRRMPAETLYQGETEVAEMPVTK
+KPRMGASAGRIKGDELCVVCGDRASGYHYNALTCEGCKGFFRRSITKNAVYKCKNGGNCV
+MDMYMRRKCQECRLRKCKEMGMLAECMYTGLLTEIQCKSKRLRKNVKQHADQTVNEDSEG
+RDLRQVTSTTKSCREKTELTPDQQTLLHFIMDSYNKQRMPQEITNKILKEEFSAEENFLI
+LTEMATNHVQVLVEFTKKLPGFQTLDHEDQIALLKGSAVEAMFLRSAEIFNKKLPSGHSD
+LLEERIRNSGISDEYITPMFSFYKSIGELKMTQEEYALLTAIVILSPDRQYIKDREAVEK
+LQEPLLDVLQKLCKIHQPENPQHFACLLGRLTELRTFNHHHAEMLMSWRVNDHKFTPLLC
+EIWDVQ</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011269|Bile acid receptor (NR1H4)
+ATGGGATCAAAAATGAATCTCATTGAACATTCCCATTTACCTACCACAGATGAATTTTCT
+TTTTCTGAAAATTTATTTGGTGTTTTAACAGAACAAGTGGCAGGTCCTCTGGGACAGAAC
+CTGGAAGTGGAACCATACTCGCAATACAGCAATGTTCAGTTTCCCCAAGTTCAACCACAG
+ATTTCCTCGTCATCCTATTATTCCAACCTGGGTTTCTACCCCCAGCAGCCTGAAGAGTGG
+TACTCTCCTGGAATATATGAACTCAGGCGTATGCCAGCTGAGACTCTCTACCAGGGAGAA
+ACTGAGGTAGCAGAGATGCCTGTAACAAAGAAGCCCCGCATGGGCGCGTCAGCAGGGAGG
+ATCAAAGGGGATGAGCTGTGTGTTGTTTGTGGAGACAGAGCCTCTGGATACCACTATAAT
+GCACTGACCTGTGAGGGGTGTAAAGGTTTCTTCAGGAGAAGCATTACCAAAAACGCTGTG
+TACAAGTGTAAAAACGGGGGCAACTGTGTGATGGATATGTACATGCGAAGAAAGTGTCAA
+GAGTGTCGACTAAGGAAATGCAAAGAGATGGGAATGTTGGCTGAATGTATGTATACAGGC
+TTGTTAACTGAAATTCAGTGTAAATCTAAGCGACTGAGAAAAAATGTGAAGCAGCATGCA
+GATCAGACCGTGAATGAAGACAGTGAAGGTCGTGACTTGCGACAAGTGACCTCGACAACA
+AAGTCATGCAGGGAGAAAACTGAACTCACCCCAGATCAACAGACTCTTCTACATTTTATT
+ATGGATTCATATAACAAACAGAGGATGCCTCAGGAAATAACAAATAAAATTTTAAAAGAA
+GAATTCAGTGCAGAAGAAAATTTTCTCATTTTGACGGAAATGGCAACCAATCATGTACAG
+GTTCTTGTAGAATTCACAAAAAAGCTACCAGGATTTCAGACTTTGGACCATGAAGACCAG
+ATTGCTTTGCTGAAAGGGTCTGCGGTTGAAGCTATGTTCCTTCGTTCAGCTGAGATTTTC
+AATAAGAAACTTCCGTCTGGGCATTCTGACCTATTGGAAGAAAGAATTCGAAATAGTGGT
+ATCTCTGATGAATATATAACACCTATGTTTAGTTTTTATAAAAGTATTGGGGAACTGAAA
+ATGACTCAAGAGGAGTATGCTCTGCTTACAGCAATTGTTATCCTGTCTCCAGATAGACAA
+TACATAAAGGATAGAGAGGCAGTAGAGAAGCTTCAGGAGCCACTTCTTGATGTGCTACAA
+AAGTTGTGTAAGATTCACCAGCCTGAAAATCCTCAACACTTTGCCTGTCTCCTGGGTCGC
+CTGACTGAATTACGGACATTCAATCATCACCACGCTGAGATGCTGATGTCATGGAGAGTA
+AACGACCACAAGTTTACCCCACTTCTCTGTGAAATCTGGGACGTGCAGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear euchromatin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>bile acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>bile acid receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chenodeoxycholic acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ligand-dependent nuclear receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II distal enhancer sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>thyroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription coactivator activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription corepressor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, RNA polymerase II distal enhancer sequence-specific binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional activator activity, RNA polymerase II transcription factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid and bile salt transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to bile acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to organonitrogen compound</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular bile acid receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of bile acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>nitrogen catabolite activation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Notch signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of ammonia assimilation cycle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of glutamate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of bile acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cholesterol metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of urea metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0001007</id>
+      <name>Peroxisome proliferator-activated receptor delta</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A19810</ref-id>
+            <pubmed-id>16731579</pubmed-id>
+            <citation>Vanden Heuvel JP, Thompson JT, Frame SR, Gillies PJ: Differential activation of nuclear receptors by perfluorinated fatty acid analogs and natural fatty acids: a comparison of human, mouse, and rat peroxisome proliferator-activated receptor-alpha, -beta, and -gamma, liver X receptor-beta, and retinoid X receptor-alpha. Toxicol Sci. 2006 Aug;92(2):476-89. Epub 2006 May 26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q03181" source="Swiss-Prot">
+        <name>Peroxisome proliferator-activated receptor delta</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Ligand-activated transcription factor. Receptor that binds peroxisome proliferators such as hypolipidemic drugs and fatty acids. Has a preference for poly-unsaturated fatty acids, such as gamma-linoleic acid and eicosapentanoic acid. Once activated by a ligand, the receptor binds to promoter elements of target genes. Regulates the peroxisomal beta-oxidation pathway of fatty acids. Functions as transcription activator for the acyl-CoA oxidase gene. Decreases expression of NPC1L1 once activated by a ligand.</specific-function>
+        <gene-name>PPARD</gene-name>
+        <locus>6p21.2-p21.1</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>7.65</theoretical-pi>
+        <molecular-weight>49902.99</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9235</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PPARD</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L07592</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>190230</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>594</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>594</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q03181</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PPARD_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>NR1C2</synonym>
+          <synonym>NUC1</synonym>
+          <synonym>NUCI</synonym>
+          <synonym>Nuclear hormone receptor 1</synonym>
+          <synonym>Nuclear receptor subfamily 1 group C member 2</synonym>
+          <synonym>Peroxisome proliferator-activated receptor beta</synonym>
+          <synonym>PPAR-beta</synonym>
+          <synonym>PPAR-delta</synonym>
+          <synonym>PPARB</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0002005|Peroxisome proliferator-activated receptor delta
+MEQPQEEAPEVREEEEKEEVAEAEGAPELNGGPQHALPSSSYTDLSRSSSPPSLLDQLQM
+GCDGASCGSLNMECRVCGDKASGFHYGVHACEGCKGFFRRTIRMKLEYEKCERSCKIQKK
+NRNKCQYCRFQKCLALGMSHNAIRFGRMPEAEKRKLVAGLTANEGSQYNPQVADLKAFSK
+HIYNAYLKNFNMTKKKARSILTGKASHTAPFVIHDIETLWQAEKGLVWKQLVNGLPPYKE
+ISVHVFYRCQCTTVETVRELTEFAKSIPSFSSLFLNDQVTLLKYGVHEAIFAMLASIVNK
+DGLLVANGSGFVTREFLRSLRKPFSDIIEPKFEFAVKFNALELDDSDLALFIAAIILCGD
+RPGLMNVPRVEAIQDTILRALEFHLQANHPDAQYLFPKLLQKMADLRQLVTEHAQMMQRI
+KKTETETSLHPLLQEIYKDMY</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0019047|Peroxisome proliferator-activated receptor delta (PPARD)
+ATGGAGCAGCCACAGGAGGAAGCCCCTGAGGTCCGGGAAGAGGAGGAGAAAGAGGAAGTG
+GCAGAGGCAGAAGGAGCCCCAGAGCTCAATGGGGGACCACAGCATGCACTTCCTTCCAGC
+AGCTACACAGACCTCTCCCGGAGCTCCTCGCCACCCTCACTGCTGGACCAACTGCAGATG
+GGCTGTGACGGGGCCTCATGCGGCAGCCTCAACATGGAGTGCCGGGTGTGCGGGGACAAG
+GCATCGGGCTTCCACTACGGTGTTCATGCATGTGAGGGGTGCAAGGGCTTCTTCCGTCGT
+ACGATCCGCATGAAGCTGGAGTACGAGAAGTGTGAGCGCAGCTGCAAGATTCAGAAGAAG
+AACCGCAACAAGTGCCAGTACTGCCGCTTCCAGAAGTGCCTGGCACTGGGCATGTCACAC
+AACGCTATCCGTTTTGGTCGGATGCCGGAGGCTGAGAAGAGGAAGCTGGTGGCAGGGCTG
+ACTGCAAACGAGGGGAGCCAGTACAACCCACAGGTGGCCGACCTGAAGGCCTTCTCCAAG
+CACATCTACAATGCCTACCTGAAAAACTTCAACATGACCAAAAAGAAGGCCCGCAGCATC
+CTCACCGGCAAAGCCAGCCACACGGCGCCCTTTGTGATCCACGACATCGAGACATTGTGG
+CAGGCAGAGAAGGGGCTGGTGTGGAAGCAGTTGGTGAATGGCCTGCCTCCCTACAAGGAG
+ATCAGCGTGCACGTCTTCTACCGCTGCCAGTGCACCACAGTGGAGACCGTGCGGGAGCTC
+ACTGAGTTCGCCAAGAGCATCCCCAGCTTCAGCAGCCTCTTCCTCAACGACCAGGTTACC
+CTTCTCAAGTATGGCGTGCACGAGGCCATCTTCGCCATGCTGGCCTCTATCGTCAACAAG
+GACGGGCTGCTGGTAGCCAACGGCAGTGGCTTTGTCACCCGTGAGTTCCTGCGCAGCCTC
+CGCAAACCCTTCAGTGATATCATTGAGCCTAAGTTTGAATTTGCTGTCAAGTTCAACGCC
+CTGGAACTTGATGACAGTGACCTGGCCCTATTCATTGCGGCCATCATTCTGTGTGGAGAC
+CGGCCAGGCCTCATGAACGTTCCACGGGTGGAGGCTATCCAGGACACCATCCTGCGTGCC
+CTCGAATTCCACCTGCAGGCCAACCACCCTGATGCCCAGTACCTCTTCCCCAAGCTGCTG
+CAGAAGATGGCTGACCTGCGGCAACTGGTCACCGAGCACGCCCAGATGATGCAGCGGATC
+AAGAAGACCGAAACCGAGACCTCGCTGCACCCTCTGCTCCAGGAGATCTACAAGGACATG
+TACTAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>linoleic acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adipose tissue development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon ensheathment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell-substrate adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hypoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cholesterol metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>decidualization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryo implantation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid beta-oxidation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>generation of precursor metabolites and energy</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glucose metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glucose transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>intracellular receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratinocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratinocyte proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of myoblast differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of myoblast proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phosphatidylinositol 3-kinase signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of skeletal muscle tissue regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of satellite cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>wound healing</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0000215</id>
+      <name>Peroxisome proliferator-activated receptor gamma</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A19810</ref-id>
+            <pubmed-id>16731579</pubmed-id>
+            <citation>Vanden Heuvel JP, Thompson JT, Frame SR, Gillies PJ: Differential activation of nuclear receptors by perfluorinated fatty acid analogs and natural fatty acids: a comparison of human, mouse, and rat peroxisome proliferator-activated receptor-alpha, -beta, and -gamma, liver X receptor-beta, and retinoid X receptor-alpha. Toxicol Sci. 2006 Aug;92(2):476-89. Epub 2006 May 26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P37231" source="Swiss-Prot">
+        <name>Peroxisome proliferator-activated receptor gamma</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Nuclear receptor that binds peroxisome proliferators such as hypolipidemic drugs and fatty acids. Once activated by a ligand, the nuclear receptor binds to DNA specific PPAR response elements (PPRE) and modulates the transcription of its target genes, such as acyl-CoA oxidase. It therefore controls the peroxisomal beta-oxidation pathway of fatty acids. Key regulator of adipocyte differentiation and glucose homeostasis. ARF6 acts as a key regulator of the tissue-specific adipocyte P2 (aP2) enhancer. Acts as a critical regulator of gut homeostasis by suppressing NF-kappa-B-mediated proinflammatory responses. Plays a role in the regulation of cardiovascular circadian rhythms by regulating the transcription of ARNTL/BMAL1 in the blood vessels (By similarity).</specific-function>
+        <gene-name>PPARG</gene-name>
+        <locus>3p25</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.77</theoretical-pi>
+        <molecular-weight>57619.58</molecular-weight>
+        <chromosome-location>3</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9236</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>PPARG</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U79012</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1711117</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>595</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>595</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P37231</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>PPARG_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>NR1C3</synonym>
+          <synonym>Nuclear receptor subfamily 1 group C member 3</synonym>
+          <synonym>PPAR-gamma</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000429|Peroxisome proliferator-activated receptor gamma
+MGETLGDSPIDPESDSFTDTLSANISQEMTMVDTEMPFWPTNFGISSVDLSVMEDHSHSF
+DIKPFTTVDFSSISTPHYEDIPFTRTDPVVADYKYDLKLQEYQSAIKVEPASPPYYSEKT
+QLYNKPHEEPSNSLMAIECRVCGDKASGFHYGVHACEGCKGFFRRTIRLKLIYDRCDLNC
+RIHKKSRNKCQYCRFQKCLAVGMSHNAIRFGRMPQAEKEKLLAEISSDIDQLNPESADLR
+ALAKHLYDSYIKSFPLTKAKARAILTGKTTDKSPFVIYDMNSLMMGEDKIKFKHITPLQE
+QSKEVAIRIFQGCQFRSVEAVQEITEYAKSIPGFVNLDLNDQVTLLKYGVHEIIYTMLAS
+LMNKDGVLISEGQGFMTREFLKSLRKPFGDFMEPKFEFAVKFNALELDDSDLAIFIAVII
+LSGDRPGLLNVKPIEDIQDNLLQALELQLKLNHPESSQLFAKLLQKMTDLRQIVTEHVQL
+LQVIKKTETDMSLHPLLQEIYKDLY</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021642|Peroxisome proliferator-activated receptor gamma (PPARG)
+ATGACCATGGTTGACACAGAGATGCCATTCTGGCCCACCAACTTTGGGATCAGCTCCGTG
+GATCTCTCCGTAATGGAAGACCACTCCCACTCCTTTGATATCAAGCCCTTCACTACTGTT
+GACTTCTCCAGCATTTCTACTCCACATTACGAAGACATTCCATTCACAAGAACAGATCCA
+GTGGTTGCAGATTACAAGTATGACCTGAAACTTCAAGAGTACCAAAGTGCAATCAAAGTG
+GAGCCTGCATCTCCACCTTATTATTCTGAGAAGACTCAGCTCTACAATAAGCCTCATGAA
+GAGCCTTCCAACTCCCTCATGGCAATTGAATGTCGTGTCTGTGGAGATAAAGCTTCTGGA
+TTTCACTATGGAGTTCATGCTTGTGAAGGATGCAAGGGTTTCTTCCGGAGAACAATCAGA
+TTGAAGCTTATCTATGACAGATGTGATCTTAACTGTCGGATCCACAAAAAAAGTAGAAAT
+AAATGTCAGTACTGTCGGTTTCAGAAATGCCTTGCAGTGGGGATGTCTCATAATGCCATC
+AGGTTTGGGCGGATGCCACAGGCCGAGAAGGAGAAGCTGTTGGCGGAGATCTCCAGTGAT
+ATCGACCAGCTGAATCCAGAGTCCGCTGACCTCCGGGCCCTGGCAAAACATTTGTATGAC
+TCATACATAAAGTCCTTCCCGCTGACCAAAGCAAAGGCGAGGGCGATCTTGACAGGAAAG
+ACAACAGACAAATCACCATTCGTTATCTATGACATGAATTCCTTAATGATGGGAGAAGAT
+AAAATCAAGTTCAAACACATCACCCCCCTGCAGGAGCAGAGCAAAGAGGTGGCCATCCGC
+ATCTTTCAGGGCTGCCAGTTTCGCTCCGTGGAGGCTGTGCAGGAGATCACAGAGTATGCC
+AAAAGCATTCCTGGTTTTGTAAATCTTGACTTGAACGACCAAGTAACTCTCCTCAAATAT
+GGAGTCCACGAGATCATTTACACAATGCTGGCCTCCTTGATGAATAAAGATGGGGTTCTC
+ATATCCGAGGGCCAAGGCTTCATGACAAGGGAGTTTCTAAAGAGCCTGCGAAAGCCTTTT
+GGTGACTTTATGGAGCCCAAGTTTGAGTTTGCTGTGAAGTTCAATGCACTGGAATTAGAT
+GACAGCGACTTGGCAATATTTATTGCTGTCATTATTCTCAGTGGAGACCGCCCAGGTTTG
+CTGAATGTGAAGCCCATTGAAGACATTCAAGACAACCTGCTACAAGCCCTGGAGCTCCAG
+CTGAAGCTGAACCACCCTGAGTCCTCACAGCTGTTTGCCAAGCTGCTCCAGAAAATGACA
+GACCTCAGACAGATTGTCACGGAACACGTGCAGCTACTGCAGGTGATCAAGAAGACGGAG
+ACAGACATGAGTCTTCACCCGCTCCTGCAGGAGATCTACAAGGACTTGTACTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12577</identifier>
+            <name>PPARgamma_N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intracellular membrane-bounded organelle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>perinuclear region of cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>RNA polymerase II transcription factor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>activating transcription factor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>alpha-actinin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>arachidonic acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chromatin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>core promoter sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>drug binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ligand-dependent nuclear receptor transcription coactivator activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>prostaglandin receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>retinoid X receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II regulatory region DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription regulatory region DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcriptional activator activity, RNA polymerase II transcription regulatory region sequence-specific binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>brown fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell fate commitment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell maturation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to hyperoxia</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to insulin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to lithium ion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to prostaglandin E stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to retinoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to vitamin E</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>diet induced thermogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid oxidation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glucose homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>heart development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipid homeostasis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipoprotein transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>long-chain fatty acid transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>low-density lipoprotein particle receptor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>monocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of acute inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell growth</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cholesterol storage</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of collagen biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interferon-gamma-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of macrophage derived foam cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of pancreatic stellate cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of receptor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of sequestering of triglyceride</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of smooth muscle cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of telomerase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>organ regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peroxisome proliferator activated receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>placenta development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fat cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fatty acid oxidation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of oligodendrocyte differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of phagocytosis, engulfment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of sequence-specific DNA binding transcription factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription, DNA-templated</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of blood pressure</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cholesterol transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of circadian rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of transcription involved in cell fate commitment</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to caffeine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to cold</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to diuretic</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to estrogen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to immobilization stress</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to lipid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to low-density lipoprotein particle</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to mechanical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to metformin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to nutrient</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to retinoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to starvation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin A</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>rhythmic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>white fat cell differentiation</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="5">
+      <id>BE0000412</id>
+      <name>Retinoic acid receptor RXR-alpha</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A19810</ref-id>
+            <pubmed-id>16731579</pubmed-id>
+            <citation>Vanden Heuvel JP, Thompson JT, Frame SR, Gillies PJ: Differential activation of nuclear receptors by perfluorinated fatty acid analogs and natural fatty acids: a comparison of human, mouse, and rat peroxisome proliferator-activated receptor-alpha, -beta, and -gamma, liver X receptor-beta, and retinoid X receptor-alpha. Toxicol Sci. 2006 Aug;92(2):476-89. Epub 2006 May 26.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P19793" source="Swiss-Prot">
+        <name>Retinoic acid receptor RXR-alpha</name>
+        <general-function>Zinc ion binding</general-function>
+        <specific-function>Receptor for retinoic acid. Retinoic acid receptors bind as heterodimers to their target response elements in response to their ligands, all-trans or 9-cis retinoic acid, and regulate gene expression in various biological processes. The RAR/RXR heterodimers bind to the retinoic acid response elements (RARE) composed of tandem 5'-AGGTCA-3' sites known as DR1-DR5. The high affinity ligand for RXRs is 9-cis retinoic acid. RXRA serves as a common heterodimeric partner for a number of nuclear receptors. The RXR/RAR heterodimers bind to the retinoic acid response elements (RARE) composed of tandem 5'-AGGTCA-3' sites known as DR1-DR5. In the absence of ligand, the RXR-RAR heterodimers associate with a multiprotein complex containing transcription corepressors that induce histone acetylation, chromatin condensation and transcriptional suppression. On ligand binding, the corepressors dissociate from the receptors and associate with the coactivators leading to transcriptional activation. The RXRA/PPARA heterodimer is required for PPARA transcriptional activity on fatty acid oxidation genes such as ACOX1 and the P450 system genes.</specific-function>
+        <gene-name>RXRA</gene-name>
+        <locus>9q34.3</locus>
+        <cellular-location>Nucleus</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>7.86</theoretical-pi>
+        <molecular-weight>50810.835</molecular-weight>
+        <chromosome-location/>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:10477</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>RXRA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X52773</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>35885</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>610</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>610</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P19793</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>RXRA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>NR2B1</synonym>
+          <synonym>Nuclear receptor subfamily 2 group B member 1</synonym>
+          <synonym>Retinoid X receptor alpha</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000821|Retinoic acid receptor RXR-alpha
+MDTKHFLPLDFSTQVNSSLTSPTGRGSMAAPSLHPSLGPGIGSPGQLHSPISTLSSPING
+MGPPFSVISSPMGPHSMSVPTTPTLGFSTGSPQLSSPMNPVSSSEDIKPPLGLNGVLKVP
+AHPSGNMASFTKHICAICGDRSSGKHYGVYSCEGCKGFFKRTVRKDLTYTCRDNKDCLID
+KRQRNRCQYCRYQKCLAMGMKREAVQEERQRGKDRNENEVESTSSANEDMPVERILEAEL
+AVEPKTETYVEANMGLNPSSPNDPVTNICQAADKQLFTLVEWAKRIPHFSELPLDDQVIL
+LRAGWNELLIASFSHRSIAVKDGILLATGLHVHRNSAHSAGVGAIFDRVLTELVSKMRDM
+QMDKTELGCLRAIVLFNPDSKGLSNPAEVEALREKVYASLEAYCKHKYPEQPGRFAKLLL
+RLPALRSIGLKCLEHLFFFKLIGDTPIDTFLMEMLEAPHQMT</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0000820|1389 bp
+ATGGACACCAAACATTTCCTGCCGCTCGATTTCTCCACCCAGGTGAACTCCTCCCTCACC
+TCCCCGACGGGGCGAGGCTCCATGGCTGCCCCCTCGCTGCACCCGTCCCTGGGGCCTGGC
+ATCGGCTCCCCGGGACAGCTGCATTCTCCCATCAGCACCCTGAGCTCCCCCATCAACGGC
+ATGGGCCCGCCTTTCTCGGTCATCAGCTCCCCCATGGGCCCCCACTCCATGTCGGTGCCC
+ACCACACCCACCCTGGGCTTCAGCACTGGCAGCCCCCAGCTCAGCTCACCTATGAACCCC
+GTCAGCAGCAGCGAGGACATCAAGCCCCCCCTGGGCCTCAATGGCGTCCTCAAGGTCCCC
+GCCCACCCCTCAGGAAACATGGCTTCCTTCACCAAGCACATCTGCGCCATCTGCGGGGAC
+CGCTCCTCAGGCAAGCACTATGGAGTGTACAGCTGCGAGGGGTGCAAGGGCTTCTTCAAG
+CGGACGGTGCGCAAGGACCTGACCTACACCTGCCGCGACAACAAGGACTGCCTGATTGAC
+AAGCGGCAGCGGAACCGGTGCCAGTACTGCCGCTACCAGAAGTGCCTGGCCATGGGCATG
+AAGCGGGAAGCCGTGCAGGAGGAGCGGCAGCGTGGCAAGGACCGGAACGAGAATGAGGTG
+GAGTCGACCAGCAGCGCCAACGAGGACATGCCGGTGGAGAGGATCCTGGAGGCTGAGCTG
+GCCGTGGAGCCCAAGACCGAGACCTACGTGGAGGCAAACATGGGGCTGAACCCCAGCTCG
+CCGAACGACCCTGTCACCAACATTTGCCAAGCAGCCGACAAACAGCTTTTCACCCTGGTG
+GAGTGGGCCAAGCGGATCCCACACTTCTCAGAGCTGCCCCTGGACGACCAGGTCATCCTG
+CTGCGGGCAGGCTGGAATGAGCTGCTCATCGCCTCCTTCTCCCACCGCTCCATCGCCGTG
+AAGGACGGGATCCTCCTGGCCACCGGGCTGCACGTCCACCGGAACAGCGCCCACAGCGCA
+GGGGTGGGCGCCATCTTTGACAGGGTGCTGACGGAGCTTGTGTCCAAGATGCGGGACATG
+CAGATGGACAAGACGGAGCTGGGCTGCCTGCGCGCCATCGTCCTCTTTAACCCTGACTCC
+AAGGGGCTCTCGAACCCGGCCGAGGTGGAGGCGCTGAGGGAGAAGGTCTATGCGTCCTTG
+GAGGCCTACTGCAAGCACAAGTACCCAGAGCAGCCGGGAAGGTTCGCTAAGCTCTTGCTC
+CGCCTGCCGGCTCTGCGCTCCATCGGGCTCAAATGCCTGGAACATCTCTTCTTCTTCAAG
+CTCATCGGGGACACACCCATTGACACCTTCCTTATGGAGATGCTGGAGGCGCCGCACCAA
+ATGACTTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00104</identifier>
+            <name>Hormone_recep</name>
+          </pfam>
+          <pfam>
+            <identifier>PF00105</identifier>
+            <name>zf-C4</name>
+          </pfam>
+          <pfam>
+            <identifier>PF11825</identifier>
+            <name>Nuc_recep-AF1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>axon</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nuclear chromatin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>receptor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>RNA polymerase II transcription factor complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>9-cis retinoic acid receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>chromatin DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>enzyme binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>retinoic acid receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>retinoic acid-responsive element binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II regulatory region sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>RNA polymerase II transcription factor activity, ligand-activated sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>steroid hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription coactivator activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transcription factor activity, sequence-specific DNA binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>vitamin D receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>zinc ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>aging</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>axon regeneration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid and bile salt transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>bile acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>camera-type eye development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to insulin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cholesterol metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>embryo implantation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>in utero embryonic development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>liver development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>maternal placenta development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>midgut development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>modulation by virus of host morphology or physiology</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>peroxisome proliferator activated receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter involved in cellular response to chemical stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of translational initiation by iron</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein homotetramerization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of branching involved in prostate gland morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of myelination</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to ethanol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to glucocorticoid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to retinoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to selenium ion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin A</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to vitamin D</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retinoic acid receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>secretory columnal luminar epithelial cell differentiation involved in prostate glandular acinus development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>transcription initiation from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ventricular cardiac muscle cell differentiation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ventricular cardiac muscle tissue morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>vitamin metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="6">
+      <id>BE0009936</id>
+      <name>Elongation of very long chain fatty acids protein 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202220</ref-id>
+            <pubmed-id>30507367</pubmed-id>
+            <citation>Kim D, Choi JE, Park Y: Low-linoleic acid diet and oestrogen enhance the conversion of alpha-linolenic acid into DHA through modification of conversion enzymes and transcription factors. Br J Nutr. 2019 Jan;121(2):137-145. doi: 10.1017/S0007114518003252. Epub 2018 Dec 3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9NXB9" source="Swiss-Prot">
+        <name>Elongation of very long chain fatty acids protein 2</name>
+        <general-function>Catalyzes the first and rate-limiting reaction of the four reactions that constitute the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process allows the addition of 2 carbons to the chain of long- and very long-chain fatty acids (VLCFAs) per cycle. Condensing enzyme that catalyzes the synthesis of polyunsaturated very long chain fatty acid (C20- and C22-PUFA), acting specifically toward polyunsaturated acyl-CoA with the higher activity toward C20:4(n-6) acyl-CoA. May participate in the production of polyunsaturated VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membrane lipids and lipid mediators.</general-function>
+        <specific-function>3-oxo-arachidoyl-coa synthase activity</specific-function>
+        <gene-name>ELOVL2</gene-name>
+        <locus>6p24.2</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>29-49
+67-87
+115-135
+153-173
+175-195
+208-225
+230-250</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi/>
+        <molecular-weight>34584.435</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:14416</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9NXB9</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ELOV2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.3.1.199</synonym>
+          <synonym>3-keto acyl-CoA synthase ELOVL2</synonym>
+          <synonym>ELG3</synonym>
+          <synonym>ELOVL FA elongase 2</synonym>
+          <synonym>ELOVL fatty acid elongase 2</synonym>
+          <synonym>SSC2</synonym>
+          <synonym>Very long chain 3-ketoacyl-CoA synthase 2</synonym>
+          <synonym>Very long chain 3-oxoacyl-CoA synthase 2</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0052417|Elongation of very long chain fatty acids protein 2
+MEHLKAFDDEINAFLDNMFGPRDSRVRGWFMLDSYLPTFFLTVMYLLSIWLGNKYMKNRP
+ALSLRGILTLYNLGITLLSAYMLAELILSTWEGGYNLQCQDLTSAGEADIRVAKVLWWYY
+FSKSVEFLDTIFFVLRKKTSQITFLHVYHHASMFNIWWCVLNWIPCGQSFFGPTLNSFIH
+ILMYSYYGLSVFPSMHKYLWWKKYLTQAQLVQFVLTITHTMSAVVKPCGFPFGCLIFQSS
+YMLTLVILFLNFYVQTYRKKPMKKDMQEPPAGKEVKNGFSKAYFTAANGVMNKKAQ</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0052418|Elongation of very long chain fatty acids protein 2 (ELOVL2)
+ATGGAACATCTAAAGGCCTTTGATGATGAAATCAATGCTTTTTTGGACAATATGTTTGGA
+CCGCGAGATTCTCGAGTCAGAGGGTGGTTCATGTTGGACTCTTACCTTCCTACCTTTTTT
+CTTACTGTCATGTATCTGCTCTCAATATGGCTGGGTAACAAGTATATGAAGAACAGACCT
+GCTCTTTCTCTCAGGGGTATCCTCACCTTGTATAATCTTGGAATCACACTTCTCTCCGCG
+TACATGCTGGCAGAGCTCATTCTCTCCACTTGGGAAGGAGGCTACAACTTACAGTGTCAA
+GATCTTACCAGCGCAGGGGAAGCTGACATCCGGGTAGCCAAGGTGCTTTGGTGGTACTAT
+TTCTCCAAATCAGTAGAGTTCCTGGACACAATTTTCTTCGTTTTGCGGAAAAAAACGAGT
+CAGATTACTTTTCTTCATGTATATCATCATGCTTCTATGTTTAACATCTGGTGGTGTGTC
+TTGAACTGGATACCTTGTGGACAAAGTTTCTTTGGACCAACACTGAACAGTTTTATCCAC
+ATTCTTATGTACTCCTACTATGGACTTTCTGTGTTTCCATCTATGCACAAGTATCTTTGG
+TGGAAGAAATATCTCACACAGGCTCAGCTGGTGCAGTTCGTGCTCACCATCACGCACACC
+ATGAGCGCCGTCGTGAAACCGTGTGGCTTCCCCTTCGGTTGTCTCATCTTCCAGTCATCT
+TATATGCTAACGTTAGTCATCCTCTTCTTAAATTTTTACGTTCAGACATACCGAAAAAAG
+CCAATGAAGAAAGATATGCAAGAGCCACCTGCAGGGAAAGAAGTGAAGAATGGTTTTTCC
+AAAGCCTACTTCACTGCAGCAAATGGAGTGATGAACAAGAAAGCACAATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01151</identifier>
+            <name>ELO</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-arachidoyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-cerotoyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-lignoceronyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fatty acid elongase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>very-long-chain 3-ketoacyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>alpha-linolenic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, monounsaturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, polyunsaturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, saturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>linoleic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>long-chain fatty-acyl-CoA biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingolipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>very long-chain fatty acid biosynthetic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="7">
+      <id>BE0009375</id>
+      <name>Elongation of very long chain fatty acids protein 5</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>substrate</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A202220</ref-id>
+            <pubmed-id>30507367</pubmed-id>
+            <citation>Kim D, Choi JE, Park Y: Low-linoleic acid diet and oestrogen enhance the conversion of alpha-linolenic acid into DHA through modification of conversion enzymes and transcription factors. Br J Nutr. 2019 Jan;121(2):137-145. doi: 10.1017/S0007114518003252. Epub 2018 Dec 3.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9NYP7" source="Swiss-Prot">
+        <name>Elongation of very long chain fatty acids protein 5</name>
+        <general-function>Catalyzes the first and rate-limiting reaction of the four that constitute the long-chain fatty acids elongation cycle. This endoplasmic reticulum-bound enzymatic process, allows the addition of 2 carbons to the chain of long- and very long-chain fatty acids/VLCFAs per cycle. Condensing enzyme that acts specifically toward polyunsaturated acyl-CoA with the higher activity toward C18:3(n-6) acyl-CoA. May participate in the production of monounsaturated and of polyunsaturated VLCFAs of different chain lengths that are involved in multiple biological processes as precursors of membrane lipids and lipid mediators.</general-function>
+        <specific-function>3-oxo-arachidoyl-coa synthase activity</specific-function>
+        <gene-name>ELOVL5</gene-name>
+        <locus>6p12.1</locus>
+        <cellular-location>Endoplasmic reticulum membrane</cellular-location>
+        <transmembrane-regions>26-46
+64-84
+112-132
+139-158
+168-187
+205-225
+226-246</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi/>
+        <molecular-weight>35293.15</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:21308</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9NYP7</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ELOV5_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.3.1.199</synonym>
+          <synonym>3-keto acyl-CoA synthase ELOVL5</synonym>
+          <synonym>ELOVL FA elongase 5</synonym>
+          <synonym>ELOVL fatty acid elongase 5</synonym>
+          <synonym>ELOVL2</synonym>
+          <synonym>Fatty acid elongase 1</synonym>
+          <synonym>hELO1</synonym>
+          <synonym>Very long chain 3-ketoacyl-CoA synthase 5</synonym>
+          <synonym>Very long chain 3-oxoacyl-CoA synthase 5</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0051632|Elongation of very long chain fatty acids protein 5
+MEHFDASLSTYFKALLGPRDTRVKGWFLLDNYIPTFICSVIYLLIVWLGPKYMRNKQPFS
+CRGILVVYNLGLTLLSLYMFCELVTGVWEGKYNFFCQGTRTAGESDMKIIRVLWWYYFSK
+LIEFMDTFFFILRKNNHQITVLHVYHHASMLNIWWFVMNWVPCGHSYFGATLNSFIHVLM
+YSYYGLSSVPSMRPYLWWKKYITQGQLLQFVLTIIQTSCGVIWPCTFPLGWLYFQIGYMI
+SLIALFTNFYIQTYNKKGASRRKDHLKDHQNGSMAAVNGHTNSFSPLENNVKPRKLRKD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0051633|Elongation of very long chain fatty acids protein 5 (ELOVL5)
+ATGGAACATTTTGATGCATCACTTAGTACCTATTTCAAGGCATTGCTAGGCCCTCGAGAT
+ACTAGAGTAAAAGGATGGTTTCTTCTGGACAATTATATACCCACATTTATCTGCTCTGTC
+ATATATTTACTAATTGTATGGCTGGGACCAAAATACATGAGGAATAAACAGCCATTCTCT
+TGCCGGGGGATTTTAGTGGTGTATAACCTTGGACTCACACTGCTGTCTCTGTATATGTTC
+TGTGAGTTAGTAACAGGAGTATGGGAAGGCAAATACAACTTCTTCTGTCAGGGCACACGC
+ACCGCAGGAGAATCAGATATGAAGATTATCCGTGTCCTCTGGTGGTACTACTTCTCCAAA
+CTCATAGAATTTATGGACACTTTCTTCTTCATCCTGCGCAAGAACAACCACCAGATCACG
+GTCCTGCACGTCTACCACCATGCCTCGATGCTGAACATCTGGTGGTTTGTGATGAACTGG
+GTCCCCTGCGGCCACTCTTATTTTGGTGCCACACTTAATAGCTTCATCCACGTCCTCATG
+TACTCTTACTATGGTTTGTCGTCAGTCCCTTCCATGCGTCCATACCTCTGGTGGAAGAAG
+TACATCACTCAGGGGCAGCTGCTTCAGTTTGTGCTGACAATCATCCAGACCAGCTGCGGG
+GTCATCTGGCCGTGCACATTCCCTCTTGGTTGGTTGTATTTCCAGATTGGATACATGATT
+TCCCTGATTGCTCTCTTCACAAACTTCTACATTCAGACCTACAACAAGAAAGGGGCCTCC
+CGAAGGAAAGACCACCTGAAGGACCACCAGAATGGGTCCATGGCTGCTGTGAATGGACAC
+ACCAACAGCTTTTCACCCCTGGAAAACAATGTGAAGCCAAGGAAGCTGCGGAAGGATTGA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01151</identifier>
+            <name>ELO</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>dendrite</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>dendritic tree</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of endoplasmic reticulum membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-arachidoyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-cerotoyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>3-oxo-lignoceronyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>fatty acid elongase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>very-long-chain 3-ketoacyl-CoA synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>alpha-linolenic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, monounsaturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, polyunsaturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>fatty acid elongation, saturated fatty acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>linoleic acid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>long-chain fatty-acyl-CoA biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of fatty acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>sphingolipid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>unsaturated fatty acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>very long-chain fatty acid biosynthetic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers>
+    <carrier>
+      <id>BE0001821</id>
+      <name>Fatty acid-binding protein, brain</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13643</ref-id>
+            <pubmed-id>10854433</pubmed-id>
+            <citation>Balendiran GK, Schnutgen F, Scapin G, Borchers T, Xhong N, Lim K, Godbout R, Spener F, Sacchettini JC: Crystal structure and thermodynamic analysis of human brain fatty acid-binding protein. J Biol Chem. 2000 Sep 1;275(35):27045-54.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O15540" source="Swiss-Prot">
+        <name>Fatty acid-binding protein, brain</name>
+        <general-function>Transporter activity</general-function>
+        <specific-function>B-FABP could be involved in the transport of a so far unknown hydrophobic ligand with potential morphogenic activity during CNS development. It is required for the establishment of the radial glial fiber system in developing brain, a system that is necessary for the migration of immature neurons to establish cortical layers (By similarity).</specific-function>
+        <gene-name>FABP7</gene-name>
+        <locus>6q22-q23</locus>
+        <cellular-location>Cytoplasm</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>5.25</theoretical-pi>
+        <molecular-weight>14888.855</molecular-weight>
+        <chromosome-location>6</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3562</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FABP7</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AJ002962</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>2632065</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O15540</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FABP7_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>B-FABP</synonym>
+          <synonym>BLBP</synonym>
+          <synonym>Brain lipid-binding protein</synonym>
+          <synonym>Brain-type fatty acid-binding protein</synonym>
+          <synonym>FABPB</synonym>
+          <synonym>Fatty acid-binding protein 7</synonym>
+          <synonym>Mammary-derived growth inhibitor related</synonym>
+          <synonym>MRG</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0003608|Fatty acid-binding protein, brain
+MVEAFCATWKLTNSQNFDEYMKALGVGFATRQVGNVTKPTVIISQEGDKVVIRTLSTFKN
+TEISFQLGEEFDETTADDRNCKSVVSLDGDKLVHIQKWDGKETNFVREIKDGKMVMTLTF
+GDVVAVRHYEKA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0021304|Fatty acid-binding protein, brain (FABP7)
+ATGGTGGAGGCTTTCTGTGCTACCTGGAAGCTGACCAACAGTCAGAACTTTGATGAGTAC
+ATGAAGGCTCTAGGCGTGGGCTTTGCCACTAGGCAGGTGGGAAATGTGACCAAACCAACG
+GTAATTATCAGTCAAGAAGGAGACAAAGTGGTCATCAGGACTCTCAGCACATTCAAGAAC
+ACGGAGATTAGTTTCCAGCTGGGAGAAGAGTTTGATGAAACCACTGCAGATGATAGAAAC
+TGTAAGTCTGTTGTTAGCCTGGATGGAGACAAACTTGTTCACATACAGAAATGGGATGGC
+AAAGAAACAAATTTTGTAAGAGAAATTAAGGATGGCAAAATGGTTATGACCCTTACTTTT
+GGTGATGTGGTTGCTGTTCGCCACTATGAGAAGGCATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00061</identifier>
+            <name>Lipocalin</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell periphery</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell projection</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cell-cell junction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytosol</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>neuronal cell body</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>nucleoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transporter activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell proliferation in forebrain</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>nervous system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>neurogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>prepulse inhibition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>triglyceride catabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </carrier>
+  </carriers>
+  <transporters/>
+</drug>

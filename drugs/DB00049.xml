@@ -1,0 +1,545 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00049</drugbank-id>
+  <drugbank-id>BTD00090</drugbank-id>
+  <drugbank-id>BIOD00090</drugbank-id>
+  <name>Rasburicase</name>
+  <description>Rasburicase is a recombinant urate-oxidase enzyme produced by a genetically modified &lt;i&gt;Saccharomyces cerevisiae&lt;/i&gt; strain. The cDNA coding for rasburicase was cloned from a strain of _Aspergillus flavus_.</description>
+  <cas-number>134774-45-1</cas-number>
+  <unii>08GY9K1EUO</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A90</ref-id>
+        <pubmed-id>20445229</pubmed-id>
+        <citation>Collings I, Watier Y, Giffard M, Dagogo S, Kahn R, Bonnete F, Wright JP, Fitch AN, Margiolaki I: Polymorphism of microcrystalline urate oxidase from Aspergillus flavus. Acta Crystallogr D Biol Crystallogr. 2010 May;66(Pt 5):539-48. doi: 10.1107/S0907444910005354. Epub 2010 Apr 21.</citation>
+      </article>
+      <article>
+        <ref-id>A6678</ref-id>
+        <pubmed-id>20394650</pubmed-id>
+        <citation>Giraldez M, Puto K: A single, fixed dose of rasburicase (6 mg maximum) for treatment of tumor lysis syndrome in adults. Eur J Haematol. 2010 Aug;85(2):177-9. doi: 10.1111/j.1600-0609.2010.01457.x. Epub 2010 Apr 12.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Roy Eugene Snoke, Hugh Arthur Risley, Charles Thomas Goodhue, "Production of uricase from micrococcus luteus." U.S. Patent US4062731, issued May, 1974.</synthesis-reference>
+  <indication>For treatment of hyperuricemia, reduces elevated plasma uric acid levels (from chemotherapy)</indication>
+  <pharmacodynamics>Drugs used to treat lympohoid leukemia, non-Hodgkin's lymphoma and acute myelogenous leukemia often lead to the accumulation of toxic plasma levels of purine metabolites (i.e. uric acid). The injection of rasburicase reduces levels of uric acid and mitigates the toxic effects of chemotherapy induced tumor lysis.</pharmacodynamics>
+  <mechanism-of-action>Rasburicase catalyzes enzymatic oxidation of uric acid into an inactive and soluble metabolite (allantoin).</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>18 hours</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>* 110 to 127 mL/kg [pediatric patients]&#13;
+* 75.8 to 138 mL/kg [adult patients]</volume-of-distribution>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="spanish" coder="">Rasburicasa</synonym>
+    <synonym language="english" coder="inn/usan">Rasburicase</synonym>
+    <synonym language="english" coder="">Urate oxidase</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Elitek</name>
+      <labeller>sanofi-aventis U.S. LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-5150</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2002-07-12</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>1.5 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103946</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Elitek</name>
+      <labeller>sanofi-aventis U.S. LLC</labeller>
+      <ndc-id/>
+      <ndc-product-code>0024-5151</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2006-06-01</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form/>
+      <strength>7.5 mg/5mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103946</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Fasturtec</name>
+      <labeller>Sanofi Aventis Groupe</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000331</ema-product-code>
+      <ema-ma-number>EU/1/00/170/001</ema-ma-number>
+      <started-marketing-on>2001-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>1.5 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fasturtec</name>
+      <labeller>Sanofi Aventis Groupe</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000331</ema-product-code>
+      <ema-ma-number>EU/1/00/170/002</ema-ma-number>
+      <started-marketing-on>2001-02-23</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>1.5 mg/ml</strength>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Fasturtec</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02248416</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-09-21</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Fasturtec</name>
+      <labeller>Sanofi Aventis</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02271397</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on/>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength/>
+      <route>Intravenous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Fasturtec</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fasturtec</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Elitek</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Elitek</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fasturtec</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+    <mixture>
+      <name>Fasturtec</name>
+      <ingredients>Rasburicase</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>GlaxoSmithKline Inc.</name>
+      <url>http://www.gsk.com</url>
+    </packager>
+    <packager>
+      <name>Sanofi-Aventis Inc.</name>
+      <url>http://www.sanofi-aventis.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Elitek 1.5 mg vial</description>
+      <cost currency="USD">627.23</cost>
+      <unit>vial</unit>
+    </price>
+    <price>
+      <description>Elitek 7.5 mg vial</description>
+      <cost currency="USD">3136.18</cost>
+      <unit>vial</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Antigout Preparations</category>
+      <mesh-id>D006074</mesh-id>
+    </category>
+    <category>
+      <category>Detoxifying Agents for Antineoplastic Treatment</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Musculo-Skeletal System</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Oxidoreductases</category>
+      <mesh-id>D010088</mesh-id>
+    </category>
+    <category>
+      <category>Recombinant Proteins</category>
+      <mesh-id>D011994</mesh-id>
+    </category>
+    <category>
+      <category>Urate Oxidase</category>
+      <mesh-id>D014503</mesh-id>
+    </category>
+    <category>
+      <category>Urate Oxidase, antagonists &amp; inhibitors</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Uric Acid-specific Enzyme</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>1.5 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form/>
+      <route>Intravenous</route>
+      <strength>7.5 mg/5mL</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Intravenous</route>
+      <strength>1.5 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Intravenous</route>
+      <strength>1.5 MG/ML</strength>
+    </dosage>
+    <dosage>
+      <form>Powder</form>
+      <route>Intravenous</route>
+      <strength>1.5 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Intravenous</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>1.5 mg/1ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Intravenous</route>
+      <strength>7.5 mg/5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Intravenous</route>
+      <strength>1.5 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="V03AF07">
+      <level code="V03AF">Detoxifying agents for antineoplastic treatment</level>
+      <level code="V03A">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V03">ALL OTHER THERAPEUTIC PRODUCTS</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+    <atc-code code="M04AX01">
+      <level code="M04AX">Other antigout preparations</level>
+      <level code="M04A">ANTIGOUT PREPARATIONS</level>
+      <level code="M04">ANTIGOUT PREPARATIONS</level>
+      <level code="M">MUSCULO-SKELETAL SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00049.pdf?1265922806</fda-label>
+  <patents>
+    <patent>
+      <number>2175971</number>
+      <country>Canada</country>
+      <approved>2003-12-30</approved>
+      <expires>2016-05-07</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>2148537</number>
+      <country>Canada</country>
+      <approved>2002-07-16</approved>
+      <expires>2015-05-03</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00232</drugbank-id>
+      <name>Methyclothiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Methyclothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00436</drugbank-id>
+      <name>Bendroflumethiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Bendroflumethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00562</drugbank-id>
+      <name>Benzthiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Benzthiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00606</drugbank-id>
+      <name>Cyclothiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Cyclothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00774</drugbank-id>
+      <name>Hydroflumethiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Hydroflumethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00880</drugbank-id>
+      <name>Chlorothiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Chlorothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00999</drugbank-id>
+      <name>Hydrochlorothiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Hydrochlorothiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01021</drugbank-id>
+      <name>Trichlormethiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Trichlormethiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01324</drugbank-id>
+      <name>Polythiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Polythiazide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13430</drugbank-id>
+      <name>Mebutizide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Mebutizide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13532</drugbank-id>
+      <name>Cyclopenthiazide</name>
+      <description>The therapeutic efficacy of Rasburicase can be decreased when used in combination with Cyclopenthiazide.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences>
+    <sequence format="FASTA">&gt;DB00049 sequence
+SAVKAARYGKDNVRVYKVHKDEKTGVQTVYEMTVCVLLEGEIETSYTKADNSVIVATDSI
+KNTIYITAKQNPVTPPELFGSILGTHFIEKYNHIHAAHVNIVCHRWTRMDIDGKPHPHSF
+IRDSEEKRNVQVDVVEGKGIDIKSSLSGLTVLKSTNSQFWGFLRDEYTTLKETWDRILST
+DVDATWQWKNFSGLQEVRSHVPKFDATWATAREVTLKTFAEDNSASVQATMYKMAEQILA
+RQQLIETVEYSLPNKHYFEIDLSWHKGLQNTGKNAEVFAPQSDPNGLIKCTVGRSSLKSK
+L</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.465</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>7.16</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>34109.5</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1521H2381N417O461S7</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13268</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46504490</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X61766</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA10176</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>Q00511</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Rasburicase</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201594</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>283821</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic3/elitek.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/rasburicase.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0004823</id>
+      <name>Uric acid</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>metabolizer</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A6675</ref-id>
+            <pubmed-id>16809136</pubmed-id>
+            <citation>Cete S, Yasar A, Arslan F: An amperometric biosensor for uric acid determination prepared from uricase immobilized in polypyrrole film. Artif Cells Blood Substit Immobil Biotechnol. 2006;34(3):367-80.</citation>
+          </article>
+          <article>
+            <ref-id>A6676</ref-id>
+            <pubmed-id>16545381</pubmed-id>
+            <citation>Gabison L, Chiadmi M, Colloc'h N, Castro B, El Hajji M, Prange T: Recapture of [S]-allantoin, the product of the two-step degradation of uric acid, by urate oxidase. FEBS Lett. 2006 Apr 3;580(8):2087-91. Epub 2006 Mar 10.</citation>
+          </article>
+          <article>
+            <ref-id>A6677</ref-id>
+            <pubmed-id>16689679</pubmed-id>
+            <citation>Zhao Y, Zhao L, Yang G, Tao J, Bu Y, Liao F: Characterization of a uricase from Bacillus fastidious A.T.C.C. 26904 and its application to serum uric acid assay by a patented kinetic uricase method. Biotechnol Appl Biochem. 2006 Sep;45(Pt 2):75-80.</citation>
+          </article>
+          <article>
+            <ref-id>A6678</ref-id>
+            <pubmed-id>20394650</pubmed-id>
+            <citation>Giraldez M, Puto K: A single, fixed dose of rasburicase (6 mg maximum) for treatment of tumor lysis syndrome in adults. Eur J Haematol. 2010 Aug;85(2):177-9. doi: 10.1111/j.1600-0609.2010.01457.x. Epub 2010 Apr 12.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

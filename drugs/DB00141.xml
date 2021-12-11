@@ -1,0 +1,2088 @@
+<drug type="small molecule" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00141</drugbank-id>
+  <drugbank-id>NUTR00040</drugbank-id>
+  <name>N-Acetylglucosamine</name>
+  <description>The N-acetyl derivative of glucosamine.</description>
+  <cas-number>7512-17-6</cas-number>
+  <unii>V956696549</unii>
+  <average-mass>221.2078</average-mass>
+  <monoisotopic-mass>221.089937217</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+    <group>nutraceutical</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference>Naoko Yamano, Shizu Fujishima, Ryutarou Tanaka, "N-acetyl-D-glucosamine deacetylase and a process for preparing the same." U.S. Patent USH00014532, issued October, 1993.</synthesis-reference>
+  <indication>For the treatment and prevention of osteoarthritis, by itself or in combination with chondroitin sulfate.</indication>
+  <pharmacodynamics/>
+  <mechanism-of-action>The mechanism of action in relieving arthritic pain and in repair of cartilage is a matter of speculation. Biochemically, glucosamine is involved in glycoprotein metabolism. Glycoproteins, known as proteoglycans, form the ground substance in the extra-cellular matrix of connective tissue. Proteoglycans are polyanionic substances of high-molecular weight and contain many different types of heteropolysaccharide side-chains covalently linked to a polypeptide-chain backbone. These polysaccharides make up to 95% of the proteoglycan structure. In fact, chemically, proteoglycans resemble polysaccharides more than they do proteins. The polysaccharide groups in proteoglycans are called glycosaminoglycans (GAGs). GAGs include hyaluronic acid, chondroitin sulfate, dermatan sulfate, keratan sulfate, heparin and heparan sulfate. All of the GAGs contain derivatives of glucosamine or galactosamine. Glucosamine derivatives are found in hyaluronic acid, keratan sulfate and heparan sulfate. Chondroitin sulfate contains derivatives of galactosamine. The glucosamine-containing glycosaminoglycan hyaluronic acid is vital for the function of articular cartilage. GAG chains are fundamental components of aggrecan found in articular cartilage. Aggrecan confers upon articular cartilage shock-absorbing properties. It does this by providing cartilage with a swelling pressure that is restrained by the tensile forces of collagen fibers. This balance confers upon articular cartilage the deformable resilience vital to its function. In the early stages of degenerative joint disease, aggrecan biosynthesis is increased. However, in later stages, aggrecan synthesis is decreased, leading eventually to the loss of cartilage resiliency and to most of the symptoms that accompany osteoarthritis. During the progression of osteoarthritis, exogenous glucosamine may have a beneficial role. It is known that, in vitro, chondrocytes do synthesize more aggregan when the culture medium is supplemented with glucosamine. N-acetylglucosamine is found to be less effective in these in vitro studies. Glucosamine has also been found to have antioxidant activity and to be beneficial in animal models of experimental arthritis. The counter anion of the glucosamine salt (i.e. chloride or sulfate) is unlikely to play any role in the action or pharmacokinetics of glucosamine. Further, the sulfate in glucosamine sulfate supplements should not be confused with the glucosamine sulfate found in such GAGs as keratan sulfate and heparan sulfate. In the case of the supplement, sulfate is the anion of the salt. In the case of the above GAGs, sulfate is present as an ester. Also, there is no glucosamine sulfate in chondroitin sulfate (source: PDRhealth).</mechanism-of-action>
+  <toxicity>Mouse, intravenous LD&lt;sub&gt;50&lt;/sub&gt; is 4170 mg/kg. Side effects that have been reported are mainly mild gastrointestinal complaints such as heartburn, epigastric distress and diarrhea. No allergic reactions have been reported including sulfa-allergic reactions to glucosamine sulfate.</toxicity>
+  <metabolism>A significant fraction of ingested glucosamine is catabolized by first-pass metabolism in the liver.</metabolism>
+  <absorption>Approximately 90% of orally administered glucosamine (salt form) gets absorbed from the small intestine.</absorption>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as hexoses. These are monosaccharides in which the sugar unit is a is a six-carbon containing moeity.</description>
+    <direct-parent>Hexoses</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic oxygen compounds</superclass>
+    <class>Organooxygen compounds</class>
+    <subclass>Carbohydrates and carbohydrate conjugates</subclass>
+    <alternative-parent>Acetamides</alternative-parent>
+    <alternative-parent>Aminosaccharides</alternative-parent>
+    <alternative-parent>Beta-hydroxy aldehydes</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organonitrogen compounds</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Polyols</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Secondary alcohols</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <substituent>Acetamide</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Aldehyde</substituent>
+    <substituent>Aliphatic acyclic compound</substituent>
+    <substituent>Amino saccharide</substituent>
+    <substituent>Beta-hydroxy aldehyde</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Hexose monosaccharide</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Polyol</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Secondary alcohol</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">2-Acetamido-2-deoxy-D-glucose</synonym>
+    <synonym language="english" coder="">aldehydo-N-acetyl-D-glucosamine</synonym>
+    <synonym language="english" coder="">D-GlcNAc</synonym>
+    <synonym language="english" coder="">N-Acetyl-D-glucosamine</synonym>
+    <synonym language="english" coder="">N-Acetylchitosamine</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cheon Shim Bo Yun</name>
+      <labeller>Saimdang Cosmetics Co., Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code>51220-4001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-11-08</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Capsule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Ginsamin Beauty</name>
+      <labeller>Biogrand Co., Ltd</labeller>
+      <ndc-id/>
+      <ndc-product-code>44738-6001</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2010-03-07</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Granule</dosage-form>
+      <strength/>
+      <route>Oral</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>IMPLAHeal P.OCream</name>
+      <labeller>Threedayslove Co., Ltd.</labeller>
+      <ndc-id/>
+      <ndc-product-code>72368-0007</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2019-12-16</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Powerfulx Ginseng RecoveryCream</name>
+      <labeller>Powerful X</labeller>
+      <ndc-id/>
+      <ndc-product-code>70042-0004</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2018-12-10</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Cream</dosage-form>
+      <strength/>
+      <route>Topical</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>true</over-the-counter>
+      <approved>false</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Ginsamin Beauty</name>
+      <ingredients>Ginkgo biloba + Hyaluronic acid + N-Acetylglucosamine + Panax ginseng whole</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cheon Shim Bo Yun</name>
+      <ingredients>D-alpha-Tocopherol acetate + N-Acetylglucosamine + Soy isoflavones</ingredients>
+    </mixture>
+    <mixture>
+      <name>Powerfulx Ginseng RecoveryCream</name>
+      <ingredients>Dimethyl sulfone + N-Acetylglucosamine + Panax ginseng root oil</ingredients>
+    </mixture>
+    <mixture>
+      <name>IMPLAHeal P.OCream</name>
+      <ingredients>Dimethyl sulfone + N-Acetylglucosamine</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Gallipot</name>
+      <url>http://www.gallipot.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Acetyl-d-glucosamine powder</description>
+      <cost currency="USD">3.75</cost>
+      <unit>g</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Dietary Supplements</category>
+      <mesh-id>D019587</mesh-id>
+    </category>
+    <category>
+      <category>Supplements</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Capsule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Granule</form>
+      <route>Oral</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Cream</form>
+      <route>Topical</route>
+      <strength/>
+    </dosage>
+  </dosages>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00141.pdf?1265922751</msds>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>-2.1</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-0.18</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>1.48e+02 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-3.9</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>N-[(2R,3R,4S,5R)-3,4,5,6-tetrahydroxy-1-oxohexan-2-yl]acetamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>N acetylglucosamine</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>221.2078</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>221.089937217</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>[H]C(=O)[C@H](NC(C)=O)[C@@H](O)[C@H](O)[C@H](O)CO</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C8H15NO6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C8H15NO6/c1-4(12)9-5(2-10)7(14)8(15)6(13)3-11/h2,5-8,11,13-15H,3H2,1H3,(H,9,12)/t5-,6+,7+,8+/m0/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>MBLBDJOUHNCFQT-LXGUWJNJSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>127.09</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>48.45</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>20.49</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>11.56</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>-1.2</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>205 °C</value>
+      <source/>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-2.1</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>17411</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>1738118</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46509139</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Compound</resource>
+      <identifier>C00140</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>1376695</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>BindingDB</resource>
+      <identifier>50223349</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164752287</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PDB</resource>
+      <identifier>NAG</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000872</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>N-Acetylglucosamine</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL447878</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ZINC</resource>
+      <identifier>ZINC000002077807</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>1362871</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>PDRhealth</resource>
+      <url>http://www.pdrhealth.com/drug_info/nmdrugprofiles/nutsupdrugs/glu_0122.shtml</url>
+    </external-link>
+  </external-links>
+  <pathways>
+    <pathway>
+      <smpdb-id>SMP0000045</smpdb-id>
+      <name>Amino Sugar Metabolism</name>
+      <category>metabolic</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000534</smpdb-id>
+      <name>G(M2)-Gangliosidosis: Variant B, Tay-Sachs Disease</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000216</smpdb-id>
+      <name>Sialuria or French Type Sialuria</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000217</smpdb-id>
+      <name>Sialuria or French Type Sialuria</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000240</smpdb-id>
+      <name>Salla Disease/Infantile Sialic Acid Storage Disease</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+    <pathway>
+      <smpdb-id>SMP0000390</smpdb-id>
+      <name>Tay-Sachs Disease</name>
+      <category>disease</category>
+      <drugs>
+        <drug>
+          <drugbank-id>DB00119</drugbank-id>
+          <name>Pyruvic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00130</drugbank-id>
+          <name>L-Glutamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00141</drugbank-id>
+          <name>N-Acetylglucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00142</drugbank-id>
+          <name>Glutamic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB00171</drugbank-id>
+          <name>ATP</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01296</drugbank-id>
+          <name>Glucosamine</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01378</drugbank-id>
+          <name>Magnesium cation</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB01819</drugbank-id>
+          <name>Phosphoenolpyruvate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB02431</drugbank-id>
+          <name>Cytidine-5'-Triphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03166</drugbank-id>
+          <name>Acetic acid</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB03435</drugbank-id>
+          <name>Uridine-5'-Diphosphate</name>
+        </drug>
+        <drug>
+          <drugbank-id>DB04160</drugbank-id>
+          <name>Pyrophosphoric acid</name>
+        </drug>
+      </drugs>
+      <enzymes>
+        <uniprot-id>Q13231</uniprot-id>
+        <uniprot-id>P06865</uniprot-id>
+        <uniprot-id>Q9UJ70</uniprot-id>
+        <uniprot-id>Q9Y303</uniprot-id>
+        <uniprot-id>Q96EK6</uniprot-id>
+        <uniprot-id>P46926</uniprot-id>
+        <uniprot-id>Q06210</uniprot-id>
+        <uniprot-id>O95394</uniprot-id>
+        <uniprot-id>Q16222</uniprot-id>
+        <uniprot-id>P51606</uniprot-id>
+        <uniprot-id>Q9Y223</uniprot-id>
+        <uniprot-id>P19367</uniprot-id>
+        <uniprot-id>Q9NR45</uniprot-id>
+        <uniprot-id>Q9BXD5</uniprot-id>
+        <uniprot-id>Q8TBE9</uniprot-id>
+        <uniprot-id>Q8NFW8</uniprot-id>
+        <uniprot-id>Q9NRA2</uniprot-id>
+      </enzymes>
+    </pathway>
+  </pathways>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0000259</id>
+      <name>Beta-1,4-galactosyltransferase 1</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9884</ref-id>
+            <pubmed-id>15736931</pubmed-id>
+            <citation>Ramakrishnan B, Boeggeman E, Qasba PK: Mutation of arginine 228 to lysine enhances the glucosyltransferase activity of bovine beta-1,4-galactosyltransferase I. Biochemistry. 2005 Mar 8;44(9):3202-10.</citation>
+          </article>
+          <article>
+            <ref-id>A9885</ref-id>
+            <pubmed-id>16157350</pubmed-id>
+            <citation>Ramasamy V, Ramakrishnan B, Boeggeman E, Ratner DM, Seeberger PH, Qasba PK: Oligosaccharide preferences of beta1,4-galactosyltransferase-I: crystal structures of Met340His mutant of human beta1,4-galactosyltransferase-I with a pentasaccharide and trisaccharides of the N-glycan moiety. J Mol Biol. 2005 Oct 14;353(1):53-67.</citation>
+          </article>
+          <article>
+            <ref-id>A9886</ref-id>
+            <pubmed-id>17370997</pubmed-id>
+            <citation>Boeggeman E, Ramakrishnan B, Kilgore C, Khidekel N, Hsieh-Wilson LC, Simpson JT, Qasba PK: Direct identification of nonreducing GlcNAc residues on N-glycans of glycoproteins using a novel chemoenzymatic method. Bioconjug Chem. 2007 May-Jun;18(3):806-14. Epub 2007 Mar 20.</citation>
+          </article>
+          <article>
+            <ref-id>A9887</ref-id>
+            <pubmed-id>17203585</pubmed-id>
+            <citation>Hidalgo A, Burgos V, Viola H, Medina J, Argibay P: Differential expression of glycans in the hippocampus of rats trained on an inhibitory learning paradigm. Neuropathology. 2006 Dec;26(6):501-7.</citation>
+          </article>
+          <article>
+            <ref-id>A9888</ref-id>
+            <pubmed-id>15449940</pubmed-id>
+            <citation>Ramakrishnan B, Boeggeman E, Qasba PK: Effect of the Met344His mutation on the conformational dynamics of bovine beta-1,4-galactosyltransferase: crystal structure of the Met344His mutant in complex with chitobiose. Biochemistry. 2004 Oct 5;43(39):12513-22.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P15291" source="Swiss-Prot">
+        <name>Beta-1,4-galactosyltransferase 1</name>
+        <general-function>Udp-galactosyltransferase activity</general-function>
+        <specific-function>The Golgi complex form catalyzes the production of lactose in the lactating mammary gland and could also be responsible for the synthesis of complex-type N-linked oligosaccharides in many glycoproteins as well as the carbohydrate moieties of glycolipids.The cell surface form functions as a recognition molecule during a variety of cell to cell and cell to matrix interactions, as those occurring during development and egg fertilization, by binding to specific oligosaccharide ligands on opposing cells or in the extracellular matrix.</specific-function>
+        <gene-name>B4GALT1</gene-name>
+        <locus>9p13</locus>
+        <cellular-location>Golgi apparatus</cellular-location>
+        <transmembrane-regions>25-44</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>8.77</theoretical-pi>
+        <molecular-weight>43919.895</molecular-weight>
+        <chromosome-location>9</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:924</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>B4GALT1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>X14085</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>29424</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P15291</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>B4GT1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.4.1.-</synonym>
+          <synonym>Beta-1,4-GalTase 1</synonym>
+          <synonym>GGTB2</synonym>
+          <synonym>UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 1</synonym>
+          <synonym>UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000517|Beta-1,4-galactosyltransferase 1
+MRLREPLLSGSAAMPGASLQRACRLLVAVCALHLGVTLVYYLAGRDLSRLPQLVGVSTPL
+QGGSNSAAAIGQSSGELRTGGARPPPPLGASSQPRPGGDSSPVVDSGPGPASNLTSVPVP
+HTTALSLPACPEESPLLVGPMLIEFNMPVDLELVAKQNPNVKMGGRYAPRDCVSPHKVAI
+IIPFRNRQEHLKYWLYYLHPVLQRQQLDYGIYVINQAGDTIFNRAKLLNVGFQEALKDYD
+YTCFVFSDVDLIPMNDHNAYRCFSQPRHISVAMDKFGFSLPYVQYFGGVSALSKQQFLTI
+NGFPNNYWGWGGEDDDIFNRLVFRGMSISRPNAVVGRCRMIRHSRDKKNEPNPQRFDRIA
+HTKETMLSDGLNSLTYQVLDVQRYPLYTQITVDIGTPS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010224|Beta-1,4-galactosyltransferase 1 (B4GALT1)
+ATGAGGCTTCGGGAGCCGCTCCTGAGCGGCAGCGCCGCGATGCCAGGCGCGTCCCTACAG
+CGGGCCTGCCGCCTGCTCGTGGCCGTCTGCGCTCTGCACCTTGGCGTCACCCTCGTTTAC
+TACCTGGCTGGCCGCGACCTGAGCCGCCTGCCCCAACTGGTCGGAGTCTCCACACCGCTG
+CAGGGCGGCTCGAACAGTGCCGCCGCCATCGGGCAGTCCTCCGGGGAGCTCCGGACCGGA
+GGGGCCCGGCCGCCGCCTCCTCTAGGCGCCTCCTCCCAGCCGCGCCCGGGTGGCGACTCC
+AGCCCAGTCGTGGATTCTGGCCCTGGCCCCGCTAGCAACTTGACCTCGGTCCCAGTGCCC
+CACACCACCGCACTGTCGCTGCCCGCCTGCCCTGAGGAGTCCCCGCTGCTTGTGGGCCCC
+ATGCTGATTGAGTTTAACATGCCTGTGGACCTGGAGCTCGTGGCAAAGCAGAACCCAAAT
+GTGAAGATGGGCGGCCGCTATGCCCCCAGGGACTGCGTCTCTCCTCACAAGGTGGCCATC
+ATCATTCCATTCCGCAACCGGCAGGAGCACCTCAAGTACTGGCTATATTATTTGCACCCA
+GTCCTGCAGCGCCAGCAGCTGGACTATGGCATCTATGTTATCAACCAGGCGGGAGACACT
+ATATTCAATCGTGCTAAGCTCCTCAATGTTGGCTTTCAAGAAGCCTTGAAGGACTATGAC
+TACACCTGCTTTGTGTTTAGTGACGTGGACCTCATTCCAATGAATGACCATAATGCGTAC
+AGGTGTTTTTCACAGCCACGGCACATTTCCGTTGCAATGGATAAGTTTGGATTCAGCCTA
+CCTTATGTTCAGTATTTTGGAGGTGTCTCTGCTCTAAGTAAACAACAGTTTCTAACCATC
+AATGGATTTCCTAATAATTATTGGGGCTGGGGAGGAGAAGATGATGACATTTTTAACAGA
+TTAGTTTTTAGAGGCATGTCTATATCTCGCCCAAATGCTGTGGTCGGGAGGTGTCGCATG
+ATCCGCCACTCAAGAGACAAGAAAAATGAACCCAATCCTCAGAGGTTTGACCGAATTGCA
+CACACAAAGGAGACAATGCTCTCTGATGGTTTGAACTCACTCACCTACCAGGTGCTGGAT
+GTACAGAGATACCCATTGTATACCCAAATCACAGTGGACATCGGGACACCGAGCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF02709</identifier>
+            <name>Glyco_transf_7C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13733</identifier>
+            <name>Glyco_transf_7N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>basolateral plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>brush border membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>desmosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular space</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>filopodium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>glycocalyx</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi cisterna membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi trans cisterna</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>alpha-tubulin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>beta-N-acetylglucosaminylglycopeptide beta-1,4-galactosyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>beta-tubulin binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>galactosyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lactose synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>manganese ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acetyllactosamine synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein homodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>UDP-galactosyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>acute inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>angiogenesis involved in wound healing</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>binding of sperm to zona pellucida</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>branching morphogenesis of an epithelial tube</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell adhesion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>development of secondary sexual characteristics</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>epithelial cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>extracellular matrix organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>galactose metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratan sulfate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratan sulfate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lactose biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>mammary gland development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organism reproduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of cell proliferation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>Notch signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>oligosaccharide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>penetration of zona pellucida</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of apoptotic process involved in mammary gland involution</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of epithelial cell proliferation involved in wound healing</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein N-linked glycosylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein N-linked glycosylation via asparagine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of acrosome reaction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of cellular component movement</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>single fertilization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="2">
+      <id>BE0002263</id>
+      <name>Beta-1,4-galactosyltransferase 4</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13685</ref-id>
+            <pubmed-id>11948877</pubmed-id>
+            <citation>Bulter T, Schumacher T, Namdjou DJ, Gutierrez Gallego R, Clausen H, Elling L: Chemoenzymatic synthesis of biotinylated nucleotide sugars as substrates for glycosyltransferases. Chembiochem. 2001 Dec 3;2(12):884-94.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="O60513" source="Swiss-Prot">
+        <name>Beta-1,4-galactosyltransferase 4</name>
+        <general-function>N-acetyllactosamine synthase activity</general-function>
+        <specific-function>Responsible for the synthesis of complex-type N-linked oligosaccharides in many glycoproteins as well as the carbohydrate moieties of glycolipids.</specific-function>
+        <gene-name>B4GALT4</gene-name>
+        <locus>3q13.3</locus>
+        <cellular-location>Golgi apparatus</cellular-location>
+        <transmembrane-regions>13-38</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.42</theoretical-pi>
+        <molecular-weight>40040.865</molecular-weight>
+        <chromosome-location>3</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:927</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>B4GALT4</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF038662</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>3132900</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O60513</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>B4GT4_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.4.1.-</synonym>
+          <synonym>Beta-1,4-GalTase 4</synonym>
+          <synonym>UDP-Gal:beta-GlcNAc beta-1,4-galactosyltransferase 4</synonym>
+          <synonym>UDP-galactose:beta-N-acetylglucosamine beta-1,4-galactosyltransferase 4</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0011630|Beta-1,4-galactosyltransferase 4
+MGFNLTFHLSYKFRLLLLLTLCLTVVGWATSNYFVGAIQEIPKAKEFMANFHKTLILGKG
+KTLTNEASTKKVELDNCPSVSPYLRGQSKLIFKPDLTLEEVQAENPKVSRGRYRPQECKA
+LQRVAILVPHRNREKHLMYLLEHLHPFLQRQQLDYGIYVIHQAEGKKFNRAKLLNVGYLE
+ALKEENWDCFIFHDVDLVPENDFNLYKCEEHPKHLVVGRNSTGYRLRYSGYFGGVTALSR
+EQFFKVNGFSNNYWGWGGEDDDLRLRVELQRMKISRPLPEVGKYTMVFHTRDKGNEVNAE
+RMKLLHQVSRVWRTDGLSSCSYKLVSVEHNPLYINITVDFWFGA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011631|Beta-1,4-galactosyltransferase 4 (B4GALT4)
+ATGGGCTTCAACCTGACTTTCCACCTTTCCTACAAATTCCGATTACTGTTGCTGTTGACT
+TTGTGCCTGACAGTGGTTGGGTGGGCCACCAGTAACTACTTCGTGGGTGCCATTCAAGAG
+ATTCCTAAAGCAAAGGAGTTCATGGCTAATTTCCATAAGACCCTCATTTTGGGGAAGGGA
+AAAACTCTGACTAATGAAGCATCCACGAAGAAGGTAGAACTTGACAACTGCCCTTCTGTG
+TCTCCTTACCTCAGAGGCCAGAGCAAGCTCATTTTCAAACCAGATCTCACTTTGGAAGAG
+GTACAGGCAGAAAATCCCAAAGTGTCCAGAGGCCGGTATCGCCCTCAGGAATGTAAAGCT
+TTACAGAGGGTCGCCATCCTCGTTCCCCACCGGAACAGAGAGAAACACCTGATGTACCTG
+CTGGAACATCTGCATCCCTTCCTGCAGAGGCAGCAGCTGGATTATGGCATCTACGTCATC
+CACCAGGCTGAAGGTAAAAAGTTTAATCGAGCCAAACTCTTGAATGTGGGCTATCTAGAA
+GCCCTCAAGGAAGAAAATTGGGACTGCTTTATATTCCACGATGTGGACCTGGTACCCGAG
+AATGACTTTAACCTTTACAAGTGTGAGGAGCATCCCAAGCATCTGGTGGTTGGCAGGAAC
+AGCACTGGGTACAGGTTACGTTACAGTGGATATTTTGGGGGTGTTACTGCCCTAAGCAGA
+GAGCAGTTTTTCAAGGTGAATGGATTCTCTAACAACTACTGGGGATGGGGAGGCGAAGAC
+GATGACCTCAGACTCAGGGTTGAGCTCCAAAGAATGAAAATTTCCCGGCCCCTGCCTGAA
+GTGGGTAAATATACAATGGTCTTCCACACTAGAGACAAAGGCAATGAGGTGAACGCAGAA
+CGGATGAAGCTCTTACACCAAGTGTCACGAGTCTGGAGAACAGATGGGTTGAGTAGTTGT
+TCTTATAAATTAGTATCTGTGGAACACAATCCTTTATATATCAACATCACAGTGGATTTC
+TGGTTTGGTGCATGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF02709</identifier>
+            <name>Glyco_transf_7C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13733</identifier>
+            <name>Glyco_transf_7N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi cisterna membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>galactosyltransferase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acetyllactosamine synthase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratan sulfate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>keratan sulfate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>membrane lipid metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>post-translational protein modification</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein N-linked glycosylation via asparagine</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="3">
+      <id>BE0002265</id>
+      <name>N-acetyl-D-glucosamine kinase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A13686</ref-id>
+            <pubmed-id>17010375</pubmed-id>
+            <citation>Weihofen WA, Berger M, Chen H, Saenger W, Hinderlich S: Structures of human N-Acetylglucosamine kinase in two complexes with N-Acetylglucosamine and with ADP/glucose: insights into substrate specificity and regulation. J Mol Biol. 2006 Dec 1;364(3):388-99. Epub 2006 Sep 3.</citation>
+          </article>
+          <article>
+            <ref-id>A13687</ref-id>
+            <pubmed-id>15489439</pubmed-id>
+            <citation>Uehara T, Park JT: The N-acetyl-D-glucosamine kinase of Escherichia coli and its role in murein recycling. J Bacteriol. 2004 Nov;186(21):7273-9.</citation>
+          </article>
+          <article>
+            <ref-id>A13688</ref-id>
+            <pubmed-id>16674097</pubmed-id>
+            <citation>An HJ, Kim DS, Park YK, Kim SK, Choi YP, Kang S, Ding B, Cho NH: Comparative proteomics of ovarian epithelial tumors. J Proteome Res. 2006 May;5(5):1082-90.</citation>
+          </article>
+          <article>
+            <ref-id>A13689</ref-id>
+            <pubmed-id>16857666</pubmed-id>
+            <citation>Yang C, Rodionov DA, Li X, Laikova ON, Gelfand MS, Zagnitko OP, Romine MF, Obraztsova AY, Nealson KH, Osterman AL: Comparative genomics and experimental characterization of N-acetylglucosamine utilization pathway of Shewanella oneidensis. J Biol Chem. 2006 Oct 6;281(40):29872-85. Epub 2006 Jul 20.</citation>
+          </article>
+          <article>
+            <ref-id>A13690</ref-id>
+            <pubmed-id>17229727</pubmed-id>
+            <citation>Nishimasu H, Fushinobu S, Shoun H, Wakagi T: Crystal structures of an ATP-dependent hexokinase with broad substrate specificity from the hyperthermophilic archaeon Sulfolobus tokodaii. J Biol Chem. 2007 Mar 30;282(13):9923-31. Epub 2007 Jan 17.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9UJ70" source="Swiss-Prot">
+        <name>N-acetyl-D-glucosamine kinase</name>
+        <general-function>N-acylmannosamine kinase activity</general-function>
+        <specific-function>Converts endogenous N-acetylglucosamine (GlcNAc), a major component of complex carbohydrates, from lysosomal degradation or nutritional sources into GlcNAc 6-phosphate. Involved in the N-glycolylneuraminic acid (Neu5Gc) degradation pathway: although human is not able to catalyze formation of Neu5Gc due to the inactive CMAHP enzyme, Neu5Gc is present in food and must be degraded. Also has ManNAc kinase activity.</specific-function>
+        <gene-name>NAGK</gene-name>
+        <locus>2p13.3</locus>
+        <cellular-location/>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.18</theoretical-pi>
+        <molecular-weight>37375.305</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:17174</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>NAGK</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AJ242910</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>6491737</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9UJ70</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NAGK_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>2.7.1.59</synonym>
+          <synonym>GlcNAc kinase</synonym>
+          <synonym>N-acetylglucosamine kinase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0004446|N-acetyl-D-glucosamine kinase
+MAAIYGGVEGGGTRSEVLLVSEDGKILAEADGLSTNHWLIGTDKCVERINEMVNRAKRKA
+GVDPLVPLRSLGLSLSGGDQEDAGRILIEELRDRFPYLSESYLITTDAAGSIATATPDGG
+VVLISGTGSNCRLINPDGSESGCGGWGHMMGDEGSAYWIAHQAVKIVFDSIDNLEAAPHD
+IGYVKQAMFHYFQVPDRLGILTHLYRDFDKCRFAGFCRKIAEGAQQGDPLSRYIFRKAGE
+MLGRHIVAVLPEIDPVLFQGKIGLPILCVGSVWKSWELLKEGFLLALTQGREIQAQNFFS
+SFTLMKLRHSSALGGASLGARHIGHLLPMDYSANAIAFYSYTFS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016735|N-acetyl-D-glucosamine kinase (NAGK)
+ATGCGCACGCGCACAGGGAGTCAGCTGGCTGCGCGGGAGGTCACGGGAAGTGGGGCGGTG
+CCCAGACAGCTGGAGGGAAGGAGGTGTCAGGCGGGGAGAGACGCAAACGGCGGGACCAGC
+AGCGACGGTAGCAGCAGCATGGCCGCGATCTATGGGGGTGTAGAGGGGGGAGGCACACGA
+TCCGAGGTCCTTTTAGTCTCAGAGGATGGGAAGATCCTGGCAGAAGCAGATGGACTGAGC
+ACAAACCACTGGCTGATCGGGACAGACAAGTGTGTGGAGAGGATCAATGAGATGGTGAAC
+AGGGCCAAACGGAAAGCAGGGGTGGATCCTCTGGTACCGCTGCGAAGCTTGGGCCTATCT
+CTGAGCGGTGGGGACCAGGAGGACGCGGGGAGGATCCTGATCGAGGAGCTGAGGGACCGA
+TTTCCCTACCTGAGTGAAAGCTACTTAATCACCACCGATGCCGCCGGCTCCATCGCCACA
+GCTACACCGGATGGTGGAGTTGTGCTCATATCTGGAACAGGCTCCAACTGCAGGCTCATC
+AACCCTGATGGCTCCGAGAGTGGCTGCGGCGGCTGGGGCCATATGATGGGTGATGAGGGT
+TCAGCCTACTGGATCGCACACCAAGCAGTGAAAATAGTGTTTGACTCCATTGACAACCTA
+GAGGCGGCTCCTCATGATATCGGCTACGTCAAACAGGCCATGTTCCACTATTTCCAGGTG
+CCAGATCGGCTAGGGATACTCACTCACCTGTATAGGGACTTTGATAAATGCAGGTTTGCT
+GGGTTTTGCCGGAAAATTGCAGAAGGTGCTCAGCAGGGAGACCCCCTTTCCCGCTATATC
+TTCAGGAAGGCTGGGGAGATGCTGGGCAGACACATCGTAGCAGTGTTGCCCGAGATTGAC
+CCGGTCTTGTTCCAGGGCAAGATTGGACTCCCCATCCTGTGCGTGGGCTCTGTGTGGAAG
+AGCTGGGAGCTGCTGAAGGAAGGTTTTCTTCTGGCGCTGACCCAGGGCAGAGAGATCCAG
+GCTCAGAACTTCTTCTCCAGCTTCACCCTGATGAAGCTGAGGCACTCCTCCGCTCTGGGT
+GGGGCCAGCCTAGGGGCCAGGCACATCGGGCACCTCCTCCCCATGGACTATAGCGCCAAT
+GCCATTGCCTTCTATTCCTACACCTTTTCCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01869</identifier>
+            <name>BcrAD_BadFG</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acetylglucosamine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acylmannosamine kinase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylglucosamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylmannosamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylneuraminate catabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="4">
+      <id>BE0002266</id>
+      <name>N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A13691</ref-id>
+            <pubmed-id>8294420</pubmed-id>
+            <citation>Mullis KG, Huynh M, Kornfeld RH: Purification and kinetic parameters of bovine liver N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase. J Biol Chem. 1994 Jan 21;269(3):1718-26.</citation>
+          </article>
+          <article>
+            <ref-id>A13692</ref-id>
+            <pubmed-id>17927214</pubmed-id>
+            <citation>Chavez CA, Bohnsack RN, Kudo M, Gotschall RR, Canfield WM, Dahms NM: Domain 5 of the cation-independent mannose 6-phosphate receptor preferentially binds phosphodiesters (mannose 6-phosphate N-acetylglucosamine ester). Biochemistry. 2007 Nov 6;46(44):12604-17. Epub 2007 Oct 10.</citation>
+          </article>
+          <article>
+            <ref-id>A13693</ref-id>
+            <pubmed-id>9722550</pubmed-id>
+            <citation>Kornfeld R, Bao M, Brewer K, Noll C, Canfield WM: Purification and multimeric structure of bovine N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase. J Biol Chem. 1998 Sep 4;273(36):23203-10.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="Q9UK23" source="Swiss-Prot">
+        <name>N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase</name>
+        <general-function>N-acetylglucosamine-1-phosphodiester alpha-n-acetylglucosaminidase activity</general-function>
+        <specific-function>Catalyzes the second step in the formation of the mannose 6-phosphate targeting signal on lysosomal enzyme oligosaccharides by removing GlcNAc residues from GlcNAc-alpha-P-mannose moieties, which are formed in the first step. Also hydrolyzes UDP-GlcNAc, a sugar donor for Golgi N-acetylglucosaminyltransferases.</specific-function>
+        <gene-name>NAGPA</gene-name>
+        <locus>16p13.3</locus>
+        <cellular-location>Golgi apparatus</cellular-location>
+        <transmembrane-regions>449-469</transmembrane-regions>
+        <signal-regions>1-25</signal-regions>
+        <theoretical-pi>6.7</theoretical-pi>
+        <molecular-weight>56072.49</molecular-weight>
+        <chromosome-location>16</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:17378</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>NAGPA</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF187072</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>6425040</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q9UK23</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>NAGPA_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.1.4.45</synonym>
+          <synonym>Mannose 6-phosphate-uncovering enzyme</synonym>
+          <synonym>Phosphodiester alpha-GlcNAcase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0037182|N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase
+MATSTGRWLLLRLALFGFLWEASGGLDSGASRDDDLLLPYPRARARLPRDCTRVRAGNRE
+HESWPPPPATPGAGGLAVRTFVSHFRDRAVAGHLTRAVEPLRTFSVLEPGGPGGCAARRR
+ATVEETARAADCRVAQNGGFFRMNSGECLGNVVSDERRVSSSGGLQNAQFGIRRDGTLVT
+GYLSEEEVLDTENPFVQLLSGVVWLIRNGSIYINESQATECDETQETGSFSKFVNVISAR
+TAIGHDRKGQLVLFHADGQTEQRGINLWEMAEFLLKQDVVNAINLDGGGSATFVLNGTLA
+SYPSDHCQDNMWRCPRQVSTVVCVHEPRCQPPDCHGHGTCVDGHCQCTGHFWRGPGCDEL
+DCGPSNCSQHGLCTETGCRCDAGWTGSNCSEECPLGWHGPGCQRPCKCEHHCPCDPKTGN
+CSVSRVKQCLQPPEATLRAGELSFFTRTAWLALTLALAFLLLISTAANLSLLLSRAERNR
+RLHGDYAYHPLQEMNGEPLAAEKEQPGGAHNPFKD</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0011632|N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase (NAGPA)
+ATGGCGACCTCCACGGGTCGCTGGCTTCTCCTCCGGCTTGCACTATTCGGCTTCCTCTGG
+GAAGCGTCCGGCGGCCTCGACTCGGGGGCCTCCCGCGACGACGACTTGCTACTGCCCTAT
+CCACGCGCGCGCGCGCGCCTCCCCCGGGACTGCACACGGGTGCGCGCCGGCAACCGCGAG
+CACGAGAGTTGGCCTCCGCCTCCCGCGACTCCCGGCGCCGGCGGTCTGGCCGTGCGCACC
+TTCGTGTCGCACTTCAGGGACCGCGCGGTGGCCGGCCACCTGACGCGGGCCGTTGAGCCC
+CTGCGCACCTTCTCGGTGCTGGAGCCCGGTGGACCCGGCGGCTGCGCGGCGAGACGACGC
+GCCACCGTGGAGGAGACGGCGCGGGCGGCCGACTGCCGTGTCGCCCAGAACGGCGGCTTC
+TTCCGCATGAACTCGGGCGAGTGCCTGGGGAACGTGGTGAGCGACGAGCGGCGGGTGAGC
+AGCTCCGGGGGGCTGCAGAACGCGCAGTTCGGGATCCGCCGCGACGGGACCCTGGTCACC
+GGGTACCTGTCTGAGGAGGAGGTGCTGGACACTGAGAACCCATTTGTGCAGCTGCTGAGT
+GGGGTCGTGTGGCTGATTCGTAATGGAAGCATCTACATCAACGAGAGCCAAGCCACAGAG
+TGTGACGAGACACAGGAGACAGGTTCCTTTAGCAAATTTGTGAATGTGATATCAGCCAGG
+ACGGCCATTGGCCACGACCGGAAAGGGCAGCTGGTGCTCTTTCATGCAGACGGCCAAACG
+GAGCAGCGTGGCATCAACCTGTGGGAAATGGCGGAGTTCCTGCTGAAACAGGACGTGGTC
+AACGCCATCAACCTGGATGGGGGTGGCTCTGCCACCTTTGTGCTCAACGGGACCTTGGCC
+AGTTACCCGTCAGATCACTGCCAGGACAACATGTGGCGCTGTCCCCGCCAAGTGTCCACC
+GTGGTGTGTGTGCACGAACCCCGCTGCCAGCCGCCTGACTGCCACGGCCACGGGACCTGC
+GTGGACGGGCACTGCCAATGCACCGGGCACTTCTGGCGGGGTCCCGGCTGTGATGAGCTG
+GACTGTGGCCCCTCTAACTGCAGCCAGCACGGACTGTGCACGGAGACCGGCTGCCGCTGT
+GATGCCGGATGGACCGGGTCCAACTGCAGTGAAGAGTGTCCCCTTGGCTGGCATGGGCCG
+GGCTGCCAGAGGCCTTGTAAGTGTGAGCACCATTGTCCCTGTGACCCCAAGACTGGCAAC
+TGCAGCGTCTCCAGAGTAAAGCAGTGTCTCCAGCCACCTGAAGCCACCCTGAGGGCGGGA
+GAACTCTCCTTTTTCACCAGGACCGCCTGGCTAGCCCTCACCCTGGCGCTGGCCTTCCTC
+CTGCTGATCAGCACTGCAGCAAACCTGTCCTTGCTCCTGTCCAGAGCAGAGAGGAACCGG
+CGCCTGCATGGGGACTATGCATACCACCCGCTGCAGGAGATGAACGGGGAGCCTCTGGCC
+GCAGAGAAGGAGCAGCCAGGGGGCGCCCACAACCCCTTCAAGGACTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF09992</identifier>
+            <name>DUF2233</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi cisterna membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acetylglucosamine-1-phosphodiester alpha-N-acetylglucosaminidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular protein modification process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lysosome organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein glycosylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>protein targeting to lysosome</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="5">
+      <id>BE0000391</id>
+      <name>Alpha-N-acetylglucosaminidase</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>activator</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9875</ref-id>
+            <pubmed-id>15112051</pubmed-id>
+            <citation>Spiro RG: Role of N-linked polymannose oligosaccharides in targeting glycoproteins for endoplasmic reticulum-associated degradation. Cell Mol Life Sci. 2004 May;61(9):1025-41.</citation>
+          </article>
+          <article>
+            <ref-id>A9876</ref-id>
+            <pubmed-id>16349528</pubmed-id>
+            <citation>Nogawa M, Takahashi H, Kashiwagi A, Ohshima K, Okada H, Morikawa Y: Purification and Characterization of Exo-beta-d-Glucosaminidase from a Cellulolytic Fungus, Trichoderma reesei PC-3-7. Appl Environ Microbiol. 1998 Mar;64(3):890-5.</citation>
+          </article>
+          <article>
+            <ref-id>A9877</ref-id>
+            <pubmed-id>15932346</pubmed-id>
+            <citation>Vishu Kumar AB, Varadaraj MC, Gowda LR, Tharanathan RN: Characterization of chito-oligosaccharides prepared by chitosanolysis with the aid of papain and Pronase, and their bactericidal action against Bacillus cereus and Escherichia coli. Biochem J. 2005 Oct 15;391(Pt 2):167-75.</citation>
+          </article>
+          <article>
+            <ref-id>A9878</ref-id>
+            <pubmed-id>17414423</pubmed-id>
+            <citation>Zou L, Yang S, Hu S, Chaudry IH, Marchase RB, Chatham JC: The protective effects of PUGNAc on cardiac function after trauma-hemorrhage are mediated via increased protein O-GlcNAc levels. Shock. 2007 Apr;27(4):402-8.</citation>
+          </article>
+          <article>
+            <ref-id>A9879</ref-id>
+            <pubmed-id>17576230</pubmed-id>
+            <citation>Shirazi F, Kulkarni M, Deshpande MV: A rapid and sensitive method for screening of chitinase inhibitors using Ostazin Brilliant Red labelled chitin as a substrate for chitinase assay. Lett Appl Microbiol. 2007 Jun;44(6):660-5.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P54802" source="Swiss-Prot">
+        <name>Alpha-N-acetylglucosaminidase</name>
+        <general-function>Alpha-n-acetylglucosaminidase activity</general-function>
+        <specific-function>Involved in the degradation of heparan sulfate.</specific-function>
+        <gene-name>NAGLU</gene-name>
+        <locus>17q21</locus>
+        <cellular-location>Lysosome</cellular-location>
+        <transmembrane-regions/>
+        <signal-regions>1-23</signal-regions>
+        <theoretical-pi>6.52</theoretical-pi>
+        <molecular-weight>82264.92</molecular-weight>
+        <chromosome-location>17</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:7632</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>NAGLU</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>U43572</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>1171229</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P54802</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>ANAG_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.2.1.50</synonym>
+          <synonym>N-acetyl-alpha-glucosaminidase</synonym>
+          <synonym>NAG</synonym>
+          <synonym>UFHSD1</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0016076|Alpha-N-acetylglucosaminidase
+MEAVAVAAAVGVLLLAGAGGAAGDEAREAAAVRALVARLLGPGPAADFSVSVERALAAKP
+GLDTYSLGGGGAARVRVRGSTGVAAAAGLHRYLRDFCGCHVAWSGSQLRLPRPLPAVPGE
+LTEATPNRYRYYQNVCTQSYSFVWWDWARWEREIDWMALNGINLALAWSGQEAIWQRVYL
+ALGLTQAEINEFFTGPAFLAWGRMGNLHTWDGPLPPSWHIKQLYLQHRVLDQMRSFGMTP
+VLPAFAGHVPEAVTRVFPQVNVTKMGSWGHFNCSYSCSFLLAPEDPIFPIIGSLFLRELI
+KEFGTDHIYGADTFNEMQPPSSEPSYLAAATTAVYEAMTAVDTEAVWLLQGWLFQHQPQF
+WGPAQIRAVLGAVPRGRLLVLDLFAESQPVYTRTASFQGQPFIWCMLHNFGGNHGLFGAL
+EAVNGGPEAARLFPNSTMVGTGMAPEGISQNEVVYSLMAELGWRKDPVPDLAAWVTSFAA
+RRYGVSHPDAGAAWRLLLRSVYNCSGEACRGHNRSPLVRRPSLQMNTSIWYNRSDVFEAW
+RLLLTSAPSLATSPAFRYDLLDLTRQAVQELVSLYYEEARSAYLSKELASLLRAGGVLAY
+ELLPALDEVLASDSRFLLGSWLEQARAAAVSEAEADFYEQNSRYQLTLWGPEGNILDYAN
+KQLAGLVANYYTPRWRLFLEALVDSVAQGIPFQQHQFDKNVFQLEQAFVLSKQRYPSQPR
+GDTVDLAKKIFLKYYPRWVAGSW</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016077|Alpha-N-acetylglucosaminidase (NAGLU)
+ATGGAGGCGGTGGCGGTGGCCGCGGCGGTGGGGGTCCTTCTCCTGGCCGGGGCCGGGGGC
+GCGGCAGGCGACGAGGCCCGGGAGGCGGCGGCCGTGCGGGCGCTCGTGGCCCGGCTGCTG
+GGGCCAGGCCCCGCGGCCGACTTCTCCGTGTCGGTGGAGCGCGCTCTGGCTGCCAAGCCG
+GGCTTGGACACCTACAGCCTGGGCGGCGGCGGCGCGGCGCGCGTGCGGGTGCGCGGCTCC
+ACGGGCGTGGCGGCCGCCGCGGGGCTGCACCGCTACCTGCGCGACTTCTGTGGCTGCCAC
+GTGGCCTGGTCCGGCTCTCAGCTGCGCCTGCCGCGGCCACTGCCAGCCGTGCCGGGGGAG
+CTGACCGAGGCCACGCCCAACAGGTACCGCTATTACCAGAATGTGTGCACGCAAAGCTAC
+TCTTTCGTGTGGTGGGACTGGGCCCGCTGGGAGCGAGAGATAGACTGGATGGCGCTGAAT
+GGCATCAACCTGGCACTGGCCTGGAGCGGCCAGGAGGCCATCTGGCAGCGGGTGTACCTG
+GCCTTGGGCCTGACCCAGGCAGAGATCAATGAGTTCTTTACTGGTCCTGCCTTCCTGGCC
+TGGGGGCGAATGGGCAACCTGCACACCTGGGATGGCCCCCTGCCCCCCTCCTGGCACATC
+AAGCAGCTTTACCTGCAGCACCGGGTCCTGGACCAGATGCGCTCCTTCGGCATGACCCCA
+GTGCTGCCTGCATTCGCGGGGCATGTTCCCGAGGCTGTCACCAGGGTGTTCCCTCAGGTC
+AATGTCACGAAGATGGGCAGTTGGGGCCACTTTAACTGTTCCTACTCCTGCTCCTTCCTT
+CTGGCTCCGGAAGACCCCATATTCCCCATCATCGGGAGCCTCTTCCTGCGAGAGCTGATC
+AAAGAGTTTGGCACAGACCACATCTATGGGGCCGACACTTTCAATGAGATGCAGCCACCT
+TCCTCAGAGCCCTCCTACCTTGCCGCAGCCACCACTGCCGTCTATGAGGCCATGACTGCA
+GTGGATACTGAGGCTGTGTGGCTGCTCCAAGGCTGGCTCTTCCAGCACCAGCCGCAGTTC
+TGGGGGCCCGCCCAGATCAGGGCTGTGCTGGGAGCTGTGCCCCGTGGCCGCCTCCTGGTT
+CTGGACCTGTTTGCTGAGAGCCAGCCTGTGTATACCCGCACTGCCTCCTTCCAGGGCCAG
+CCCTTCATCTGGTGCATGCTGCACAACTTTGGGGGAAACCATGGTCTTTTTGGAGCCCTA
+GAGGCTGTGAACGGAGGCCCAGAAGCTGCCCGCCTCTTCCCCAACTCCACCATGGTAGGC
+ACGGGCATGGCCCCCGAGGGCATCAGCCAGAACGAAGTGGTCTATTCCCTCATGGCTGAG
+CTGGGCTGGCGAAAGGACCCAGTGCCAGATTTGGCAGCCTGGGTGACCAGCTTTGCCGCC
+CGGCGGTATGGGGTCTCCCACCCGGACGCAGGGGCAGCGTGGAGGCTACTGCTCCGGAGT
+GTGTACAACTGCTCCGGGGAGGCCTGCAGGGGCCACAATCGTAGCCCGCTGGTCAGGCGG
+CCGTCCCTACAGATGAATACCAGCATCTGGTACAACCGATCTGATGTGTTTGAGGCCTGG
+CGGCTGCTGCTCACATCTGCTCCCTCCCTGGCCACCAGCCCCGCCTTCCGCTACGACCTG
+CTGGACCTCACTCGGCAGGCAGTGCAGGAGCTGGTCAGCTTGTACTATGAGGAGGCAAGA
+AGCGCCTACCTGAGCAAGGAGCTGGCCTCCCTGTTGAGGGCTGGAGGCGTCCTGGCCTAT
+GAGCTGCTGCCGGCACTGGACGAGGTGCTGGCTAGTGACAGCCGCTTCTTGCTGGGCAGC
+TGGCTAGAGCAGGCCCGAGCAGCGGCAGTCAGTGAGGCCGAGGCCGATTTCTACGAGCAG
+AACAGCCGCTACCAGCTGACCTTGTGGGGGCCAGAAGGCAACATCCTGGACTATGCCAAC
+AAGCAGCTGGCGGGGTTGGTGGCCAACTACTACACCCCTCGCTGGCGGCTTTTCCTGGAG
+GCGCTGGTTGACAGTGTGGCCCAGGGCATCCCTTTCCAACAGCACCAGTTTGACAAAAAT
+GTCTTCCAACTGGAGCAGGCCTTCGTTCTCAGCAAGCAGAGGTACCCCAGCCAGCCGCGA
+GGAGACACTGTGGACCTGGCCAAGAAGATCTTCCTCAAATATTACCCCCGCTGGGTGGCC
+GGCTCTTGGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF05089</identifier>
+            <name>NAGLU</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12972</identifier>
+            <name>NAGLU_C</name>
+          </pfam>
+          <pfam>
+            <identifier>PF12971</identifier>
+            <name>NAGLU_N</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosomal lumen</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>lysosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>alpha-N-acetylglucosaminidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>carbohydrate metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cerebellar Purkinje cell layer development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>glycosaminoglycan metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inner ear receptor cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>locomotor rhythm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lysosome organization</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>middle ear morphogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>nervous system development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>retinal rod cell development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target position="6">
+      <id>BE0000109</id>
+      <name>N-acylglucosamine 2-epimerase</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A9880</ref-id>
+            <pubmed-id>17292397</pubmed-id>
+            <citation>Lee YC, Wu HM, Chang YN, Wang WC, Hsu WH: The central cavity from the (alpha/alpha)6 barrel structure of Anabaena sp. CH1 N-acetyl-D-glucosamine 2-epimerase contains two key histidine residues for reversible conversion. J Mol Biol. 2007 Mar 30;367(3):895-908. Epub 2006 Nov 6.</citation>
+          </article>
+          <article>
+            <ref-id>A9881</ref-id>
+            <pubmed-id>17349707</pubmed-id>
+            <citation>Lee YC, Chien HC, Hsu WH: Production of N-acetyl-D-neuraminic acid by recombinant whole cells expressing Anabaena sp. CH1 N-acetyl-D-glucosamine 2-epimerase and Escherichia coli N-acetyl-D-neuraminic acid lyase. J Biotechnol. 2007 May 1;129(3):453-60. Epub 2007 Feb 9.</citation>
+          </article>
+          <article>
+            <ref-id>A9882</ref-id>
+            <pubmed-id>16011304</pubmed-id>
+            <citation>Takahashi S, Ogasawara H, Hiwatashi K, Hata K, Hori K, Koizumi Y, Sugiyama T: Amino acid residues conferring the nucleotide binding properties of N-acetyl-D-glucosamine 2-epimerase (renin binding protein). Biomed Res. 2005 Jun;26(3):117-21.</citation>
+          </article>
+          <article>
+            <ref-id>A9883</ref-id>
+            <pubmed-id>17565386</pubmed-id>
+            <citation>Ferrero MA, Martinez-Blanco H, Lopez-Velasco FF, Ezquerro-Saenz C, Navasa N, Lozano S, Rodriguez-Aparicio LB: Purification and characterization of GlcNAc-6-P 2-epimerase from Escherichia coli K92. Acta Biochim Pol. 2007;54(2):387-99. Epub 2007 Jun 14.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P51606" source="Swiss-Prot">
+        <name>N-acylglucosamine 2-epimerase</name>
+        <general-function>N-acylglucosamine 2-epimerase activity</general-function>
+        <specific-function>Catalyzes the interconversion of N-acetylglucosamine to N-acetylmannosamine. Binds to renin forming a protein complex called high molecular weight (HMW) renin and inhibits renin activity. Involved in the N-glycolylneuraminic acid (Neu5Gc) degradation pathway: although human is not able to catalyze formation of Neu5Gc due to the inactive CMAHP enzyme, Neu5Gc is present in food and must be degraded.</specific-function>
+        <gene-name>RENBP</gene-name>
+        <locus>Xq28</locus>
+        <cellular-location/>
+        <transmembrane-regions/>
+        <signal-regions/>
+        <theoretical-pi>6.2</theoretical-pi>
+        <molecular-weight>48830.6</molecular-weight>
+        <chromosome-location>X</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:9959</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>RENBP</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>D10232</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>220053</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P51606</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>RENBP_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>5.1.3.8</synonym>
+          <synonym>AGE</synonym>
+          <synonym>GlcNAc 2-epimerase</synonym>
+          <synonym>N-acetyl-D-glucosamine 2-epimerase</synonym>
+          <synonym>Renin-binding protein</synonym>
+          <synonym>RnBP</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036951|N-acylglucosamine 2-epimerase
+MSKGLPARQDMEKERETLQAWKERVGQELDRVVAFWMEHSHDQEHGGFFTCLGREGRVYD
+DLKYVWLQGRQVWMYCRLYRTFERFRHAQLLDAAKAGGEFLLRYARVAPPGKKCAFVLTR
+DGRPVKVQRTIFSECFYTMAMNELWRATGEVRYQTEAVEMMDQIVHWVQEDASGLGRPQL
+QGAPAAEPMAVPMMLLNLVEQLGEADEELAGKYAELGDWCARRILQHVQRDGQAVLENVS
+EGGKELPGCLGRQQNPGHTLEAGWFLLRHCIRKGDPELRAHVIDKFLLLPFHSGWDPDHG
+GLFYFQDADNFCPTQLEWAMKLWWPHSEAMIAFLMGYSDSGDPVLLRLFYQVAEYTFRQF
+RDPEYGEWFGYLSREGKVALSIKGGPFKGCFHVPRCLAMCEEMLGALLSRPAPAPSPAPT
+PACRGAE</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010166|N-acylglucosamine 2-epimerase (RENBP)
+ATGAGCAAGGGTCTCCCAGCGCGACAGGACATGGAGAAAGAGCGAGAGACTCTGCAGGCC
+TGGAAGGAGCGCGTGGGGCAGGAGCTGGACCGCGTGGTGGCTTTCTGGATGGAGCACTCC
+CACGACCAGGAGCACGGGGGCTTCTTCACGTGCCTTGGCCGCGAGGGGCGGGTGTATGAT
+GACCTCAAGTATGTGTGGCTGCAGGGGAGGCAGGTATGGATGTATTGTCGCCTGTACCGC
+ACTTTCGAGCGCTTCCGCCATGCTCAGCTTCTGGACGCAGCAAAAGCAGGTGGTGAGTTC
+TTGCTGCGGTATGCCCGGGTGGCACCTCCTGGCAAGAAGTGTGCCTTTGTGCTGACTCGG
+GACGGCCGCCCGGTCAAGGTGCAGCGAACCATCTTCAGTGAGTGTTTCTACACCATGGCC
+ATGAACGAGCTGTGGAGAGCCACAGGGGAAGTGCGGTACCAGACGGAAGCGGTGGAGATG
+ATGGATCAGATCGTCCACTGGGTGCAGGAGGACGCGTCGGGACTGGGCCGGCCCCAGCTC
+CAGGGGGCCCCGGCTGCGGAGCCCATGGCGGTGCCCATGATGCTACTGAACCTGGTGGAG
+CAGCTCGGGGAGGCAGATGAGGAGCTGGCGGGCAAATACGCAGAGCTGGGGGACTGGTGC
+GCCCGGAGGATTCTGCAGCACGTGCAGAGGGATGGACAAGCTGTGCTGGAGAATGTGTCA
+GAGGGTGGCAAGGAACTTCCTGGCTGCCTGGGGAGACAGCAGAACCCAGGCCACACGCTG
+GAAGCCGGCTGGTTTCTGCTCCGTCATTGCATTCGGAAAGGCGACCCCGAACTTCGAGCC
+CACGTGATTGACAAGTTCCTATTGTTGCCCTTCCACTCCGGATGGGACCCTGACCACGGA
+GGCCTCTTTTACTTCCAGGATGCTGATAACTTCTGCCCCACCCAGCTGGAGTGGGCCATG
+AAGCTCTGGTGGCCACACAGTGAAGCCATGATTGCCTTCCTCATGGGTTACAGTGACAGT
+GGGGACCCTGTGCTGCTGCGCCTCTTCTACCAAGTGGCTGAGTACACCTTCCGCCAGTTT
+CGCGATCCCGAGTACGGGGAATGGTTTGGCTACCTGAGCCGAGAGGGCAAGGTGGCCCTC
+TCCATCAAGGGAGGTCCTTTCAAAGGCTGCTTCCACGTGCCGCGGTGCCTAGCCATGTGC
+GAGGAGATGCTGGGCGCCCTGCTGAGCCGCCCCGCCCCCGCCCCCTCCCCCGCCCCCACC
+CCCGCCTGCCGAGGCGCGGAATAA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF07221</identifier>
+            <name>GlcNAc_2-epim</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>ATP binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>endopeptidase inhibitor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>N-acylglucosamine 2-epimerase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylglucosamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylmannosamine metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>N-acetylneuraminate catabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of blood pressure</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

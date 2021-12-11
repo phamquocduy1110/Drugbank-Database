@@ -1,0 +1,559 @@
+<drug type="biotech" created="2005-06-13" updated="2020-09-03">
+  <drugbank-id primary="true">DB00045</drugbank-id>
+  <drugbank-id>BTD00054</drugbank-id>
+  <drugbank-id>BIOD00054</drugbank-id>
+  <name>Lyme disease vaccine (recombinant OspA)</name>
+  <description>Vaccine against Lyme disease that contains lipoprotein OspA, an outer surface protein of Borrelia burgdorferi sensu stricto ZS7, as expressed by Escherichia coli. Lipoprotein OspA is a single polypeptide chain of 257 amino acids with lipids covalently bonded to the N terminus. It is conjugated with alum (aluminum hydroxide) as an adjuvant.</description>
+  <cas-number/>
+  <unii>TA735GI14L</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+    <group>withdrawn</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For prophylactic treatment of Lyme Disease</indication>
+  <pharmacodynamics>OspA lipoprotein is a single polypeptide chain of 270 amino acids. It is a vaccination used to prevent Lyme Disease.</pharmacodynamics>
+  <mechanism-of-action>OspA lipoprotein, an outer surface protein of the bacteria Borrelia burgdorferi sensu stricto ZS7, is used to stimulate the production of specific antibodies against B. burgdorferi. It is used as a vaccination against Lyme Disease, a disease carried by ticks.</mechanism-of-action>
+  <toxicity/>
+  <metabolism/>
+  <absorption/>
+  <half-life>1.2 hours (mammalian reticulocytes, in vitro).</half-life>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution/>
+  <clearance/>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Lipoprotein OspA antigen recombinant</synonym>
+    <synonym language="english" coder="">Lipoprotein outer surface a borrelia burgdorferi antigen</synonym>
+    <synonym language="english" coder="">OspA lipoprotein</synonym>
+  </synonyms>
+  <products/>
+  <international-brands>
+    <international-brand>
+      <name>LYMErix</name>
+      <company>SmithKline Beecham</company>
+    </international-brand>
+  </international-brands>
+  <mixtures/>
+  <packagers/>
+  <manufacturers/>
+  <prices/>
+  <categories/>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages/>
+  <atc-codes/>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt; OspA lipoprotein
+MKKYLLGIGLILALIACKQNVSSLDEKNSVSVDVPGGMKVLVSKEKNKDGKYDLMATVDN
+VDLKGTSDKNNGSGILEGVKADKSKVKLTVADDLSKTTLEVLKEDGTVVSRKVTSKDKST
+TEAKFNEKGELSEKTMTRANGTTLEYSQMTNEDNAAKAVETLKNGIKFEGNLASGKTAVE
+IKEGTVTLKREIDKNGKVTVSLNDTASGSKKTASWQESTSTLTISANSKKTKDLVFLTNG
+TITVQNYDSAGTKLEGSAAEIKKLDELKNALR</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.652</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>6.72</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>27743.1</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1198H2012N322O422S2</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46504444</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>X16467</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164743058</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P14013</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001334</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>54214</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target position="1">
+      <id>BE0001164</id>
+      <name>Toll-like receptor 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A15360</ref-id>
+            <pubmed-id>14617145</pubmed-id>
+            <citation>Welty DM, Snyder DS: Internalization of OspA in rsCD14 complex and aggregated forms. Mol Microbiol. 2003 Nov;50(3):835-43.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="O60603" source="Swiss-Prot">
+        <name>Toll-like receptor 2</name>
+        <general-function>Triacyl lipopeptide binding</general-function>
+        <specific-function>Cooperates with LY96 to mediate the innate immune response to bacterial lipoproteins and other microbial cell wall components. Cooperates with TLR1 or TLR6 to mediate the innate immune response to bacterial lipoproteins or lipopeptides (PubMed:17889651). Acts via MYD88 and TRAF6, leading to NF-kappa-B activation, cytokine secretion and the inflammatory response. May also promote apoptosis in response to lipoproteins (PubMed:10426996). Recognizes mycoplasmal macrophage-activating lipopeptide-2kD (MALP-2), soluble tuberculosis factor (STF), phenol-soluble modulin (PSM) and B.burgdorferi outer surface protein A lipoprotein (OspA-L) cooperatively with TLR6 (PubMed:11441107). Acts as a receptor for M.tuberculosis lipoproteins LprA, LprG, LpqH and PhoS1 (pstS1), some lipoproteins are dependent on other coreceptors (TLR1, CD14 and/or CD36).The lipoproteins act as agonists to modulate antigen presenting cell functions in response to the pathogen (PubMed:19362712). Forms activation clusters composed of several receptors depending on the ligand, these clusters trigger signaling from the cell surface and subsequently are targeted to the Golgi in a lipid-raft dependent pathway. Forms the cluster TLR2:TLR6:CD14:CD36 in response to diacylated lipopeptides and TLR2:TLR1:CD14 in response to triacylated lipopeptides (PubMed:16880211).</specific-function>
+        <gene-name>TLR2</gene-name>
+        <locus>4q32</locus>
+        <cellular-location>Membrane</cellular-location>
+        <transmembrane-regions>589-609</transmembrane-regions>
+        <signal-regions>1-18</signal-regions>
+        <theoretical-pi>6.59</theoretical-pi>
+        <molecular-weight>89836.575</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:11848</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>TLR2</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>AF051152</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>3132528</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>O60603</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>TLR2_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>TIL4</synonym>
+          <synonym>Toll/interleukin-1 receptor-like protein 4</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0010812|Toll-like receptor 2
+MPHTLWMVWVLGVIISLSKEESSNQASLSCDRNGICKGSSGSLNSIPSGLTEAVKSLDLS
+NNRITYISNSDLQRCVNLQALVLTSNGINTIEEDSFSSLGSLEHLDLSYNYLSNLSSSWF
+KPLSSLTFLNLLGNPYKTLGETSLFSHLTKLQILRVGNMDTFTKIQRKDFAGLTFLEELE
+IDASDLQSYEPKSLKSIQNVSHLILHMKQHILLLEIFVDVTSSVECLELRDTDLDTFHFS
+ELSTGETNSLIKKFTFRNVKITDESLFQVMKLLNQISGLLELEFDDCTLNGVGNFRASDN
+DRVIDPGKVETLTIRRLHIPRFYLFYDLSTLYSLTERVKRITVENSKVFLVPCLLSQHLK
+SLEYLDLSENLMVEEYLKNSACEDAWPSLQTLILRQNHLASLEKTGETLLTLKNLTNIDI
+SKNSFHSMPETCQWPEKMKYLNLSSTRIHSVTGCIPKTLEILDVSNNNLNLFSLNLPQLK
+ELYISRNKLMTLPDASLLPMLLVLKISRNAITTFSKEQLDSFHTLKTLEAGGNNFICSCE
+FLSFTQEQQALAKVLIDWPANYLCDSPSHVRGQQVQDVRLSVSECHRTALVSGMCCALFL
+LILLTGVLCHRFHGLWYMKMMWAWLQAKRKPRKAPSRNICYDAFVSYSERDAYWVENLMV
+QELENFNPPFKLCLHKRDFIPGKWIIDNIIDSIEKSHKTVFVLSENFVKSEWCKYELDFS
+HFRLFDENNDAAILILLEPIEKKAIPQRFCKLRKIMNTKTYLEWPMDEAQREGFWVNLRA
+AIKS</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010813|Toll-like receptor 2 (TLR2)
+ATGCCACATACTTTGTGGATGGTGTGGGTCTTGGGGGTCATCATCAGCCTCTCCAAGGAA
+GAATCCTCCAATCAGGCTTCTCTGTCTTGTGACCGCAATGGTATCTGCAAGGGCAGCTCA
+GGATCTTTAAACTCCATTCCCTCAGGGCTCACAGAAGCTGTAAAAAGCCTTGACCTGTCC
+AACAACAGGATCACCTACATTAGCAACAGTGACCTACAGAGGTGTGTGAACCTCCAGGCT
+CTGGTGCTGACATCCAATGGAATTAACACAATAGAGGAAGATTCTTTTTCTTCCCTGGGC
+AGTCTTGAACATTTAGACTTATCCTATAATTACTTATCTAATTTATCGTCTTCCTGGTTC
+AAGCCCCTTTCTTCTTTAACATTCTTAAACTTACTGGGAAATCCTTACAAAACCCTAGGG
+GAAACATCTCTTTTTTCTCATCTCACAAAATTGCAAATCCTGAGAGTGGGAAATATGGAC
+ACCTTCACTAAGATTCAAAGAAAAGATTTTGCTGGACTTACCTTCCTTGAGGAACTTGAG
+ATTGATGCTTCAGATCTACAGAGCTATGAGCCAAAAAGTTTGAAGTCAATTCAGAATGTA
+AGTCATCTGATCCTTCATATGAAGCAGCATATTTTACTGCTGGAGATTTTTGTAGATGTT
+ACAAGTTCCGTGGAATGTTTGGAACTGCGAGATACTGATTTGGACACTTTCCATTTTTCA
+GAACTATCCACTGGTGAAACAAATTCATTGATTAAAAAGTTTACATTTAGAAATGTGAAA
+ATCACCGATGAAAGTTTGTTTCAGGTTATGAAACTTTTGAATCAGATTTCTGGATTGTTA
+GAATTAGAGTTTGATGACTGTACCCTTAATGGAGTTGGTAATTTTAGAGCATCTGATAAT
+GACAGAGTTATAGATCCAGGTAAAGTGGAAACGTTAACAATCCGGAGGCTGCATATTCCA
+AGGTTTTACTTATTTTATGATCTGAGCACTTTATATTCACTTACAGAAAGAGTTAAAAGA
+ATCACAGTAGAAAACAGTAAAGTTTTTCTGGTTCCTTGTTTACTTTCACAACATTTAAAA
+TCATTAGAATACTTGGATCTCAGTGAAAATTTGATGGTTGAAGAATACTTGAAAAATTCA
+GCCTGTGAGGATGCCTGGCCCTCTCTACAAACTTTAATTTTAAGGCAAAATCATTTGGCA
+TCATTGGAAAAAACCGGAGAGACTTTGCTCACTCTGAAAAACTTGACTAACATTGATATC
+AGTAAGAATAGTTTTCATTCTATGCCTGAAACTTGTCAGTGGCCAGAAAAGATGAAATAT
+TTGAACTTATCCAGCACACGAATACACAGTGTAACAGGCTGCATTCCCAAGACACTGGAA
+ATTTTAGATGTTAGCAACAACAATCTCAATTTATTTTCTTTGAATTTGCCGCAACTCAAA
+GAACTTTATATTTCCAGAAATAAGTTGATGACTCTACCAGATGCCTCCCTCTTACCCATG
+TTACTAGTATTGAAAATCAGTAGGAATGCAATAACTACGTTTTCTAAGGAGCAACTTGAC
+TCATTTCACACACTGAAGACTTTGGAAGCTGGTGGCAATAACTTCATTTGCTCCTGTGAA
+TTCCTCTCCTTCACTCAGGAGCAGCAAGCACTGGCCAAAGTCTTGATTGATTGGCCAGCA
+AATTACCTGTGTGACTCTCCATCCCATGTGCGTGGCCAGCAGGTTCAGGATGTCCGCCTC
+TCGGTGTCGGAATGTCACAGGACAGCACTGGTGTCTGGCATGTGCTGTGCTCTGTTCCTG
+CTGATCCTGCTCACGGGGGTCCTGTGCCACCGTTTCCATGGCCTGTGGTATATGAAAATG
+ATGTGGGCCTGGCTCCAGGCCAAAAGGAAGCCCAGGAAAGCTCCCAGCAGGAACATCTGC
+TATGATGCATTTGTTTCTTACAGTGAGCGGGATGCCTACTGGGTGGAGAACCTTATGGTC
+CAGGAGCTGGAGAACTTCAATCCCCCCTTCAAGTTGTGTCTTCATAAGCGGGACTTCATT
+CCTGGCAAGTGGATCATTGACAATATCATTGACTCCATTGAAAAGAGCCACAAAACTGTC
+TTTGTGCTTTCTGAAAACTTTGTGAAGAGTGAGTGGTGCAAGTATGAACTGGACTTCTCC
+CATTTCCGTCTTTTTGATGAGAACAATGATGCTGCCATTCTCATTCTTCTGGAGCCCATT
+GAGAAAAAAGCCATTCCCCAGCGCTTCTGCAAGCTGCGGAAGATAATGAACACCAAGACC
+TACCTGGAGTGGCCCATGGACGAGGCTCAGCGGGAAGGATTTTGGGTAAATCTGAGAGCT
+GCGATAAAGTCCTAG</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF01463</identifier>
+            <name>LRRCT</name>
+          </pfam>
+          <pfam>
+            <identifier>PF01582</identifier>
+            <name>TIR</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13855</identifier>
+            <name>LRR_8</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>external side of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Golgi apparatus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>intrinsic component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane raft</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Toll-like receptor 1-Toll-like receptor 2 protein complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>Toll-like receptor 2-Toll-like receptor 6 protein complex</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>diacyl lipopeptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipopolysaccharide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipopolysaccharide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>lipoteichoic acid binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptidoglycan binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>protein heterodimerization activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>signaling pattern recognition receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>Toll-like receptor binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>transmembrane signaling receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>triacyl lipopeptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>apoptotic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cell surface pattern recognition receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to bacterial lipopeptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to diacyl bacterial lipopeptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to lipoteichoic acid</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to peptidoglycan</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to triacyl bacterial lipopeptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>chloramphenicol transport</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cytokine secretion involved in immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>defense response to Gram-positive bacterium</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>detection of diacyl bacterial lipopeptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>detection of triacyl bacterial lipopeptide</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>I-kappaB phosphorylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>induction by symbiont of defense-related host nitric oxide production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>innate immune response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>interleukin-10 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>lipopolysaccharide-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>MyD88-dependent toll-like receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of growth of symbiont in host</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-12 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>negative regulation of interleukin-17 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of chemokine production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cytokine secretion</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of gene expression</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of inflammatory response</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interferon-beta production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-12 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-18 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-6 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of interleukin-8 production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of leukocyte migration</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of macrophage cytokine production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of NF-kappaB import into nucleus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of NF-kappaB transcription factor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of nitric oxide biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of nitric-oxide synthase biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of toll-like receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of tumor necrosis factor biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of tumor necrosis factor production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of Wnt signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>regulation of dendritic cell cytokine production</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>response to molecule of fungal origin</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>signal transduction</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toll-like receptor 2 signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toll-like receptor 4 signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toll-like receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toll-like receptor TLR1</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>toll-like receptor TLR6</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

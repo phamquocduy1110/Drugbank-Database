@@ -1,0 +1,2258 @@
+<drug type="biotech" created="2005-06-13" updated="2020-10-06">
+  <drugbank-id primary="true">DB00089</drugbank-id>
+  <drugbank-id>BTD00080</drugbank-id>
+  <drugbank-id>BIOD00080</drugbank-id>
+  <name>Capromab pendetide</name>
+  <description>Capromab is a Murine IgG1 monoclonal 7E11-C5.3 antibody that recognizes prostate specific membrane antigen (PSMA – also known as glutamate carboxypeptidase 2) from prostate cancer cells and normal prostate tissue. When linked to pendetide, capromab is used as a chelating agent for the radionuclide [Indium In-111] during imaging to evaluate the extent of prostate cancer.</description>
+  <cas-number>145464-28-4</cas-number>
+  <unii>BDO5072GRX</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links>
+      <link>
+        <ref-id>L52</ref-id>
+        <title>Link</title>
+        <url>http://www.google.com/patents/WO2013006706A1?cl=en</url>
+      </link>
+      <link>
+        <ref-id>L53</ref-id>
+        <title>Link</title>
+        <url>http://www.google.ca/patents/US4741900</url>
+      </link>
+      <link>
+        <ref-id>L54</ref-id>
+        <title>Link</title>
+        <url>http://www.google.com/patents/US5162504</url>
+      </link>
+    </links>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For diagnosis of prostate cancer and detection of intra-pelvic metastases.</indication>
+  <pharmacodynamics>Binds to the prostate-specific membrane antigen, which is a cell surface protein generally overexpressed in prostate tissues and prostate cancers. The radioactive Indium 111, which is covalently attached to the antibody, allows radiodiagnostic detection of PSMA expressing cells and tumors.</pharmacodynamics>
+  <mechanism-of-action>Binds selectively to cell-surface prostate-specific membrane antigen (PSMA) expressed on prostate tissues and tumors.</mechanism-of-action>
+  <toxicity/>
+  <metabolism>Most likely removed by opsonization via the reticuloendothelial system or by human antimurine antibody production</metabolism>
+  <absorption/>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination>Approximately 10% of the administered radioisotope dose is excreted in the urine during the 72 hours following intravenous infusion.</route-of-elimination>
+  <volume-of-distribution>* 4 ± 2.1 L</volume-of-distribution>
+  <clearance>* 42 +/- 22 mL/hr</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">(111In)-Capromab pendetide</synonym>
+    <synonym language="english" coder="">Indium (111In) capromab pendetide</synonym>
+    <synonym language="english" coder="">Indium 111 Capromab Pendetide</synonym>
+    <synonym language="english" coder="">Indium In 111 capromab pendetide</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>ProstaScint Kit for the Preparation of Indium In 111 Capromab Pendetide</name>
+      <labeller>Jazz Pharmaceuticals, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>57902-817</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1996-10-28</started-marketing-on>
+      <ended-marketing-on>2015-05-22</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>0.5 mg/1mL</strength>
+      <route>Intravenous</route>
+      <fda-application-number>BLA103608</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>ProstaScint</name>
+      <company>Cytogen Corp.</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>ProstaScint Kit for the Preparation of Indium In 111 Capromab Pendetide</name>
+      <ingredients>Capromab pendetide</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>EUSA Pharma Inc.</name>
+      <url>http://www.eusapharma.com</url>
+    </packager>
+  </packagers>
+  <manufacturers/>
+  <prices>
+    <price>
+      <description>Prostascint kit</description>
+      <cost currency="USD">1584.0</cost>
+      <unit>kit</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Antibodies</category>
+      <mesh-id>D000906</mesh-id>
+    </category>
+    <category>
+      <category>Blood Proteins</category>
+      <mesh-id>D001798</mesh-id>
+    </category>
+    <category>
+      <category>Compounds used in a research, industrial, or household setting</category>
+      <mesh-id>D020313</mesh-id>
+    </category>
+    <category>
+      <category>Diagnostic Radiopharmaceuticals</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Globulins</category>
+      <mesh-id>D005916</mesh-id>
+    </category>
+    <category>
+      <category>Immunoglobulins</category>
+      <mesh-id>D007136</mesh-id>
+    </category>
+    <category>
+      <category>Immunoproteins</category>
+      <mesh-id>D007162</mesh-id>
+    </category>
+    <category>
+      <category>Indicators and Reagents</category>
+      <mesh-id>D007202</mesh-id>
+    </category>
+    <category>
+      <category>Indium (111In) Compounds</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Indium Radioisotopes</category>
+      <mesh-id>D007205</mesh-id>
+    </category>
+    <category>
+      <category>Laboratory Chemicals</category>
+      <mesh-id>D019995</mesh-id>
+    </category>
+    <category>
+      <category>Prostatic Neoplasms</category>
+      <mesh-id>D011471</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Serum Globulins</category>
+      <mesh-id>D012712</mesh-id>
+    </category>
+    <category>
+      <category>Tumour Detection</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Kit</form>
+      <route>Intravenous</route>
+      <strength>0.5 mg/1mL</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="V09IB04">
+      <level code="V09IB">Indium (111In) compounds</level>
+      <level code="V09I">TUMOUR DETECTION</level>
+      <level code="V09">DIAGNOSTIC RADIOPHARMACEUTICALS</level>
+      <level code="V">VARIOUS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes/>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00089.pdf?1265922805</fda-label>
+  <patents/>
+  <food-interactions/>
+  <drug-interactions>
+    <drug-interaction>
+      <drugbank-id>DB00269</drugbank-id>
+      <name>Chlorotrianisene</name>
+      <description>Chlorotrianisene may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00286</drugbank-id>
+      <name>Conjugated estrogens</name>
+      <description>Conjugated estrogens may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00655</drugbank-id>
+      <name>Estrone</name>
+      <description>Estrone may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00890</drugbank-id>
+      <name>Dienestrol</name>
+      <description>Dienestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04573</drugbank-id>
+      <name>Estriol</name>
+      <description>Estriol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04575</drugbank-id>
+      <name>Quinestrol</name>
+      <description>Quinestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB07931</drugbank-id>
+      <name>Hexestrol</name>
+      <description>Hexestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09070</drugbank-id>
+      <name>Tibolone</name>
+      <description>Tibolone may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09317</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, A</name>
+      <description>Synthetic Conjugated Estrogens, A may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09318</drugbank-id>
+      <name>Synthetic Conjugated Estrogens, B</name>
+      <description>Synthetic Conjugated Estrogens, B may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09369</drugbank-id>
+      <name>Polyestradiol phosphate</name>
+      <description>Polyestradiol phosphate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09381</drugbank-id>
+      <name>Esterified estrogens</name>
+      <description>Esterified estrogens may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11478</drugbank-id>
+      <name>Zeranol</name>
+      <description>Zeranol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11674</drugbank-id>
+      <name>Equol</name>
+      <description>Equol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12487</drugbank-id>
+      <name>Promestriene</name>
+      <description>Promestriene may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13143</drugbank-id>
+      <name>Methallenestril</name>
+      <description>Methallenestril may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13386</drugbank-id>
+      <name>Epimestrol</name>
+      <description>Epimestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13418</drugbank-id>
+      <name>Moxestrol</name>
+      <description>Moxestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13952</drugbank-id>
+      <name>Estradiol acetate</name>
+      <description>Estradiol acetate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15334</drugbank-id>
+      <name>Biochanin A</name>
+      <description>Biochanin A may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15335</drugbank-id>
+      <name>Formononetin</name>
+      <description>Formononetin may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00255</drugbank-id>
+      <name>Diethylstilbestrol</name>
+      <description>Diethylstilbestrol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00783</drugbank-id>
+      <name>Estradiol</name>
+      <description>Estradiol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00977</drugbank-id>
+      <name>Ethinylestradiol</name>
+      <description>Ethinylestradiol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01357</drugbank-id>
+      <name>Mestranol</name>
+      <description>Mestranol may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04574</drugbank-id>
+      <name>Estrone sulfate</name>
+      <description>Estrone sulfate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13953</drugbank-id>
+      <name>Estradiol benzoate</name>
+      <description>Estradiol benzoate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13954</drugbank-id>
+      <name>Estradiol cypionate</name>
+      <description>Estradiol cypionate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13956</drugbank-id>
+      <name>Estradiol valerate</name>
+      <description>Estradiol valerate may increase the thrombogenic activities of Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00007</drugbank-id>
+      <name>Leuprolide</name>
+      <description>Leuprolide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00014</drugbank-id>
+      <name>Goserelin</name>
+      <description>Goserelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00644</drugbank-id>
+      <name>Gonadorelin</name>
+      <description>Gonadorelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00666</drugbank-id>
+      <name>Nafarelin</name>
+      <description>Nafarelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06719</drugbank-id>
+      <name>Buserelin</name>
+      <description>Buserelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06788</drugbank-id>
+      <name>Histrelin</name>
+      <description>Histrelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06825</drugbank-id>
+      <name>Triptorelin</name>
+      <description>Triptorelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11510</drugbank-id>
+      <name>Deslorelin</name>
+      <description>Deslorelin may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01406</drugbank-id>
+      <name>Danazol</name>
+      <description>Danazol may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11979</drugbank-id>
+      <name>Elagolix</name>
+      <description>Elagolix may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11619</drugbank-id>
+      <name>Gestrinone</name>
+      <description>Gestrinone may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00499</drugbank-id>
+      <name>Flutamide</name>
+      <description>Flutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00665</drugbank-id>
+      <name>Nilutamide</name>
+      <description>Nilutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01128</drugbank-id>
+      <name>Bicalutamide</name>
+      <description>Bicalutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08899</drugbank-id>
+      <name>Enzalutamide</name>
+      <description>Enzalutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11901</drugbank-id>
+      <name>Apalutamide</name>
+      <description>Apalutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12941</drugbank-id>
+      <name>Darolutamide</name>
+      <description>Darolutamide may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04839</drugbank-id>
+      <name>Cyproterone acetate</name>
+      <description>Cyproterone acetate may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13528</drugbank-id>
+      <name>Chlormadinone</name>
+      <description>Chlormadinone may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11853</drugbank-id>
+      <name>Relugolix</name>
+      <description>Relugolix may decrease effectiveness of Capromab pendetide as a diagnostic agent.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00002</drugbank-id>
+      <name>Cetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Cetuximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00028</drugbank-id>
+      <name>Human immunoglobulin G</name>
+      <description>The risk or severity of adverse effects can be increased when Human immunoglobulin G is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00043</drugbank-id>
+      <name>Omalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Omalizumab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00051</drugbank-id>
+      <name>Adalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Adalimumab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00054</drugbank-id>
+      <name>Abciximab</name>
+      <description>The risk or severity of adverse effects can be increased when Abciximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00056</drugbank-id>
+      <name>Gemtuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Gemtuzumab ozogamicin is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00057</drugbank-id>
+      <name>Indium In-111 satumomab pendetide</name>
+      <description>The risk or severity of adverse effects can be increased when Indium In-111 satumomab pendetide is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00065</drugbank-id>
+      <name>Infliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Infliximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00072</drugbank-id>
+      <name>Trastuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Trastuzumab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00073</drugbank-id>
+      <name>Rituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Rituximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00074</drugbank-id>
+      <name>Basiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Basiliximab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00075</drugbank-id>
+      <name>Muromonab</name>
+      <description>The risk or severity of adverse effects can be increased when Muromonab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00076</drugbank-id>
+      <name>Digoxin Immune Fab (Ovine)</name>
+      <description>The risk or severity of adverse effects can be increased when Digoxin Immune Fab (Ovine) is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00078</drugbank-id>
+      <name>Ibritumomab tiuxetan</name>
+      <description>The risk or severity of adverse effects can be increased when Ibritumomab tiuxetan is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00081</drugbank-id>
+      <name>Tositumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Tositumomab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00087</drugbank-id>
+      <name>Alemtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Alemtuzumab is combined with Capromab pendetide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00095</drugbank-id>
+      <name>Efalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Efalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00098</drugbank-id>
+      <name>Antithymocyte immunoglobulin (rabbit)</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Antithymocyte immunoglobulin (rabbit).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00108</drugbank-id>
+      <name>Natalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Natalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00110</drugbank-id>
+      <name>Palivizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Palivizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00111</drugbank-id>
+      <name>Daclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Daclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00112</drugbank-id>
+      <name>Bevacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bevacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB00113</drugbank-id>
+      <name>Technetium Tc-99m arcitumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Technetium Tc-99m arcitumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01257</drugbank-id>
+      <name>Eculizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Eculizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01269</drugbank-id>
+      <name>Panitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Panitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB01270</drugbank-id>
+      <name>Ranibizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ranibizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04901</drugbank-id>
+      <name>Galiximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Galiximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04949</drugbank-id>
+      <name>Pexelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pexelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04956</drugbank-id>
+      <name>Afelimomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Afelimomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04958</drugbank-id>
+      <name>Epratuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Epratuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04962</drugbank-id>
+      <name>Bectumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bectumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04964</drugbank-id>
+      <name>Oregovomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Oregovomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB04988</drugbank-id>
+      <name>IGN311</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with IGN311.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05006</drugbank-id>
+      <name>Adecatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Adecatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05097</drugbank-id>
+      <name>Labetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Labetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05101</drugbank-id>
+      <name>Matuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Matuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05111</drugbank-id>
+      <name>Fontolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fontolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05136</drugbank-id>
+      <name>Bavituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bavituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05139</drugbank-id>
+      <name>CR002</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with CR002.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05209</drugbank-id>
+      <name>Rozrolimupab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Rozrolimupab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05304</drugbank-id>
+      <name>Girentuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Girentuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05336</drugbank-id>
+      <name>Obiltoxaximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Obiltoxaximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05405</drugbank-id>
+      <name>XTL-001</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with XTL-001.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05437</drugbank-id>
+      <name>NAV 1800</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with NAV 1800.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05459</drugbank-id>
+      <name>Briakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Briakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05496</drugbank-id>
+      <name>Otelixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Otelixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05545</drugbank-id>
+      <name>AMG 108</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with AMG 108.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05550</drugbank-id>
+      <name>Iratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Iratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05555</drugbank-id>
+      <name>Enokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Enokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05578</drugbank-id>
+      <name>Ramucirumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ramucirumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05595</drugbank-id>
+      <name>Farletuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Farletuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05656</drugbank-id>
+      <name>Veltuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Veltuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05679</drugbank-id>
+      <name>Ustekinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ustekinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05773</drugbank-id>
+      <name>Trastuzumab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Trastuzumab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05793</drugbank-id>
+      <name>PRO-542</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with PRO-542.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05797</drugbank-id>
+      <name>TNX-901</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with TNX-901.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05889</drugbank-id>
+      <name>Inotuzumab ozogamicin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Inotuzumab ozogamicin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05892</drugbank-id>
+      <name>RI 624</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with RI 624.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05915</drugbank-id>
+      <name>MYO-029</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with MYO-029.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05916</drugbank-id>
+      <name>CT-011</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with CT-011.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05941</drugbank-id>
+      <name>Leronlimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Leronlimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB05996</drugbank-id>
+      <name>Glembatumumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Glembatumumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06043</drugbank-id>
+      <name>Olaratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Olaratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06049</drugbank-id>
+      <name>IPH 2101</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with IPH 2101.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06050</drugbank-id>
+      <name>TB-402</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with TB-402.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06081</drugbank-id>
+      <name>Caplacizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Caplacizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06101</drugbank-id>
+      <name>IMC-1C11</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with IMC-1C11.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06116</drugbank-id>
+      <name>Eldelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Eldelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06162</drugbank-id>
+      <name>Lumiliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lumiliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06168</drugbank-id>
+      <name>Canakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Canakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06186</drugbank-id>
+      <name>Ipilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ipilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06192</drugbank-id>
+      <name>Nimotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Nimotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06241</drugbank-id>
+      <name>Clenoliximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Clenoliximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06273</drugbank-id>
+      <name>Tocilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tocilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06304</drugbank-id>
+      <name>BIIB015</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with BIIB015.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06305</drugbank-id>
+      <name>Sonepcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sonepcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06310</drugbank-id>
+      <name>Motavizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Motavizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06317</drugbank-id>
+      <name>Elotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Elotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06318</drugbank-id>
+      <name>AVE9633</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with AVE9633.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06322</drugbank-id>
+      <name>Carotuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Carotuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06324</drugbank-id>
+      <name>XmAb 2513</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with XmAb 2513.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06342</drugbank-id>
+      <name>Coltuximab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Coltuximab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06343</drugbank-id>
+      <name>Teprotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Teprotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06360</drugbank-id>
+      <name>Lucatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lucatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06366</drugbank-id>
+      <name>Pertuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pertuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06371</drugbank-id>
+      <name>Siplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Siplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06467</drugbank-id>
+      <name>Apolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Apolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06474</drugbank-id>
+      <name>Sibrotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sibrotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06550</drugbank-id>
+      <name>Bivatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bivatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06557</drugbank-id>
+      <name>Lerdelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lerdelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06599</drugbank-id>
+      <name>Lexatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lexatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06602</drugbank-id>
+      <name>Reslizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Reslizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06606</drugbank-id>
+      <name>Teplizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Teplizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06607</drugbank-id>
+      <name>Catumaxomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Catumaxomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06612</drugbank-id>
+      <name>Mepolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Mepolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06643</drugbank-id>
+      <name>Denosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Denosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06647</drugbank-id>
+      <name>Volociximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Volociximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06650</drugbank-id>
+      <name>Ofatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ofatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB06674</drugbank-id>
+      <name>Golimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Golimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08870</drugbank-id>
+      <name>Brentuximab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Brentuximab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08879</drugbank-id>
+      <name>Belimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Belimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08902</drugbank-id>
+      <name>Raxibacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Raxibacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08904</drugbank-id>
+      <name>Certolizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Certolizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB08935</drugbank-id>
+      <name>Obinutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Obinutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09029</drugbank-id>
+      <name>Secukinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Secukinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09033</drugbank-id>
+      <name>Vedolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Vedolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09035</drugbank-id>
+      <name>Nivolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Nivolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09036</drugbank-id>
+      <name>Siltuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Siltuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09037</drugbank-id>
+      <name>Pembrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pembrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09045</drugbank-id>
+      <name>Dulaglutide</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dulaglutide.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09052</drugbank-id>
+      <name>Blinatumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Blinatumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09057</drugbank-id>
+      <name>Anthrax immune globulin human</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Anthrax immune globulin human.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09077</drugbank-id>
+      <name>Dinutuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dinutuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09105</drugbank-id>
+      <name>Asfotase alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Asfotase alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09264</drugbank-id>
+      <name>Idarucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Idarucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09302</drugbank-id>
+      <name>Alirocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Alirocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09303</drugbank-id>
+      <name>Evolocumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Evolocumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09312</drugbank-id>
+      <name>Antilymphocyte immunoglobulin (horse)</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Antilymphocyte immunoglobulin (horse).</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09331</drugbank-id>
+      <name>Daratumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Daratumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB09559</drugbank-id>
+      <name>Necitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Necitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11569</drugbank-id>
+      <name>Ixekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ixekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11580</drugbank-id>
+      <name>Ravulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ravulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11595</drugbank-id>
+      <name>Atezolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Atezolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11604</drugbank-id>
+      <name>Tetanus Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tetanus Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11608</drugbank-id>
+      <name>Eftrenonacog alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Eftrenonacog alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11621</drugbank-id>
+      <name>Human Varicella-Zoster Immune Globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Human Varicella-Zoster Immune Globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11646</drugbank-id>
+      <name>Conatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Conatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11657</drugbank-id>
+      <name>Tabalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tabalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11680</drugbank-id>
+      <name>Ficlatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ficlatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11685</drugbank-id>
+      <name>Figitumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Figitumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11714</drugbank-id>
+      <name>Durvalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Durvalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11715</drugbank-id>
+      <name>Bapineuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bapineuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11731</drugbank-id>
+      <name>Depatuxizumab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Depatuxizumab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11746</drugbank-id>
+      <name>Onartuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Onartuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11756</drugbank-id>
+      <name>Solanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Solanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11767</drugbank-id>
+      <name>Sarilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sarilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11771</drugbank-id>
+      <name>Tremelimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tremelimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11776</drugbank-id>
+      <name>Brodalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Brodalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11803</drugbank-id>
+      <name>Sirukumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sirukumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11826</drugbank-id>
+      <name>Lampalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lampalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11834</drugbank-id>
+      <name>Guselkumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Guselkumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11840</drugbank-id>
+      <name>Dalotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dalotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11849</drugbank-id>
+      <name>Emibetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Emibetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11850</drugbank-id>
+      <name>Ublituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ublituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11856</drugbank-id>
+      <name>Ligelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ligelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11857</drugbank-id>
+      <name>Seribantumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Seribantumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11862</drugbank-id>
+      <name>Landogrozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Landogrozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11866</drugbank-id>
+      <name>Romosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Romosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11884</drugbank-id>
+      <name>Vadastuximab Talirine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Vadastuximab Talirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11914</drugbank-id>
+      <name>Lebrikizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lebrikizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11930</drugbank-id>
+      <name>Varlilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Varlilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11945</drugbank-id>
+      <name>Avelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Avelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11959</drugbank-id>
+      <name>Crenezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Crenezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11972</drugbank-id>
+      <name>Rilotumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Rilotumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11976</drugbank-id>
+      <name>Anifrolumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Anifrolumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB11988</drugbank-id>
+      <name>Ocrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ocrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12023</drugbank-id>
+      <name>Benralizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Benralizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12034</drugbank-id>
+      <name>Gantenerumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Gantenerumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12053</drugbank-id>
+      <name>Visilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Visilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12077</drugbank-id>
+      <name>Urelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Urelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12089</drugbank-id>
+      <name>Lorvotuzumab mertansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lorvotuzumab mertansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12090</drugbank-id>
+      <name>Patritumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Patritumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12102</drugbank-id>
+      <name>Fulranumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fulranumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12104</drugbank-id>
+      <name>Tarextumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tarextumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12118</drugbank-id>
+      <name>Sotatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sotatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12119</drugbank-id>
+      <name>Gevokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Gevokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12142</drugbank-id>
+      <name>Duligotuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Duligotuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12152</drugbank-id>
+      <name>Simtuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Simtuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12157</drugbank-id>
+      <name>Fasinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fasinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12159</drugbank-id>
+      <name>Dupilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dupilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12169</drugbank-id>
+      <name>Tralokinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tralokinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12189</drugbank-id>
+      <name>Etrolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Etrolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12202</drugbank-id>
+      <name>Zalutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Zalutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12205</drugbank-id>
+      <name>Ganitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ganitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12213</drugbank-id>
+      <name>Etaracizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Etaracizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12240</drugbank-id>
+      <name>Polatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Polatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12246</drugbank-id>
+      <name>Inclacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Inclacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12250</drugbank-id>
+      <name>Cixutumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Cixutumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12261</drugbank-id>
+      <name>Ascrinvacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ascrinvacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12274</drugbank-id>
+      <name>Aducanumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Aducanumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12281</drugbank-id>
+      <name>Luspatercept</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Luspatercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12296</drugbank-id>
+      <name>GS-5745</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with GS-5745.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12317</drugbank-id>
+      <name>Vanucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Vanucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12331</drugbank-id>
+      <name>Labetuzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Labetuzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12335</drugbank-id>
+      <name>Tanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12342</drugbank-id>
+      <name>Ensituximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ensituximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12344</drugbank-id>
+      <name>Fezakinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fezakinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12363</drugbank-id>
+      <name>Dusigitumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dusigitumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12396</drugbank-id>
+      <name>Fresolimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fresolimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12413</drugbank-id>
+      <name>Indusatumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Indusatumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12456</drugbank-id>
+      <name>Bococizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bococizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12489</drugbank-id>
+      <name>Mirvetuximab Soravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Mirvetuximab Soravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12498</drugbank-id>
+      <name>Mogamulizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Mogamulizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12520</drugbank-id>
+      <name>Plozalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Plozalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12530</drugbank-id>
+      <name>Inebilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Inebilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12534</drugbank-id>
+      <name>Mavrilimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Mavrilimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12560</drugbank-id>
+      <name>Blosozumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Blosozumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12584</drugbank-id>
+      <name>Bimagrumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bimagrumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12589</drugbank-id>
+      <name>Dacetuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dacetuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12609</drugbank-id>
+      <name>Tovetumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tovetumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12683</drugbank-id>
+      <name>Lumretuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lumretuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12698</drugbank-id>
+      <name>Ibalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ibalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12701</drugbank-id>
+      <name>Intetumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Intetumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12718</drugbank-id>
+      <name>Carlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Carlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12734</drugbank-id>
+      <name>Demcizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Demcizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12773</drugbank-id>
+      <name>Sifalimumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sifalimumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12775</drugbank-id>
+      <name>Abituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Abituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12797</drugbank-id>
+      <name>Ecromeximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ecromeximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12807</drugbank-id>
+      <name>Naptumomab Estafenatox</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Naptumomab Estafenatox.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12815</drugbank-id>
+      <name>Crotedumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Crotedumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12820</drugbank-id>
+      <name>Concizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Concizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12826</drugbank-id>
+      <name>Depatuxizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Depatuxizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12844</drugbank-id>
+      <name>Rontalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Rontalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12845</drugbank-id>
+      <name>Amatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Amatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12849</drugbank-id>
+      <name>Clazakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Clazakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12891</drugbank-id>
+      <name>Ozanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ozanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12893</drugbank-id>
+      <name>Sacituzumab govitecan</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sacituzumab govitecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12917</drugbank-id>
+      <name>Bimekizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bimekizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12943</drugbank-id>
+      <name>Milatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Milatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB12976</drugbank-id>
+      <name>Robatumumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Robatumumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13017</drugbank-id>
+      <name>Rovalpituzumab Tesirine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Rovalpituzumab Tesirine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13037</drugbank-id>
+      <name>Namilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Namilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13045</drugbank-id>
+      <name>Racotumomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Racotumomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13073</drugbank-id>
+      <name>Tregalizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tregalizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13127</drugbank-id>
+      <name>Olokizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Olokizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13140</drugbank-id>
+      <name>Bezlotoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bezlotoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13375</drugbank-id>
+      <name>Edrecolomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Edrecolomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13535</drugbank-id>
+      <name>Nebacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Nebacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13886</drugbank-id>
+      <name>Human cytomegalovirus immune globulin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Human cytomegalovirus immune globulin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13923</drugbank-id>
+      <name>Emicizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Emicizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13976</drugbank-id>
+      <name>Sulesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sulesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB13979</drugbank-id>
+      <name>Besilesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Besilesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14004</drugbank-id>
+      <name>Tildrakizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tildrakizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14012</drugbank-id>
+      <name>Burosumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Burosumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14039</drugbank-id>
+      <name>Erenumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Erenumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14040</drugbank-id>
+      <name>Eptinezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Eptinezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14041</drugbank-id>
+      <name>Fremanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fremanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14042</drugbank-id>
+      <name>Galcanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Galcanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14211</drugbank-id>
+      <name>Fanolesomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Fanolesomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14580</drugbank-id>
+      <name>Lecanemab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lecanemab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14597</drugbank-id>
+      <name>Lanadelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lanadelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14707</drugbank-id>
+      <name>Cemiplimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Cemiplimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14724</drugbank-id>
+      <name>Emapalumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Emapalumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14762</drugbank-id>
+      <name>Risankizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Risankizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14776</drugbank-id>
+      <name>Camrelizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Camrelizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14778</drugbank-id>
+      <name>Setrusumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Setrusumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14784</drugbank-id>
+      <name>Gancotamab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Gancotamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14809</drugbank-id>
+      <name>Anetumab ravtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Anetumab ravtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14811</drugbank-id>
+      <name>Isatuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Isatuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14824</drugbank-id>
+      <name>Icrucumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Icrucumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14843</drugbank-id>
+      <name>Codrituzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Codrituzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14864</drugbank-id>
+      <name>Brolucizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Brolucizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14871</drugbank-id>
+      <name>Xentuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Xentuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14877</drugbank-id>
+      <name>Lintuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lintuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14891</drugbank-id>
+      <name>Vobarilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Vobarilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14897</drugbank-id>
+      <name>Parsatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Parsatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14905</drugbank-id>
+      <name>Emactuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Emactuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14907</drugbank-id>
+      <name>Bevacizumab zirconium Zr-89</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bevacizumab zirconium Zr-89.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14908</drugbank-id>
+      <name>Refanezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Refanezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14919</drugbank-id>
+      <name>Rozanolixizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Rozanolixizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14947</drugbank-id>
+      <name>Bermekimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bermekimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14952</drugbank-id>
+      <name>Pamrevlumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pamrevlumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14959</drugbank-id>
+      <name>Opicinumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Opicinumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14962</drugbank-id>
+      <name>Trastuzumab deruxtecan</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Trastuzumab deruxtecan.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14967</drugbank-id>
+      <name>Margetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Margetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14988</drugbank-id>
+      <name>Dalantercept</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Dalantercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB14997</drugbank-id>
+      <name>Pateclizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pateclizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15014</drugbank-id>
+      <name>Gremubamab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Gremubamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15022</drugbank-id>
+      <name>Apomab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Apomab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15044</drugbank-id>
+      <name>Tafasitamab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tafasitamab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15045</drugbank-id>
+      <name>Ipafricept</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ipafricept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15076</drugbank-id>
+      <name>Abrilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Abrilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15089</drugbank-id>
+      <name>Frovocimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Frovocimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15090</drugbank-id>
+      <name>Tezepelumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tezepelumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15101</drugbank-id>
+      <name>Tigatuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tigatuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15104</drugbank-id>
+      <name>Telisotuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Telisotuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15113</drugbank-id>
+      <name>Utomilumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Utomilumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15118</drugbank-id>
+      <name>Zolbetuximab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Zolbetuximab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15135</drugbank-id>
+      <name>Ponezumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ponezumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15160</drugbank-id>
+      <name>Asunercept</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Asunercept.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15172</drugbank-id>
+      <name>Suvratoxumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Suvratoxumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15225</drugbank-id>
+      <name>Mitazalimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Mitazalimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15252</drugbank-id>
+      <name>Nemolizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Nemolizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15253</drugbank-id>
+      <name>Bleselumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Bleselumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15277</drugbank-id>
+      <name>Gedivumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Gedivumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15336</drugbank-id>
+      <name>Valanafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Valanafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15349</drugbank-id>
+      <name>Sofituzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Sofituzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15354</drugbank-id>
+      <name>Evinacumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Evinacumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15363</drugbank-id>
+      <name>Istiratumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Istiratumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15383</drugbank-id>
+      <name>Pidilizumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pidilizumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15397</drugbank-id>
+      <name>GMA-161</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with GMA-161.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15409</drugbank-id>
+      <name>Ladiratuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Ladiratuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15415</drugbank-id>
+      <name>Tomaralimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Tomaralimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15428</drugbank-id>
+      <name>Vesencumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Vesencumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15432</drugbank-id>
+      <name>Pinatuzumab vedotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Pinatuzumab vedotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15441</drugbank-id>
+      <name>Lulizumab pegol</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lulizumab pegol.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15443</drugbank-id>
+      <name>Lorukafusp alfa</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Lorukafusp alfa.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15453</drugbank-id>
+      <name>Naratuximab emtansine</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Naratuximab emtansine.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15559</drugbank-id>
+      <name>Zenocutuzumab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Zenocutuzumab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15898</drugbank-id>
+      <name>Atoltivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Atoltivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15899</drugbank-id>
+      <name>Maftivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Maftivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15900</drugbank-id>
+      <name>Odesivimab</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Odesivimab.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15719</drugbank-id>
+      <name>Belantamab mafodotin</name>
+      <description>The risk or severity of adverse effects can be increased when Capromab pendetide is combined with Belantamab mafodotin.</description>
+    </drug-interaction>
+    <drug-interaction>
+      <drugbank-id>DB15595</drugbank-id>
+      <name>Ebola Zaire vaccine (live, attenuated)</name>
+      <description>The therapeutic efficacy of Ebola Zaire vaccine (live, attenuated) can be decreased when used in combination with Capromab pendetide.</description>
+    </drug-interaction>
+  </drug-interactions>
+  <sequences/>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>61 °C (FAB fragment), 71 °C (whole mAb)</value>
+      <source>Vermeer, A.W.P. &amp; Norde, W., Biophys. J. 78:394-404 (2000)</source>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>20500</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46506263</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164745489</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP001049</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Indium_(111In)_capromab_pendetide</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL2108285</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>136300</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links/>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000568</id>
+      <name>Glutamate carboxypeptidase 2</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>other/unknown</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A2089</ref-id>
+            <pubmed-id>11016653</pubmed-id>
+            <citation>Smith-Jones PM, Vallabahajosula S, Goldsmith SJ, Navarro V, Hunter CJ, Bastidas D, Bander NH: In vitro characterization of radiolabeled monoclonal antibodies specific for the extracellular domain of prostate-specific membrane antigen. Cancer Res. 2000 Sep 15;60(18):5237-43.</citation>
+          </article>
+          <article>
+            <ref-id>A2090</ref-id>
+            <pubmed-id>15882479</pubmed-id>
+            <citation>Sodee DB, Nelson AD, Faulhaber PF, Maclennan GT, Resnick MI, Bakale G: Update on fused capromab pendetide imaging of prostate cancer. Clin Prostate Cancer. 2005 Mar;3(4):230-8.</citation>
+          </article>
+          <article>
+            <ref-id>A2092</ref-id>
+            <pubmed-id>9508077</pubmed-id>
+            <citation>Gregorakis AK, Holmes EH, Murphy GP: Prostate-specific membrane antigen: current and future utility. Semin Urol Oncol. 1998 Feb;16(1):2-12.</citation>
+          </article>
+          <article>
+            <ref-id>A2093</ref-id>
+            <pubmed-id>9792131</pubmed-id>
+            <citation>Sodee DB, Ellis RJ, Samuels MA, Spirnak JP, Poole WF, Riester C, Martanovic DM, Stonecipher R, Bellon EM: Prostate cancer and prostate bed SPECT imaging with ProstaScint: semiquantitative correlation with prostatic biopsy results. Prostate. 1998 Nov 1;37(3):140-8.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="Q04609" source="Swiss-Prot">
+        <name>Glutamate carboxypeptidase 2</name>
+        <general-function>Tetrahydrofolyl-poly(glutamate) polymer binding</general-function>
+        <specific-function>Has both folate hydrolase and N-acetylated-alpha-linked-acidic dipeptidase (NAALADase) activity. Has a preference for tri-alpha-glutamate peptides. In the intestine, required for the uptake of folate. In the brain, modulates excitatory neurotransmission through the hydrolysis of the neuropeptide, N-aceylaspartylglutamate (NAAG), thereby releasing glutamate. Isoform PSM-4 and isoform PSM-5 would appear to be physiologically irrelevant. Involved in prostate tumor progression.Also exhibits a dipeptidyl-peptidase IV type activity. In vitro, cleaves Gly-Pro-AMC.</specific-function>
+        <gene-name>FOLH1</gene-name>
+        <locus>11p11.2</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>20-43</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>6.97</theoretical-pi>
+        <molecular-weight>84330.015</molecular-weight>
+        <chromosome-location>11</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:3788</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>FOLH1</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M99487</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>190664</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>1606</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>Q04609</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>FOLH1_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>3.4.17.21</synonym>
+          <synonym>Cell growth-inhibiting gene 27 protein</synonym>
+          <synonym>FGCP</synonym>
+          <synonym>Folate hydrolase 1</synonym>
+          <synonym>FOLH</synonym>
+          <synonym>Folylpoly-gamma-glutamate carboxypeptidase</synonym>
+          <synonym>GCPII</synonym>
+          <synonym>Glutamate carboxypeptidase II</synonym>
+          <synonym>Membrane glutamate carboxypeptidase</synonym>
+          <synonym>mGCP</synonym>
+          <synonym>N-acetylated-alpha-linked acidic dipeptidase I</synonym>
+          <synonym>NAALAD1</synonym>
+          <synonym>NAALADase I</synonym>
+          <synonym>Prostate-specific membrane antigen</synonym>
+          <synonym>PSM</synonym>
+          <synonym>PSMA</synonym>
+          <synonym>Pteroylpoly-gamma-glutamate carboxypeptidase</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0001134|Glutamate carboxypeptidase 2
+MWNLLHETDSAVATARRPRWLCAGALVLAGGFFLLGFLFGWFIKSSNEATNITPKHNMKA
+FLDELKAENIKKFLYNFTQIPHLAGTEQNFQLAKQIQSQWKEFGLDSVELAHYDVLLSYP
+NKTHPNYISIINEDGNEIFNTSLFEPPPPGYENVSDIVPPFSAFSPQGMPEGDLVYVNYA
+RTEDFFKLERDMKINCSGKIVIARYGKVFRGNKVKNAQLAGAKGVILYSDPADYFAPGVK
+SYPDGWNLPGGGVQRGNILNLNGAGDPLTPGYPANEYAYRRGIAEAVGLPSIPVHPIGYY
+DAQKLLEKMGGSAPPDSSWRGSLKVPYNVGPGFTGNFSTQKVKMHIHSTNEVTRIYNVIG
+TLRGAVEPDRYVILGGHRDSWVFGGIDPQSGAAVVHEIVRSFGTLKKEGWRPRRTILFAS
+WDAEEFGLLGSTEWAEENSRLLQERGVAYINADSSIEGNYTLRVDCTPLMYSLVHNLTKE
+LKSPDEGFEGKSLYESWTKKSPSPEFSGMPRISKLGSGNDFEVFFQRLGIASGRARYTKN
+WETNKFSGYPLYHSVYETYELVEKFYDPMFKYHLTVAQVRGGMVFELANSIVLPFDCRDY
+AVVLRKYADKIYSISMKHPQEMKTYSVSFDSLFSAVKNFTEIASKFSERLQDFDKSNPIV
+LRMMNDQLMFLERAFIDPLGLPDRPFYRHVIYAPSSHNKYAGESFPGIYDALFDIESKVD
+PSKAWGEVKRQIYVAAFTVQAAAETLSEVA</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0016135|Glutamate carboxypeptidase 2 (FOLH1)
+ATGTGGAATCTCCTTCACGAAACCGACTCGGCTGTGGCCACCGCGCGCCGCCCGCGCTGG
+CTGTGCGCTGGGGCGCTGGTGCTGGCGGGTGGCTTCTTTCTCCTCGGCTTCCTCTTCGGG
+TGGTTTATAAAATCCTCCAATGAAGCTACTAACATTACTCCAAAGCATAATATGAAAGCA
+TTTTTGGATGAATTGAAAGCTGAGAACATCAAGAAGTTCTTATATAATTTTACACAGATA
+CCACATTTAGCAGGAACAGAACAAAACTTTCAGCTTGCAAAGCAAATTCAATCCCAGTGG
+AAAGAATTTGGCCTGGATTCTGTTGAGCTAGCACATTATGATGTCCTGTTGTCCTACCCA
+AATAAGACTCATCCCAACTACATCTCAATAATTAATGAAGATGGAAATGAGATTTTCAAC
+ACATCATTATTTGAACCACCTCCTCCAGGATATGAAAATGTTTCGGATATTGTACCACCT
+TTCAGTGCTTTCTCTCCTCAAGGAATGCCAGAGGGCGATCTAGTGTATGTTAACTATGCA
+CGAACTGAAGACTTCTTTAAATTGGAACGGGACATGAAAATCAATTGCTCTGGGAAAATT
+GTAATTGCCAGATATGGGAAAGTTTTCAGAGGAAATAAGGTTAAAAATGCCCAGCTGGCA
+GGGGCCAAAGGAGTCATTCTCTACTCCGACCCTGCTGACTACTTTGCTCCTGGGGTGAAG
+TCCTATCCAGATGGTTGGAATCTTCCTGGAGGTGGTGTCCAGCGTGGAAATATCCTAAAT
+CTGAATGGTGCAGGAGACCCTCTCACACCAGGTTACCCAGCAAATGAATATGCTTATAGG
+CGTGGAATTGCAGAGGCTGTTGGTCTTCCAAGTATTCCTGTTCATCCAATTGGATACTAT
+GATGCACAGAAGCTCCTAGAAAAAATGGGTGGCTCAGCACCACCAGATAGCAGCTGGAGA
+GGAAGTCTCAAAGTGCCCTACAATGTTGGACCTGGCTTTACTGGAAACTTTTCTACACAA
+AAAGTCAAGATGCACATCCACTCTACCAATGAAGTGACAAGAATTTACAATGTGATAGGT
+ACTCTCAGAGGAGCAGTGGAACCAGACAGATATGTCATTCTGGGAGGTCACCGGGACTCA
+TGGGTGTTTGGTGGTATTGACCCTCAGAGTGGAGCAGCTGTTGTTCATGAAATTGTGAGG
+AGCTTTGGAACACTGAAAAAGGAAGGGTGGAGACCTAGAAGAACAATTTTGTTTGCAAGC
+TGGGATGCAGAAGAATTTGGTCTTCTTGGTTCTACTGAGTGGGCAGAGGAGAATTCAAGA
+CTCCTTCAAGAGCGTGGCGTGGCTTATATTAATGCTGACTCATCTATAGAAGGAAACTAC
+ACTCTGAGAGTTGATTGTACACCGCTGATGTACAGCTTGGTACACAACCTAACAAAAGAG
+CTGAAAAGCCCTGATGAAGGCTTTGAAGGCAAATCTCTTTATGAAAGTTGGACTAAAAAA
+AGTCCTTCCCCAGAGTTCAGTGGCATGCCCAGGATAAGCAAATTGGGATCTGGAAATGAT
+TTTGAGGTGTTCTTCCAACGACTTGGAATTGCTTCAGGCAGAGCACGGTATACTAAAAAT
+TGGGAAACAAACAAATTCAGCGGCTATCCACTGTATCACAGTGTCTATGAAACATATGAG
+TTGGTGGAAAAGTTTTATGATCCAATGTTTAAATATCACCTCACTGTGGCCCAGGTTCGA
+GGAGGGATGGTGTTTGAGCTAGCCAATTCCATAGTGCTCCCTTTTGATTGTCGAGATTAT
+GCTGTAGTTTTAAGAAAGTATGCTGACAAAATCTACAGTATTTCTATGAAACATCCACAG
+GAAATGAAGACATACAGTGTATCATTTGATTCACTTTTTTCTGCAGTAAAGAATTTTACA
+GAAATTGCTTCCAAGTTCAGTGAGAGACTCCAGGACTTTGACAAAAGCAAGCATGTCATC
+TATGCTCCAAGCAGCCACAACAAGTATGCAGGGGAGTCATTCCCAGGAATTTATGATGCT
+CTGTTTGATATTGAAAGCAAAGTGGACCCTTCCAAGGCCTGGGGAGAAGTGAAGAGACAG
+ATTTATGTTGCAGCCTTCACAGTGCAGGCAGCTGCAGAGACTTTGAGTGAAGTAGCCTAA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF02225</identifier>
+            <name>PA</name>
+          </pfam>
+          <pfam>
+            <identifier>PF04389</identifier>
+            <name>Peptidase_M28</name>
+          </pfam>
+          <pfam>
+            <identifier>PF04253</identifier>
+            <name>TFR_dimer</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>cell surface</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>cytoplasm</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>extracellular exosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>Ac-Asp-Glu binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>dipeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metal ion binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>metallocarboxypeptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptidase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>tetrahydrofolyl-poly(glutamate) polymer binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>C-terminal protein deglutamylation</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular amino acid biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular nitrogen compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>folic acid-containing compound metabolic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>proteolysis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>small molecule metabolic process</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

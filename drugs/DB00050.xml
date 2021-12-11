@@ -1,0 +1,1128 @@
+<drug type="small molecule" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00050</drugbank-id>
+  <drugbank-id>BTD00115</drugbank-id>
+  <drugbank-id>APRD00686</drugbank-id>
+  <drugbank-id>BIOD00115</drugbank-id>
+  <name>Cetrorelix</name>
+  <description>Cetrorelix is a man-made hormone that blocks the effects of Gonadotropin Releasing Hormone (GnRH). GnRH controls another hormone that is called luteinizing hormone (LH), which is the hormone that starts ovulation during the menstrual cycle. When undergoing hormone treatment sometimes premature ovulation can occur, leading to eggs that are not ready for fertilization to be released. Cetrorelix does not allow the premature release of these eggs to occur.</description>
+  <cas-number>120287-85-6</cas-number>
+  <unii>OON1HFZ4BA</unii>
+  <average-mass>1431.038</average-mass>
+  <monoisotopic-mass>1429.669818444</monoisotopic-mass>
+  <state>solid</state>
+  <groups>
+    <group>approved</group>
+    <group>investigational</group>
+  </groups>
+  <general-references>
+    <articles/>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>For the inhibition of premature LH surges in women undergoing controlled ovarian stimulation</indication>
+  <pharmacodynamics>Cetrorelix is a synthetic decapeptide with gonadotropin-releasing hormone (GnRH) antagonistic activity. GnRH induces the production and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH) from the gonadotrophic cells of the anterior pituitary. Due to a positive estradiol (E2) feedback at midcycle, GnRH liberation is enhanced resulting in an LH-surge. This LH-surge induces the ovulation of the dominant follicle, resumption of oocyte meiosis and subsequently luteinization as indicated by rising progesterone levels. Cetrorelix competes with natural GnRH for binding to membrane receptors on pituitary cells and thus controls the release of LH and FSH in a dose-dependent manner.</pharmacodynamics>
+  <mechanism-of-action>Cetrorelix binds to the gonadotropin releasing hormone receptor and acts as a potent inhibitor of gonadotropin secretion. It competes with natural GnRH for binding to membrane receptors on pituitary cells and thus controls the release of LH and FSH in a dose-dependent manner.</mechanism-of-action>
+  <toxicity/>
+  <metabolism>In in vitro studies, cetrorelix was stable against phase I- and phase II-metabolism. Cetrorelix was transformed by peptidases, and the (1-4) peptide was the predominant metabolite.</metabolism>
+  <absorption>Rapidly absorbed following subcutaneous injection. The mean absolute bioavailability following subcutaneous administration to healthy female subjects is 85%.</absorption>
+  <half-life>~62.8 hours</half-life>
+  <protein-binding>86%</protein-binding>
+  <route-of-elimination>Following subcutaneous administration of 10 mg cetrorelix to males and females, only unchanged cetrorelix was detected in urine.</route-of-elimination>
+  <volume-of-distribution>* 1.16 L/kg</volume-of-distribution>
+  <clearance>* 1.28 ml/min·kg [adult healthy female with 3 mg single SC administration]</clearance>
+  <classification>
+    <description>This compound belongs to the class of organic compounds known as polypeptides. These are peptides containing ten or more amino acid residues.</description>
+    <direct-parent>Polypeptides</direct-parent>
+    <kingdom>Organic compounds</kingdom>
+    <superclass>Organic Polymers</superclass>
+    <class>Polypeptides</class>
+    <subclass/>
+    <alternative-parent>1-hydroxy-2-unsubstituted benzenoids</alternative-parent>
+    <alternative-parent>Acetamides</alternative-parent>
+    <alternative-parent>Alanine and derivatives</alternative-parent>
+    <alternative-parent>Alpha amino acid amides</alternative-parent>
+    <alternative-parent>Amphetamines and derivatives</alternative-parent>
+    <alternative-parent>Aryl chlorides</alternative-parent>
+    <alternative-parent>Azacyclic compounds</alternative-parent>
+    <alternative-parent>Carbonyl compounds</alternative-parent>
+    <alternative-parent>Carboximidamides</alternative-parent>
+    <alternative-parent>Chlorobenzenes</alternative-parent>
+    <alternative-parent>Guanidines</alternative-parent>
+    <alternative-parent>Heteroaromatic compounds</alternative-parent>
+    <alternative-parent>Hydrocarbon derivatives</alternative-parent>
+    <alternative-parent>Imines</alternative-parent>
+    <alternative-parent>Leucine and derivatives</alternative-parent>
+    <alternative-parent>N-acyl amines</alternative-parent>
+    <alternative-parent>N-acyl-alpha amino acids and derivatives</alternative-parent>
+    <alternative-parent>N-acylpyrrolidines</alternative-parent>
+    <alternative-parent>Naphthalenes</alternative-parent>
+    <alternative-parent>Organic oxides</alternative-parent>
+    <alternative-parent>Organochlorides</alternative-parent>
+    <alternative-parent>Organopnictogen compounds</alternative-parent>
+    <alternative-parent>Peptides</alternative-parent>
+    <alternative-parent>Phenylalanine and derivatives</alternative-parent>
+    <alternative-parent>Primary alcohols</alternative-parent>
+    <alternative-parent>Primary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Proline and derivatives</alternative-parent>
+    <alternative-parent>Pyridines and derivatives</alternative-parent>
+    <alternative-parent>Pyrrolidinecarboxamides</alternative-parent>
+    <alternative-parent>Secondary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Serine and derivatives</alternative-parent>
+    <alternative-parent>Tertiary carboxylic acid amides</alternative-parent>
+    <alternative-parent>Tyrosine and derivatives</alternative-parent>
+    <alternative-parent>Ureas</alternative-parent>
+    <substituent>1-hydroxy-2-unsubstituted benzenoid</substituent>
+    <substituent>Acetamide</substituent>
+    <substituent>Alanine or derivatives</substituent>
+    <substituent>Alcohol</substituent>
+    <substituent>Alpha peptide</substituent>
+    <substituent>Alpha-amino acid amide</substituent>
+    <substituent>Alpha-amino acid or derivatives</substituent>
+    <substituent>Amphetamine or derivatives</substituent>
+    <substituent>Aromatic heteropolycyclic compound</substituent>
+    <substituent>Aryl chloride</substituent>
+    <substituent>Aryl halide</substituent>
+    <substituent>Azacycle</substituent>
+    <substituent>Benzenoid</substituent>
+    <substituent>Carbonic acid derivative</substituent>
+    <substituent>Carbonyl group</substituent>
+    <substituent>Carboxamide group</substituent>
+    <substituent>Carboximidamide</substituent>
+    <substituent>Carboxylic acid derivative</substituent>
+    <substituent>Chlorobenzene</substituent>
+    <substituent>Fatty acyl</substituent>
+    <substituent>Fatty amide</substituent>
+    <substituent>Guanidine</substituent>
+    <substituent>Halobenzene</substituent>
+    <substituent>Heteroaromatic compound</substituent>
+    <substituent>Hydrocarbon derivative</substituent>
+    <substituent>Imine</substituent>
+    <substituent>Leucine or derivatives</substituent>
+    <substituent>Monocyclic benzene moiety</substituent>
+    <substituent>N-acyl-alpha amino acid or derivatives</substituent>
+    <substituent>N-acyl-amine</substituent>
+    <substituent>N-acylpyrrolidine</substituent>
+    <substituent>N-substituted-alpha-amino acid</substituent>
+    <substituent>Naphthalene</substituent>
+    <substituent>Organic nitrogen compound</substituent>
+    <substituent>Organic oxide</substituent>
+    <substituent>Organic oxygen compound</substituent>
+    <substituent>Organochloride</substituent>
+    <substituent>Organohalogen compound</substituent>
+    <substituent>Organoheterocyclic compound</substituent>
+    <substituent>Organonitrogen compound</substituent>
+    <substituent>Organooxygen compound</substituent>
+    <substituent>Organopnictogen compound</substituent>
+    <substituent>Phenol</substituent>
+    <substituent>Phenylalanine or derivatives</substituent>
+    <substituent>Polypeptide</substituent>
+    <substituent>Primary alcohol</substituent>
+    <substituent>Primary carboxylic acid amide</substituent>
+    <substituent>Proline or derivatives</substituent>
+    <substituent>Pyridine</substituent>
+    <substituent>Pyrrolidine</substituent>
+    <substituent>Pyrrolidine carboxylic acid or derivatives</substituent>
+    <substituent>Pyrrolidine-2-carboxamide</substituent>
+    <substituent>Secondary carboxylic acid amide</substituent>
+    <substituent>Serine or derivatives</substituent>
+    <substituent>Tertiary carboxylic acid amide</substituent>
+    <substituent>Tyrosine or derivatives</substituent>
+    <substituent>Urea</substituent>
+  </classification>
+  <salts>
+    <salt>
+      <drugbank-id primary="true">DBSALT000021</drugbank-id>
+      <name>Cetrorelix acetate</name>
+      <unii>W9Y8L7GP4C</unii>
+      <cas-number>130143-01-0</cas-number>
+      <inchikey>DTPVYWHLQLAXFT-SMCUOGPFSA-N</inchikey>
+      <average-mass>1551.17</average-mass>
+      <monoisotopic-mass>1549.7120771</monoisotopic-mass>
+    </salt>
+  </salts>
+  <synonyms>
+    <synonym language="english" coder="inn/ban">Cetrorelix</synonym>
+    <synonym language="latin" coder="inn">Cetrorelixum</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000233</ema-product-code>
+      <ema-ma-number>EU/1/99/100/001</ema-ma-number>
+      <started-marketing-on>1999-04-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>0.25 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>Merck Serono Europe Limited</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id/>
+      <ema-product-code>EMEA/H/C/000233</ema-product-code>
+      <ema-ma-number>EU/1/99/100/002</ema-ma-number>
+      <started-marketing-on>1999-04-13</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Injection, powder, for solution</dosage-form>
+      <strength>0.25 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>EU</country>
+      <source>EMA</source>
+    </product>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-1203</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2008-04-24</started-marketing-on>
+      <ended-marketing-on>2008-04-24</ended-marketing-on>
+      <dosage-form>Kit</dosage-form>
+      <strength>3 mg/3mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>EMD Serono, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>44087-1225</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2000-08-11</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Kit</dosage-form>
+      <strength>0.25 mg/1mL</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number>NDA021197</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247766</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-03-03</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>0.25 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+    <product>
+      <name>Cetrotide</name>
+      <labeller>Emd Serono, A Division Of Emd Inc., Canada</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02247767</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>2004-02-25</started-marketing-on>
+      <ended-marketing-on>2014-10-20</ended-marketing-on>
+      <dosage-form>Powder, for solution</dosage-form>
+      <strength>3 mg</strength>
+      <route>Subcutaneous</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands/>
+  <mixtures>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+    <mixture>
+      <name>Cetrotide</name>
+      <ingredients>Cetrorelix</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Baxter International Inc.</name>
+      <url>http://www.baxter.com</url>
+    </packager>
+    <packager>
+      <name>EMD Canada Inc.</name>
+      <url>http://www.emdcanada.com</url>
+    </packager>
+    <packager>
+      <name>Solvay Pharmaceuticals</name>
+      <url>http://global.abbottgrowth.com</url>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Emd serono inc</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Cetrotide 0.25 mg kit</description>
+      <cost currency="USD">137.99</cost>
+      <unit>kit</unit>
+    </price>
+    <price>
+      <description>Cetrotide 3 mg kit</description>
+      <cost currency="USD">689.92</cost>
+      <unit>kit</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Anti-Gonadotropin-Releasing Hormones</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased GnRH Secretion</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Fertility Agents</category>
+      <mesh-id>D005299</mesh-id>
+    </category>
+    <category>
+      <category>Fertility Agents, Female</category>
+      <mesh-id>D005300</mesh-id>
+    </category>
+    <category>
+      <category>Gonadotropin Releasing Hormone Receptor Antagonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Gonadotropin-releasing Hormone Antagonists</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Hormone Antagonists</category>
+      <mesh-id>D006727</mesh-id>
+    </category>
+    <category>
+      <category>Hormones</category>
+      <mesh-id>D006728</mesh-id>
+    </category>
+    <category>
+      <category>Hormones, Hormone Substitutes, and Hormone Antagonists</category>
+      <mesh-id>D006730</mesh-id>
+    </category>
+    <category>
+      <category>Hypothalamic Hormones</category>
+      <mesh-id>D007028</mesh-id>
+    </category>
+    <category>
+      <category>Nerve Tissue Proteins</category>
+      <mesh-id>D009419</mesh-id>
+    </category>
+    <category>
+      <category>Neuropeptides</category>
+      <mesh-id>D009479</mesh-id>
+    </category>
+    <category>
+      <category>Oligopeptides</category>
+      <mesh-id>D009842</mesh-id>
+    </category>
+    <category>
+      <category>Peptide Hormones</category>
+      <mesh-id>D036361</mesh-id>
+    </category>
+    <category>
+      <category>Peptides</category>
+      <mesh-id>D010455</mesh-id>
+    </category>
+    <category>
+      <category>Pituitary and Hypothalamic Hormones and Analogues</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Pituitary Hormone-Releasing Hormones</category>
+      <mesh-id>D010906</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Reproductive Control Agents</category>
+      <mesh-id>D012102</mesh-id>
+    </category>
+    <category>
+      <category>Systemic Hormonal Preparations, Excl. Sex Hormones and Insulins</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.25 mg/ml</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.25 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>250 mcg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength>0.25 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Kit</form>
+      <route>Subcutaneous</route>
+      <strength>3 mg/3mL</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.25 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Powder, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>3 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>0.25 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Injection</form>
+      <route/>
+      <strength>0.25 MG</strength>
+    </dosage>
+    <dosage>
+      <form>Injection, powder, lyophilized, for solution</form>
+      <route>Subcutaneous</route>
+      <strength>3 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="H01CC02">
+      <level code="H01CC">Anti-gonadotropin-releasing hormones</level>
+      <level code="H01C">HYPOTHALAMIC HORMONES</level>
+      <level code="H01">PITUITARY AND HYPOTHALAMIC HORMONES AND ANALOGUES</level>
+      <level code="H">SYSTEMIC HORMONAL PREPARATIONS, EXCL. SEX HORMONES AND INSULINS</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>92:40.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00050.pdf?1265922814</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00050.pdf?1335155400</msds>
+  <patents>
+    <patent>
+      <number>5198533</number>
+      <country>United States</country>
+      <approved>1993-03-30</approved>
+      <expires>2010-10-24</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>2115943</number>
+      <country>Canada</country>
+      <approved>2003-08-05</approved>
+      <expires>2014-02-18</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>6319192</number>
+      <country>United States</country>
+      <approved>2001-11-20</approved>
+      <expires>2019-04-23</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <calculated-properties>
+    <property>
+      <kind>logP</kind>
+      <value>1.33</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logS</kind>
+      <value>-5.3</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>Water Solubility</kind>
+      <value>6.94e-03 g/l</value>
+      <source>ALOGPS</source>
+    </property>
+    <property>
+      <kind>logP</kind>
+      <value>-1.7</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>IUPAC Name</kind>
+      <value>(2S)-N-[(2S)-5-carbamimidamido-1-[(2S)-2-{[(1R)-1-carbamoylethyl]carbamoyl}pyrrolidin-1-yl]-1-oxopentan-2-yl]-2-[(2R)-5-(carbamoylamino)-2-[(2S)-2-[(2S)-2-[(2R)-2-[(2R)-3-(4-chlorophenyl)-2-[(2R)-2-acetamido-3-(naphthalen-2-yl)propanamido]propanamido]-3-(pyridin-3-yl)propanamido]-3-hydroxypropanamido]-3-(4-hydroxyphenyl)propanamido]pentanamido]-4-methylpentanamide</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Traditional IUPAC Name</kind>
+      <value>cetrorelix</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>1431.038</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Monoisotopic Weight</kind>
+      <value>1429.669818444</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>SMILES</kind>
+      <value>CC(C)C[C@H](NC(=O)[C@@H](CCCNC(N)=O)NC(=O)[C@H](CC1=CC=C(O)C=C1)NC(=O)[C@H](CO)NC(=O)[C@@H](CC1=CN=CC=C1)NC(=O)[C@@H](CC1=CC=C(Cl)C=C1)NC(=O)[C@@H](CC1=CC2=CC=CC=C2C=C1)NC(C)=O)C(=O)N[C@@H](CCCNC(N)=N)C(=O)N1CCC[C@H]1C(=O)N[C@H](C)C(N)=O</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C70H92ClN17O14</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChI</kind>
+      <value>InChI=1S/C70H92ClN17O14/c1-39(2)31-52(61(94)82-51(15-9-28-77-69(73)74)68(101)88-30-10-16-58(88)67(100)79-40(3)59(72)92)83-60(93)50(14-8-29-78-70(75)102)81-63(96)54(34-43-20-25-49(91)26-21-43)86-66(99)57(38-89)87-65(98)56(36-45-11-7-27-76-37-45)85-64(97)55(33-42-18-23-48(71)24-19-42)84-62(95)53(80-41(4)90)35-44-17-22-46-12-5-6-13-47(46)32-44/h5-7,11-13,17-27,32,37,39-40,50-58,89,91H,8-10,14-16,28-31,33-36,38H2,1-4H3,(H2,72,92)(H,79,100)(H,80,90)(H,81,96)(H,82,94)(H,83,93)(H,84,95)(H,85,97)(H,86,99)(H,87,98)(H4,73,74,77)(H3,75,78,102)/t40-,50-,51+,52+,53-,54+,55-,56-,57+,58+/m1/s1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>InChIKey</kind>
+      <value>SBNPWPIBESPSIF-MHWMIDJBSA-N</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polar Surface Area (PSA)</kind>
+      <value>495.67</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Refractivity</kind>
+      <value>384.16</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Polarizability</kind>
+      <value>148.93</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rotatable Bond Count</kind>
+      <value>38</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Acceptor Count</kind>
+      <value>18</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>H Bond Donor Count</kind>
+      <value>17</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest acidic)</kind>
+      <value>9.5</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>pKa (strongest basic)</kind>
+      <value>11.79</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Physiological Charge</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Number of Rings</kind>
+      <value>6</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Bioavailability</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Rule of Five</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>Ghose Filter</kind>
+      <value>0</value>
+      <source>ChemAxon</source>
+    </property>
+    <property>
+      <kind>MDDR-Like Rule</kind>
+      <value>1</value>
+      <source>ChemAxon</source>
+    </property>
+  </calculated-properties>
+  <experimental-properties/>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>13224</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEBI</resource>
+      <identifier>59224</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Compound</resource>
+      <identifier>25074887</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46505494</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>KEGG Drug</resource>
+      <identifier>D07665</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChemSpider</resource>
+      <identifier>10482082</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>BindingDB</resource>
+      <identifier>50369965</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA164764506</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000096</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Cetrorelix</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1200490</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>68147</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic2/cetrorelix.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/cetrorelix-acetate.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0000203</id>
+      <name>Gonadotropin-releasing hormone receptor</name>
+      <organism>Humans</organism>
+      <actions>
+        <action>antagonist</action>
+      </actions>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A11389</ref-id>
+            <pubmed-id>11854630</pubmed-id>
+            <citation>Volker P, Grundker C, Schmidt O, Schulz KD, Emons G: Expression of receptors for luteinizing hormone-releasing hormone in human ovarian and endometrial cancers: frequency, autoregulation, and correlation with direct antiproliferative activity of luteinizing hormone-releasing hormone analogues. Am J Obstet Gynecol. 2002 Feb;186(2):171-9.</citation>
+          </article>
+          <article>
+            <ref-id>A11390</ref-id>
+            <pubmed-id>12606421</pubmed-id>
+            <citation>Zapatero-Caballero H, Sanchez-Franco F, Guerra-Perez N, Fernandez-Mendez C, Fernandez-Vazquez G: Gonadotropin-releasing hormone receptor gene expression during pubertal development of male rats. Biol Reprod. 2003 May;68(5):1764-70. Epub 2002 Dec 11.</citation>
+          </article>
+          <article>
+            <ref-id>A11391</ref-id>
+            <pubmed-id>14561652</pubmed-id>
+            <citation>Zapatero-Caballero H, Sanchez-Franco F, Fernandez-Mendez C, Garcia-San Frutos M, Botella-Cubells LM, Fernandez-Vazquez G: Gonadotropin-releasing hormone receptor gene expression during pubertal development of female rats. Biol Reprod. 2004 Feb;70(2):348-55. Epub 2003 Oct 15.</citation>
+          </article>
+          <article>
+            <ref-id>A11392</ref-id>
+            <pubmed-id>14605254</pubmed-id>
+            <citation>Roth C, Hegemann F, Hildebrandt J, Balzer I, Witt A, Wuttke W, Jarry H: Pituitary and gonadal effects of GnRH (gonadotropin releasing hormone) analogues in two peripubertal female rat models. Pediatr Res. 2004 Jan;55(1):126-33. Epub 2003 Nov 6.</citation>
+          </article>
+          <article>
+            <ref-id>A1743</ref-id>
+            <pubmed-id>16809153</pubmed-id>
+            <citation>Castellon E, Clementi M, Hitschfeld C, Sanchez C, Benitez D, Saenz L, Contreras H, Huidobro C: Effect of leuprolide and cetrorelix on cell growth, apoptosis, and GnRH receptor expression in primary cell cultures from human prostate carcinoma. Cancer Invest. 2006 Apr-May;24(3):261-8.</citation>
+          </article>
+          <article>
+            <ref-id>A9</ref-id>
+            <pubmed-id>11752352</pubmed-id>
+            <citation>Chen X, Ji ZL, Chen YZ: TTD: Therapeutic Target Database. Nucleic Acids Res. 2002 Jan 1;30(1):412-5.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+      <polypeptide id="P30968" source="Swiss-Prot">
+        <name>Gonadotropin-releasing hormone receptor</name>
+        <general-function>Peptide binding</general-function>
+        <specific-function>Receptor for gonadotropin releasing hormone (GnRH) that mediates the action of GnRH to stimulate the secretion of the gonadotropic hormones luteinizing hormone (LH) and follicle-stimulating hormone (FSH). This receptor mediates its action by association with G-proteins that activate a phosphatidylinositol-calcium second messenger system. Isoform 2 may act as an inhibitor of GnRH-R signaling.</specific-function>
+        <gene-name>GNRHR</gene-name>
+        <locus>4q21.2</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>39-58
+78-97
+116-137
+165-184
+213-232
+282-300
+307-326</transmembrane-regions>
+        <signal-regions/>
+        <theoretical-pi>9.93</theoretical-pi>
+        <molecular-weight>37730.355</molecular-weight>
+        <chromosome-location>4</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:4421</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>GNRHR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>L03380</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>183422</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>256</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>256</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P30968</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>GNRHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>GnRH receptor</synonym>
+          <synonym>GRHR</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0000405|Gonadotropin-releasing hormone receptor
+MANSASPEQNQNHCSAINNSIPLMQGNLPTLTLSGKIRVTVTFFLFLLSATFNASFLLKL
+QKWTQKKEKGKKLSRMKLLLKHLTLANLLETLIVMPLDGMWNITVQWYAGELLCKVLSYL
+KLFSMYAPAFMMVVISLDRSLAITRPLALKSNSKVGQSMVGLAWILSSVFAGPQLYIFRM
+IHLADSSGQTKVFSQCVTHCSFSQWWHQAFYNFFTFSCLFIIPLFIMLICNAKIIFTLTR
+VLHQDPHELQLNQSKNNIPRARLKTLKMTVAFATSFTVCWTPYYVLGIWYWFDPEMLNRL
+SDPVNHFFFLFAFLNPCFDPLIYGYFSL</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0018926|Gonadotropin-releasing hormone receptor (GNRHR)
+ATGGCAAACAGTGCCTCTCCTGAACAGAATCAAAATCACTGTTCAGCCATCAACAACAGC
+ATCCCACTGATGCAGGGCAACCTCCCCACTCTGACCTTGTCTGGAAAGATCCGAGTGACG
+GTTACTTTCTTCCTTTTTCTGCTCTCTGCGACCTTTAATGCTTCTTTCTTGTTGAAACTT
+CAGAAGTGGACACAGAAGAAAGAGAAAGGGAAAAAGCTCTCAAGAATGAAGCTGCTCTTA
+AAACATCTGACCTTAGCCAACCTGTTGGAGACTCTGATTGTCATGCCACTGGATGGGATG
+TGGAACATTACAGTCCAATGGTATGCTGGAGAGTTACTCTGCAAAGTTCTCAGTTATCTA
+AAGCTTTTCTCCATGTATGCCCCAGCCTTCATGATGGTGGTGATCAGCCTGGACCGCTCC
+CTGGCTATCACGAGGCCCCTAGCTTTGAAAAGCAACAGCAAAGTCGGACAGTCCATGGTT
+GGCCTGGCCTGGATCCTCAGTAGTGTCTTTGCAGGACCACAGTTATACATCTTCAGGATG
+ATTCATCTAGCAGACAGCTCTGGACAGACAAAAGTTTTCTCTCAATGTGTAACACACTGC
+AGTTTTTCACAATGGTGGCATCAAGCATTTTATAACTTTTTCACCTTCAGCTGCCTCTTC
+ATCATCCCTCTTTTCATCATGCTGATCTGCAATGCAAAAATCATCTTCACCCTGACACGG
+GTCCTTCATCAGGACCCCCACGAACTACAACTGAATCAGTCCAAGAACAATATACCAAGA
+GCACGGCTGAAGACTCTAAAAATGACGGTTGCATTTGCCACTTCATTTACTGTCTGCTGG
+ACTCCCTACTATGTCCTAGGAATTTGGTATTGGTTTGATCCTGAAATGTTAAACAGGTTG
+TCAGACCCAGTAAATCACTTCTTCTTTCTCTTTGCCTTTTTAAACCCATGCTTTGATCCA
+CTTATCTATGGATATTTTTCTCTGTGA</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>gonadotropin-releasing hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>peptide binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to gonadotropin-releasing hormone</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>multicellular organismal development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+    <target>
+      <id>BE0000134</id>
+      <name>Lutropin-choriogonadotropic hormone receptor</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A1713</ref-id>
+            <pubmed-id>17139284</pubmed-id>
+            <citation>Overington JP, Al-Lazikani B, Hopkins AL: How many drug targets are there? Nat Rev Drug Discov. 2006 Dec;5(12):993-6.</citation>
+          </article>
+          <article>
+            <ref-id>A1715</ref-id>
+            <pubmed-id>17016423</pubmed-id>
+            <citation>Imming P, Sinning C, Meyer A: Drugs, their targets and the nature and number of drug targets. Nat Rev Drug Discov. 2006 Oct;5(10):821-34.</citation>
+          </article>
+          <article>
+            <ref-id>A1942</ref-id>
+            <pubmed-id>11943741</pubmed-id>
+            <citation>Ascoli M, Fanelli F, Segaloff DL: The lutropin/choriogonadotropin receptor, a 2002 perspective. Endocr Rev. 2002 Apr;23(2):141-74.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>unknown</known-action>
+      <polypeptide id="P22888" source="Swiss-Prot">
+        <name>Lutropin-choriogonadotropic hormone receptor</name>
+        <general-function>Luteinizing hormone receptor activity</general-function>
+        <specific-function>Receptor for lutropin-choriogonadotropic hormone. The activity of this receptor is mediated by G proteins which activate adenylate cyclase.</specific-function>
+        <gene-name>LHCGR</gene-name>
+        <locus>2p21</locus>
+        <cellular-location>Cell membrane</cellular-location>
+        <transmembrane-regions>364-385
+396-416
+440-462
+483-505
+526-549
+571-594
+606-627</transmembrane-regions>
+        <signal-regions>1-26</signal-regions>
+        <theoretical-pi>8.58</theoretical-pi>
+        <molecular-weight>78642.01</molecular-weight>
+        <chromosome-location>2</chromosome-location>
+        <organism ncbi-taxonomy-id="9606">Humans</organism>
+        <external-identifiers>
+          <external-identifier>
+            <resource>HUGO Gene Nomenclature Committee (HGNC)</resource>
+            <identifier>HGNC:6585</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenAtlas</resource>
+            <identifier>LHCGR</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Gene Database</resource>
+            <identifier>M73746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>GenBank Protein Database</resource>
+            <identifier>903746</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>IUPHAR</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>Guide to Pharmacology</resource>
+            <identifier>254</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProtKB</resource>
+            <identifier>P22888</identifier>
+          </external-identifier>
+          <external-identifier>
+            <resource>UniProt Accession</resource>
+            <identifier>LSHR_HUMAN</identifier>
+          </external-identifier>
+        </external-identifiers>
+        <synonyms>
+          <synonym>LCGR</synonym>
+          <synonym>LGR2</synonym>
+          <synonym>LH/CG-R</synonym>
+          <synonym>LHR</synonym>
+          <synonym>LHRHR</synonym>
+          <synonym>LSH-R</synonym>
+          <synonym>Luteinizing hormone receptor</synonym>
+        </synonyms>
+        <amino-acid-sequence format="FASTA">&gt;lcl|BSEQ0036957|Lutropin-choriogonadotropic hormone receptor
+MKQRFSALQLLKLLLLLQPPLPRALREALCPEPCNCVPDGALRCPGPTAGLTRLSLAYLP
+VKVIPSQAFRGLNEVIKIEISQIDSLERIEANAFDNLLNLSEILIQNTKNLRYIEPGAFI
+NLPRLKYLSICNTGIRKFPDVTKVFSSESNFILEICDNLHITTIPGNAFQGMNNESVTLK
+LYGNGFEEVQSHAFNGTTLTSLELKENVHLEKMHNGAFRGATGPKTLDISSTKLQALPSY
+GLESIQRLIATSSYSLKKLPSRETFVNLLEATLTYPSHCCAFRNLPTKEQNFSHSISENF
+SKQCESTVRKVNNKTLYSSMLAESELSGWDYEYGFCLPKTPRCAPEPDAFNPCEDIMGYD
+FLRVLIWLINILAIMGNMTVLFVLLTSRYKLTVPRFLMCNLSFADFCMGLYLLLIASVDS
+QTKGQYYNHAIDWQTGSGCSTAGFFTVFASELSVYTLTVITLERWHTITYAIHLDQKLRL
+RHAILIMLGGWLFSSLIAMLPLVGVSNYMKVSICFPMDVETTLSQVYILTILILNVVAFF
+IICACYIKIYFAVRNPELMATNKDTKIAKKMAILIFTDFTCMAPISFFAISAAFKVPLIT
+VTNSKVLLVLFYPINSCANPFLYAIFTKTFQRDFFLLLSKFGCCKRRAELYRRKDFSAYT
+SNCKNGFTGSNKPSQSTLKLSTLHCQGTALLDKTRYTEC</amino-acid-sequence>
+        <gene-sequence format="FASTA">&gt;lcl|BSEQ0010174|Lutropin-choriogonadotropic hormone receptor (LHCGR)
+ATGAAGCAGCGGTTCTCGGCGCTGCAGCTGCTGAAGCTGCTGCTGCTGCTGCAGCCGCCG
+CTGCCACGAGCGCTGCGCGAGGCGCTCTGCCCTGAGCCCTGCAACTGCGTGCCCGACGGC
+GCCCTGCGCTGCCCCGGCCCCACGGCCGGTCTCACTCGACTATCACTTGCCTACCTCCCT
+GTCAAAGTGATCCCATCTCAAGCTTTCAGAGGACTTAATGAGGTCATAAAAATTGAAATC
+TCTCAGATTGATTCCCTGGAAAGGATAGAAGCTAATGCCTTTGACAACCTCCTCAATTTG
+TCTGAAATACTGATCCAGAACACCAAAAATCTGAGATACATTGAGCCCGGAGCATTTATA
+AATCTTCCCCGATTAAAATACTTGAGCATCTGTAACACAGGCATCAGAAAGTTTCCAGAT
+GTTACGAAGGTCTTCTCCTCTGAATCAAATTTCATTCTGGAAATTTGTGATAACTTACAC
+ATAACCACCATACCAGGAAATGCTTTTCAAGGGATGAATAATGAATCTGTAACACTCAAA
+CTATATGGAAATGGATTTGAAGAAGTACAAAGTCATGCATTCAATGGGACGACACTGACT
+TCACTGGAGCTAAAGGAAAACGTACATCTGGAGAAGATGCACAATGGAGCCTTCCGTGGG
+GCCACAGGGCCGAAAACCTTGGATATTTCTTCCACCAAATTGCAGGCCCTGCCGAGCTAT
+GGCCTAGAGTCCATTCAGAGGCTAATTGCCACGTCATCCTATTCTCTAAAAAAATTGCCA
+TCAAGAGAAACATTTGTCAATCTCCTGGAGGCCACGTTGACTTACCCCAGCCACTGCTGT
+GCTTTTAGAAACTTGCCAACAAAAGAACAGAATTTTTCACATTCCATTTCTGAAAACTTT
+TCCAAACAATGTGAAAGCACAGTAAGGAAAGTGAATAACAAAACACTTTATTCTTCCATG
+CTTGCTGAGAGTGAACTGAGTGGCTGGGACTATGAATATGGTTTCTGCTTACCCAAGACA
+CCCCGATGTGCTCCTGAACCAGATGCTTTTAATCCCTGTGAAGATATTATGGGCTATGAC
+TTCCTTAGGGTCCTGATTTGGCTGATTAATATTCTAGCCATCATGGGAAACATGACTGTT
+CTTTTTGTTCTCCTGACAAGTCGTTACAAACTTACAGTGCCTCGTTTTCTCATGTGCAAT
+CTCTCCTTTGCAGACTTTTGCATGGGGCTCTATCTGCTGCTCATAGCCTCAGTTGATTCC
+CAAACCAAGGGCCAGTACTATAACCATGCCATAGACTGGCAGACAGGGAGTGGGTGCAGC
+ACTGCTGGCTTTTTCACTGTATTCGCAAGTGAACTTTCTGTCTACACCCTCACCGTCATC
+ACTCTAGAAAGATGGCACACCATCACCTATGCTATTCACCTGGACCAAAAGCTGCGATTA
+AGACATGCCATTCTGATTATGCTTGGAGGATGGCTCTTTTCTTCTCTAATTGCTATGTTG
+CCCCTTGTCGGTGTCAGCAATTACATGAAGGTCAGTATTTGCTTCCCCATGGATGTGGAA
+ACCACTCTCTCACAAGTCTATATATTAACCATCCTGATTCTCAATGTGGTGGCCTTCTTC
+ATAATTTGTGCTTGCTACATTAAAATTTATTTTGCAGTTCGAAACCCAGAATTAATGGCT
+ACCAATAAAGATACAAAGATTGCTAAGAAAATGGCAATCCTCATCTTCACCGATTTCACC
+TGCATGGCACCTATCTCTTTTTTTGCCATCTCAGCTGCCTTCAAAGTACCTCTTATCACA
+GTAACCAACTCTAAAGTTTTACTGGTTCTTTTTTATCCCATCAATTCTTGTGCCAATCCA
+TTTCTGTATGCAATATTCACTAAGACATTCCAAAGAGATTTCTTTCTTTTGCTGAGCAAA
+TTTGGCTGCTGTAAACGTCGGGCTGAACTTTATAGAAGGAAAGATTTTTCAGCTTACACC
+TCCAACTGCAAAAATGGCTTCACTGGATCAAATAAGCCTTCTCAATCCACCTTGAAGTTG
+TCCACATTGCACTGTCAAGGTACAGCTCTCCTAGACAAGACTCGCTACACAGAGTGTTAA
+</gene-sequence>
+        <pfams>
+          <pfam>
+            <identifier>PF00001</identifier>
+            <name>7tm_1</name>
+          </pfam>
+          <pfam>
+            <identifier>PF13306</identifier>
+            <name>LRR_5</name>
+          </pfam>
+        </pfams>
+        <go-classifiers>
+          <go-classifier>
+            <category>component</category>
+            <description>endosome</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>integral component of plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>component</category>
+            <description>plasma membrane</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone binding</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>choriogonadotropin hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>G-protein coupled peptide receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>function</category>
+            <description>luteinizing hormone receptor activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>activation of adenylate cyclase activity</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>adenylate cyclase-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cellular response to gonadotropin stimulus</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>cognition</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>female gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>G-protein coupled receptor signaling pathway, coupled to cyclic nucleotide second messenger</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>hormone-mediated signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>luteinizing hormone signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male genitalia development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>male gonad development</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>ovulation cycle process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>phospholipase C-activating G-protein coupled receptor signaling pathway</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of cAMP-mediated signaling</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>positive regulation of inositol trisphosphate biosynthetic process</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>spermatogenesis</description>
+          </go-classifier>
+          <go-classifier>
+            <category>process</category>
+            <description>uterus development</description>
+          </go-classifier>
+        </go-classifiers>
+      </polypeptide>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>

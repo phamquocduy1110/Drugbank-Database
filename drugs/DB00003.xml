@@ -1,0 +1,424 @@
+<drug type="biotech" created="2005-06-13" updated="2021-01-01">
+  <drugbank-id primary="true">DB00003</drugbank-id>
+  <drugbank-id>BTD00001</drugbank-id>
+  <drugbank-id>BIOD00001</drugbank-id>
+  <name>Dornase alfa</name>
+  <description>Dornase alfa is a biosynthetic form of human deoxyribunuclease I (DNase I) enzyme. It is produced in genetically modified Chinese hamster ovary (CHO) cells using recombinant DNA technology. The 260-amino acid sequence of dornase alfa is identical to the endogenous human enzyme. Dornase alfa cleaves extracellular DNA to 5´-phosphodinucleotide and 5´-phosphooligonucleotide end products without affecting intracellular DNA. In individuals with cystic fibrosis, extracellular DNA, which is an extremely viscous anion, is released by degenerating leukocytes that accumulate during inflammatory responses to infections. Enzymatic breakdown of this extracellular DNA appears to reduce sputum viscosity and viscoelasticity.</description>
+  <cas-number>143831-71-4</cas-number>
+  <unii>953A26OA1Y</unii>
+  <state>liquid</state>
+  <groups>
+    <group>approved</group>
+  </groups>
+  <general-references>
+    <articles>
+      <article>
+        <ref-id>A12</ref-id>
+        <pubmed-id>8792953</pubmed-id>
+        <citation>Cramer GW, Bosso JA: The role of dornase alfa in the treatment of cystic fibrosis. Ann Pharmacother. 1996 Jun;30(6):656-61.</citation>
+      </article>
+      <article>
+        <ref-id>A13</ref-id>
+        <pubmed-id>20238314</pubmed-id>
+        <citation>Jones AP, Wallis C: Dornase alfa for cystic fibrosis. Cochrane Database Syst Rev. 2010 Mar 17;(3):CD001127. doi: 10.1002/14651858.CD001127.pub2.</citation>
+      </article>
+      <article>
+        <ref-id>A14</ref-id>
+        <pubmed-id>19255515</pubmed-id>
+        <citation>Riethmueller J, Kumpf M, Borth-Bruhns T, Brehm W, Wiskirchen J, Sieverding L, Ankele C, Hofbeck M, Baden W: Clinical and in vitro effect of dornase alfa in mechanically ventilated pediatric non-cystic fibrosis patients with atelectases. Cell Physiol Biochem. 2009;23(1-3):205-10. doi: 10.1159/000204109. Epub 2009 Feb  18.</citation>
+      </article>
+    </articles>
+    <textbooks/>
+    <links/>
+    <attachments/>
+  </general-references>
+  <synthesis-reference/>
+  <indication>Used as adjunct therapy in the treatment of cystic fibrosis. </indication>
+  <pharmacodynamics>Cystic fibrosis (CF) is a disease characterized by the retention of viscous purulent secretions in the airways. These thick secretions contribute both to reduced pulmonary function and to frequent pulmonary infection. Purulent pulmonary secretions of individuals with cystic fibrosis contain very high concentrations of extracellular DNA released by degenerating leukocytes that accumulate in response to these infections. Dornase alfa hydrolyzes the DNA in sputum of CF patients and reduces sputum viscosity and viscoelasticity. The enzyme does not appear to affect sputum in the absence of an inflammatory response to infection, nor does it affect the sputum of healthy individuals. </pharmacodynamics>
+  <mechanism-of-action>Dornase alfa is a biosynthetic form of human DNase I. The enzyme is involved in endonucleolytic cleavage of extracellular DNA to 5´-phosphodinucleotide and 5´-phosphooligonucleotide end products. It has no effect on intracellular DNA. Optimal activity is dependent on the presence of divalent cations such as calcium and magnesium. Extracellular DNA is a viscous anionic polymer and its breakdown appears to improve the viscosity and viscoelasticity of purulent sputum of individuals with CF, thus reducing airflow obstruction. Dornase alfa does not seem to have any effect on non-purulent sputum.</mechanism-of-action>
+  <toxicity>Adverse reactions occur at a frequency of &lt; 1/1000 and are usually mild and transient in nature. Reported adverse effects include chest pain (pleuritic/non-cardiac), fever, dyspepsia, voice alteration (hoarseness), pharyngitis, dyspnea, laryngitis, rhinitis, decreased lung function, rash, urticaria, and conjunctivitis. There is no evidence of carcinogenic or mutagenic properties. The safety of dornase alfa has not been studied in pregnant women, nursing women and children under the age of 5 years old. </toxicity>
+  <metabolism>While no conclusive studies have yet been published, dornase alfa is expected to be metabolized by proteases in biofluids. </metabolism>
+  <absorption>Studies in rats and monkeys after inhalation of dornase alfa shows very little systemic absorption (less than 15% for rats and less than 2% for monkeys). The results were also witnessed in patients. Dornase alfa is also associated with very low accumulation with no serum concentration greater than 10ng/mL observed no matter the dose administered. Bioavailability: mean sputum concentrations of dornase alfa can be measured after 15 minutes. Onset is achieved within 3 to 7 days. Peak concentrations are achieved after 9 days.</absorption>
+  <half-life/>
+  <protein-binding/>
+  <route-of-elimination/>
+  <volume-of-distribution>In studies in rats and monkeys, the initial volume of distribution is similar to the serum volume. Concentrations in sputum decline rapidly after inhalation.</volume-of-distribution>
+  <clearance>Studies in rats indicate that, following aerosol administration, the disappearance half-life of dornase alfa from the lungs is 11 hours. In humans, sputum DNase levels declined below half of those detected immediately post-administration within 2 hours but effects on sputum rheology persisted beyond 12 hours.</clearance>
+  <classification>
+    <description/>
+    <direct-parent>Peptides</direct-parent>
+    <kingdom>Organic Compounds</kingdom>
+    <superclass>Organic Acids</superclass>
+    <class>Carboxylic Acids and Derivatives</class>
+    <subclass>Amino Acids, Peptides, and Analogues</subclass>
+  </classification>
+  <salts/>
+  <synonyms>
+    <synonym language="english" coder="">Deoxyribonuclease (human clone 18-1 protein moiety)</synonym>
+    <synonym language="spanish" coder="">Dornasa alfa</synonym>
+    <synonym language="english" coder="">Dornase alfa, recombinant</synonym>
+    <synonym language="english" coder="">Dornase alpha</synonym>
+    <synonym language="english" coder="">Recombinant deoxyribonuclease (DNAse)</synonym>
+  </synonyms>
+  <products>
+    <product>
+      <name>Pulmozyme</name>
+      <labeller>Genentech, Inc.</labeller>
+      <ndc-id/>
+      <ndc-product-code>50242-100</ndc-product-code>
+      <dpd-id/>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1993-12-30</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength>1 mg/1mL</strength>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number>BLA103532</fda-application-number>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>US</country>
+      <source>FDA NDC</source>
+    </product>
+    <product>
+      <name>Pulmozyme 1mg/ml</name>
+      <labeller>Hoffmann La Roche</labeller>
+      <ndc-id/>
+      <ndc-product-code/>
+      <dpd-id>02046733</dpd-id>
+      <ema-product-code/>
+      <ema-ma-number/>
+      <started-marketing-on>1994-12-31</started-marketing-on>
+      <ended-marketing-on/>
+      <dosage-form>Solution</dosage-form>
+      <strength/>
+      <route>Respiratory (inhalation)</route>
+      <fda-application-number/>
+      <generic>false</generic>
+      <over-the-counter>false</over-the-counter>
+      <approved>true</approved>
+      <country>Canada</country>
+      <source>DPD</source>
+    </product>
+  </products>
+  <international-brands>
+    <international-brand>
+      <name>Viscozyme</name>
+      <company>Roche (Chile)</company>
+    </international-brand>
+  </international-brands>
+  <mixtures>
+    <mixture>
+      <name>Pulmozyme</name>
+      <ingredients>Dornase alfa</ingredients>
+    </mixture>
+    <mixture>
+      <name>Pulmozyme 1mg/ml</name>
+      <ingredients>Dornase alfa</ingredients>
+    </mixture>
+  </mixtures>
+  <packagers>
+    <packager>
+      <name>Cardinal Health</name>
+      <url>http://www.cardinal.com</url>
+    </packager>
+    <packager>
+      <name>Catalent Pharma Solutions</name>
+      <url>http://www.catalent.com</url>
+    </packager>
+    <packager>
+      <name>F Hoffmann-La Roche Ltd.</name>
+      <url>http://www.roche.com</url>
+    </packager>
+    <packager>
+      <name>Genentech Inc.</name>
+      <url>http://www.gene.com</url>
+    </packager>
+    <packager>
+      <name>Meda AB</name>
+      <url>http://www.meda.se</url>
+    </packager>
+    <packager>
+      <name>Medpointe Pharmaceuticals</name>
+      <url/>
+    </packager>
+  </packagers>
+  <manufacturers>
+    <manufacturer generic="false" url="">Genentech, Inc</manufacturer>
+  </manufacturers>
+  <prices>
+    <price>
+      <description>Lufyllin 200 mg tablet</description>
+      <cost currency="USD">3.21</cost>
+      <unit>tablet</unit>
+    </price>
+    <price>
+      <description>Lufyllin-gg tablet</description>
+      <cost currency="USD">3.84</cost>
+      <unit>tablet</unit>
+    </price>
+    <price>
+      <description>Lufyllin-GG 200-200 mg tablet</description>
+      <cost currency="USD">3.99</cost>
+      <unit>tablet</unit>
+    </price>
+    <price>
+      <description>Lufyllin-400 tablet</description>
+      <cost currency="USD">4.62</cost>
+      <unit>tablet</unit>
+    </price>
+    <price>
+      <description>Lufyllin 400 mg tablet</description>
+      <cost currency="USD">4.81</cost>
+      <unit>tablet</unit>
+    </price>
+    <price>
+      <description>Pulmozyme 1 mg/ml ampul</description>
+      <cost currency="USD">37.05</cost>
+      <unit>ml</unit>
+    </price>
+    <price>
+      <description>Pulmozyme 1 mg/ml Solution 2.5ml Plastic Container</description>
+      <cost currency="USD">77.06</cost>
+      <unit>plastic</unit>
+    </price>
+    <price>
+      <description>Lufyllin-GG 100-100 mg/15ml Elixir</description>
+      <cost currency="USD">0.6</cost>
+      <unit>ml</unit>
+    </price>
+  </prices>
+  <categories>
+    <category>
+      <category>Amino Acids, Peptides, and Proteins</category>
+      <mesh-id>D000602</mesh-id>
+    </category>
+    <category>
+      <category>Cough and Cold Preparations</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Decreased Respiratory Secretion Viscosity</category>
+      <mesh-id/>
+    </category>
+    <category>
+      <category>Deoxyribonucleases</category>
+      <mesh-id>D003851</mesh-id>
+    </category>
+    <category>
+      <category>Endodeoxyribonucleases</category>
+      <mesh-id>D004706</mesh-id>
+    </category>
+    <category>
+      <category>Endonucleases</category>
+      <mesh-id>D004720</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes</category>
+      <mesh-id>D004798</mesh-id>
+    </category>
+    <category>
+      <category>Enzymes and Coenzymes</category>
+      <mesh-id>D045762</mesh-id>
+    </category>
+    <category>
+      <category>Esterases</category>
+      <mesh-id>D004950</mesh-id>
+    </category>
+    <category>
+      <category>Expectorants</category>
+      <mesh-id>D005100</mesh-id>
+    </category>
+    <category>
+      <category>Hydrolases</category>
+      <mesh-id>D006867</mesh-id>
+    </category>
+    <category>
+      <category>Proteins</category>
+      <mesh-id>D011506</mesh-id>
+    </category>
+    <category>
+      <category>Recombinant Human Deoxyribonuclease 1</category>
+      <mesh-id/>
+    </category>
+  </categories>
+  <affected-organisms>
+    <affected-organism>Humans and other mammals</affected-organism>
+  </affected-organisms>
+  <dosages>
+    <dosage>
+      <form>Aerosol, spray</form>
+      <route>Respiratory (inhalation)</route>
+      <strength>2.5 mg</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength>1 mg/1mL</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength/>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength>2.5 mg/2.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength>2500 E./2.5ml</strength>
+    </dosage>
+    <dosage>
+      <form>Solution</form>
+      <route>Respiratory (inhalation)</route>
+      <strength>2.5 mg</strength>
+    </dosage>
+  </dosages>
+  <atc-codes>
+    <atc-code code="R05CB13">
+      <level code="R05CB">Mucolytics</level>
+      <level code="R05C">EXPECTORANTS, EXCL. COMBINATIONS WITH COUGH SUPPRESSANTS</level>
+      <level code="R05">COUGH AND COLD PREPARATIONS</level>
+      <level code="R">RESPIRATORY SYSTEM</level>
+    </atc-code>
+  </atc-codes>
+  <ahfs-codes>
+    <ahfs-code>44:00.00</ahfs-code>
+  </ahfs-codes>
+  <pdb-entries/>
+  <fda-label>//s3-us-west-2.amazonaws.com/drugbank/fda_labels/DB00003.pdf?1410715221</fda-label>
+  <msds>//s3-us-west-2.amazonaws.com/drugbank/msds/DB00003.pdf?1410714694</msds>
+  <patents>
+    <patent>
+      <number>2184581</number>
+      <country>Canada</country>
+      <approved>2005-02-22</approved>
+      <expires>2015-02-28</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+    <patent>
+      <number>2137237</number>
+      <country>Canada</country>
+      <approved>2004-10-26</approved>
+      <expires>2013-05-28</expires>
+      <pediatric-extension>false</pediatric-extension>
+    </patent>
+  </patents>
+  <food-interactions/>
+  <drug-interactions/>
+  <sequences>
+    <sequence format="FASTA">&gt;Dornase alfa sequence
+LKIAAFNIQTFGETKMSNATLVSYIVQILSRYDIALVQEVRDSHLTAVGKLLDNLNQDAP
+DTYHYVVSEPLGRNSYKERYLFVYRPDQVSAVDSYYYDDGCEPCGNDTFNREPAIVRFFS
+RFTEVREFAIVPLHAAPGDAVAEIDALYDVYLDVQEKWGLEDVMLMGDFNAGCSYVRPSQ
+WSSIRLWTSPTFQWLIPDSADTTATPTHCAYDRIVVAGMLLRGAVVPDSALPFNFQAAYG
+LSDQLAQAISDHYPVEVMLK</sequence>
+  </sequences>
+  <experimental-properties>
+    <property>
+      <kind>Melting Point</kind>
+      <value>67 °C</value>
+      <source>Chan, H.K. et al., Pharm Res. 13:756-761 (1996)</source>
+    </property>
+    <property>
+      <kind>Hydrophobicity</kind>
+      <value>-0.083</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Isoelectric Point</kind>
+      <value>4.58</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Weight</kind>
+      <value>29253.9</value>
+      <source/>
+    </property>
+    <property>
+      <kind>Molecular Formula</kind>
+      <value>C1321H1999N339O396S9</value>
+      <source/>
+    </property>
+  </experimental-properties>
+  <external-identifiers>
+    <external-identifier>
+      <resource>Drugs Product Database (DPD)</resource>
+      <identifier>650</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PubChem Substance</resource>
+      <identifier>46507792</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>GenBank</resource>
+      <identifier>M55983</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>PharmGKB</resource>
+      <identifier>PA10318</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>UniProtKB</resource>
+      <identifier>P24855</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Therapeutic Targets Database</resource>
+      <identifier>DAP000981</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>Wikipedia</resource>
+      <identifier>Dornase_alfa</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>ChEMBL</resource>
+      <identifier>CHEMBL1201431</identifier>
+    </external-identifier>
+    <external-identifier>
+      <resource>RxCUI</resource>
+      <identifier>337623</identifier>
+    </external-identifier>
+  </external-identifiers>
+  <external-links>
+    <external-link>
+      <resource>RxList</resource>
+      <url>http://www.rxlist.com/cgi/generic/pulmozyme.htm</url>
+    </external-link>
+    <external-link>
+      <resource>Drugs.com</resource>
+      <url>http://www.drugs.com/cdi/dornase-alfa.html</url>
+    </external-link>
+  </external-links>
+  <pathways/>
+  <reactions/>
+  <snp-effects/>
+  <snp-adverse-drug-reactions/>
+  <targets>
+    <target>
+      <id>BE0004796</id>
+      <name>DNA</name>
+      <organism>Humans</organism>
+      <actions/>
+      <references>
+        <articles>
+          <article>
+            <ref-id>A12</ref-id>
+            <pubmed-id>8792953</pubmed-id>
+            <citation>Cramer GW, Bosso JA: The role of dornase alfa in the treatment of cystic fibrosis. Ann Pharmacother. 1996 Jun;30(6):656-61.</citation>
+          </article>
+        </articles>
+        <textbooks/>
+        <links/>
+        <attachments/>
+      </references>
+      <known-action>yes</known-action>
+    </target>
+  </targets>
+  <enzymes/>
+  <carriers/>
+  <transporters/>
+</drug>
