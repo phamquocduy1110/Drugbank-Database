@@ -3,10 +3,10 @@
   <drugbank-id>BTD00052</drugbank-id>
   <drugbank-id>BIOD00052</drugbank-id>
   <name>Etanercept</name>
-  <description>Dimeric fusion protein consisting of the extracellular ligand-binding portion of the human 75 kilodalton (p75) tumor necrosis factor receptor (TNFR) linked to the Fc portion of human IgG1.[L14862,A216522] The Fc component of etanercept contains the CH2 domain, the CH3 domain and hinge region, but not the CH1 domain of IgG1. Etanercept is produced by recombinant DNA technology in a Chinese hamster ovary (CHO) mammalian cell expression system. It consists of 934 amino acids. It is used to treat or manage a variety of inflammatory conditions including rheumatoid arthritis (RA), ankylosing spondylitis (AS), and juvenile idiopathic poly-articular arthritis (JIA).</description>
+  <description>Protein dung hợp dimeric bao gồm phần liên kết phối tử ngoại bào của thụ thể nhân tố hoại tử khối u 75 kilodalton (p75) ở người (TNFR) được liên kết với phần Fc của IgG1 ở người. [L14862, A216522] Thành phần Fc của etanercept chứa miền CH2, miền CH3 và miền bản lề, nhưng không phải miền CH1 của IgG1. Etanercept được sản xuất bằng công nghệ DNA tái tổ hợp trong hệ thống biểu hiện tế bào buồng trứng (CHO) của động vật có vú ở Trung Quốc. Nó bao gồm 934 axit amin. Thuốc được sử dụng để điều trị hoặc kiểm soát nhiều tình trạng viêm bao gồm viêm khớp dạng thấp (RA), viêm cột sống dính khớp (AS) và viêm khớp đa khớp tự phát ở trẻ vị thành niên (JIA).</description>
   <cas-number>185243-69-0</cas-number>
   <unii>OP401G7OJC</unii>
-  <state>liquid</state>
+  <state>chất lỏng</state>
   <groups>
     <group>approved</group>
     <group>investigational</group>
@@ -55,13 +55,13 @@
     <attachments/>
   </general-references>
   <synthesis-reference>Timothy D. Osslund, Christi L. Clogston, Shon Lee Crampton, Randal B. Bass, "Crystals of etanercept and methods of making thereof." U.S. Patent US07276477, issued October 02, 2007.</synthesis-reference>
-  <indication>Etanercept is indicated for the treatment of moderately to severely active rheumatoid arthritis in adults and in chronic moderate to severe plaque psoriasis in patients 4 years of age and older.[L14862] It is also used to manage signs and symptoms of polyarticular idiopathic arthritis in those aged 2 years and older. Etanercept is also used to manage the symptoms of psoriatic arthritis and ankylosing spondylitis. </indication>
-  <pharmacodynamics>Etanercept binds specifically to tumor necrosis factor (TNF) and thereby modulates biological processes that are induced or regulated by TNF.[L14862,A216522] Such processes or molecules affected include the level of adhesion molecules expressed, as well as serum levels of cytokines and matrix metalloproteinases.</pharmacodynamics>
-  <mechanism-of-action>There are two distinct receptors for TNF (TNFRs), a 55 kilodalton protein (p55) and a 75 kilodalton protein (p75). The biological activity of TNF is dependent upon binding to either cell surface receptor (p75 or p55).[A216522] Etanercept is a dimeric soluble form of the p75 TNF receptor that can bind to two TNF molecules, thereby effectively removing them from circulation. Notably, etancerpt is only capable of binding to the active trimeric form of TNF as its binding site is located in the cleft between subunits.[A77626]TNF is a naturally occurring cytokine that is involved in normal inflammatory and immune responses.[A216522] Increased levels of TNF are found in tissues and fluids of those with rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, and plaque psoriasis. </mechanism-of-action>
+  <indication>Etanercept được chỉ định để điều trị bệnh viêm khớp dạng thấp hoạt động từ trung bình đến nặng ở người lớn và bệnh vẩy nến thể mảng từ trung bình đến nặng mãn tính ở bệnh nhân từ 4 tuổi trở lên. [L14862] Nó cũng được sử dụng để quản lý các dấu hiệu và triệu chứng của viêm khớp vô căn đa khớp ở những bệnh nhân này từ 2 tuổi trở lên. Etanercept cũng được sử dụng để kiểm soát các triệu chứng của viêm khớp vảy nến và viêm cột sống dính khớp. </indication>
+  <pharmacodynamics>Etanercept liên kết đặc biệt với yếu tố hoại tử khối u (TNF) và do đó điều chỉnh các quá trình sinh học được gây ra hoặc điều chỉnh bởi TNF. [L14862, A216522] Các quá trình hoặc phân tử như vậy bị ảnh hưởng bao gồm mức độ phân tử kết dính được biểu hiện, cũng như mức huyết thanh của cytokine và chất nền metalloproteinase. </pharmacodynamics>
+  <mechanism-of-action>Có hai thụ thể riêng biệt cho TNF (TNFRs), một protein 55 kilodalton (p55) và một protein 75 kilodalton (p75). Hoạt tính sinh học của TNF phụ thuộc vào việc liên kết với một trong hai thụ thể trên bề mặt tế bào (p75 hoặc p55). [A216522] Etanercept là một dạng hòa tan dimeric của thụ thể TNF p75 có thể liên kết với hai phân tử TNF, do đó loại bỏ chúng khỏi tuần hoàn một cách hiệu quả. Đáng chú ý, etancerpt chỉ có khả năng liên kết với dạng trimeric hoạt động của TNF vì vị trí liên kết của nó nằm ở khe giữa các tiểu đơn vị. [A77626] TNF là một cytokine tự nhiên có liên quan đến các phản ứng miễn dịch và viêm bình thường. [A216522] nồng độ TNF được tìm thấy trong các mô và chất lỏng của những người bị viêm khớp dạng thấp, viêm khớp vẩy nến, viêm cột sống dính khớp và vẩy nến thể mảng. </mechanism-of-action>
   <toxicity/>
-  <metabolism>As etanercept is a fusion protein antibody, it is assumed to be metabolized via proteinases similarly to endogenous proteins.</metabolism>
-  <absorption>Population pharmacokinetic modeling in adults with RA, AS, or who were healthy showed a subcutaneous bioavailability of 56.9% with a Ka of 0.0223/h.[A215352] Another model in pediatric JIA patients showed an increased Ka of 0.05/h with a high mean interindividual variability of 215%.[A215357] Cmax after a single 25 mg subcutaneous dose of Enbrel is reported as 1.1 mcg/L with a Tmax of 69 h.[L14862] Cmax after repeated dosing is reported as 2.4 mcg/L in adult RA patients with a dosage of 25 mg twice weekly and 2.1 mcg in pediatric JIA patients with a dosage of 0.4 mg/kg twice weekly.</absorption>
-  <half-life>Etanercept has a mean half-life of elimination of 102 hours in RA patients.[L14862] Population models have shown a mean half-life of 68 hours in healthy adults and 70.7-94.8 hours in pediatric JIA patients.[A215657,A215357]</half-life>
+  <metabolism>Vì etanercept là một kháng thể protein dung hợp, nó được cho là được chuyển hóa qua các proteinase tương tự như các protein nội sinh.</metabolism>
+  <absorption>Mô hình dược động học quần thể ở người lớn bị RA, AS hoặc khỏe mạnh cho thấy sinh khả dụng dưới da là 56,9% với Ka là 0,0223 / giờ. [A215352] Một mô hình khác ở bệnh nhân JIA trẻ em cho thấy Ka tăng lên 0,05 / giờ với mức trung bình cao Sự thay đổi giữa các cá nhân là 215%. [A215357] Cmax sau một liều Enbrel tiêm dưới da 25 mg duy nhất được báo cáo là 1,1 mcg / L với Tmax là 69 giờ. [L14862] Cmax sau khi dùng liều lặp lại được báo cáo là 2,4 mcg / L ở người lớn RA bệnh nhân với liều 25 mg x 2 lần / tuần và 2,1 mcg ở bệnh nhi JIA với liều 0,4 mg / kg x 2 lần / tuần.</absorption>
+  <half-life>Etanercept có thời gian bán thải trung bình là 102 giờ ở bệnh nhân RA. [L14862] Các mô hình dân số cho thấy thời gian bán thải trung bình là 68 giờ ở người lớn khỏe mạnh và 70,7-94,8 giờ ở bệnh nhân JIA trẻ em. [A215657, A215357]</half-life>
   <protein-binding>No significant protein binding has been identified.</protein-binding>
   <route-of-elimination/>
   <volume-of-distribution>Population pharmacokinetic modeling predicts a total Vd of 5.49 L with a peripheral compartment of 1.24 L in adults with RA and an apparent Vd with subcutaneous administration in pediatric JIA patients of 7.88 L.[A215352,A215357]</volume-of-distribution>
@@ -1713,7 +1713,7 @@
   </manufacturers>
   <prices>
     <price>
-      <description>Enbrel 25 mg kit</description>
+      <description>Bộ Enbrel 25 mg</description>
       <cost currency="USD">250.37</cost>
       <unit>each</unit>
     </price>
@@ -1723,17 +1723,17 @@
       <unit>syringe</unit>
     </price>
     <price>
-      <description>Enbrel 4 25 mg Kit (1 Box = 1 Kit = Four 25 mg Vials)</description>
+      <description>Enbrel 4 25 mg Kit (1 Hộp = 1 Kit = Bốn Lọ 25 mg)</description>
       <cost currency="USD">1016.57</cost>
       <unit>box</unit>
     </price>
     <price>
-      <description>Enbrel (1 Box = 1 Kit = Four 50 mg Syringes) 3.92ml Box</description>
+      <description>Enbrel (1 Hộp = 1 Bộ = Bốn Ống tiêm 50 mg) Hộp 3,92ml</description>
       <cost currency="USD">2033.14</cost>
       <unit>box</unit>
     </price>
     <price>
-      <description>Enbrel SureClick (1 Box Contains Four 50 mg Prefilled Autoinjectors)</description>
+      <description>Enbrel SureClick (1 Hộp Chứa 4 Đầu phun tự động nạp sẵn 50 mg)</description>
       <cost currency="USD">2033.14</cost>
       <unit>box</unit>
     </price>
@@ -1845,177 +1845,177 @@
     </category>
   </categories>
   <affected-organisms>
-    <affected-organism>Humans and other mammals</affected-organism>
+    <affected-organism>Con người và các loài động vật có vú khác</affected-organism>
   </affected-organisms>
   <dosages>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Đường tiêm</route>
       <strength>25 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Đường tiêm</route>
       <strength>50 MG</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
       <form/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <strength>25 mg/1mL</strength>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm</form>
+      <route>Dưới da</route>
       <strength>50 MG/ML</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, dung dịch</form>
+      <route>Dưới da</route>
       <strength>10 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 MG/ML</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
+      <form>Tiêm, dung dịch</form>
       <route/>
       <strength>25 mg/0.5mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
+      <form>Tiêm, dung dịch</form>
       <route/>
       <strength>50 mg/1mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg</strength>
     </dosage>
     <dosage>
-      <form>Kit</form>
-      <route>Subcutaneous</route>
+      <form>Bộ dụng cụ</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Kit; liquid; powder, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Bộ dụng cụ; chất lỏng; bột, cho dung dịch</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Powder</form>
-      <route>Subcutaneous</route>
+      <form>Bột</form>
+      <route>Dưới da</route>
       <strength>25 MG</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Parenteral; Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Đường tiêm; Dưới da</route>
       <strength>50 MG</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg/0.5mL</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg/1mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, lyophilized, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, đông khô, cho dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm</form>
+      <route>Dưới da</route>
       <strength>25 mg/0.5ml</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Đường tiêm</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Powder</form>
-      <route>Parenteral</route>
+      <form>Bột</form>
+      <route>Đường tiêm</route>
       <strength>25 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm</form>
+      <route>Dưới da</route>
       <strength>25 mg</strength>
     </dosage>
     <dosage>
-      <form>Powder</form>
-      <route>Parenteral</route>
+      <form>Bột</form>
+      <route>Đường tiêm</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm</form>
+      <route>Dưới da</route>
       <strength>50 mg</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral; Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Đường tiêm; Dưới da</route>
       <strength>25 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral; Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Đường tiêm; Dưới da</route>
       <strength>50 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection, powder, lyophilized, for solution</form>
-      <route>Subcutaneous</route>
+      <form>Thuốc tiêm, bột, đông khô, cho dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength>25 mg/0.5mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength>50 mg/1mL</strength>
     </dosage>
   </dosages>
@@ -2059,202 +2059,202 @@
     <drug-interaction>
       <drugbank-id>DB01281</drugbank-id>
       <name>Abatacept</name>
-      <description>The risk or severity of infection can be increased when Etanercept is combined with Abatacept.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của nhiễm trùng có thể tăng lên khi Etanercept được kết hợp với Abatacept.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00026</drugbank-id>
       <name>Anakinra</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Anakinra.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Etanercept được kết hợp với Anakinra.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB08879</drugbank-id>
       <name>Belimumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Belimumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Belimumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06168</drugbank-id>
       <name>Canakinumab</name>
-      <description>The risk or severity of infection and neutropenia can be increased when Etanercept is combined with Canakinumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của nhiễm trùng và giảm bạch cầu có thể tăng lên khi Etanercept được kết hợp với Canakinumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB08904</drugbank-id>
       <name>Certolizumab pegol</name>
-      <description>The risk or severity of infection can be increased when Etanercept is combined with Certolizumab pegol.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của nhiễm trùng có thể tăng lên khi Etanercept được kết hợp với Certolizumab pegol.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00531</drugbank-id>
       <name>Cyclophosphamide</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Cyclophosphamide.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Cyclophosphamide.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06643</drugbank-id>
       <name>Denosumab</name>
-      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Etanercept.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Denosumab được kết hợp với Etanercept.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00065</drugbank-id>
       <name>Infliximab</name>
-      <description>Etanercept may increase the immunosuppressive activities of Infliximab.</description>
+      <description>Etanercept có thể làm tăng các hoạt động ức chế miễn dịch của Infliximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00008</drugbank-id>
       <name>Peginterferon alfa-2a</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Peginterferon alfa-2a.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Peginterferon alfa-2a.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00011</drugbank-id>
       <name>Interferon alfa-n1</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon alfa-n1.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon alfa-n1.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00018</drugbank-id>
       <name>Interferon alfa-n3</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon alfa-n3.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon alfa-n3.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00022</drugbank-id>
       <name>Peginterferon alfa-2b</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Peginterferon alfa-2b.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Peginterferon alfa-2b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00033</drugbank-id>
       <name>Interferon gamma-1b</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon gamma-1b.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon gamma-1b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00034</drugbank-id>
       <name>Interferon alfa-2a, Recombinant</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon alfa-2a, Recombinant.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon alfa-2a, Tái tổ hợp.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00041</drugbank-id>
       <name>Aldesleukin</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Aldesleukin.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Aldesleukin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00051</drugbank-id>
       <name>Adalimumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Adalimumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Adalimumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00056</drugbank-id>
       <name>Gemtuzumab ozogamicin</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Gemtuzumab ozogamicin.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Gemtuzumab ozogamicin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00059</drugbank-id>
       <name>Pegaspargase</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Pegaspargase.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Pegaspargase.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00068</drugbank-id>
       <name>Interferon beta-1b</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon beta-1b.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon beta-1b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00069</drugbank-id>
       <name>Interferon alfacon-1</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon alfacon-1.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon alfacon-1.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00073</drugbank-id>
       <name>Rituximab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Rituximab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Rituximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00074</drugbank-id>
       <name>Basiliximab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Basiliximab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Basiliximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00075</drugbank-id>
       <name>Muromonab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Muromonab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Muromonab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00078</drugbank-id>
       <name>Ibritumomab tiuxetan</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Ibritumomab tiuxetan.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Ibritumomab tiuxetan.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00081</drugbank-id>
       <name>Tositumomab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Tositumomab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Tositumomab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00087</drugbank-id>
       <name>Alemtuzumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Alemtuzumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Alemtuzumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00092</drugbank-id>
       <name>Alefacept</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Alefacept.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Alefacept.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00095</drugbank-id>
       <name>Efalizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Efalizumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Efalizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00098</drugbank-id>
       <name>Antithymocyte immunoglobulin (rabbit)</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Antithymocyte immunoglobulin (rabbit).</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Antithymocyte immunoglobulin (thỏ).</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00105</drugbank-id>
       <name>Interferon alfa-2b</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Interferon alfa-2b.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Interferon alfa-2b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00111</drugbank-id>
       <name>Daclizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Daclizumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Etanercept được kết hợp với Daclizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00112</drugbank-id>
       <name>Bevacizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Bevacizumab.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Bevacizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00120</drugbank-id>
       <name>Phenylalanine</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Phenylalanine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Etanercept được kết hợp với Phenylalanin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00242</drugbank-id>
       <name>Cladribine</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Cladribine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Cladribine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00276</drugbank-id>
       <name>Amsacrine</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Amsacrine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Etanercept được kết hợp với Amsacrine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00290</drugbank-id>
       <name>Bleomycin</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Bleomycin.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Bleomycin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00291</drugbank-id>
       <name>Chlorambucil</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Chlorambucil.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Chlorambucil.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00293</drugbank-id>
       <name>Raltitrexed</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Raltitrexed.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Raltitrexed.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00305</drugbank-id>
       <name>Mitomycin</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Mitomycin.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Mitomycin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00322</drugbank-id>
       <name>Floxuridine</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Floxuridine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của các tác dụng ngoại ý có thể tăng lên khi Etanercept được kết hợp với Floxuridine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00352</drugbank-id>
