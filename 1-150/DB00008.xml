@@ -10,48 +10,48 @@ Trong một khuyến nghị chung được công bố vào năm 2016, Hiệp h�
 Peginterferon alfa-2a có sẵn như một kim tiêm liều cố định (tên thương mại Pegasys) được sử dụng để điều trị viêm gan C mãn tính. Được FDA chấp thuận vào năm 2002, Pegasys được chỉ định để điều trị HCV với [DB00811] hoặc các loại thuốc kháng vi-rút khác [FDA Label]. Khi kết hợp với nhau, Peginterferon alfa-2a và [DB00811] đã được chứng minh là đạt được SVR từ 36% cho kiểu gen 1 và 59% cho kiểu gen 2-6 sau 48 tuần điều trị.</description>
   <cas-number>198153-51-4</cas-number>
   <unii>Q46947FE7K</unii>
-  <state>liquid</state>
+  <state>lỏng</state>
   <groups>
-    <group>approved</group>
-    <group>investigational</group>
+    <group>Chấp thuận</group>
+    <group>Nghiên cứu</group>
   </groups>
   <general-references>
     <articles>
       <article>
         <ref-id>A19593</ref-id>
         <pubmed-id>28497432</pubmed-id>
-        <citation>Bagaglio S, Uberti-Foppa C, Morsica G: Resistance Mechanisms in Hepatitis C Virus: implications for Direct-Acting Antiviral Use. Drugs. 2017 May 12. doi: 10.1007/s40265-017-0753-x.</citation>
+        <citation>Bagaglio S, Uberti-Foppa C, Morsica G: Cơ chế kháng trong virus viêm gan C: tác động đối với việc sử dụng thuốc kháng vi-rút tác dụng trực tiếp. Thuốc. 2017 Ngày 12 tháng 5 năm 2017. doi: 10.1007/s40265-017-0753-x.</citation>
       </article>
       <article>
         <ref-id>A19626</ref-id>
         <pubmed-id>25585348</pubmed-id>
-        <citation>Myers RP, Shah H, Burak KW, Cooper C, Feld JJ: An update on the management of chronic hepatitis C: 2015 Consensus guidelines from the Canadian Association for the Study of the Liver. Can J Gastroenterol Hepatol. 2015 Jan-Feb;29(1):19-34. Epub 2015 Jan 13.</citation>
+        <citation>Myers RP, Shah H, Burak KW, Cooper C, Feld JJ: Cập nhật về quản lý viêm gan C mãn tính: Hướng dẫn đồng thuận năm 2015 từ Hiệp hội Nghiên cứu Gan Canada. Can J Gastroenterol Hepatol. 2015 Tháng 1-Tháng Hai;29(1):19-34. Epub 2015 ngày 13 tháng 1.</citation>
       </article>
     </articles>
     <textbooks/>
     <links>
       <link>
         <ref-id>L852</ref-id>
-        <title>American Association for the Study of Liver Diseases; Infectious Diseases Society of America. HCV guidance. http://hcvguidelines.org. Accessed June 12, 2017.</title>
+        <title>American Hiệp hội nghiên cứu các bệnh về gan; Hiệp hội các bệnh truyền nhiễm của Mỹ. Hướng dẫn HCV. http://hcvguidelines.org. Truy cập ngày 12 tháng 6 năm 2017.</title>
         <url>http://hcvguidelines.org/full-report-view</url>
       </link>
     </links>
     <attachments/>
   </general-references>
   <synthesis-reference/>
-  <indication>Peginterferon alfa-2a is indicated for the treatment of HCV in combination with other antiviral drugs in patients over 5 years of age with compensated liver disease [FDA Label]. May be used as a monotherapy in patients with contraindications to or significant intolerance to other anti-viral therapies.&#13;
+  <indication>Peginterferon alfa-2a được chỉ định để điều trị HCV kết hợp với các loại thuốc kháng vi-rút khác ở bệnh nhân trên 5 tuổi mắc bệnh gan bù [FDA Label]. Có thể được sử dụng như một liệu pháp đơn trị liệu ở những bệnh nhân chống chỉ định hoặc không dung nạp đáng kể với các liệu pháp chống virus khác.&#13;
 &#13;
-Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with HBeAg positive and HBeAg negative chronic hepatitis B infection who have compensated liver disease and evidence of viral replication and liver inflammation [FDA Label].</indication>
-  <pharmacodynamics>Peginterferon alfa-2a induces the body's innate antiviral response [FDA Label].</pharmacodynamics>
-  <mechanism-of-action>Peginterferon alfa-2a is derived from recombinant human interferon's alfa-2a moeity [FDA Label]. It binds to and activates human type 1 interferon receptors causing them to dimerize. This activates the JAK/STAT pathway. Activation of the JAK/STAT pathway increases expression of multiple genes in multiple tissues involved in the innate antiviral response.</mechanism-of-action>
-  <toxicity>Peginterferon alfa-2a may manifest neuropsychiatric complications include suicide, suicidal ideation, homicidal ideation, depression, relapse of drug addiction, and drug overdose [FDA Label]. Hypertension, supraventricular arrhythmias, chest pain, and myocardial infarction have been observed in patients using Peginterferon alfa-2a. Peginterferon alfa-2a may produce myelosuppression as well as the development or aggravation of autoimmune disorders including myositis, hepatitis, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura, psoriasis, rheumatoid arthritis, interstitial nephritis, thyroiditis, and systemic lupus erythematosus. Peginterferon alfa-2a causes or aggravates hypothyroidism and hyperthyroidism. Hyperglycemia, hypoglycemia, and diabetes mellitus have been observed to develop in patients treated with Peginterferon alfa-2a. Peginterferon alfa-2a may decrease or produce loss of vision, retinopathy including macular edema, retinal artery or vein thrombosis, retinal hemorrhages and cotton wool spots, optic neuritis, papilledema and serous retinal detachment. Peginterferon mayy be related to increased ischemic and hemorrhagic cerebrovascular events. Patients with cirrhosis on Peginterferon alfa-2a are at risk of hepatic decompensation. Dyspnea, pulmonary infiltrates, pneumonia, bronchiolitis obliterans, interstitial pneumonitis, pulmonary hypertension and sarcoidosis may be induced or aggravated by Peginterferon alfa-2a. Serious and severe infections (bacterial, viral, or fungal) have been reported during treatment with Peginterferon alfa-2a. Ulcerative and hemorrhagic/ischemic colitis have been observed within 12 weeks of starting Peginterferon alfa-2a treatment. Pancreatitis and peripheral nephropathy have also been reported. Peginterferon alfa-2a is associated with growth inhibition in pediatric patients. Use of Peginterferon alfa-2a while pregant may result in delopmental abnormalities or death of the fetus.</toxicity>
+Peginterferon alfa-2a cũng được chỉ định là một liệu pháp đơn trị liệu cho bệnh nhân trưởng thành bị nhiễm viêm gan B mãn tính âm tính HBeAg và HBeAg đã bù đắp cho bệnh gan và bằng chứng về sự nhân lên của virus và viêm gan [FDA Label].</indication>
+  <pharmacodynamics>Peginterferon alfa-2a gây ra phản ứng kháng virus bẩm sinh của cơ thể [FDA Label].</pharmacodynamics>
+  <mechanism-of-action>Peginterferon alfa-2a có nguồn gốc từ sự kết hợp lại của cải đạo alfa-2a của con người [FDA Label]. Nó liên kết và kích hoạt các thụ thể interferon loại 1 của con người khiến chúng mờ đi. Điều này kích hoạt con đường JAK / STAT. Kích hoạt con đường JAK / STAT làm tăng biểu hiện của nhiều gen trong nhiều mô liên quan đến phản ứng kháng virus bẩm sinh.</mechanism-of-action>
+  <toxicity>Peginterferon alfa-2a có thể biểu hiện các biến chứng tâm thần kinh bao gồm tự tử, ý tưởng tự tử, ý tưởng giết người, trầm cảm, tái nghiện ma túy và quá liều ma túy [FDA Label]. Tăng huyết áp, rối loạn nhịp tim siêu thất, đau ngực và nhồi máu cơ tim đã được quan sát thấy ở những bệnh nhân sử dụng Peginterferon alfa-2a. Peginterferon alfa-2a có thể tạo ra sự ức chế myelosuppression cũng như sự phát triển hoặc làm trầm trọng thêm các rối loạn tự miễn dịch bao gồm viêm cơ, viêm gan, huyết khối huyết khối purpura, huyết khối vô căn purpura, bệnh vẩy nến, viêm khớp dạng thấp, viêm thận kẽ, viêm tuyến giáp và lupus ban đỏ hệ thống. Peginterferon alfa-2a gây ra hoặc làm trầm trọng thêm suy giáp và cường giáp. Tăng đường huyết, hạ đường huyết và đái tháo đường đã được quan sát thấy phát triển ở những bệnh nhân được điều trị bằng Peginterferon alfa-2a. Peginterferon alfa-2a có thể làm giảm hoặc tạo ra mất thị lực, bệnh võng mạc bao gồm phù điểm vàng, huyết khối động mạch võng mạc hoặc tĩnh mạch, xuất huyết võng mạc và đốm bông gòn, viêm dây thần kinh thị giác, phù ni lông và bong võng mạc huyết thanh. Peginterferon có thể liên quan đến sự gia tăng thiếu máu cục bộ và xuất huyết mạch máu não. Bệnh nhân xơ gan trên Peginterferon alfa-2a có nguy cơ mất bù gan. Khó thở, xâm nhập phổi, viêm phổi, viêm tiểu phế quản obliterans, viêm phổi kẽ, tăng huyết áp phổi và sarcoidosis có thể được gây ra hoặc làm trầm trọng thêm bởi Peginterferon alfa-2a. Nhiễm trùng nghiêm trọng và nghiêm trọng (vi khuẩn, virus hoặc nấm) đã được báo cáo trong quá trình điều trị bằng Peginterferon alfa-2a. Viêm loét và xuất huyết / thiếu máu cục bộ đã được quan sát thấy trong vòng 12 tuần sau khi bắt đầu điều trị Peginterferon alfa-2a. Viêm tụy và bệnh thận ngoại biên cũng đã được báo cáo. Peginterferon alfa-2a có liên quan đến ức chế tăng trưởng ở bệnh nhân nhi. Sử dụng Peginterferon alfa-2a trong khi bắt đầu có thể dẫn đến bất thường delopmental hoặc cái chết của thai nhi.</toxicity>
   <metabolism/>
-  <absorption>Peginterferon alfa-2a reaches peak plasma concentration 72-96 hours after subcutaneous administration [FDA Label]. Trough concentrations at week 48 are approximately 2 fold higher than week 1. The peak to trough ratio at week 48 is 2.</absorption>
-  <half-life>The mean terminal half-life of peginterferon alfa-2a is 164 in a range of 84-353 hours [FDA Label].</half-life>
+  <absorption>Peginterferon alfa-2a đạt nồng độ plasma cao nhất 72-96 giờ sau khi dùng dưới da [FDA Label]. Nồng độ máng ở tuần 48 cao hơn khoảng 2 lần so với tuần 1. Tỷ lệ đỉnh trên đáy tại tuần 48 là 2.</absorption>
+  <half-life>Lả bán rã cuối trung bình của peginterferon alfa-2a là 164 trong phạm vi 84-353 giờ [FDA Label].</half-life>
   <protein-binding/>
   <route-of-elimination/>
   <volume-of-distribution/>
-  <clearance>The mean systemic clearance of peginterferon alfa-2a is 94 milliliters per hour [FDA Label].</clearance>
+  <clearance>Thản đường có hệ thống của peginterferon alfa-2a là 94 ml mỗi giờ [FDA Label].</clearance>
   <classification>
     <description/>
     <direct-parent>Peptides</direct-parent>
@@ -717,12 +717,12 @@ Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with
       <unit>ml</unit>
     </price>
     <price>
-      <description>Pegasys 180 mcg/0.5 ml conv.pk</description>
+      <description>Pegasys 180 mcg / 0,5 ml conv.pk</description>
       <cost currency="USD">2533.2</cost>
       <unit>each</unit>
     </price>
     <price>
-      <description>Pegasys (1 Kit = Four 180 mcg/ml Vials Prefilled Syringes) Box</description>
+      <description>Pegasys (1 Kit = Four 180 mcg/ml Lọ Prefilled Syringes) Box</description>
       <cost currency="USD">2634.53</cost>
       <unit>box</unit>
     </price>
@@ -858,78 +858,78 @@ Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with
   </affected-organisms>
   <dosages>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm</form>
+      <route>Dưới Da</route>
       <strength>135 mcg</strength>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm</form>
+      <route>Dưới Da</route>
       <strength>180 mcg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>135 ug/0.5mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>135 MCG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>135 μg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 ug/0.5mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 mcg/ml</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 MCG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 μg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 ug/1mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>90 μg</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 mcg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>135 mcg/0.5ml</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi Tiêm, Giải Pháp</form>
+      <route>Dưới Da</route>
       <strength>180 mcg/0.5ml</strength>
     </dosage>
     <dosage>
-      <form>Solution; tablet</form>
-      <route>Oral; Subcutaneous</route>
+      <form>Giải Pháp; Viên</form>
+      <route>Miệng; Dưới Da</route>
       <strength/>
     </dosage>
   </dosages>
@@ -969,223 +969,223 @@ Peginterferon alfa-2a is also indicated as a monotherapy for adult patients with
     </patent>
   </patents>
   <food-interactions>
-    <food-interaction>Drink plenty of fluids.</food-interaction>
+    <food-interaction>Uống nhiều nước</food-interaction>
   </food-interactions>
   <drug-interactions>
     <drug-interaction>
       <drugbank-id>DB06643</drugbank-id>
       <name>Denosumab</name>
-      <description>The risk or severity of adverse effects can be increased when Denosumab is combined with Peginterferon alfa-2a.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Denosumab được kết hợp với Peginterferon alfa-2a.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00005</drugbank-id>
       <name>Etanercept</name>
-      <description>The risk or severity of adverse effects can be increased when Etanercept is combined with Peginterferon alfa-2a.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Etanercept được kết hợp với Peginterferon alfa-2a.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00011</drugbank-id>
       <name>Interferon alfa-n1</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon alfa-n1.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon alfa-n1.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00018</drugbank-id>
       <name>Interferon alfa-n3</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon alfa-n3.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon alfa-n3.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00022</drugbank-id>
       <name>Peginterferon alfa-2b</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Peginterferon alfa-2b.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Peginterferon alfa-2b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00026</drugbank-id>
       <name>Anakinra</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Anakinra.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Anakinra.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00033</drugbank-id>
       <name>Interferon gamma-1b</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon gamma-1b.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon gamma-1b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00034</drugbank-id>
       <name>Interferon alfa-2a, Recombinant</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon alfa-2a, Recombinant.</description>
+      <description>Chuyên hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon alfa-2a, Recombinant.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00051</drugbank-id>
       <name>Adalimumab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Adalimumab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Adalimumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00056</drugbank-id>
       <name>Gemtuzumab ozogamicin</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Gemtuzumab ozogamicin.</description>
+      <description>Chiếc nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Gemtuzumab ozogamicin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00059</drugbank-id>
       <name>Pegaspargase</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Pegaspargase.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Pegaspargase.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00065</drugbank-id>
       <name>Infliximab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Infliximab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Infliximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00068</drugbank-id>
       <name>Interferon beta-1b</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon beta-1b.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon beta-1b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00069</drugbank-id>
       <name>Interferon alfacon-1</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon alfacon-1.</description>
+      <description>Bảng hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon alfacon-1.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00073</drugbank-id>
       <name>Rituximab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Rituximab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Rituximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00074</drugbank-id>
       <name>Basiliximab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Basiliximab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Basiliximab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00075</drugbank-id>
       <name>Muromonab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Muromonab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Muromonab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00078</drugbank-id>
       <name>Ibritumomab tiuxetan</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Ibritumomab tiuxetan.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Ibritumomab tiuxetan.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00081</drugbank-id>
       <name>Tositumomab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Tositumomab.</description>
+      <description>Bản nguy hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Tositumomab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00087</drugbank-id>
       <name>Alemtuzumab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Alemtuzumab.</description>
+      <Chiếc nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Alemtuzumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00092</drugbank-id>
       <name>Alefacept</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Alefacept.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Alefacept.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00095</drugbank-id>
       <name>Efalizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Efalizumab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Efalizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00098</drugbank-id>
       <name>Antithymocyte immunoglobulin (rabbit)</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Antithymocyte immunoglobulin (rabbit).</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với antithymocyte immunoglobulin (thỏ).</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00105</drugbank-id>
       <name>Interferon alfa-2b</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Interferon alfa-2b.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Interferon alfa-2b.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00111</drugbank-id>
       <name>Daclizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Daclizumab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Daclizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00112</drugbank-id>
       <name>Bevacizumab</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Bevacizumab.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Bevacizumab.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00120</drugbank-id>
       <name>Phenylalanine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Phenylalanine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Phenylalanine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00180</drugbank-id>
       <name>Flunisolide</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Flunisolide.</description>
+      <description>Chuyên hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Flunisolide.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00188</drugbank-id>
       <name>Bortezomib</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Bortezomib.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Bortezomib.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00242</drugbank-id>
       <name>Cladribine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Cladribine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Cladribine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00262</drugbank-id>
       <name>Carmustine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Carmustine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Carmustine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00276</drugbank-id>
       <name>Amsacrine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Amsacrine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Amsacrine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00290</drugbank-id>
       <name>Bleomycin</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Bleomycin.</description>
+      <description>Chám hậu hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Bleomycin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00291</drugbank-id>
       <name>Chlorambucil</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Chlorambucil.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Chlorambucil.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00293</drugbank-id>
       <name>Raltitrexed</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Raltitrexed.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Raltitrexed.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00305</drugbank-id>
       <name>Mitomycin</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Mitomycin.</description>
+      <description>Chuyên hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Mitomycin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00307</drugbank-id>
       <name>Bexarotene</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Bexarotene.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Bexarotene.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00309</drugbank-id>
       <name>Vindesine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Vindesine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Vindesine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00322</drugbank-id>
       <name>Floxuridine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Floxuridine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Floxuridine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00328</drugbank-id>
       <name>Indomethacin</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Indomethacin.</description>
+      <description>Chuyên hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Indomethacin.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00352</drugbank-id>
       <name>Tioguanine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Tioguanine.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Tioguanine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00361</drugbank-id>
       <name>Vinorelbine</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Vinorelbine.</description>
+      <description>Chiếc nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Vinorelbine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00380</drugbank-id>
       <name>Dexrazoxane</name>
-      <description>The risk or severity of adverse effects can be increased when Peginterferon alfa-2a is combined with Dexrazoxane.</description>
+      <description>Chính nguy cơ hoặc mức độ nghiêm trọng của các tác dụng phụ có thể tăng lên khi Peginterferon alfa-2a được kết hợp với Dexrazoxane.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00394</drugbank-id>
