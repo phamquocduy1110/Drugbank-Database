@@ -7703,7 +7703,7 @@ GCCGAGTCTGGGCAGGTCTACTTTGGGATCATTGCCCTGTGA</gene-sequence>
       <polypeptide id="P12314" source="Swiss-Prot">
         <name>High affinity immunoglobulin gamma Fc receptor I</name>
         <general-function>Receptor signaling protein activity</general-function>
-        <specific-function>High affinity receptor for the Fc region of immunoglobulins gamma. Functions in both innate and adaptive immune responses.</specific-function>
+        <specific-function>High affinity receptor for the Fc region of immunoglobulins gamma. Functions in both innate and adaptive phản ứng miễn dịchs.</specific-function>
         <gene-name>FCGR1A</gene-name>
         <locus>1q21.2-q21.3</locus>
         <cellular-location>Cell membrane</cellular-location>
@@ -7790,15 +7790,15 @@ CTGCAGGAAGGGGTGCACCGGAAGGAGCCCCAGGGGGCCACGTAG</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>clathrin-coated endocytic vesicle membrane</description>
+            <description>màng túi nội bào phủ clathrin</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>early endosome membrane</description>
+            <description>màng nội tiết sớm</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of membrane</description>
+            <description>thành phần không thể thiếu của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -7806,55 +7806,55 @@ CTGCAGGAAGGGGTGCACCGGAAGGAGCCCCAGGGGGCCACGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>receptor signaling protein activity</description>
+            <description>thụ thể tín hiệu hoạt động protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I</description>
+            <description>xử lý kháng nguyên và trình bày kháng nguyên peptit ngoại sinh thông qua MHC lớp I</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>antigen processing and presentation of exogenous peptide antigen via MHC class I, TAP-dependent</description>
+            <description>xử lý kháng nguyên và trình bày kháng nguyên peptit ngoại sinh thông qua MHC lớp I, phụ thuộc TAP</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>antigen processing and presentation of peptide antigen via MHC class I</description>
+            <description>xử lý kháng nguyên và trình bày kháng nguyên peptit thông qua MHC lớp I</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cytokine-mediated signaling pathway</description>
+            <description>con đường tín hiệu qua trung gian cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+            <description>con đường truyền tín hiệu thụ thể Fc-gamma liên quan đến quá trình thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>interferon-gamma-mediated signaling pathway</description>
+            <description>lộ trình tín hiệu qua trung gian interferon-gamma</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>intracellular signal transduction</description>
+            <description>truyền tín hiệu nội bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>phagocytosis, engulfment</description>
+            <description>thực bào, hấp thụ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of immune response</description>
+            <description>điều chỉnh phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>signal transduction</description>
+            <description>truyền tín hiệu</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -7977,11 +7977,11 @@ AAAAACATCTACCTGACTCTTCCTCCCAACGACCATGTCAACAGTAATAACTAA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of membrane</description>
+            <description>thành phần không thể thiếu của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -7989,11 +7989,11 @@ AAAAACATCTACCTGACTCTTCCTCCCAACGACCATGTCAACAGTAATAACTAA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+            <description>con đường truyền tín hiệu thụ thể Fc-gamma liên quan đến quá trình thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8104,7 +8104,7 @@ CTGGAAGAGCCTGATGACCAGAACCGTATTTAG</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>integral component of membrane</description>
+            <description>thành phần không thể thiếu của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8112,19 +8112,19 @@ CTGGAAGAGCCTGATGACCAGAACCGTATTTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of immune response</description>
+            <description>điều hòa phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>signal transduction</description>
+            <description>truyền tín hiệu</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>viral process</description>
+            <description>quá trình lan truyền</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8165,7 +8165,7 @@ CTGGAAGAGCCTGATGACCAGAACCGTATTTAG</gene-sequence>
         <specific-function>Receptor for the Fc region of complexed immunoglobulins gamma. Low affinity receptor. Involved in a variety of effector and regulatory functions such as phagocytosis of immune complexes and modulation of antibody production by B-cells.</specific-function>
         <gene-name>FCGR2C</gene-name>
         <locus>1q23.3</locus>
-        <cellular-location>Cytoplasm</cellular-location>
+        <cellular-location>Tế bào chất</cellular-location>
         <transmembrane-regions>224-246</transmembrane-regions>
         <signal-regions>1-42</signal-regions>
         <theoretical-pi>6.9</theoretical-pi>
@@ -8242,11 +8242,11 @@ AGTAATAACTAA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>cytoplasm</description>
+            <description>tế bào chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of membrane</description>
+            <description>thành phần không thể thiếu của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8254,15 +8254,15 @@ AGTAATAACTAA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>transmembrane signaling receptor activity</description>
+            <description>hoạt động của thụ thể truyền tín hiệu xuyên màng</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>signal transduction</description>
+            <description>truyền tín hiệu</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8390,11 +8390,11 @@ TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of membrane</description>
+            <description>thành phần không thể thiếu của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8402,19 +8402,19 @@ TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>Fc-gamma receptor signaling pathway involved in phagocytosis</description>
+            <description>con đường truyền tín hiệu thụ thể Fc-gamma liên quan đến quá trình thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of immune response</description>
+            <description>điều hòa phản ứng miễn dịch</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8699,19 +8699,19 @@ GGAGCCTTCGCTCTGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>humoral immune response</description>
+            <description>phản ứng miễn dịch về chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>lymph node development</description>
+            <description>phát triển hạch bạch huyết</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of fibroblast proliferation</description>
+            <description>điều hòa âm tính của sự tăng sinh nguyên bào sợi</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of growth of symbiont in host</description>
+            <description>điều hòa tiêu cực về sự phát triển của cộng sinh trong vật chủ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8727,7 +8727,7 @@ GGAGCCTTCGCTCTGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>điều hòa tích cực humoral immune response mediated by circulating immunoglobulin</description>
+            <description>điều hòa tích cực humoral phản ứng miễn dịch mediated by circulating immunoglobulin</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8735,27 +8735,27 @@ GGAGCCTTCGCTCTGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to drug</description>
+            <description>phản ứng với thuốc</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to hypoxia</description>
+            <description>phản ứng với thiếu oxy</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to lipopolysaccharide</description>
+            <description>phản ứng với lipopolysaccharide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to nutrient</description>
+            <description>phản ứng với chất dinh dưỡng</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>signal transduction</description>
+            <description>truyền tín hiệu</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>tumor necrosis factor-mediated signaling pathway</description>
+            <description>con đường tín hiệu qua trung gian yếu tố hoại tử khối u</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8859,11 +8859,11 @@ ATCTTCCCATCTGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>complement component C1 complex</description>
+            <description>bổ sung thành phần phức hợp C1</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8875,15 +8875,15 @@ ATCTTCCCATCTGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation</description>
+            <description>bổ sung kích hoạt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation, classical pathway</description>
+            <description>bổ sung kích hoạt, con đường cổ điển</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -8962,7 +8962,7 @@ ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>blood microparticle</description>
+            <description>vi hạt máu</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8970,11 +8970,11 @@ ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>complement component C1 complex</description>
+            <description>bổ sung thành phần phức hợp C1</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8982,19 +8982,19 @@ ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation</description>
+            <description>bổ sung kích hoạt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation, classical pathway</description>
+            <description>bổ sung kích hoạt, classical pathway</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>inner ear development</description>
+            <description>phát triển tai trong</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -9073,7 +9073,7 @@ CTGCTCTTCCCCGACTAG</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>blood microparticle</description>
+            <description>vi hạt máu</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -9081,7 +9081,7 @@ CTGCTCTTCCCCGACTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -9093,27 +9093,27 @@ CTGCTCTTCCCCGACTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation</description>
+            <description>bổ sung kích hoạt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>complement activation, classical pathway</description>
+            <description>bổ sung kích hoạt, classical pathway</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>innate immune response</description>
+            <description>phản ứng miễn dịch bẩm sinh</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of granulocyte differentiation</description>
+            <description>điều hòa âm tính của sự biệt hóa bạch cầu hạt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of macrophage differentiation</description>
+            <description>điều hòa tiêu cực của sự biệt hóa đại thực bào</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
