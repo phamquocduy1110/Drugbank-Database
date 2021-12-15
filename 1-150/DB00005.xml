@@ -1816,7 +1816,7 @@
       <mesh-id>D011506</mesh-id>
     </category>
     <category>
-      <category>Receptors, Cell Surface</category>
+      <category>Receptors, Bề mặt tế bào</category>
       <mesh-id>D011956</mesh-id>
     </category>
     <category>
@@ -7098,7 +7098,7 @@ DGSFFLYSKLTVDKSRWQQGNVFSCSVMHEALHNHYTQKSLSLSPGK</sequence>
       <known-action>yes</known-action>
       <polypeptide id="P01375" source="Swiss-Prot">
         <name>Tumor necrosis factor</name>
-        <general-function>Tumor necrosis factor receptor binding</general-function>
+        <general-function>Liên kết thụ thể yếu tố hoại tử khối u</general-function>
         <specific-function>Cytokine that binds to TNFRSF1A/TNFR1 and TNFRSF1B/TNFBR. It is mainly secreted by macrophages and can induce cell death of certain tumor cell lines. It is potent pyrogen causing fever by direct action or by stimulation of interleukin-1 secretion and is implicated in the induction of cachexia, Under certain conditions it can stimulate cell proliferation and induce cell differentiation. Impairs regulatory T-cells (Treg) function in individuals with rheumatoid arthritis via FOXP3 dephosphorylation. Upregulates the expression of protein phosphatase 1 (PP1), which dephosphorylates the key 'Ser-418' residue of FOXP3, thereby inactivating FOXP3 and rendering Treg cells functionally defective (PubMed:23396208). Key mediator of cell death in the anticancer action of BCG-stimulated neutrophils in combination with DIABLO/SMAC mimetic in the RT4v6 bladder cancer cell line (PubMed:22517918).The TNF intracellular domain (ICD) form induces IL12 production in dendritic cells.</specific-function>
         <gene-name>TNF</gene-name>
         <locus>6p21.3</locus>
@@ -7174,503 +7174,503 @@ GCCGAGTCTGGGCAGGTCTACTTTGGGATCATTGCCCTGTGA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>cell surface</description>
+            <description>bề mặt tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>external side of plasma membrane</description>
+            <description>mặt ngoài của màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular space</description>
+            <description>không gian ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of plasma membrane</description>
+            <description>thành phần không thể thiếu của màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>membrane raft</description>
+            <description>bè màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>phagocytic cup</description>
+            <description>cốc thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>recycling endosome</description>
+            <description>tái chế endosome</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>cytokine activity</description>
+            <description>hoạt động cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>identical protein binding</description>
+            <description>liên kết protein giống hệt nhau</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>protease binding</description>
+            <description>liên kết protease</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>transcription regulatory region DNA binding</description>
+            <description>vùng điều hòa phiên mã Liên kết DNA</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>tumor necrosis factor receptor binding</description>
+            <description>liên kết thụ thể yếu tố hoại tử khối u</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>activation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+            <description>kích hoạt hoạt động endopeptidase loại cysteine tham gia vào quá trình apoptotic</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>activation of MAPK activity</description>
+            <description>kích hoạt hoạt động MAPK</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>activation of MAPKKK activity</description>
+            <description>kích hoạt hoạt động MAPKKK</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cell surface receptor signaling pathway</description>
+            <description>con đường tín hiệu thụ thể bề mặt tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cellular response to amino acid stimulus</description>
+            <description>phản ứng của tế bào với kích thích axit amin</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cellular response to nicotine</description>
+            <description>phản ứng của tế bào với nicotine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cellular response to organic cyclic compound</description>
+            <description>phản ứng của tế bào với hợp chất hữu cơ mạch vòng</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>chronic inflammatory response to antigenic stimulus</description>
+            <description>phản ứng viêm mãn tính với kích thích kháng nguyên</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cortical actin cytoskeleton organization</description>
+            <description>tổ chức tế bào actin vỏ não</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>death-inducing signaling complex assembly</description>
+            <description>tổ hợp phức tạp báo hiệu gây tử vong</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response to Gram-positive bacterium</description>
+            <description>phản ứng phòng vệ đối với vi khuẩn Gram dương</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>embryonic digestive tract development</description>
+            <description>phát triển đường tiêu hóa phôi thai</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>epithelial cell proliferation involved in salivary gland morphogenesis</description>
+            <description>sự tăng sinh tế bào biểu mô liên quan đến sự hình thành tuyến nước bọt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>establishment of protein localization to plasma membrane</description>
+            <description>thiết lập nội địa hóa protein vào màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>extracellular matrix organization</description>
+            <description>tổ chức chất nền ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>extrinsic apoptotic signaling pathway</description>
+            <description>con đường tín hiệu apoptotic bên ngoài</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>extrinsic apoptotic signaling pathway via death domain receptors</description>
+            <description>con đường tín hiệu apoptotic bên ngoài thông qua các thụ thể vùng chết</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>glucose metabolic process</description>
+            <description>quá trình trao đổi chất glucose</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>humoral immune response</description>
+            <description>phản ứng miễn dịch dịch thể</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>I-kappaB kinase/NF-kappaB signaling</description>
+            <description>tín hiệu I-kappaB kinase / NF-kappaB</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>inflammatory response</description>
+            <description>phản ứng viêm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>intrinsic apoptotic signaling pathway in response to DNA damage</description>
+            <description>con đường tín hiệu apoptotic nội tại để phản ứng với tổn thương DNA</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>JNK cascade</description>
+            <description>thác JNK</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>leukocyte tethering or rolling</description>
+            <description>kết nối hoặc cuộn bạch cầu</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>lipopolysaccharide-mediated signaling pathway</description>
+            <description>con đường tín hiệu qua trung gian lipopolysaccharide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>MAPK cascade</description>
+            <description>thác MAPK</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>necroptotic signaling pathway</description>
+            <description>con đường tín hiệu hoại tử</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of alkaline phosphatase activity</description>
+            <description>điều hòa âm tính của hoạt động phosphatase kiềm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of bicellular tight junction assembly</description>
+            <description>điều hòa tiêu cực của lắp ráp mối nối chặt chẽ lưỡng bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of branching involved in lung morphogenesis</description>
+            <description>điều hòa tiêu cực của sự phân nhánh liên quan đến sự hình thành phổi</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of cytokine secretion involved in immune response</description>
+            <description>điều hòa tiêu cực sự bài tiết cytokine liên quan đến phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of extrinsic apoptotic signaling pathway in absence of ligand</description>
+            <description>điều hòa tiêu cực của con đường tín hiệu apoptotic bên ngoài khi không có phối tử</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of fat cell differentiation</description>
+            <description>điều hòa tiêu cực của sự biệt hóa tế bào mỡ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of gene expression</description>
+            <description>điều hòa tiêu cực của biểu hiện gen</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of glucose import</description>
+            <description>điều hòa tiêu cực đối với việc nhập khẩu glucose</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of growth of symbiont in host</description>
+            <description>điều hòa tiêu cực về sự phát triển của cộng sinh trong vật chủ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of interleukin-6 production</description>
+            <description>điều hòa tiêu cực của sản xuất interleukin-6</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of lipid catabolic process</description>
+            <description>điều hòa tiêu cực của quá trình dị hóa lipid</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of lipid storage</description>
+            <description>điều hòa tiêu cực của dự trữ lipid</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of myoblast differentiation</description>
+            <description>điều hòa tiêu cực về sự khác biệt của myoblast</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of myosin-light-chain-phosphatase activity</description>
+            <description>điều hòa tiêu cực hoạt động myosin-chuỗi ánh sáng-phosphatase</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of osteoblast differentiation</description>
+            <description>điều hòa tiêu cực của sự biệt hóa nguyên bào xương</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of protein complex disassembly</description>
+            <description>điều hòa tiêu cực của quá trình tháo rời phức hợp protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+            <description>điều hòa âm tính của quá trình phiên mã từ promoter RNA polymerase II</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of transcription, DNA-templated</description>
+            <description>điều hòa tiêu cực của phiên mã, DNA-templated</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of viral genome replication</description>
+            <description>điều hòa tiêu cực của sự sao chép bộ gen của virus</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>osteoclast differentiation</description>
+            <description>biệt hóa tế bào hủy xương</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of apoptotic process</description>
+            <description>điều hòa tích cực của quá trình apoptotic</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of calcidiol 1-monooxygenase activity</description>
+            <description>điều hòa tích cực hoạt động calcidiol 1-monooxygenase</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of cell adhesion</description>
+            <description>điều hòa tích cực của sự kết dính tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of ceramide biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp ceramide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of chemokine (C-X-C motif) ligand 2 production</description>
+            <description>điều hòa tích cực sản xuất phối tử chemokine (C-X-C motif) 2</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of chemokine biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp chemokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of chemokine production</description>
+            <description>điều chỉnh tích cực sản xuất chemokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of chronic inflammatory response to antigenic stimulus</description>
+            <description>điều hòa tích cực phản ứng viêm mãn tính đối với kích thích kháng nguyên</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of cysteine-type endopeptidase activity involved in apoptotic process</description>
+            <description>điều hòa tích cực hoạt động endopeptidase loại cysteine tham gia vào quá trình apoptotic</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of cytokine production</description>
+            <description>điều hòa tích cực sản xuất cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of cytokine secretion</description>
+            <description>điều hòa tích cực sự bài tiết cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of ERK1 and ERK2 cascade</description>
+            <description>điều hòa tích cực dòng thác ERK1 và ERK2</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of fever generation</description>
+            <description>điều hòa tích cực phát sốt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of gene expression</description>
+            <description>điều hòa tích cực biểu hiện gen</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of hair follicle development</description>
+            <description>điều hòa tích cực phát triển nang tóc</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of heterotypic cell-cell adhesion</description>
+            <description>điều hòa tích cực sự kết dính tế bào-tế bào dị loại</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of humoral immune response mediated by circulating immunoglobulin</description>
+            <description>điều hòa tích cực đáp ứng miễn dịch dịch thể qua trung gian của globulin miễn dịch lưu hành</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of I-kappaB kinase/NF-kappaB signaling</description>
+            <description>điều hòa tích cực tín hiệu I-kappaB kinase / NF-kappaB</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interferon-gamma production</description>
+            <description>điều hòa tích cực sản xuất interferon-gamma</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interleukin-6 production</description>
+            <description>điều hòa tích cực sản xuất interleukin-6</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interleukin-8 biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp interleukin-8</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interleukin-8 production</description>
+            <description>điều hòa tích cực sản xuất interleukin-8</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of JUN kinase activity</description>
+            <description>điều hòa tích cực hoạt động kinase JUN</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of MAP kinase activity</description>
+            <description>điều hòa tích cực kinase hoạt động MAP</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of membrane protein ectodomain proteolysis</description>
+            <description>điều hòa tích cực sự phân giải protein ectodomain màng</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of mononuclear cell migration</description>
+            <description>điều hòa tích cực di chuyển tế bào đơn nhân</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of NF-kappaB import into nucleus</description>
+            <description>điều hòa tích cực nhập NF-kappaB vào hạt nhân</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of NF-kappaB transcription factor activity</description>
+            <description>điều hòa tích cực hoạt động của yếu tố phiên mã NF-kappaB</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of NFAT protein import into nucleus</description>
+            <description>điều hòa tích cực nhập protein NFAT vào nhân</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of NIK/NF-kappaB signaling</description>
+            <description>điều hòa tích cực tín hiệu NIK / NF-kappaB</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of nitric oxide biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp oxit nitric</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of osteoclast differentiation</description>
+            <description>điều hòa tích cực biệt hóa tế bào hủy xương</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of peptidyl-serine phosphorylation</description>
+            <description>điều hòa tích cực sự phosphoryl hóa peptidyl-serine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of phagocytosis</description>
+            <description>điều hòa tích cực sự thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of podosome assembly</description>
+            <description>điều hòa tích cực lắp ráp podosome</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of programmed cell death</description>
+            <description>điều hòa tích cực sự chết của tế bào theo chương trình</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein complex assembly</description>
+            <description>điều hòa tích cực tổ hợp phức hợp protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein complex disassembly</description>
+            <description>điều hòa tích cực sự tháo rời phức tạp protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein kinase activity</description>
+            <description>điều hòa tích cực hoạt động của protein kinase</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein kinase B signaling</description>
+            <description>điều hòa tích cực tín hiệu protein kinase B</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein localization to cell surface</description>
+            <description>điều hòa tích cực của nội địa hóa protein trên bề mặt tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein phosphorylation</description>
+            <description>điều hòa tích cực sự phosphoryl hóa protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of protein transport</description>
+            <description>điều hòa tích cực vận chuyển protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of sequence-specific DNA binding transcription factor activity</description>
+            <description>điều hòa tích cực hoạt động của yếu tố phiên mã liên kết DNA cụ thể theo trình tự</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of smooth muscle cell proliferation</description>
+            <description>điều hòa tích cực tăng sinh tế bào cơ trơn</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of transcription from RNA polymerase II promoter</description>
+            <description>điều hòa tích cực phiên mã từ promoter RNA polymerase II</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of transcription, DNA-templated</description>
+            <description>điều hòa tích cực phiên mã, DNA-templated</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of translational initiation by iron</description>
+            <description>điều hòa tích cực translational initiation by iron</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of vitamin D biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp vitamin D</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>protein import into nucleus, translocation</description>
+            <description>nhập khẩu protein vào nhân, chuyển vị</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>protein kinase B signaling</description>
+            <description>tín hiệu protein kinase B</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>receptor biosynthetic process</description>
+            <description>quá trình sinh tổng hợp thụ thể</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of branching involved in salivary gland morphogenesis</description>
+            <description>điều hòa phân nhánh liên quan đến sự hình thành tuyến nước bọt</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of establishment of endothelial barrier</description>
+            <description>điều hòa thành lập hàng rào nội mô</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of I-kappaB kinase/NF-kappaB signaling</description>
+            <description>điều hòa về tín hiệu I-kappaB kinase / NF-kappaB</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of immunoglobulin secretion</description>
+            <description>điều hòa bài tiết globulin miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of insulin secretion</description>
+            <description>điều hòa tiết insulin</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of tumor necrosis factor-mediated signaling pathway</description>
+            <description>điều hòa con đường tín hiệu qua trung gian yếu tố hoại tử khối u</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to glucocorticoid</description>
+            <description>phản ứng với glucocorticoid</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to salt stress</description>
+            <description>ứng phó với căng thẳng muối</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to virus</description>
+            <description>phản ứng với vi rút</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>sequestering of triglyceride</description>
+            <description>cô lập chất béo trung tính</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>transformed cell apoptotic process</description>
+            <description>quá trình apoptotic tế bào biến đổi</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>tumor necrosis factor-mediated signaling pathway</description>
+            <description>con đường tín hiệu qua trung gian yếu tố hoại tử khối u</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -7802,7 +7802,7 @@ CTGCAGGAAGGGGTGCACCGGAAGGAGCCCCAGGGGGCCACGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
@@ -7985,7 +7985,7 @@ AAAAACATCTACCTGACTCTTCCTCCCAACGACCATGTCAACAGTAATAACTAA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8108,7 +8108,7 @@ CTGGAAGAGCCTGATGACCAGAACCGTATTTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8250,7 +8250,7 @@ AGTAATAACTAA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
@@ -8386,7 +8386,7 @@ TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>external side of plasma membrane</description>
+            <description>mặt ngoài của màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
@@ -8398,7 +8398,7 @@ TTTAAATGGAGAAAGGACCCTCAAGACAAATGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8538,27 +8538,27 @@ GTGGACACAGGACTATATTTCTCTGTGAAGACAAACATTTGA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>anchored component of membrane</description>
+            <description>thành phần neo của màng</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>immune response</description>
+            <description>phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>mitophagy in response to mitochondrial depolarization</description>
+            <description>mitophagy để phản ứng với sự khử cực của ty thể</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of defense response to virus by host</description>
+            <description>điều hòa tích cực về phản ứng phòng vệ đối với vi rút của vật chủ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8675,27 +8675,27 @@ GGAGCCTTCGCTCTGTAG</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>extracellular space</description>
+            <description>không gian ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>plasma membrane</description>
+            <description>màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>receptor binding</description>
+            <description>liên kết thụ thể</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>apoptotic process</description>
+            <description>quá trình apoptotic</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cell-cell signaling</description>
+            <description>tín hiệu tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response to Gram-positive bacterium</description>
+            <description>phản ứng phòng vệ đối với vi khuẩn Gram dương</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8715,23 +8715,23 @@ GGAGCCTTCGCTCTGTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of apoptotic process</description>
+            <description>điều hòa tích cực apoptotic process</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of chronic inflammatory response to antigenic stimulus</description>
+            <description>điều hòa tích cực chronic phản ứng viêm to antigenic stimulus</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of glial cell proliferation</description>
+            <description>điều hòa tích cực glial cell proliferation</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of humoral immune response mediated by circulating immunoglobulin</description>
+            <description>điều hòa tích cực humoral immune response mediated by circulating immunoglobulin</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interferon-gamma production</description>
+            <description>điều hòa tích cực interferon-gamma production</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8867,11 +8867,11 @@ ATCTTCCCATCTGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cell-cell signaling</description>
+            <description>tín hiệu tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -8978,7 +8978,7 @@ ATCTTTTCCGGGTTCCTGCTCTTTCCAGATATGGAGGCCTGA</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -9085,11 +9085,11 @@ CTGCTCTTCCCCGACTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular space</description>
+            <description>không gian ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>

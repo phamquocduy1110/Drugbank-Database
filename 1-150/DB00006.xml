@@ -4841,7 +4841,7 @@ GGAGAGTAG</gene-sequence>
       <known-action>unknown</known-action>
       <polypeptide id="P05164" source="Swiss-Prot">
         <name>Myeloperoxidase</name>
-        <general-function>Peroxidase activity</general-function>
+        <general-function>Hoạt động peroxidase</general-function>
         <specific-function>Part of the host defense system of polymorphonuclear leukocytes. It is responsible for microbicidal activity against a wide range of organisms. In the stimulated PMN, MPO catalyzes the production of hypohalous acids, primarily hypochlorous acid in physiologic situations, and other toxic intermediates that greatly enhance PMN microbicidal activity.</specific-function>
         <gene-name>MPO</gene-name>
         <locus>17q23.1</locus>
@@ -4980,67 +4980,67 @@ TGGAGGGAAGCCTCCTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>heme binding</description>
+            <description>heme ràng buộc</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>heparin binding</description>
+            <description>liên kết heparin</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>metal ion binding</description>
+            <description>liên kết ion kim loại</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>peroxidase activity</description>
+            <description>hoạt động peroxidase</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response</description>
+            <description>phản ứng phòng vệ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response to fungus</description>
+            <description>phản ứng phòng vệ đối với nấm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>hydrogen peroxide catabolic process</description>
+            <description>quá trình dị hóa hydrogen peroxide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>hypochlorous acid biosynthetic process</description>
+            <description>quá trình sinh tổng hợp axit hypochlorous</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>low-density lipoprotein particle remodeling</description>
+            <description>tái cấu trúc hạt lipoprotein mật độ thấp</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of apoptotic process</description>
+            <description>điều hòa tiêu cực của quá trình apoptotic</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of growth of symbiont in host</description>
+            <description>điều hòa tiêu cực về sự phát triển của cộng sinh trong vật chủ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>oxidation-reduction process</description>
+            <description>quá trình oxy hóa-khử</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>removal of superoxide radicals</description>
+            <description>loại bỏ các gốc superoxide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>respiratory burst involved in defense response</description>
+            <description>sự bùng nổ hô hấp liên quan đến phản ứng phòng vệ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to oxidative stress</description>
+            <description>phản ứng với stress oxy hóa</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to yeast</description>
+            <description>phản ứng với men</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
