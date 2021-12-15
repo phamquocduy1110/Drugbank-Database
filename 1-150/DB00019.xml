@@ -3,12 +3,10 @@
   <drugbank-id>BTD00094</drugbank-id>
   <drugbank-id>BIOD00094</drugbank-id>
   <name>Pegfilgrastim</name>
-  <description>Pegfilgrastim is a PEGylated form of the recombinant human granulocyte colony-stimulating factor (G-CSF) analogue, [filgrastim].[A187601] It is used to decrease the incidence of infection, as manifested by febrile neutropenia, in patients with with non-myeloid cancer receiving myelosuppressive anti-cancer treatment. Some patients with greater risk factors may develop febrile neutropenia from myelosuppressive therapy and are susceptible to an increased risk of developing infections. Although the risk of developing febrile neutropenia is less than 20% in many readily used chemotherapy regimens,[L9782] infections pose risks of hospitalization and mortalities.[A187631] Due to the relatively short circulating half-life of filgrastim, a 20 kDa PEG moiety was covalently conjugated to the N-terminus of filgrastim (at the methionine residue) to develop a longer acting version of the drug.[A29, A187607] Due to a longer half-life and slower elimination rate than filgrastim, pegfilgrastim requires less frequent dosing than filgrastim. However, pegfilgrastim retains the same biological activity as filgrastim and binds to the same G-CSF receptor to stimulate the proliferation, differentiation, and activation of neutrophils.[A187607]&#13;
-&#13;
-First developed by Amgen, pegfilgrastim was initially approved by the FDA in 2002 and marketed as Neulasta®. It is typically administered via a subcutaneous injection. There are several pegfilgrastim biosimilars (Fulphila®, Pelgraz® or Lapelga®, Pelmeg®, Udenyca®, Ziextenzo®, and Grasustek®) that are approved for the same therapeutic indication by Health Canada, European Union (EU), and FDA.[L9779,L9785] These biosimilars are highly similar to the reference product, Neulasta®, in terms of pharmacological and pharmacokinetic profile and condition(s) of use, such as the therapeutic indication(s), dosing regimen(s), strength(s), dosage form(s), and route(s) of administration.[L9974]</description>
+  <description>Pegfilgrastim là một dạng PEGyl hóa của chất tương tự yếu tố kích thích thuộc địa tế bào hạt ở người tái tổ hợp (G-CSF), [filgrastim]. [A187601] Nó được sử dụng để giảm tỷ lệ nhiễm trùng, biểu hiện bằng giảm bạch cầu do sốt, ở những bệnh nhân không bị sốt ung thư dòng tủy được điều trị chống ung thư bằng ức chế tủy. Một số bệnh nhân có các yếu tố nguy cơ cao hơn có thể bị sốt giảm bạch cầu trung tính từ liệu pháp ức chế tủy và dễ bị tăng nguy cơ mắc các bệnh nhiễm trùng. Mặc dù nguy cơ phát triển chứng sốt giảm bạch cầu trung tính thấp hơn 20% trong nhiều phác đồ hóa trị được sử dụng sẵn, nhiễm trùng [L9782] gây nguy cơ nhập viện và tử vong. [A187631] Do thời gian bán hủy lưu hành của filgrastim tương đối ngắn, một gốc PEG 20 kDa được liên hợp cộng hóa trị với đầu tận cùng N của filgrastim (ở gốc methionine) để phát triển một phiên bản tác dụng dài hơn của thuốc. [A29, A187607] Do thời gian bán hủy dài hơn và tốc độ thải trừ chậm hơn filgrastim, pegfilgrastim yêu cầu dùng liều ít thường xuyên hơn filgrastim. Tuy nhiên, pegfilgrastim vẫn giữ nguyên hoạt tính sinh học như filgrastim và liên kết với cùng một thụ thể G-CSF để kích thích sự tăng sinh, biệt hóa và hoạt hóa của bạch cầu trung tính. [A187607] Được phát triển lần đầu tiên bởi Amgen, pegfilgrastim ban đầu được FDA chấp thuận vào năm 2002 và đưa ra thị trường như Neulasta®. Nó thường được sử dụng thông qua một mũi tiêm dưới da. Có một số biosimilars pegfilgrastim (Fulphila®, Pelgraz® hoặc Lapelga®, Pelmeg®, Udenyca®, Ziextenzo®,</description>
   <cas-number>208265-92-3</cas-number>
   <unii>3A58010674</unii>
-  <state>liquid</state>
+  <state>chất lỏng</state>
   <groups>
     <group>approved</group>
   </groups>
@@ -81,23 +79,23 @@ First developed by Amgen, pegfilgrastim was initially approved by the FDA in 200
     <attachments/>
   </general-references>
   <synthesis-reference/>
-  <indication>Pegfilgrastim is indicated to decrease the incidence of infection, as manifested by febrile neutropenia, in patients with non­ myeloid malignancies receiving myelosuppressive anti-cancer drugs associated with a clinically significant incidence of febrile neutropenia.[L9746]&#13;
+  <indication>Pegfilgrastim được chỉ định để giảm tỷ lệ nhiễm trùng, được biểu hiện bằng chứng giảm bạch cầu do sốt, ở những bệnh nhân có khối u ác tính không dòng tủy dùng thuốc chống ung thư ức chế tủy có liên quan đến tỷ lệ giảm bạch cầu do sốt có ý nghĩa lâm sàng. [L9746]  &#13;
 &#13;
-It is also indicated to increase survival in patients acutely exposed to myelosuppressive doses of radiation (Hematopoietic Subsyndrome of Acute Radiation Syndrome).[L9746]</indication>
-  <pharmacodynamics>Pegfilgrastim is a recombinant human granulocyte colony-stimulating factor (G-CSF) that promotes the production, proliferation, and maturation of neutrophils, which are white blood cells involved in both innate and adaptive immune responses.[A187631,L9782] The safety and efficacy of pegfilgrastim in reducing the risk of febrile neutropenia and infections have been demonstrated in various tumor types and settings.[A187631] &#13;
+Nó cũng được chỉ định để tăng khả năng sống sót ở những bệnh nhân tiếp xúc sâu với liều bức xạ ức chế tủy (Hội chứng bức xạ cấp tính phụ thuộc hệ tạo máu). [L9746]</indication>
+  <pharmacodynamics>Pegfilgrastim là một yếu tố kích thích thuộc địa tế bào hạt ở người tái tổ hợp (G-CSF) thúc đẩy sản xuất, tăng sinh và trưởng thành của bạch cầu trung tính, là những tế bào bạch cầu tham gia vào cả phản ứng miễn dịch bẩm sinh và thích ứng. [A187631, L9782] Tính an toàn và hiệu quả của pegfilgrastim trong việc giảm nguy cơ sốt giảm bạch cầu và nhiễm trùng đã được chứng minh ở nhiều loại khối u và cơ sở khác nhau. [A187631] ;
 &#13;
-During chemotherapy-induced neutropenia, the clearance of pegfilgrastim is significantly reduced and the concentration of pegfilgrastim is sustained until the onset of neutrophil recovery.[A29] Serum concentrations of pegfilgrastim decline as the neutrophil count increases as neutrophil and neutrophil precursors are involved in cell-mediated clearance of the drug.[A187601] Due the addition of polyethylene glycol group to its structure, Pegfilgrastim is a long-acting form of filgrastim with an extended serum half-life and reduced renal clearance.[A187607] Although it is more slowly absorbed than filgrastim, self-regulation of pegfilgrastim is more efficient and the drug effects are maintained during one chemotherapy cycle (2-3 weeks).[A29]</pharmacodynamics>
-  <mechanism-of-action>Neutrophils are short-lived immune cells that are highly susceptible to cell death following myelosuppressive chemotherapy. This marked reduction in neutrophil numbers during chemotherapy increases the risk of hospitalization, infection, and infection-related mortality. It also directly impacts the clinical outcome of patients if cases of febrile neutropenia requires dose reductions or schedule delay of chemotherapy, thus reducing the clinical efficacy of chemotherapy and patient benefit from receiving appropriate treatment.[A187631] &#13;
+Trong thời gian giảm bạch cầu trung tính do hóa trị liệu, độ thanh thải của pegfilgrastim giảm đáng kể và nồng độ pegfilgrastim được duy trì cho đến khi bắt đầu hồi phục bạch cầu trung tính. [A29] Nồng độ pegfilgrastim trong huyết thanh giảm khi số lượng bạch cầu trung tính tăng lên khi bạch cầu trung tính và tiền thân của bạch cầu trung tính tham gia vào tế bào- Độ thanh thải qua trung gian của thuốc. [A187601] Do bổ sung nhóm polyetylen glycol vào cấu trúc của nó, Pegfilgrastim là một dạng filgrastim tác dụng kéo dài với thời gian bán thải trong huyết thanh kéo dài và giảm độ thanh thải ở thận. [A187607] Mặc dù thuốc được hấp thu chậm hơn. hơn filgrastim, sự tự điều chỉnh của pegfilgrastim hiệu quả hơn và tác dụng của thuốc được duy trì trong một chu kỳ hóa trị (2-3 tuần). [A29]</pharmacodynamics>
+  <mechanism-of-action>Bạch cầu trung tính là những tế bào miễn dịch tồn tại trong thời gian ngắn, rất dễ bị chết tế bào sau khi hóa trị liệu ức chế tủy. Sự giảm số lượng bạch cầu trung tính rõ rệt này trong quá trình hóa trị liệu làm tăng nguy cơ nhập viện, nhiễm trùng và tử vong do nhiễm trùng. Nó cũng ảnh hưởng trực tiếp đến kết quả lâm sàng của bệnh nhân nếu các trường hợp sốt giảm bạch cầu trung tính cần giảm liều hoặc trì hoãn kế hoạch hóa trị, do đó làm giảm hiệu quả lâm sàng của hóa trị và bệnh nhân được hưởng lợi khi được điều trị thích hợp. [A187631] &#13;
 &#13;
-G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoietic cells of the neutrophil lineage. Pegfilgrastim mimics its biological actions and binds to the same G-CSF receptor expressed on cells of myeloid lineage, such as granulocytic precursors and mature neutrophils.[A29] Upon binding of the ligand, G-CSF receptor undergoes a conformational change and activates several downstream signalling pathways including JAK/STAT, PI3K/AKT and MAPK/ERK.[A187868] These pathways work to increase proliferation and differentiation of granulocyte progenitor cells, induce maturation of the progenitor cells, and enhance survival and function of mature neutrophils.[A29]</mechanism-of-action>
-  <toxicity>The maximum safe dose of pegfilgrastim has not been established; however, the highest dose used in clinical trials was 300 mcg/kg.[L9782] Overdosage of pegfilgrastim may result in leukocytosis and bone pain. Events of edema, dyspnea, and pleural effusion have been reported in a single patient who self-administered pegfilgrastim on 8 consecutive days in error. In the event of overdose, the patient should be monitored for signs and symptoms of toxicity and responded with appropriate general supportive care.[L9746,L9782]</toxicity>
-  <metabolism>It is not know whether pegfilgrastim is metabolized into major metabolites.[L10022] Once it binds to the therapeutic target, pegfilgrastim is internalized by the neutrophil and undergoes nonspecific degradation.[A29]</metabolism>
-  <absorption>Pegfilgrastim has a lower absolute bioavailability than filgrastim following subcutaneous administration. The absorption of pegfilgrastim is largely dependent on the lymphatic system due to the attached PEG group contributing to the large size of the drug. It is slowly absorbed following subcutaneous administration with a time to peak concentration (Tmax) of about 1-2 days.[A29]</absorption>
-  <half-life>The serum half-life of Pegfilgrastim is highly variable depending on the absolute neutrophil count, with the range of 15 to 80 hours following subcutaneous administration. The median serum half-life of 42 hours.[A187607,L9746]</half-life>
+G-CSF là một yếu tố tăng trưởng tạo máu nội sinh kích thích các tế bào tạo hạt của dòng bạch cầu trung tính. Pegfilgrastim bắt chước các hoạt động sinh học của nó và liên kết với cùng một thụ thể G-CSF được biểu hiện trên các tế bào thuộc dòng tủy, chẳng hạn như tiền chất bạch cầu hạt và bạch cầu trung tính trưởng thành. [A29] Sau khi liên kết với phối tử, thụ thể G-CSF trải qua một sự thay đổi cấu trúc và kích hoạt một số hạ nguồn các con đường tín hiệu bao gồm JAK / STAT, PI3K / AKT và MAPK / ERK. [A187868] Những con đường này hoạt động để tăng sinh và biệt hóa các tế bào tiền thân bạch cầu hạt, tạo ra sự trưởng thành của các tế bào tiền thân, đồng thời tăng cường khả năng sống sót và chức năng của bạch cầu trung tính trưởng thành. [A29]</mechanism-of-action>
+  <toxicity>Liều tối đa an toàn của pegfilgrastim chưa được thiết lập; tuy nhiên, liều cao nhất được sử dụng trong các thử nghiệm lâm sàng là 300 mcg / kg. [L9782] Dùng quá liều pegfilgrastim có thể dẫn đến tăng bạch cầu và đau xương. Các hiện tượng phù, khó thở và tràn dịch màng phổi đã được báo cáo ở một bệnh nhân đã tự dùng pegfilgrastim trong 8 ngày liên tiếp do nhầm lẫn. Trong trường hợp quá liều, bệnh nhân cần được theo dõi các dấu hiệu và triệu chứng của độc tính và đáp ứng với chăm sóc hỗ trợ chung thích hợp. [L9746, L9782]</toxicity>
+  <metabolism>Người ta không biết liệu pegfilgrastim có được chuyển hóa thành các chất chuyển hóa chính hay không. [L10022] Khi nó liên kết với mục tiêu điều trị, pegfilgrastim được bạch cầu trung tính hóa bên trong và trải qua quá trình thoái hóa không đặc hiệu. [A29]</metabolism>
+  <absorption>Pegfilgrastim có sinh khả dụng tuyệt đối thấp hơn filgrastim sau khi tiêm dưới da. Sự hấp thu của pegfilgrastim phần lớn phụ thuộc vào hệ thống bạch huyết do nhóm PEG kèm theo góp phần vào kích thước lớn của thuốc. Nó được hấp thu chậm sau khi tiêm dưới da với thời gian đạt đến nồng độ đỉnh (Tmax) khoảng 1-2 ngày. [A29]</absorption>
+  <half-life>Thời gian bán thải trong huyết thanh của Pegfilgrastim rất thay đổi tùy thuộc vào số lượng bạch cầu trung tính tuyệt đối, với khoảng từ 15 đến 80 giờ sau khi tiêm dưới da. Thời gian bán thải trung bình trong huyết thanh là 42 giờ. [A187607, L9746]</half-life>
   <protein-binding>The plasma protein binding of pegfilgrastim is unlikely.[L10022]</protein-binding>
-  <route-of-elimination>The polyethylene glycol moiety limits the renal clearance by glomerular filtration of pegfilgrastim, making neutrophil-mediated clearance as the predominant route of elimination.[A187607] This elimination pathway is initiated by the binding of pegfilgrastim to the G-CSF receptor on the neutrophil cell surface, leading to the internalization of the pegfilgrastim-receptor complex via endocytosis and subsequent degradation inside the cell. While hepatic clearance has not been well characterized for pegfilgrastim, its non-PEGylated precursor filgrastim is known to be unaffected by changes in hepatic clearance.[A29]</route-of-elimination>
-  <volume-of-distribution>Pegfilgrastim appears to have a volume of distribution of approximately 170L.[A33290]</volume-of-distribution>
-  <clearance>Pegfilgrastim has a self-regulating clearance that involves neutrophil-induced clearance.[A29,A187631] The clearance is dependent on the number of neutrophils and body weight of the patient: the clearance increases with increasing number of granulocytes and lower body weights.[L9746] Pegfilgrastim is not eliminated from the circulation until neutrophils start to recover following chemotherapy-induced neutropenia and its clearance is increased as neutrophil counts also increase.[A187631] The apparent serum clearance is 14 mL/h/kg.[L10022]</clearance>
+  <route-of-elimination>Gốc polyetylen glycol hạn chế sự thanh thải ở thận bằng cách lọc pegfilgrastim ở cầu thận, làm cho thanh thải qua trung gian bạch cầu trung tính là con đường thải trừ chủ yếu. [A187607] Con đường thải trừ này được bắt đầu bằng cách gắn pegfilgrastim vào thụ thể G-CSF trên bề mặt tế bào bạch cầu trung tính. , dẫn đến sự xâm nhập của phức hợp thụ thể pegfilgrastim thông qua quá trình nội bào và sự suy thoái tiếp theo bên trong tế bào. Trong khi độ thanh thải ở gan không được đặc trưng rõ ràng đối với pegfilgrastim, tiền chất filgrastim không PEGyl hóa của nó được biết là không bị ảnh hưởng bởi những thay đổi trong độ thanh thải ở gan. [A29]</route-of-elimination>
+  <volume-of-distribution>Pegfilgrastim dường như có thể tích phân phối khoảng 170L. [A33290]</volume-of-distribution>
+  <clearance>Pegfilgrastim có độ thanh thải tự điều chỉnh liên quan đến độ thanh thải do bạch cầu trung tính gây ra. [A29, A187631] Độ thanh thải phụ thuộc vào số lượng bạch cầu trung tính và trọng lượng cơ thể của bệnh nhân: độ thanh thải tăng khi tăng số lượng bạch cầu hạt và trọng lượng cơ thể thấp hơn. [L9746 ] Pegfilgrastim không bị đào thải khỏi tuần hoàn cho đến khi bạch cầu trung tính bắt đầu hồi phục sau khi giảm bạch cầu do hóa trị và độ thanh thải của nó tăng lên khi số lượng bạch cầu trung tính cũng tăng. [A187631] Độ thanh thải trong huyết thanh rõ ràng là 14 mL/h/kg.[L10022]</clearance>
   <classification>
     <description/>
     <direct-parent>Peptides</direct-parent>
@@ -126,9 +124,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/19/1409/001</ema-ma-number>
       <started-marketing-on>2019-12-19</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -146,9 +144,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2018-07-09</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection</dosage-form>
+      <dosage-form>Mũi tiêm</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA761075</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -166,9 +164,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/18/1329/001</ema-ma-number>
       <started-marketing-on>2018-11-20</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -186,9 +184,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/18/1329/002</ema-ma-number>
       <started-marketing-on>2018-11-20</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -206,9 +204,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2020-02-07</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Solution</dosage-form>
+      <dosage-form>giải pháp</dosage-form>
       <strength>10 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -226,9 +224,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/19/1375/001</ema-ma-number>
       <started-marketing-on>2019-06-20</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -246,9 +244,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2019-02-27</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Solution</dosage-form>
+      <dosage-form>giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -266,9 +264,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2006-02-23</started-marketing-on>
       <ended-marketing-on>2011-12-31</ended-marketing-on>
-      <dosage-form>Injection</dosage-form>
+      <dosage-form>Mũi tiêm</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA125031</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -286,9 +284,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2002-04-01</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Kit</dosage-form>
+      <dosage-form>Bộ dụng cụ</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA125031</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -306,9 +304,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2002-04-01</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection</dosage-form>
+      <dosage-form>Mũi tiêm</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA125031</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -326,9 +324,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/227/001</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -346,9 +344,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/227/002</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -366,9 +364,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/227/004</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -386,9 +384,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/227/005</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -406,9 +404,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2004-03-12</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Solution</dosage-form>
+      <dosage-form>giải pháp</dosage-form>
       <strength>10 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -426,9 +424,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/228/001</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on>2008-12-22</ended-marketing-on>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -446,9 +444,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/228/002</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on>2008-12-22</ended-marketing-on>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -466,9 +464,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/02/228/003</ema-ma-number>
       <started-marketing-on>2002-08-22</started-marketing-on>
       <ended-marketing-on>2008-12-22</ended-marketing-on>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -486,9 +484,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2020-12-15</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA761111</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -506,9 +504,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/20/1486/001</ema-ma-number>
       <started-marketing-on>2020-11-18</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -526,9 +524,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on/>
       <ended-marketing-on/>
-      <dosage-form>Solution</dosage-form>
+      <dosage-form>giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -546,9 +544,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/18/1313/001</ema-ma-number>
       <started-marketing-on>2018-09-21</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -566,9 +564,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/18/1313/002</ema-ma-number>
       <started-marketing-on>2018-09-21</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -586,9 +584,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2018-11-02</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA761039</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -606,9 +604,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number>EU/1/18/1303/001</ema-ma-number>
       <started-marketing-on>2018-09-21</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection, solution</dosage-form>
+      <dosage-form>Mũi tiêm, giải pháp</dosage-form>
       <strength/>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -626,9 +624,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2019-11-04</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Injection</dosage-form>
+      <dosage-form>Mũi tiêm</dosage-form>
       <strength>6 mg/0.6mL</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number>BLA761045</fda-application-number>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -646,9 +644,9 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
       <ema-ma-number/>
       <started-marketing-on>2020-06-15</started-marketing-on>
       <ended-marketing-on/>
-      <dosage-form>Solution</dosage-form>
+      <dosage-form>giải pháp</dosage-form>
       <strength>6 mg</strength>
-      <route>Subcutaneous</route>
+      <route>Dưới da</route>
       <fda-application-number/>
       <generic>false</generic>
       <over-the-counter>false</over-the-counter>
@@ -890,67 +888,67 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
     </category>
   </categories>
   <affected-organisms>
-    <affected-organism>Humans and other mammals</affected-organism>
+    <affected-organism>Con người và các loài động vật có vú khác</affected-organism>
   </affected-organisms>
   <dosages>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Giải pháp</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Injection</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm</form>
+      <route>Dưới da</route>
       <strength>6 mg/0.6mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Tiêm, dung dịch</form>
+      <route>Dưới da</route>
       <strength/>
     </dosage>
     <dosage>
-      <form>Kit</form>
-      <route>Subcutaneous</route>
+      <form>Bộ dụng cụ</form>
+      <route>Dưới da</route>
       <strength>6 mg/0.6mL</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Parenteral; Subcutaneous</route>
+      <form>Giải pháp</form>
+      <route>Đường tiêm; Dưới da</route>
       <strength>6 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
+      <form>Mũi tiêm, Giải pháp</form>
       <route/>
       <strength>6 mg/0.6mL</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Giải pháp</form>
+      <route>Dưới da</route>
       <strength>6 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm, Giải pháp</form>
+      <route>Dưới da</route>
       <strength>6 mg</strength>
     </dosage>
     <dosage>
-      <form>Solution</form>
-      <route>Subcutaneous</route>
+      <form>Giải pháp</form>
+      <route>Dưới da</route>
       <strength>10 mg</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
+      <form>Mũi tiêm, Giải pháp</form>
       <route/>
       <strength>10 mg/1mL</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Parenteral; Subcutaneous</route>
+      <form>Mũi tiêm, Giải pháp</form>
+      <route>Đường tiêm; Dưới da</route>
       <strength>6 MG</strength>
     </dosage>
     <dosage>
-      <form>Injection, solution</form>
-      <route>Subcutaneous</route>
+      <form>Mũi tiêm, Giải pháp</form>
+      <route>Dưới da</route>
       <strength>6 mg/0.6mL</strength>
     </dosage>
   </dosages>
@@ -987,227 +985,227 @@ G-CSF is an endogenous haematopoietic growth factor that stimulates granulopoiet
     <drug-interaction>
       <drugbank-id>DB00531</drugbank-id>
       <name>Cyclophosphamide</name>
-      <description>The risk or severity of pulmonary toxicity can be increased when Pegfilgrastim is combined with Cyclophosphamide.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của nhiễm độc phổi có thể tăng lên khi Pegfilgrastim được kết hợp với Cyclophosphamide.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB01030</drugbank-id>
       <name>Topotecan</name>
-      <description>The risk or severity of neutropenia can be increased when Pegfilgrastim is combined with Topotecan.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của giảm bạch cầu có thể tăng lên khi Pegfilgrastim được kết hợp với Topotecan.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00008</drugbank-id>
       <name>Peginterferon alfa-2a</name>
-      <description>The therapeutic efficacy of Pegfilgrastim can be decreased when used in combination with Peginterferon alfa-2a.</description>
+      <description>Hiệu quả điều trị của Pegfilgrastim có thể giảm khi sử dụng kết hợp với Peginterferon alfa-2a.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00022</drugbank-id>
       <name>Peginterferon alfa-2b</name>
-      <description>The therapeutic efficacy of Peginterferon alfa-2b can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Peginterferon alfa-2b có thể giảm khi sử dụng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00059</drugbank-id>
       <name>Pegaspargase</name>
-      <description>The therapeutic efficacy of Pegaspargase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegaspargase có thể giảm khi sử dụng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00061</drugbank-id>
       <name>Pegademase</name>
-      <description>The therapeutic efficacy of Pegademase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegademase có thể giảm khi sử dụng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00082</drugbank-id>
       <name>Pegvisomant</name>
-      <description>The therapeutic efficacy of Pegvisomant can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegvisomant có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB01839</drugbank-id>
       <name>Propylene glycol</name>
-      <description>The therapeutic efficacy of Propylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Propylene glycol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB03394</drugbank-id>
       <name>Heptaethylene glycol</name>
-      <description>The therapeutic efficacy of Heptaethylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Heptaethylene glycol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB04895</drugbank-id>
       <name>Pegaptanib</name>
-      <description>The therapeutic efficacy of Pegaptanib can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegaptanib có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB05202</drugbank-id>
       <name>Egaptivon pegol</name>
-      <description>The therapeutic efficacy of Egaptivon pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Egaptivon pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB05321</drugbank-id>
       <name>PEG-uricase</name>
-      <description>The therapeutic efficacy of PEG-uricase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của PEG-uricase có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB05860</drugbank-id>
       <name>Peginterferon alfacon-1</name>
-      <description>The therapeutic efficacy of Peginterferon alfacon-1 can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Peginterferon alfacon-1 có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06022</drugbank-id>
       <name>GlycoPEG-GCSF</name>
-      <description>The therapeutic efficacy of GlycoPEG-GCSF can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của GlycoPEG-GCSF có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06293</drugbank-id>
       <name>Pegnivacogin</name>
-      <description>The therapeutic efficacy of Pegnivacogin can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegnivacogin có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06325</drugbank-id>
       <name>Pegpleranib</name>
-      <description>The therapeutic efficacy of Pegpleranib can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegpleranib có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06611</drugbank-id>
       <name>Pegsunercept</name>
-      <description>The therapeutic efficacy of Pegsunercept can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegsunercept có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB06811</drugbank-id>
       <name>Polidocanol</name>
-      <description>The therapeutic efficacy of Polidocanol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Polidocanol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB08894</drugbank-id>
       <name>Peginesatide</name>
-      <description>The therapeutic efficacy of Peginesatide can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Peginesatide có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB08904</drugbank-id>
       <name>Certolizumab pegol</name>
-      <description>The therapeutic efficacy of Certolizumab pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Certolizumab pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB09107</drugbank-id>
       <name>Methoxy polyethylene glycol-epoetin beta</name>
-      <description>The therapeutic efficacy of Methoxy polyethylene glycol-epoetin beta can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Methoxy polyethylene glycol-epoetin beta có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB09122</drugbank-id>
       <name>Peginterferon beta-1a</name>
-      <description>The therapeutic efficacy of Peginterferon beta-1a can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Peginterferon beta-1a có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB09208</drugbank-id>
       <name>Pegloticase</name>
-      <description>The therapeutic efficacy of Pegloticase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegloticase có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB09287</drugbank-id>
       <name>Polyethylene glycol</name>
-      <description>The therapeutic efficacy of Polyethylene glycol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Polyethylene glycol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB09329</drugbank-id>
       <name>Antihemophilic Factor (Recombinant), PEGylated</name>
-      <description>The therapeutic efficacy of Antihemophilic Factor (Recombinant), PEGylated can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Antihemophilic Factor (Recombinant), PEGylated có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB11077</drugbank-id>
       <name>Polyethylene glycol 400</name>
-      <description>The therapeutic efficacy of Polyethylene glycol 400 can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Polyethylene glycol 400 có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB11567</drugbank-id>
       <name>Insulin peglispro</name>
-      <description>The therapeutic efficacy of Insulin peglispro can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Insulin peglispro có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB11661</drugbank-id>
       <name>Eptacog alfa pegol (activated)</name>
-      <description>The therapeutic efficacy of Eptacog alfa pegol (activated) can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Eptacog alfa pegol (activated) có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB11707</drugbank-id>
       <name>Olaptesed Pegol</name>
-      <description>The therapeutic efficacy of Olaptesed Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Olaptesed Pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB12258</drugbank-id>
       <name>Abicipar Pegol</name>
-      <description>The therapeutic efficacy of Abicipar Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Abicipar Pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB12578</drugbank-id>
       <name>Lexaptepid Pegol</name>
-      <description>The therapeutic efficacy of Lexaptepid Pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Lexaptepid Pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB12814</drugbank-id>
       <name>Cepeginterferon alfa-2B</name>
-      <description>The therapeutic efficacy of Cepeginterferon alfa-2B can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Cepeginterferon alfa-2B có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB12839</drugbank-id>
       <name>Pegvaliase</name>
-      <description>The therapeutic efficacy of Pegvaliase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegvaliase có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB12842</drugbank-id>
       <name>Pegamotecan</name>
-      <description>The therapeutic efficacy of Pegamotecan can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Pegamotecan có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB13200</drugbank-id>
       <name>Lipegfilgrastim</name>
-      <description>The therapeutic efficacy of Lipegfilgrastim can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Lipegfilgrastim có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB13933</drugbank-id>
       <name>Nonacog beta pegol</name>
-      <description>The therapeutic efficacy of Nonacog beta pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Nonacog beta pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB14700</drugbank-id>
       <name>Damoctocog alfa pegol</name>
-      <description>The therapeutic efficacy of Damoctocog alfa pegol can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Damoctocog alfa pegol có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB14712</drugbank-id>
       <name>Elapegademase</name>
-      <description>The therapeutic efficacy of Elapegademase can be decreased when used in combination with Pegfilgrastim.</description>
+      <description>Hiệu quả điều trị của Elapegademase có thể giảm khi dùng kết hợp với Pegfilgrastim.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00309</drugbank-id>
       <name>Vindesine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vindesine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vindesine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00361</drugbank-id>
       <name>Vinorelbine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinorelbine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vinorelbine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00541</drugbank-id>
       <name>Vincristine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vincristine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vincristine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB00570</drugbank-id>
       <name>Vinblastine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinblastine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vinblastine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB05168</drugbank-id>
       <name>Vintafolide</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vintafolide.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vintafolide.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB11641</drugbank-id>
       <name>Vinflunine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vinflunine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vinflunine.</description>
     </drug-interaction>
     <drug-interaction>
       <drugbank-id>DB13374</drugbank-id>
       <name>Vincamine</name>
-      <description>The risk or severity of peripheral neuropathy can be increased when Pegfilgrastim is combined with Vincamine.</description>
+      <description>Nguy cơ hoặc mức độ nghiêm trọng của bệnh thần kinh ngoại biên có thể tăng lên khi Pegfilgrastim được kết hợp với Vincamine.</description>
     </drug-interaction>
   </drug-interactions>
   <sequences>
@@ -1449,19 +1447,19 @@ CTCCTGCAGGGGATCCGGGTCCATGGGATGGAGGCGCTGGGGAGCTTCTAG</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>integral component of plasma membrane</description>
+            <description>thành phần không thể thiếu của màng sinh chất</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>cytokine receptor activity</description>
+            <description>hoạt động của thụ thể cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>receptor activity</description>
+            <description>hoạt động của cơ quan thụ cảm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
@@ -1469,23 +1467,23 @@ CTCCTGCAGGGGATCCGGGTCCATGGGATGGAGGCGCTGGGGAGCTTCTAG</gene-sequence>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cell adhesion</description>
+            <description>kết dính tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response</description>
+            <description>phản ứng quốc phòng</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>neutrophil chemotaxis</description>
+            <description>điều hòa hóa học bạch cầu trung tính</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>regulation of myeloid cell differentiation</description>
+            <description>điều hòa sự biệt hóa tế bào dòng tủy</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>signal transduction</description>
+            <description>truyền tín hiệu</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
@@ -1620,155 +1618,155 @@ GACCCGGCCAGCAGGACCCACTGA</gene-sequence>
         <go-classifiers>
           <go-classifier>
             <category>component</category>
-            <description>cell surface</description>
+            <description>bề mặt tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>cytoplasm</description>
+            <description>tế bào chất</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular exosome</description>
+            <description>exosome ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular region</description>
+            <description>vùng ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>extracellular space</description>
+            <description>không gian ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>secretory granule</description>
+            <description>hạt tiết</description>
           </go-classifier>
           <go-classifier>
             <category>component</category>
-            <description>transcriptional repressor complex</description>
+            <description>bộ xử lý phiên mã phức tạp</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>cytokine binding</description>
+            <description>liên kết cytokine</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>endopeptidase activity</description>
+            <description>hoạt động endopeptidase</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>heparin binding</description>
+            <description>liên kết heparin</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>peptidase activity</description>
+            <description>hoạt động peptidase</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>protease binding</description>
+            <description>liên kết protease</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>RNA polymerase II transcription corepressor activity</description>
+            <description>Hoạt động của lõi áp suất phiên mã RNA polymerase II</description>
           </go-classifier>
           <go-classifier>
             <category>function</category>
-            <description>serine-type endopeptidase activity</description>
+            <description>hoạt động endopeptidase loại serine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>acute inflammatory response to antigenic stimulus</description>
+            <description>phản ứng viêm cấp tính với kích thích kháng nguyên</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>cellular calcium ion homeostasis</description>
+            <description>cân bằng nội môi ion canxi tế bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>collagen catabolic process</description>
+            <description>quá trình dị hóa collagen</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>defense response to bacterium</description>
+            <description>phản ứng phòng vệ đối với vi khuẩn</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>extracellular matrix disassembly</description>
+            <description>tháo rời chất nền ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>extracellular matrix organization</description>
+            <description>tổ chức chất nền ngoại bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>leukocyte migration</description>
+            <description>bạch cầu di cư</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of chemokine biosynthetic process</description>
+            <description>quy định tiêu cực của quá trình sinh tổng hợp chemokine</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of chemotaxis</description>
+            <description>điều hòa tiêu cực của hóa chất điều hòa</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of growth of symbiont in host</description>
+            <description>quy định tiêu cực về sự phát triển của cộng sinh trong vật chủ</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of inflammatory response</description>
+            <description>điều chỉnh tiêu cực của phản ứng viêm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of interleukin-8 biosynthetic process</description>
+            <description>điều hòa tiêu cực quá trình sinh tổng hợp interleukin-8</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>negative regulation of transcription from RNA polymerase II promoter</description>
+            <description>điều hòa âm tính của quá trình phiên mã từ promoter RNA polymerase II</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>neutrophil mediated killing of fungus</description>
+            <description>bạch cầu trung tính qua trung gian tiêu diệt nấm</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>phagocytosis</description>
+            <description>sự thực bào</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of immune response</description>
+            <description>điều chỉnh tích cực phản ứng miễn dịch</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of interleukin-8 biosynthetic process</description>
+            <description>điều hòa tích cực quá trình sinh tổng hợp interleukin-8</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of MAP kinase activity</description>
+            <description>quy định tích cực hoạt động MAP kinase</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>positive regulation of smooth muscle cell proliferation</description>
+            <description>điều hòa tích cực sự tăng sinh tế bào cơ trơn</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>protein catabolic process</description>
+            <description>quá trình dị hóa protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>proteolysis</description>
+            <description>phân giải protein</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to lipopolysaccharide</description>
+            <description>phản ứng với lipopolysaccharide</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to UV</description>
+            <description>phản ứng với tia cực tím</description>
           </go-classifier>
           <go-classifier>
             <category>process</category>
-            <description>response to yeast</description>
+            <description>phản ứng với men</description>
           </go-classifier>
         </go-classifiers>
       </polypeptide>
